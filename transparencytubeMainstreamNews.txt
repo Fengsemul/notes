@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
 https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/datasets/channel_review_20201025.csv
+"0.850" is Precision
 Boston Herald:
 UCqihn-jTsq9s4HsLEyJQM3A	0.850	Mainstream News	1.0
 UCqihn-jTsq9s4HsLEyJQM3A	0.850	C	1.000
