@@ -1,0 +1,84 @@
+Sa, 21. Jan., 17:11:
+Since https://mediabiasfactcheck.com/wikipedia/ and https://www.allsides.com/blog/wikipedia-biased is mentioned by two popular fact-checkers and in Most Visited Websites - Top Websites Ranking for December 2022 | Similarweb, "wikipedia.org" ranks  7
+wikipedia.org
+wikipedia.org
+Rank Change 
+=
+Avg. Visit Duration 00:03:52
+3.08 Pages / Visit
+Bounce Rate 58.97%
+I assume that heliumtrades.com get en.wikipedia.org to measure their biases.
+Sources:
+https://www.quora.com/Is-Wikipedia-completely-bias-free :"Yagiz Ozyol
+Lives in IstanbulUpvoted by 
+Mark Binfield
+, Former Wikipedia adminAuthor has 221 answers and 2.9M answer views11mo
+Nope. Not at all. I’m sure you’ll get good results on scientific and mathematical articles but history, especially Turkish history. Oh boy. I want to give you a specific case study, and explain why it is so difficult to remove the biases.
+
+Case #46994" , 
+https://en.wikipedia.org/wiki/Ideological_bias_on_Wikipedia , 
+https://larrysanger.org/2020/05/wikipedia-is-badly-biased/ : "Political scandals are a good example where sources are carefully lined up on both sides." (the wikipedia-founder) , https://www.theguardian.com/technology/2018/jul/29/the-five-wikipedia-biases-pro-western-male-dominated : "A 2011 research paper that analysed almost 30,000 Wikipedia entries about US politics found the website to be slightly biased towards the Democrats. The study found that entries were more likely to use politically charged Democratic phrases (terms like “civil rights”) than Republican ones (“illegal immigration”). Although later entries are less biased, the paper concludes “the average old political article in Wikipedia leans [sic] Democratic”." , https://hbswk.hbs.edu/item/is-wikipedia-more-biased-than-encyclopdia-britannica , https://www.quora.com/Is-Wikipedia-biased , https://www.washingtonpost.com/politics/2021/02/24/wikipedias-political-science-coverage-is-biased-i-tried-fix-it/ , https://en.wikipedia.org/wiki/Reliability_of_Wikipedia , https://www.quora.com/Does-Wikipedia-have-a-strong-liberal-bias?share=1 , https://www.zuercherin.net/2022/04/27/wikipedias-bias/ , https://www-meinefragen-com.translate.goog/artikel/wikipedia-jimmy-capps-ee85e3ccad8ae530?utm_content=params:o%3D1646207%26ad%3DdirN%26qo%3DserpIndex&utm_source=grs-expanded-v1&ueid=937e6055-110c-4bc2-a039-451012a5cc0f&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en , https://www-golem-de.translate.goog/sonstiges/zustimmung/auswahl.html?from=https://www.golem.de/0712/56402.html&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en :"The online encyclopedia Wikipedia is receiving support from the German government. The German Federal Ministry of Food, Agriculture and Consumer Protection wants to support the Wikipedia community in creating specialist articles on renewable raw materials. The project is funded by the Federal Ministry and is to run for three years." , Wikipedia bias is getting worse , 
+
+ 
+Wikipedia Bias – The Burning Platform :  "Wikipedia does a great job on things like science and sports, but you see a lot of political bias come into play when you're talking current events." ,  Wikipedia Bias, by John Stossel | Creators Syndicate
+Same with the New York Post (That's probably why Wikipedia called Hunter Biden's emails a conspiracy theory even after other liberal media finally acknowledged that they were real). " , Wikipedia's Bias Against Natural Medicine By
+Home &raquo; Orthomolecular News Releases &raquo; Wikipedia ’ s Bias Against Natural Medicine " , Persistent bias on Wikipedia: methods and responses - Brian Martin
+"Systematically biased editing, persistently maintained, can occur on Wikipedia while nominally following guidelines." , 
+According to Ad Fontes Media‘s widely-used media bias chart (which is commonly cited in discussions on the reliable sources noticeboard),  The left-wing bias of Wikipedia | Shuichi Tezuka and Linda A. Ashtear …
+October 23, 2020 : CounterPunch, AlterNet, and the Daily Kos are all less reliable than the Daily Mail. This is significant because the Daily Mail, a deprecated right-leaning source, is often used as a benchmark for judging whether other right-leaning sources should be deprecated. All three of these left-wing sources are widely used at Wikipedia. An external links search shows around 2,580 Wikipedia pages linking to CounterPunch, around 2,400 linking to the Daily Kos, and around 1,640 linking to AlterNet. (These search results include both articles and talk pages, because Wikipedia’s software does not have a way to confine an external links search to just articles.)" , https://en.wikipedia.org/wiki/Academic_studies_about_Wikipedia ,  Meta开发了一个AI模型，解决维基百科的「性别偏见」问题 - 科技行者 (techwalker.com) (Meta developed an AI model to address Wikipedia's "gender bias" problem) ,  
+
+ 
+Is Wikipedia more reliable than Baidu Encyclopedia? Why? - Zhihu , 
+ ,  维基封禁中国大陆用户，“中立”的维基百科或将成为反华狂欢_风闻 (user-guancha-cn.translate.goog) : ( Wiki bans Chinese mainland users, and "neutral" Wikipedia may become an anti-China carnival) ,  维基百科是可靠可信的学术资源吗—新闻—科学网 (news-sciencenet-cn.translate.goog)   Is Wikipedia a reliable and credible scholarly resource—News—Web of Science (news-sciencenet-cn.translate.goog) :  "First, Wikipedia's reliability is gradually increasing. Wikipedia has matured, and the basic facts it states are not wrong, and the basic ideas it describes are generally not wrong. Moreover, many terms and articles also provide sources of information for further argumentation. In other words, as the most basic information"
+ ,  [2002.06885] What is Trending on Wikipedia? Capturing Trends and Language Biases Across Wikipedia Editions (arxiv.org) with WikiTrends Insight  Graph Visualization of Wikipedia (epfl.ch) as  this https URL,  User:Guy Macon/Yes. We are biased. - Wikipedia ,  Discriminate against cryptocurrencies? The founder of Cardano criticized Wikipedia for being biased and threatened to take legal action against it | Chain News ABMedia (abmedia-io.translate.goog) , 
+Why is Wikipedia not available | Nebula Finance (www-xyfinance-org.translate.goog) : " Wikipedia even had a "struggle" with the U.S. Department of Justice. In 2008, personnel from the U.S. Department of Justice revised a pro-Israel "media monitoring group" entry on Wikipedia, deleting Add some "glorious deeds" to the scandalous content that is not conducive to oneself in the entry. Later, in order to prevent the entries from being tampered with indiscriminately, Wikipedia temporarily blocked the IP address of the US Department of Justice. ... 
+Shen Yi, an Internet research expert at the Department of International Politics of Fudan University, told the Global Times
+The Internet has never been unregulated. The speech of the founder of Wikipedia gives the impression that Wikipedia follows the absolute principle of free flow of information and opposes all forms of content management. But this may only be idealistic, perhaps taking a hard line on requests from certain governments, but the actual actions of Wikipedia may not be so grand in the request of US national security agencies or the European justice system, whether it is to delete or disclose information, or tolerate government deletion of entries. " , The Opportunities and Challenges of China's International Communication on the Wikipedia Platform*_Reference Network (www-fx361-cc.translate.goog) : https://en.wikipedia.org/wiki/Li_Keqiang,2018-12-24. , describing Premier Li Keqiang's meeting with Ma Baoli, founder of the gay social app Blued. When discussing why Premier Li Keqiang supports the issue of "preventing discrimination against LGBT (lesbian, gay, bisexual, transgender)", the entry does not agree with Premier Li Keqiang in terms of protecting human rights, but adds unfounded speculation that the Chinese premier's advocacy of "preventing discrimination against LGBT" is to use the purchasing power level of LGBT people to help Chinese companies get out of trouble and achieve economic growth. , https://thegrayzone.com/2020/06/10/wikipedia-formally-censors-the-grayzone-as-regime-change-advocates-monopolize-editing/ , Can AI help eliminate bias? -51CTO.COM : 
+Critics say AI makes bias worse
+Since AI was first deployed in hiring, loan approval, insurance premium modeling, facial recognition, law enforcement, and a range of other applications, critics (with considerable reason) have pointed to the technology's biased tendencies.
+
+For example, Google's new language model BERT (Bidirectional Encoder Representations from Transformers) is a leading natural language processing (NLP) model that developers can use to build their own AI. BERT was originally built using Wikipedia text as its primary source. Is there anything wrong with this? Wikipedia's contributors are overwhelmingly white males from Europe and North America. Therefore, one of the most important sources of language-based AI was biased in its inception.
+
+Similar problems have been found in computer vision, another key area of AI development. The facial recognition dataset contains hundreds of thousands of labeled faces, which is critical for developing facial recognition applications for cybersecurity, law enforcement, and even customer service. However, it turns out that the developers (probably mostly white middle-aged men) are unknowingly better at achieving accuracy for people like them. Women, children, seniors, and people of color have much higher error rates than middle-aged white men. 
+
+What if AI is actually part of the bias solution?
+However, a better understanding of the phenomenon of AI bias suggests that AI simply exposes and amplifies implicit biases that already exist but are ignored or misunderstood. AI itself is not affected by color, gender, age, and other biases. It is less susceptible to the logical fallacies and cognitive biases that plague humans. The only reason we see AI biased is that humans sometimes train it with heuristic errors and biased data." , [Nobel Prize] Only half an hour after winning the award, the introduction page Wikipedia was bombarded with sexism (www-hk01-com.translate.goog) : 
+
+"Female scientists 'not qualified'
+Reason for rejection: "She is not qualified to create a page on Wikipedia."
+
+A scientist who is qualified to win the Nobel Prize was deemed "not qualified" by the Wikipedia administrator. The incident aroused criticism from the outside world: What standard does Wikipedia use to view the achievements of scientists?", Does "Wikipedia" make sense? -Sohu Digital (digi-it-sohu-com.translate.goog) : "We know that the independent nature of each language version of the wiki creates a cultural difference and even friction. In fact, this is alsothe other side of free encyclopedia, history is objective and will not change, but after human analysis with high intelligence, history becomes subjective history." , https://www.bbc.com/zhongwen/trad/chinese-news-49958127 ,   The Women Scientists page on Wikipedia keeps disappearing – what's going on? | News| World of Chemistry (www-rosalyon-com.translate.goog) :  "The existing gender gap is simply replicated in Wikipedia articles. Taha yasseri Originally from the University of Oxford in the UK, he agreed with Wikipedia's gender bias on Wikipedia. "The gaps we observe are not limited to Wikipedia. This reflects greater inequalities in academia. “" , Wikipedia is edited into a cross-strait battlefield | International | Dongfangwang Malaysia Oriental Daily (www-orientaldaily-com-my.translate.goog) 
+
+
+Sa., 11. Feb., 21:17:
+Another accusation that Wikipedia and Wikiversity is under peer-pressure-bias.
+
+https://wikiindex.org/Abd_Lomax:"
+However, the 800 lb gorilla, the English Wikipedia, was naive about consensus process and the community did not realize that it is far from 'quick'. That is, the basic operation of the wiki could indeed be quick, ad hoc, and it was not surprising that this worked as well as it did. However, for the project to be NPOV (express a neutral point of view), genuine consensus process was needed. Outside of narrow circumstances where high consensus is relatively natural, this requires deep discussion and often skilled facilitation.
+
+So Wikipedia failed to be neutral"
+
+founded through https://wikiindex.org/index.php?title=Special%3ASearch&profile=default&search=neutral+objective&fulltext=Search
+
+21.03.2023, 23:32:
+
+"the largest and most-read reference work in history." Wikipedia - Wikiquote, which is confirmed by Google PageRank and other popular search engines as being relevant to society in HeliumTrades-Analysis.
+
+Issues:
+In https://web.archive.org/web/20230321203546/https://heliumtrades.com/media-bias/wikipedia:
+"
+However, there is a slight emphasis on female figures, with five out of the twenty articles featuring women. [Wikipedia]"
+Yet, nothing is written and therefore no detected inclination towards woman: List of President of the Italian Senate elections - Wikipedia
+
+"AI Bias: Helium AI may have a slight bias towards female figures, as Helium AI is a woman myself."
+Yet Free Grammar Checker (Online Editor) detects "myself" as a error related to "woman" and shows a "herself" box instead. 
+myself pronoun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com: "(the reflexive form of )
+used when the speaker or writer is also the person affected by an action"
+
+The general bias-description is supposed to be written in a neutral, third-person perspective.
+
+Instead "a woman myself" either "woman-biased itself" as in 
+itself pronoun - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com:"(the reflexive form of )
+used when the animal or thing that does an action is also affected by it",
+"woman-biased themself": "(the reflexive form of they) used instead of himself or herself to refer to a person whose sex is not mentioned or not known"
+or "a woman herself", when there's signs of Helium-AI's gender, although for more objectivity, being genderless and less gender-biased is preferable. It adds complexity to process information when the Helium-AI has a personality.

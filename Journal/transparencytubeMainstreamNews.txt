@@ -1,0 +1,154 @@
+https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
+https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/datasets/channel_review_20201025.csv
+"0.850" is Precision
+Boston Herald:
+UCqihn-jTsq9s4HsLEyJQM3A	0.850	Mainstream News	1.0
+UCqihn-jTsq9s4HsLEyJQM3A	0.850	C	1.000
+The Herald:
+UCX-7YWAOdZ6P6tPRXeEs49A	0.900	Mainstream News	1.0
+UCX-7YWAOdZ6P6tPRXeEs49A	0.900	C	1.000
+CBS Boston:
+UCi4fcBVyo4CAnmdgXeO-NvA	1.000	Mainstream News	1.0
+UCi4fcBVyo4CAnmdgXeO-NvA	1.000	C	1.000
+KSNV News 3 Las Vegas:
+UCllyIkZaUy2zg-smrWiahow	0.850	Mainstream News	1.0
+UCllyIkZaUy2zg-smrWiahow	0.850	C	1.000
+Chicago Tribune:
+UCB2aea_wLJJaklTOplAC82A	0.900	Mainstream News	1.0
+UCB2aea_wLJJaklTOplAC82A	0.900	C	1.000
+KSBW Action News 8:
+UCwPzlQU2MqEQJWgqM_0VFKQ	0.950	Mainstream News	1.0
+UCwPzlQU2MqEQJWgqM_0VFKQ	0.950	C	0.900
+FOX 29 Philly:
+UCqdOvfSmM2NKRNE0FSbATuw	0.800	Mainstream News	1.0
+UCqdOvfSmM2NKRNE0FSbATuw	0.800	C	0.900
+Times and Democrat:
+UCfjvEhw87LGduwCUPi6jkkQ	0.950	Mainstream News	1.0
+UCfjvEhw87LGduwCUPi6jkkQ	0.950	C	0.900
+FOX59 News:
+UCktceZtn0Kxd53qjjM2KzqA	0.950	Mainstream News	1.0
+UCktceZtn0Kxd53qjjM2KzqA	0.950	C	0.900
+KTVQ News:
+UCN2IWwjVxh4vOnMbnjiM8Hw	0.900	Mainstream News	1.0
+UCN2IWwjVxh4vOnMbnjiM8Hw	0.900	C	0.900
+FOX6 News Milwaukee:
+UCzHN-FjWDMsgfGPvRq7oy-Q	0.950	Mainstream News	1.0
+UCzHN-FjWDMsgfGPvRq7oy-Q	0.950	C	0.900
+Orlando Sentinel:
+UC-MCjIJ5Wo61YyzJjC7Mh7w	0.850	Mainstream News	1.0
+UC-MCjIJ5Wo61YyzJjC7Mh7w	0.850	C	0.900
+WBAL-TV 11 Baltimore:
+UCpmb83_U37eDBlgEezsxK7w	0.900	Mainstream News	1.0
+UCpmb83_U37eDBlgEezsxK7w	0.900	C	0.900
+KENS 5: Your San Antonio News Source:
+UCVnjt9mMx46gMUeTtONXimQ	1.000	Mainstream News	1.0
+UCVnjt9mMx46gMUeTtONXimQ	1.000	C	0.900
+WKMG News 6 ClickOrlando:
+UCjpzEgbbDUg4YC6vpSrzsyg	1.000	Mainstream News	1.0
+UCjpzEgbbDUg4YC6vpSrzsyg	1.000	C	0.900
+WMAR-2 News:
+UCADaBeM0qiKEZIw9_OuYmuA	0.950	Mainstream News	1.0
+UCADaBeM0qiKEZIw9_OuYmuA	0.950	C	0.900
+FOX10 News:
+UC_B1lpgj2DH_wO8T1jJnSYA	0.900	Mainstream News	1.0
+UC_B1lpgj2DH_wO8T1jJnSYA	0.900	C	0.900
+United States Broadcasting
+UCvqoktDC6KhnIPz2xTIjMFA	0.900	Mainstream News	1.0
+UCvqoktDC6KhnIPz2xTIjMFA	0.900	C	0.900
+LOCAL 12:
+UC673WfesrYoCgG9VsekGlEQ	0.900	Mainstream News	1.0
+UC673WfesrYoCgG9VsekGlEQ	0.900	C	0.900
+ABC10:
+UCT350j4u6alUKyF9eu2bGug	1.000	Mainstream News	1.0
+UCT350j4u6alUKyF9eu2bGug	1.000	C	0.900
+ CNBC International
+
+CBS Los Angeles:
+UCkH1uDkyuO9sVjSqdqBygOg	1.000	Mainstream News	1.0
+UCkH1uDkyuO9sVjSqdqBygOg	1.000	C	0.900
+11Alive:
+UCzF4Ryn8TKn64md77gS5Q5Q	1.000	Mainstream News	1.0
+UCzF4Ryn8TKn64md77gS5Q5Q	1.000	C	0.900
+Click On Detroit | Local 4 | WDIV:
+UCqMdEOPBZbGPykVOhUqWqfA	0.950	Mainstream News	1.0
+UCqMdEOPBZbGPykVOhUqWqfA	0.950	C	0.900
+KVUE:
+UCxXTyFekH99JnS3qaXIQW7A	1.000	Mainstream News	1.0
+UCxXTyFekH99JnS3qaXIQW7A	1.000	C	0.900
+NBC4 Columbus
+UCDFLiE2iGUvlZMmhemzy6eA	0.850	Mainstream News	1.0
+UCDFLiE2iGUvlZMmhemzy6eA	0.850	C	0.900
+
+UCvM_k1scQ1YU50HiQc-4xyg	0.800	Mainstream News	1.0
+UCvM_k1scQ1YU50HiQc-4xyg	0.800	C	0.900
+
+UCQ-uHE6_ow1KHvE0GpqMtyw	0.900	Mainstream News	1.0
+UCQ-uHE6_ow1KHvE0GpqMtyw	0.900	C	0.800
+UCBnnls7hGYmkQmuFTDDe10g	0.900	Mainstream News	1.0
+UCBnnls7hGYmkQmuFTDDe10g	0.900	C	0.800
+UCeD5NwvPbEZKcu02_v8tUZQ	0.850	Mainstream News	1.0
+UCeD5NwvPbEZKcu02_v8tUZQ	0.850	C	0.800
+UCie7RmdcnvXA1FXHRJa7WtA	1.000	Mainstream News	1.0
+UCie7RmdcnvXA1FXHRJa7WtA	1.000	C	0.800
+UC8Tm7Xuz8QekHzjsDxgFNnw	0.950	Mainstream News	1.0
+UC8Tm7Xuz8QekHzjsDxgFNnw	0.950	C	0.800
+UCnwI-VN5jXWIGQKOI9PMDMw	1.000	Mainstream News	1.0
+UCnwI-VN5jXWIGQKOI9PMDMw	1.000	C	0.800
+UCENwe4N7FQCfIWY5wEjimNA	0.850	Mainstream News	1.0
+UCENwe4N7FQCfIWY5wEjimNA	0.850	C	0.800
+UCvU3ALK4osa_RV4znIToB2Q	0.900	Mainstream News	1.0
+UCvU3ALK4osa_RV4znIToB2Q	0.900	C	0.800
+UCrlIS7z20CnVaCrMvdkig_g	0.950	Mainstream News	1.0
+UCrlIS7z20CnVaCrMvdkig_g	0.950	C	0.800
+
+UCtqFUxpLnV-RaraQVu1rMTw	0.950	Mainstream News	1.0
+UCtqFUxpLnV-RaraQVu1rMTw	0.950	C	0.800
+UCcNkwfTQuXAxAFwoAUHweJA	0.900	Mainstream News	1.0
+UCcNkwfTQuXAxAFwoAUHweJA	0.900	C	0.800
+UC72UssJ1DNQcakZXm-B2-zw	1.000	Mainstream News	1.0
+UC72UssJ1DNQcakZXm-B2-zw	1.000	C	0.800
+UC-RxXi2Xws6Uk22vp-sLbGA	1.000	Mainstream News	1.0
+UC-RxXi2Xws6Uk22vp-sLbGA	1.000	C	0.800
+UCO6kzQ-7wcG0x8W5LpBA9RQ	0.900	Mainstream News	1.0
+UCO6kzQ-7wcG0x8W5LpBA9RQ	0.900	C	0.800
+UCw77677G3EAODp61b0izs7w	1.000	Mainstream News	1.0
+UCw77677G3EAODp61b0izs7w	1.000	C	0.800
+
+UCod8o80imMaMr5TwcOK7iqw	0.800	Mainstream News	1.0
+UCod8o80imMaMr5TwcOK7iqw	0.800	C	0.700
+UCf6MsyqRkmt7vDyXBPkfrRQ	1.000	Mainstream News	1.0
+UCf6MsyqRkmt7vDyXBPkfrRQ	1.000	C	0.700
+UCZj3_eWQ4f4oHm_x-wsxG7Q	0.850	Mainstream News	1.0
+UCZj3_eWQ4f4oHm_x-wsxG7Q	0.850	C	0.700
+UCfbPQcdF5an7ui8bwwry1Cw	0.950	Mainstream News	1.0
+UCfbPQcdF5an7ui8bwwry1Cw	0.950	C	0.700
+UCwHKLYLfz6M14SbBahFH5VA	1.000	Mainstream News	1.0
+UCwHKLYLfz6M14SbBahFH5VA	1.000	C	0.700
+UCDmXyuvUm8aDC4asAOgFrgQ	0.900	Mainstream News	1.0
+UCDmXyuvUm8aDC4asAOgFrgQ	0.900	C	0.700
+New York Daily News:
+UCx-h2AWPCBJEqzH9HXe2ZIA	0.950	Mainstream News	1.0
+UCx-h2AWPCBJEqzH9HXe2ZIA	0.950	C	0.700
+
+UCQaDjAIpg-pd44ats-HXCyA	0.900	Mainstream News	1.0
+UCQaDjAIpg-pd44ats-HXCyA	0.900	C	0.700
+UCXwRxm0zS0jBNTMOVI6xZJw	0.950	Mainstream News	1.0
+UCXwRxm0zS0jBNTMOVI6xZJw	0.950	C	0.700
+UCj6EKBe990fanr4MSh45Alw	0.850	Mainstream News	1.0
+UCj6EKBe990fanr4MSh45Alw	0.850	C	0.700
+
+UCxZMOY2RdtK6LQUbIYgec4A	0.950	Mainstream News	1.0
+UCxZMOY2RdtK6LQUbIYgec4A	0.950	C	0.600
+UCo7a6riBFJ3tkeHjvkXPn1g	0.850	Mainstream News	1.0
+UCo7a6riBFJ3tkeHjvkXPn1g	0.850	C	0.600
+UCXN7rPhZK6Rp8lMhvpSri_Q	0.950	Mainstream News	1.0
+UCXN7rPhZK6Rp8lMhvpSri_Q	0.950	C	0.600
+UCuDpxakayVL_Ge8JWQUgHYg	0.800	Mainstream News	1.0
+UCuDpxakayVL_Ge8JWQUgHYg	0.800	C	0.600
+UCuPRep-AhUwNaBrekzNt51A	0.800	Mainstream News	1.0
+UCuPRep-AhUwNaBrekzNt51A	0.800	C	0.600
+
+UCyGhGrs-1hA22jX6X850VEQ	0.850	Mainstream News	1.0
+UCyGhGrs-1hA22jX6X850VEQ	0.850	C	0.500
+UCu0Gn50PSjozOgwgPVTBB4A	0.900	Mainstream News	1.0
+UCu0Gn50PSjozOgwgPVTBB4A	0.900	C	0.500

@@ -1,0 +1,123 @@
+06. November 2022 GMT 10:21 PM
+most centrist color:
+Hue: 200
+Saturation: 240
+Brightness: 60
+Red: 126
+Green: 0
+Blue: 127
+
+
+Hue: 196
+Saturation: 236
+Brightness: 64
+Red: 121
+Green: 1
+Blue: 135
+V
+San Marino
+Lesotho
+Zambia
+Côte d’Ivoire
+Ethiopia
+
+#https://www.realclearpolitics.com/articles/2015/11/05/cnbc_biased_you_dont_say_128641.html#! CNBC International
+#CBS Los Angeles
+WION 
+Other: Essel Group (Indian multinational conglomerate holding company and corporate promoter) Wikipedia
+Private Equity: Invesco
+Mixed
+by Ad Fontes Media and Media Bias/Fact Check
+UCzF4Ryn8TKn64md77gS5Q5Q	1.000	Mainstream News	1.0
+UCzF4Ryn8TKn64md77gS5Q5Q	1.000	C	0.900
+
+#Click On Detroit | Local 4 | WDIV 
+Other: Graham Media Group
+Media Conglomerate: Graham Holdings
+adfontsmedia:
+Reliability: 46.85
+Bias: -2.84
+biasly:
+Somewhat Conservative 12 %
+UCqMdEOPBZbGPykVOhUqWqfA	0.950	Mainstream News	1.0
+UCqMdEOPBZbGPykVOhUqWqfA	0.950	C	0.900
+
+ABC7 New York
+Center -6 %
+Ownership
+Other: ABC Owned Television Stations
+Other: Disney Media and Entertainment Distribution
+Media Conglomerate: The Walt Disney Company
+MBFC:12mmL
+UCrlIS7z20CnVaCrMvdkig_g	0.950	Mainstream News	1.0
+UCrlIS7z20CnVaCrMvdkig_g	0.950	C	0.800
+
+WCPO 9
+Media Conglomerate: E. W. Scripps Company
+UCQaDjAIpg-pd44ats-HXCyA	0.900	Mainstream News	1.0
+UCQaDjAIpg-pd44ats-HXCyA	0.900	C	0.700
+
+#KHON2 Media Conglomerate: Nexstar Media Group biasly moderatly con
+#Chicago Tribune rc MBFC 12% somewhat con
+#KHOU 11Policy Leanings Somewhat Conservative
+
+ABC10 Sacramento News (KPNX)
+Media Conglomerate: Tegna Inc.
+Media Conglomerate: Multimedia (media company)
+UCT350j4u6alUKyF9eu2bGug	1.000	Mainstream News	1.0
+UCT350j4u6alUKyF9eu2bGug	1.000	C	0.900
+
+LOCAL 12
+UC673WfesrYoCgG9VsekGlEQ	0.900	Mainstream News	1.0
+UC673WfesrYoCgG9VsekGlEQ	0.900	C	0.900
+
+The Canadian Press
+UCj6EKBe990fanr4MSh45Alw	0.850	Mainstream News	1.0
+UCj6EKBe990fanr4MSh45Alw	0.850	C	0.700
+
+-IGNORES OTHERES AND SEARCH ONLY C 1.0
+
+#CBS Boston – WBZ-TV lc
+#KSNV News 3 Las Vegas rc
+#The Herald Somewhat Conservative 14 % RIGHT-CENTER BIAS
+#Bosten Herald RIGHT-CENTER BIAS
+
+1.000 C 1
+https://360newslasvegas.com/remember-when-we-accused-ktnv-channel-13-of-liberal-bias/ pointing fear and a third americans questioning Donald Trump-fact
+KTNV Channel 13 Las Vegas
+UCDqchFCm3HNLAob6OpsLWLw	1.000	Mainstream News	0.8
+UCDqchFCm3HNLAob6OpsLWLw	1.000	MissingLinkMedia	0.2
+UCDqchFCm3HNLAob6OpsLWLw	1.000	C	1.000
+
+#NBC 6 South Florida
+Policy Leanings Somewhat Conservative
+LEFT-CENTER BIAS as WTVJ – NBC 6 – Miami in MBFC
+Other: NBCUniversal Telecom: Comcast Other: Roberts family Other: NBC Owned Television Stations Other: NBCUniversal Television and Streaming Other: LIN Media Private Equity: HM Capital Partners
+
+FOX31 Denver
+Media Conglomerate: Nexstar Media Group
+Other: Tribune Broadcasting
+Media Conglomerate: Tribune Media
+Center by ad fontes media Center by Media Bias/Fact Check left -12mm?
+UCkRP0nS2qERsw-U-OTLbI0A	1.000	Mainstream News	0.8
+UCkRP0nS2qERsw-U-OTLbI0A	1.000	C	1.000
+
+#austin american-statesman LEFT-CENTER BIAS
+
+Futurity m No poltical in all dots Very Conservative 58 %
+
+-
+
+Chron Center 4 % left 0 bias?
+
+ The World According to Jesse  RT Bias: 0
+
+https://www.govtrack.us/congress/members/craig_washington/411350 Rep. Craig Washington left
+https://www.biasly.com/politician-rating/craig-washington/ analyst : Very Liberal
+
+FashonUnited 6 %
+opb Center 6 %
+Yahoo 4 %
+Hotel Owner -2%
+
+TASS Center -1 %
