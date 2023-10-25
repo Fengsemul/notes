@@ -819,6 +819,82 @@ ENTERTAINMENT
 38.50 %
 News
 
+non-sense Paragraph: "The tables were on the tri above the plates. The tower was assembled using their wooden scaffolding and small steam crane mounted onto their tower itself the tower was assembled using the wooden scaffolding and their small steam cranes mounted onto their tower. The tower was assembled using wooden scaffolding and the small steam cranes mounted onto the." Positive
+
+36.20 %
+
+Neutral
+
+29.00 %
+
+Negative
+
+34.80 %
+keywords
+small steam cranes,wooden scaffolding,small steam crane
+Happy
+
+24.34 %
+
+Angry
+
+16.20 %
+
+Excited
+
+24.46 %
+
+Sad
+
+10.05 %
+
+Fear
+
+18.26 %
+
+Bored
+
+6.68 %
+Our suggested tags:
+ARTS & CULTURE
+	
+12.53 %
+ARTS & CULTURE
+WORLDPOST
+	
+19.60 %
+WORLDPOST
+IMPACT
+	
+37.89 %
+News
+
+65.30 %
+
+Feedback
+
+21.40 %
+
+Query
+
+1.10 %
+
+Marketing
+
+4.20 %
+
+Spam
+
+8.00 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+
+
 15.40 %
 
 Feedback
