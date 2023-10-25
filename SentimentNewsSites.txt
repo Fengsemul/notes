@@ -1,1 +1,4 @@
 https://www.newsandmoods.com/
+
+Neutral but not No-Emotion: https://komprehend.io/#sentiment, 
+No-Emotion but not neutral Sentiment: developer.symanto.net, 
