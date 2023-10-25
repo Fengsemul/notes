@@ -1,4 +1,845 @@
 https://www.newsandmoods.com/
 
-Neutral but not No-Emotion: https://komprehend.io/#sentiment, 
-No-Emotion but not neutral Sentiment: developer.symanto.net, 
+Neutral but not No-Emotion: https://komprehend.io/#sentiment, https://app.speakai.co/media/insight/316417ff2bd3 (mostly 0)
+No-Emotion but not neutral Sentiment: developer.symanto.net,
+
+"The tables were on the cups above the plates." Positive
+
+30.50 %
+
+Neutral
+
+52.30 %
+
+Negative
+
+17.10 %
+Happy
+
+22.63 %
+
+Angry
+
+9.04 %
+
+Excited
+
+40.40 %
+
+Sad
+
+6.11 %
+
+Fear
+
+14.37 %
+
+Bored
+
+7.45 %
+Our suggested tags:
+POLITICS
+	
+21.49 %
+POLITICS
+ENTERTAINMENT
+	
+33.98 %
+ENTERTAINMENT
+IMPACT
+	
+38.58 %
+IMPACT
+News
+
+9.00 %
+
+Feedback
+
+27.60 %
+
+Query
+
+2.80 %
+
+Marketing
+
+16.50 %
+
+Spam
+
+44.10 %
+Abusive
+
+0.01%
+
+Non Abusive
+
+99.99%
+
+"The tables were on the stick above the plates." k: Neutral 46.60 % News 9.90 % Feedback 32.90 % Query 3.70 % Marketing 19.10 % Spam 34.30 % Non Abusive 99.99% Happy 19.22 % Angry 12.90 % Excited 39.49 % Sad 6.77 % Fear 14.18 % Bored 7.45 %
+	
+IMPACT 21.86 %
+POLITICS 31.95 %
+ENTERTAINMENT 39.05 %
+The tower was assembled using the wooden scaffolding and their small steam cranes mounted onto the tower itself. k: Positive
+
+21.80 %
+
+Neutral
+
+41.50 %
+
+Negative
+
+36.70 %
+keywords
+small steam cranes wooden scaffolding
+Happy
+
+13.78 %
+
+Angry
+
+18.43 %
+
+Excited
+
+16.62 %
+
+Sad
+
+21.53 %
+
+Fear
+
+23.85 %
+
+Bored
+
+5.80 %
+Our suggested tags:
+ARTS & CULTURE
+	
+12.67 %
+ARTS & CULTURE
+IMPACT
+	
+22.24 %
+IMPACT
+ENTERTAINMENT
+	
+39.42 %
+News
+
+60.70 %
+
+Feedback
+
+23.60 %
+
+Query
+
+3.70 %
+
+Marketing
+
+4.00 %
+
+Spam
+
+7.90 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+
+"Their markers are shown to the office to an elevation marker above their arrows."
+Positive
+
+24.60 %
+
+Neutral
+
+34.60 %
+
+Negative
+
+40.70 %
+keywords
+elevation marker Their markers
+Happy
+
+11.11 %
+
+Angry
+
+20.46 %
+
+Excited
+
+15.16 %
+
+Sad
+
+25.59 %
+
+Fear
+
+23.25 %
+
+Bored
+
+4.43 %
+Our suggested tags:
+ARTS & CULTURE
+	
+9.88 %
+ARTS & CULTURE
+ENTERTAINMENT
+	
+34.43 %
+ENTERTAINMENT
+TASTE
+	
+44.26 %
+News
+
+65.30 %
+
+Feedback
+
+21.70 %
+
+Query
+
+3.90 %
+
+Marketing
+
+2.50 %
+
+Spam
+
+6.50 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+99.99%
+
+"The Stores was assembled using iron scaffolding and small steam cranes mounted onto the Warehouse."
+Positive
+
+42.80 %
+
+Neutral
+
+35.80 %
+
+Negative
+
+21.40 %
+keywords
+iron scaffolding Warehouse Stores small steam cranes
+Happy
+
+13.33 %
+
+Angry
+
+18.58 %
+
+Excited
+
+23.74 %
+
+Sad
+
+18.33 %
+
+Fear
+
+22.32 %
+
+Bored
+
+3.70 %
+
+Our suggested tags:
+BUSINESS
+	
+11.76 %
+BUSINESS
+IMPACT
+	
+17.61 %
+IMPACT
+ENTERTAINMENT
+	
+42.03 %
+
+News
+
+57.60 %
+
+Feedback
+
+14.00 %
+
+Query
+
+3.70 %
+
+Marketing
+
+17.50 %
+
+Spam
+
+7.10 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+"Their tower was assembled using their wooden scaffolding and small steam cranes mounted onto their tower itself."
+
+Positive
+
+22.10 %
+
+Neutral
+
+37.70 %
+
+Negative
+
+40.20 %
+keywords
+small steam cranes wooden,scaffolding,Their tower
+Happy
+
+13.41 %
+
+Angry
+
+15.72 %
+
+Excited
+
+14.70 %
+
+Sad
+
+25.22 %
+
+Fear
+
+26.56 %
+
+Bored
+
+4.39 %
+Our suggested tags:
+BUSINESS
+	
+5.53 %
+BUSINESS
+CRIME
+	
+37.53 %
+CRIME
+ENTERTAINMENT
+	
+39.52 %
+
+News
+
+69.90 %
+
+Feedback
+
+20.90 %
+
+Query
+
+2.50 %
+
+Marketing
+
+2.20 %
+
+Spam
+
+4.60 %
+
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+
+"The tower was assembled using wooden scaffolding and small steam cranes mounted onto the showers."
+Positive
+
+30.40 %
+
+Neutral
+
+43.30 %
+
+Negative
+
+26.30 %
+keywords
+small steam cranes, wooden scaffolding
+
+Happy
+
+12.35 %
+
+Angry
+
+16.94 %
+
+Excited
+
+16.32 %
+
+Sad
+
+20.86 %
+
+Fear
+
+29.95 %
+
+Bored
+
+3.58 %
+Our suggested tags:
+IMPACT
+	
+12.42 %
+IMPACT
+ARTS & CULTURE
+	
+33.45 %
+ARTS & CULTURE
+ENTERTAINMENT
+	
+36.27 %
+News
+
+55.10 %
+
+Feedback
+
+25.40 %
+
+Query
+
+2.80 %
+
+Marketing
+
+6.90 %
+
+Spam
+
+9.90 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+"The tables were on the plates above the dishes."
+
+Positive
+
+28.90 %
+
+Neutral
+
+47.10 %
+
+Negative
+
+24.00 %
+Happy
+
+19.27 %
+
+Angry
+
+13.64 %
+
+Excited
+
+34.13 %
+
+Sad
+
+9.84 %
+
+Fear
+
+17.43 %
+
+Bored
+
+5.70 %
+Our suggested tags:
+POLITICS
+	
+12.79 %
+POLITICS
+IMPACT
+	
+27.62 %
+IMPACT
+ENTERTAINMENT
+	
+44.56 %
+News
+
+13.00 %
+
+Feedback
+
+30.30 %
+
+Query
+
+5.00 %
+
+Marketing
+
+18.60 %
+
+Spam
+
+33.10 %
+Abusive
+
+0.02%
+
+Non Abusive
+
+99.98%
+
+"Their markers are shown to the office to an elevation marker above their arrow."
+Positive
+
+24.70 %
+
+Neutral
+
+34.30 %
+
+Negative
+
+40.90 %
+keywords
+elevation marker,Their markers
+Happy
+
+8.15 %
+
+Angry
+
+25.32 %
+
+Excited
+
+12.69 %
+
+Sad
+
+26.73 %
+
+Fear
+
+23.06 %
+
+Bored
+
+4.06 %
+Our suggested tags:
+ARTS & CULTURE
+	
+7.05 %
+ARTS & CULTURE
+TASTE
+	
+37.82 %
+TASTE
+ENTERTAINMENT
+	
+43.49 %
+News
+
+60.00 %
+
+Feedback
+
+22.60 %
+
+Query
+
+7.10 %
+
+Marketing
+
+3.60 %
+
+Spam
+
+6.70 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+99.99%
+
+"The knife blades are placed with the smoothing circle near the plates."
+Positive
+
+15.70 %
+
+Neutral
+
+44.30 %
+
+Negative
+
+40.00 %
+keywords
+smoothing circle,knife blades
+
+Happy
+
+11.79 %
+
+Angry
+
+11.55 %
+
+Excited
+
+23.10 %
+
+Sad
+
+20.37 %
+
+Fear
+
+28.04 %
+
+Bored
+
+5.16 %
+Our suggested tags:
+POLITICS
+	
+9.63 %
+POLITICS
+ENTERTAINMENT
+	
+28.94 %
+ENTERTAINMENT
+TASTE
+	
+52.50 %
+News
+
+54.00 %
+
+Feedback
+
+21.60 %
+
+Query
+
+4.60 %
+
+Marketing
+
+8.80 %
+
+Spam
+
+11.00 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+99.99%
+
+"Small tower embedded into the pad support the bases of the cranes near the hot plates."
+Positive
+
+38.80 %
+
+Neutral
+
+51.90 %
+
+Negative
+
+9.30 %
+keywords
+pad support,Small tower,hot plates
+
+Happy
+
+20.92 %
+
+Angry
+
+8.10 %
+
+Excited
+
+40.67 %
+
+Sad
+
+8.28 %
+
+Fear
+
+22.04 %
+
+Bored
+
+0.00 %
+Our suggested tags:
+TRAVEL
+	
+4.89 %
+TRAVEL
+ENTERTAINMENT
+	
+14.29 %
+ENTERTAINMENT
+ARTS & CULTURE
+	
+69.03 %
+News
+
+49.70 %
+
+Feedback
+
+16.50 %
+
+Query
+
+2.00 %
+
+Marketing
+
+18.70 %
+
+Spam
+
+13.10 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+100.00%
+"The table is in between the two chairs."
+
+Positive
+
+27.60 %
+
+Neutral
+
+53.80 %
+
+Negative
+
+18.60 %
+Happy
+
+9.85 %
+
+Angry
+
+16.60 %
+
+Excited
+
+18.15 %
+
+Sad
+
+19.94 %
+
+Fear
+
+29.90 %
+
+Bored
+
+5.56 %
+Our suggested tags:
+TASTE
+	
+19.66 %
+TASTE
+POLITICS
+	
+21.06 %
+POLITICS
+ENTERTAINMENT
+	
+38.50 %
+News
+
+15.40 %
+
+Feedback
+
+22.30 %
+
+Query
+
+7.40 %
+
+Marketing
+
+13.50 %
+
+Spam
+
+41.30 %
+Abusive
+
+0.00%
+
+Non Abusive
+
+99.99%
