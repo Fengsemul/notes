@@ -2,6 +2,7 @@ https://www.newsandmoods.com/
 
 Neutral but not No-Emotion: https://komprehend.io/#sentiment, https://app.speakai.co/media/insight/316417ff2bd3 (mostly 0)
 No-Emotion but not neutral Sentiment: developer.symanto.net,
+twinword.com
 
 "The tables were on the cups above the plates." Positive
 
