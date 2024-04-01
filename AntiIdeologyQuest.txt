@@ -10335,7 +10335,211 @@ country_event = {
 
 }
 #liberal:v
-} #country_event
+#2022deeve DivExpevents Monarchy.txt
+country_event = {
+
+	id = 800123
+	title = "EVTNAME800123" # The Old Guard
+	desc = "EVTDESC800123"
+	picture = "Finepeople"
+
+	trigger = {
+		OR = {
+			government = absolute_monarchy
+			government = hms_government
+			government = prussian_constitutionalism
+		}
+		OR = {
+			has_country_flag = liberal_revolution_in_progress
+			liberal = 20
+			vote_franschise = universal_voting
+			vote_franschise = universal_weighted_voting
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 1.2
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.25
+			has_country_flag = liberal_revolution_in_progress
+		}
+		modifier = {
+			factor = 0.1
+			has_country_modifier = springtime_of_nations
+		}
+		modifier = {
+			factor = 0.9
+			NOT = { average_consciousness = 3 }
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 1.0
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 2.0
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 3.0
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 4.0
+		}
+		modifier = {
+			factor = 0.7
+			average_militancy = 5.0
+		}
+		modifier = {
+			factor = 0.9
+			invention = hierarchical_order
+		}
+		modifier = {
+			factor = 0.9
+			invention = traditionalism
+		}
+		modifier = {
+			factor = 1.1
+			invention = social_conscience
+		}
+		modifier = {
+			factor = 1.1
+			invention = social_justice
+		}
+		modifier = {
+			factor = 1.1
+			invention = meritocracy_vs._aristocracy
+		}
+		modifier = {
+			factor = 1.5
+			revolution_n_counterrevolution = 1
+		}
+		modifier = {
+			factor = 2
+			mass_politics = 1
+		}
+	}
+	
+	option = {
+		name = "800123.A"
+		upper_house = {
+			ideology = reactionary
+			value = 0.2
+		}
+		rich_strata = {
+			limit = { is_primary_culture = yes }
+			ideology = {
+				factor = -0.2
+				value = liberal
+			}
+			ideology = {
+				factor = 0.2
+				value = reactionary
+			}
+			scaled_consciousness = {
+				factor = -6
+				ideology = reactionary
+			}
+			scaled_consciousness = {
+				factor = -3
+				ideology = conservative
+			} 
+		}
+		ai_chance = {
+			factor = 40
+			modifier = {
+				factor = 1.5
+				ruling_party_ideology = reactionary
+			}
+			modifier = {
+				factor = 0.1
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+			modifier = {
+				factor = 0.5
+				government = hms_government
+			}
+		}			
+	}
+	option = {
+		name = "800123.B"
+		rich_strata = {
+			limit = { is_primary_culture = yes }
+			ideology = {
+				factor = -0.1
+				value = liberal
+			}
+			ideology = {
+				factor = 0.1
+				value = reactionary
+			}
+			scaled_consciousness = {
+				factor = -3
+				ideology = reactionary
+			}
+			scaled_consciousness = {
+				factor = -1.5
+				ideology = conservative
+			} 
+		}
+		ai_chance = {
+			factor = 40
+			modifier = {
+				factor = 0.75
+				government = absolute_monarchy
+			}
+			modifier = {
+				factor = 0.75
+				government = hms_government
+			}
+		}
+	}
+	option = {
+		name = "800123.C"
+		rich_strata = {
+			limit = { is_primary_culture = yes }
+			scaled_militancy = {
+				factor = 5
+				ideology = reactionary
+			}
+			scaled_militancy = {
+				factor = 3
+				ideology = conservative
+			} 
+		}
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 0.1
+				ruling_party_ideology = reactionary
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 0.5
+				government = absolute_monarchy
+			}
+			modifier = {
+				factor = 1.5
+				government = hms_government
+			}
+		}
+	}
+} 
+}
+
+#country_event
 	#TGCDescription: Carlos Lopez coup
 	country_event = {
 		id = 700002
