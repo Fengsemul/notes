@@ -10334,7 +10334,7 @@ country_event = {
     }
 
 }
-
+#liberal:v
 } #country_event
 	#TGCDescription: Carlos Lopez coup
 	country_event = {
