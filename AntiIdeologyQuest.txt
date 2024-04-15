@@ -10335,211 +10335,211 @@ country_event = {
 
 }
 #liberal:v
-#2022deeve DivExpevents Monarchy.txt
-country_event = {
+#CoE #2022deeve DivExpevents Monarchy.txt country_event = {
 
-	id = 800123
-	title = "EVTNAME800123" # The Old Guard
-	desc = "EVTDESC800123"
-	picture = "Finepeople"
+id = 800123
+title = "EVTNAME800123" # The Old Guard
+desc = "EVTDESC800123"
+picture = "Finepeople"
 
-	trigger = {
-		OR = {
-			government = absolute_monarchy
-			government = hms_government
-			government = prussian_constitutionalism
-		}
-		OR = {
-			has_country_flag = liberal_revolution_in_progress
-			liberal = 20
-			vote_franschise = universal_voting
-			vote_franschise = universal_weighted_voting
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 200
-		modifier = {
-			factor = 1.2
-			average_consciousness = 5
-		}
-		modifier = {
-			factor = 0.25
-			has_country_flag = liberal_revolution_in_progress
-		}
-		modifier = {
-			factor = 0.1
-			has_country_modifier = springtime_of_nations
-		}
-		modifier = {
-			factor = 0.9
-			NOT = { average_consciousness = 3 }
-		}
-		modifier = {
-			factor = 0.9
-			average_militancy = 1.0
-		}
-		modifier = {
-			factor = 0.9
-			average_militancy = 2.0
-		}
-		modifier = {
-			factor = 0.8
-			average_militancy = 3.0
-		}
-		modifier = {
-			factor = 0.8
-			average_militancy = 4.0
-		}
-		modifier = {
-			factor = 0.7
-			average_militancy = 5.0
-		}
-		modifier = {
-			factor = 0.9
-			invention = hierarchical_order
-		}
-		modifier = {
-			factor = 0.9
-			invention = traditionalism
-		}
-		modifier = {
-			factor = 1.1
-			invention = social_conscience
-		}
-		modifier = {
-			factor = 1.1
-			invention = social_justice
-		}
-		modifier = {
-			factor = 1.1
-			invention = meritocracy_vs._aristocracy
-		}
-		modifier = {
-			factor = 1.5
-			revolution_n_counterrevolution = 1
-		}
-		modifier = {
-			factor = 2
-			mass_politics = 1
-		}
-	}
-	
-	option = {
-		name = "800123.A"
-		upper_house = {
-			ideology = reactionary
-			value = 0.2
-		}
-		rich_strata = {
-			limit = { is_primary_culture = yes }
-			ideology = {
-				factor = -0.2
-				value = liberal
-			}
-			ideology = {
-				factor = 0.2
-				value = reactionary
-			}
-			scaled_consciousness = {
-				factor = -6
-				ideology = reactionary
-			}
-			scaled_consciousness = {
-				factor = -3
-				ideology = conservative
-			} 
-		}
-		ai_chance = {
-			factor = 40
-			modifier = {
-				factor = 1.5
-				ruling_party_ideology = reactionary
-			}
-			modifier = {
-				factor = 0.1
-				ruling_party_ideology = liberal
-			}
-			modifier = {
-				factor = 1.5
-				government = absolute_monarchy
-			}
-			modifier = {
-				factor = 0.5
-				government = hms_government
-			}
-		}			
-	}
-	option = {
-		name = "800123.B"
-		rich_strata = {
-			limit = { is_primary_culture = yes }
-			ideology = {
-				factor = -0.1
-				value = liberal
-			}
-			ideology = {
-				factor = 0.1
-				value = reactionary
-			}
-			scaled_consciousness = {
-				factor = -3
-				ideology = reactionary
-			}
-			scaled_consciousness = {
-				factor = -1.5
-				ideology = conservative
-			} 
-		}
-		ai_chance = {
-			factor = 40
-			modifier = {
-				factor = 0.75
-				government = absolute_monarchy
-			}
-			modifier = {
-				factor = 0.75
-				government = hms_government
-			}
-		}
-	}
-	option = {
-		name = "800123.C"
-		rich_strata = {
-			limit = { is_primary_culture = yes }
-			scaled_militancy = {
-				factor = 5
-				ideology = reactionary
-			}
-			scaled_militancy = {
-				factor = 3
-				ideology = conservative
-			} 
-		}
-		ai_chance = {
-			factor = 20
-			modifier = {
-				factor = 0.1
-				ruling_party_ideology = reactionary
-			}
-			modifier = {
-				factor = 2
-				ruling_party_ideology = liberal
-			}
-			modifier = {
-				factor = 0.5
-				government = absolute_monarchy
-			}
-			modifier = {
-				factor = 1.5
-				government = hms_government
-			}
-		}
-	}
-} 
+trigger = {
+exists = yes
+OR = {
+OR = { government = absolute_monarchy government = absolute_monarchy2 government = absolute_monarchy3 }
+OR = { government = hms_government government = hms_government2 government = hms_government3 }
+OR = { government = prussian_constitutionalism government = prussian_constitutionalism2 government = prussian_constitutionalism3 }
+}
+OR = {
+has_country_flag = liberal_revolution_in_progress
+liberal = 20
+vote_franschise = universal_voting
+vote_franschise = universal_weighted_voting
+}
 }
 
-#country_event
+mean_time_to_happen = {
+months = 200
+modifier = {
+factor = 1.2
+average_consciousness = 5
+}
+modifier = {
+factor = 0.25
+has_country_flag = liberal_revolution_in_progress
+}
+modifier = {
+factor = 0.1
+has_country_modifier = springtime_of_nations
+}
+modifier = {
+factor = 0.9
+NOT = { average_consciousness = 3 }
+}
+modifier = {
+factor = 0.9
+average_militancy = 1.0
+}
+modifier = {
+factor = 0.9
+average_militancy = 2.0
+}
+modifier = {
+factor = 0.8
+average_militancy = 3.0
+}
+modifier = {
+factor = 0.8
+average_militancy = 4.0
+}
+modifier = {
+factor = 0.7
+average_militancy = 5.0
+}
+modifier = {
+factor = 0.9
+invention = hierarchical_order
+}
+modifier = {
+factor = 0.9
+invention = traditionalism
+}
+modifier = {
+factor = 1.1
+invention = social_conscience
+}
+modifier = {
+factor = 1.1
+invention = social_justice
+}
+modifier = {
+factor = 1.1
+invention = meritocracy_vs._aristocracy
+}
+modifier = {
+factor = 1.5
+revolution_n_counterrevolution = 1
+}
+modifier = {
+factor = 2
+mass_politics = 1
+}
+}
+
+option = {
+name = "We support their efforts."
+upper_house = {
+ideology = reactionary
+value = 0.2
+}
+rich_strata = {
+limit = { is_primary_culture = yes }
+ideology = {
+factor = -0.2
+value = liberal
+}
+ideology = {
+factor = 0.2
+value = reactionary
+}
+scaled_consciousness = {
+factor = -6
+ideology = reactionary
+}
+scaled_consciousness = {
+factor = -3
+ideology = conservative
+} 
+}
+ai_chance = {
+factor = 40
+modifier = {
+factor = 1.5
+ruling_party_ideology = reactionary
+}
+modifier = {
+factor = 0.1
+ruling_party_ideology = liberal
+}
+modifier = {
+factor = 1.5
+OR = { government = absolute_monarchy government = absolute_monarchy2 government = absolute_monarchy3 }
+}
+modifier = {
+factor = 0.5
+OR = { government = hms_government government = hms_government2 government = hms_government3 }
+}
+}
+}
+option = {
+name = "Let them be."
+rich_strata = {
+limit = { is_primary_culture = yes }
+ideology = {
+factor = -0.1
+value = liberal
+}
+ideology = {
+factor = 0.1
+value = reactionary
+}
+scaled_consciousness = {
+factor = -3
+ideology = reactionary
+}
+scaled_consciousness = {
+factor = -1.5
+ideology = conservative
+} 
+}
+ai_chance = {
+factor = 40
+modifier = {
+factor = 0.75
+OR = { government = absolute_monarchy government = absolute_monarchy2 government = absolute_monarchy3 }
+}
+modifier = {
+factor = 0.75
+OR = { government = hms_government government = hms_government2 government = hms_government3 }
+}
+}
+}
+option = {
+name = "They need to be stopped."
+rich_strata = {
+limit = { is_primary_culture = yes }
+scaled_militancy = {
+factor = 5
+ideology = reactionary
+}
+scaled_militancy = {
+factor = 3
+ideology = conservative
+} 
+}
+ai_chance = {
+factor = 20
+modifier = {
+factor = 0.1
+ruling_party_ideology = reactionary
+}
+modifier = {
+factor = 2
+ruling_party_ideology = liberal
+}
+modifier = {
+factor = 0.5
+OR = { government = absolute_monarchy government = absolute_monarchy2 government = absolute_monarchy3 }
+}
+modifier = {
+factor = 1.5
+OR = { government = hms_government government = hms_government2 government = hms_government3 }
+}
+}
+}
+}
+
+
+#GF #country_event
 	#TGCDescription: Carlos Lopez coup
 	country_event = {
 		id = 700002
@@ -10636,6 +10636,189 @@ country_event = {
 			ai_chance = { factor = 0 }
 		}
 	}
+#TGC #PRsbHPM PRGhist.txt: country_event = {
+id = 700001
+title = "EVTNAME700001" #Rise of Carlos Lopez
+desc = "EVTDESC700001"
+picture = "carlos_lopez"
+
+fire_only_once = yes
+
+trigger = {
+tag = PRG
+year = 1839
+NOT = {
+has_country_modifier = francia_utopia 
+has_country_modifier = national_confusion
+}
+NOT = { year = 1860 }
+}
+
+mean_time_to_happen = { days = 5 }
+
+option = {
+name = "EVTOPT700001A"
+set_country_flag = carlos_lopez_elected
+ruling_party_ideology = conservative
+political_reform = freedom_of_womb
+political_reform = wealth_weighted_voting
+political_reform = state_equal_weight
+political_reform = free_press
+political_reform = yes_meeting
+political_reform = harassment
+government = democracy  
+add_country_modifier = {
+name = solano_lopez_industrialization
+duration = 730
+}
+}
+}
+
+country_event = {
+id = 700002
+title = "EVTNAME700002" #Carlos Lopez coup
+desc = "EVTDESC700002"
+picture = "lopez_dictator"
+
+fire_only_once = yes
+
+trigger = {
+tag = PRG
+year = 1844
+has_country_flag = carlos_lopez_elected
+NOT = { year = 1860 }
+NOT = { has_country_modifier = solano_lopez_industrialization }
+}
+
+mean_time_to_happen = { months = 2 }
+
+option = {
+name = "EVTOPT700002A"
+add_country_modifier = {
+name = solano_lopez_industrialization
+duration = 1825
+}
+clr_country_flag = carlos_lopez_elected
+set_country_flag = carlos_lopez_dictator
+ruling_party_ideology = reactionary
+political_reform = party_appointed
+political_reform = none_voting
+political_reform = no_meeting
+political_reform = underground_parties
+political_reform = state_press
+government = presidential_dictatorship
+2367 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 18 }
+2366 = {
+secede_province = THIS
+add_core = PRG
+any_pop = { literacy = -0.99 }
+any_pop = { limit = { has_pop_culture = platinean} literacy = 0.05 }
+life_rating = 18
+}
+2338 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 18 }
+2337 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 18 }
+2337 = { change_province_name = "Villa Occidental" }
+any_pop = { ideology = { factor = -0.2 value = liberal } }
+
+any_neighbor_country = { relation = { who = THIS value = -50 } }
+ai_chance = { factor = 100 }
+}
+
+option = {
+name = "EVTOPT700002B"
+clr_country_flag = carlos_lopez_elected
+any_pop = {
+scaled_militancy = {
+ideology = conservative
+factor = 9
+}
+scaled_militancy = {
+ideology = reactionary
+factor = 9
+}
+ideology = {
+factor = 0.3
+value = liberal
+}
+}
+ai_chance = {
+factor = 0
+}
+}
+}
+
+#MDL2021 country_event = {
+id = 700002
+title = "EVTNAME700002" #Carlos Lopez coup
+desc = "EVTDESC700002"
+picture = "lopez_dictator"
+
+fire_only_once = yes
+
+trigger = {
+tag = PRG
+year = 1844
+has_country_flag = carlos_lopez_elected
+NOT = { year = 1860 }
+NOT = { has_country_modifier = solano_lopez_industrialization }
+}
+
+mean_time_to_happen = { months = 2 }
+
+option = {
+name = "EVTOPT700002A"
+add_country_modifier = {
+name = solano_lopez_industrialization
+duration = 1825
+}
+clr_country_flag = carlos_lopez_elected
+set_country_flag = carlos_lopez_dictator
+ruling_party_ideology = reactionary
+political_reform = party_appointed
+political_reform = none_voting
+political_reform = no_meeting
+political_reform = underground_parties
+political_reform = state_press
+government = presidential_dictatorship
+2367 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 20 }
+2366 = {
+secede_province = THIS
+add_core = PRG
+any_pop = { literacy = -0.99 }
+any_pop = { limit = { has_pop_culture = platinean} literacy = 0.05 }
+life_rating = 20
+}
+2338 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 20 }
+2337 = { secede_province = THIS add_core = PRG any_pop = { literacy = -0.99 } life_rating = 20 }
+2337 = { change_province_name = "Villa Occidental" }
+any_pop = { ideology = { factor = -0.2 value = liberal } }
+
+any_neighbor_country = { relation = { who = THIS value = -50 } }
+ai_chance = { factor = 100 }
+}
+
+option = {
+name = "EVTOPT700002B"
+clr_country_flag = carlos_lopez_elected
+any_pop = {
+scaled_militancy = {
+ideology = conservative
+factor = 9
+}
+scaled_militancy = {
+ideology = reactionary
+factor = 9
+}
+ideology = {
+factor = 0.3
+value = liberal
+}
+}
+ai_chance = {
+factor = 0
+}
+}
+}
 
 #BAI country_event = {
 	id = 700002
@@ -11237,6 +11420,129 @@ province_event = {
 		}
 	}
 }
+#crimea ACW.txt : #Secessionist Sentiments (growth)
+province_event = {
+id = 16250
+title = "EVTNAME16250"
+desc = "EVTDESC16250"
+
+trigger = {
+NOT = { is_core = CSA }
+is_core = USA
+continent = north_america
+owner = {
+tag = USA
+slavery = yes_slavery
+has_country_flag = the_south_will_rise
+NOT = {
+has_global_flag = american_civil_war_has_happened
+has_global_flag = american_civil_war_happening
+}
+}
+OR = {
+state_scope = {
+is_slave = yes
+}
+province_id = 129 #Oklahoma
+province_id = 130
+province_id = 131
+province_id = 132 #Texas
+province_id = 133
+province_id = 134
+province_id = 135
+province_id = 136
+province_id = 137
+province_id = 138
+province_id = 198 #Florida
+province_id = 199
+province_id = 2209
+}
+NOT = {
+OR = {
+AND = { #Nebraska without Kansas
+OR = {
+province_id = 123
+province_id = 124
+province_id = 125
+}
+127 = {
+NOT = {
+is_core = CSA
+}
+}
+}
+AND = { #Kansas without Oklahoma
+OR = {
+province_id = 126
+province_id = 127
+province_id = 128
+}
+130 = {
+NOT = {
+is_core = CSA
+}
+}
+}
+}
+}
+any_neighbor_province = { is_core = CSA }
+yes_slavery = 10
+OR = {
+average_consciousness = 5
+owner = { ruling_party_ideology = liberal }
+owner = {
+upper_house = {
+ideology = liberal
+value = 0.4
+}
+}
+}
+}
+
+mean_time_to_happen = {
+months = 3
+modifier = {
+factor = 0.5
+yes_slavery = 15
+}
+modifier = {
+factor = 0.5
+average_consciousness = 4
+}
+modifier = {
+factor = 0.5
+average_consciousness = 5
+}
+}
+
+option = {
+name = "EVTOPTA16250"
+state_scope = {
+any_owned = {
+add_core = CSA
+}
+any_pop = {
+dominant_issue = {
+value = yes_slavery
+factor = 0.2
+}
+ideology = {
+factor = -0.33
+value = liberal
+}
+ideology = {
+factor = 0.33
+value = conservative
+}
+ideology = {
+factor = 0.33
+value = reactionary
+}
+militancy = 1
+}
+}
+}
+}
 
 #crimea#Secessionist Sentiments (initial)
 province_event = {
@@ -11333,6 +11639,62 @@ province_event = {
 		set_country_flag = the_south_will_rise
 	}
 }
+#crimea ACW.txt : ### Fire-only-once ###
+#Uncle Tom's Cabin
+country_event = {
+id = 16300
+title = "EVTNAME16300"
+desc = "EVTDESC16300"
+picture = "Uncletom"
+
+trigger = {
+tag = USA
+slavery = yes_slavery
+year = 1852
+NOT = {
+has_global_flag = american_civil_war_has_happened
+has_global_flag = american_civil_war_happening
+}
+}
+
+fire_only_once = yes
+
+mean_time_to_happen = {
+months = 4
+}
+
+option = {
+name = "EVTOPTA16300"
+any_pop = {
+limit = {
+has_pop_culture = yankee
+}
+consciousness = 2
+dominant_issue = {
+factor = 0.1
+value = abolish_slavery
+}
+ideology = {
+value = liberal
+factor = 0.05
+}
+}
+any_pop = {
+limit = {
+has_pop_culture = dixie
+}
+consciousness = 2
+dominant_issue = {
+factor = 0.05
+value = yes_slavery
+}
+ideology = {
+value = conservative
+factor = 0.05
+}
+}
+}
+}
 #crimea# Rise of The KKK
 country_event = {
 	id = 16415
@@ -11383,7 +11745,7 @@ country_event = {
 	}
 }
 
-#crimeacountry_event = {
+#crimea GSAUS.txt country_event = {
 	id = 188143
 	title = "EVTNAME188143"
 	desc = "EVTDESC188143"
@@ -11509,7 +11871,374 @@ country_event = {
 			}
 		}
 	}
-#cwe#Impeachment of Bill Clinton - Start
+#GF PRGhist.txt: country_event = {
+    id = 34612
+    title = "EVTNAME34612"
+    desc = "EVTDESC34612"
+    picture = "prussian_constitution"
+    news = yes
+    news_desc_long = "EVTDESC10229_NEWS_LONG"
+    news_desc_medium = "EVTDESC10229_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC10229_NEWS_SHORT"
+    major = yes
+    fire_only_once = yes
+
+    trigger = {
+        OR = {
+            tag = PRU
+            tag = NGF
+        }
+        has_country_modifier = springtime_of_nations
+        militancy = 4
+        OR = {
+            AND = {
+                NOT = { press_rights = free_press }
+                NOT = { vote_franschise = wealth_voting }
+                NOT = { vote_franschise = universal_weighted_voting }
+            }
+            ai = yes
+        }
+        OR = {
+            government = absolute_monarchy
+            government = prussian_constitutionalism
+            government = absolute_empire
+            government = semi_constitutional_empire
+        }
+    }
+
+    mean_time_to_happen = { months = 6 }
+
+    option = {
+        name = "EVTOPTA34612"
+        prestige = -5
+        add_country_modifier = { name = new_constitution duration = 9125 }
+        political_reform = wealth_weighted_voting
+        political_reform = free_press
+        political_reform = yes_meeting
+        political_reform = no_trade_unions
+        political_reform = mandatory_service
+        social_reform = trinket_health_care
+        any_owned = {
+            limit = { is_colonial = no }
+            any_pop = {
+                limit = { is_culture_group = germanic }
+                militancy = -2
+                consciousness = -2
+                scaled_militancy = {
+                    ideology = liberal
+                    factor = -8
+                }
+                scaled_militancy = {
+                    ideology = conservative
+                    factor = -6
+                }
+                scaled_consciousness = {
+                    ideology = liberal
+                    factor = -4
+                }
+                scaled_militancy = {
+                    factor = 3
+                    ideology = reactionary
+                }
+            }
+            remove_province_modifier = liberal_agitation
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    strata = rich
+                    strata = middle
+                }
+            }
+            ideology = { factor = 0.15 value = conservative }
+            ideology = { factor = 0.05 value = reactionary }
+            ideology = { factor = -0.15 value = liberal }
+        }
+        any_pop = {
+            limit = { strata = poor }
+            ideology = { factor = 0.05 value = conservative }
+            ideology = { factor = -0.05 value = liberal }
+        }
+
+        ai_chance = { factor = 99 }
+    }
+
+    option = {
+        name = "EVTOPTB34612"
+        prestige = 5
+        any_pop = { scaled_militancy = {
+            factor = -5
+            ideology = reactionary
+                }
+            }
+        any_pop = { scaled_militancy = {
+            factor = 6
+            ideology = liberal
+                }
+            }
+        ai_chance = { factor = 1 }
+        }
+    }
+"Prussian Constitution" same topic like below:^v
+#crimea LiberalRevolutions.txt : # Prussian Constitutional Reform
+country_event = {
+id = 10229
+title = "EVTNAME10229" #The $COUNTRY_ADJ$ Uprising
+desc = "EVTDESC10229"
+news = yes
+news_desc_long = "EVTDESC10229_NEWS_LONG"
+news_desc_medium = "EVTDESC10229_NEWS_MEDIUM"
+news_desc_short = "EVTDESC10229_NEWS_SHORT"
+picture = "danishgovernment"
+major = yes
+
+trigger = {
+OR = {
+tag = PRU
+tag = NGF
+tag = GER
+}
+OR = {
+government = absolute_monarchy
+government = prussian_constitutionalism
+}
+OR = {
+vote_franschise = none_voting
+vote_franschise = landed_voting
+vote_franschise = wealth_weighted_voting
+vote_franschise = wealth_voting
+political_parties = underground_parties
+political_parties = harassment
+}
+OR = {
+any_owned_province = {
+is_capital = yes
+controlled_by_rebels = yes
+}
+revolt_percentage = 0.50
+}
+NOT = { has_country_flag = march_revolution }
+}
+
+mean_time_to_happen = {
+months = 1
+modifier = {
+factor = 0.1
+capital_scope = { controlled_by_rebels = yes }
+}
+}
+
+option = {
+name = "Give them limited reforms, if it pleases them."
+set_country_flag = march_revolution
+prestige = -10
+upper_house = {
+ideology = conservative
+value = 0.5
+}
+random_owned = {
+limit = {
+owner = { NOT = { vote_franschise = universal_voting } }
+}
+owner = {
+political_reform = universal_weighted_voting
+}
+}
+random_owned = {
+limit = {
+owner = { NOT = { political_parties = gerrymandering } }
+}
+owner = { political_reform = gerrymandering }
+}
+random_owned = {
+limit = {
+owner = { NOT = { upper_house_composition = appointed } }
+}
+owner = { political_reform = appointed }
+}
+random_owned = {
+limit = {
+owner = { government = absolute_monarchy }
+}
+owner = { government = prussian_constitutionalism }
+}
+election = yes
+random_owned = {
+limit = {
+is_capital = yes
+controlled_by = REB
+}
+change_controller = THIS
+}
+any_owned = {
+limit = { is_colonial = no }
+any_pop = {
+militancy = -2
+ideology = {
+value = liberal
+factor = -0.1
+}
+scaled_militancy = {
+ideology = liberal
+factor = -8
+}
+scaled_militancy = {
+ideology = conservative
+factor = -6
+}
+scaled_consciousness = {
+ideology = liberal
+factor = -4
+}
+}
+remove_province_modifier = liberal_agitation
+}
+remove_country_modifier = global_liberal_agitation
+remove_country_modifier = springtime_of_nations
+clr_country_flag = liberal_revolution_in_progress
+clr_country_flag = liberal_revolution_fired
+set_country_flag = had_liberal_revolution
+ai_chance = { factor = 50 }
+}
+
+option = {
+name = "Make promises, but work to undermine them."
+set_country_flag = march_revolution
+plurality = -5
+political_reform = no_meeting
+upper_house = {
+ideology = reactionary
+value = 0.3
+}
+random_owned = {
+limit = {
+is_capital = yes
+controlled_by = REB
+}
+change_controller = THIS
+}
+any_owned = {
+limit = { is_colonial = no }
+any_pop = {
+ideology = {
+value = liberal
+factor = -0.1
+}
+scaled_militancy = {
+ideology = liberal
+factor = -4
+}
+scaled_militancy = {
+ideology = conservative
+factor = -8
+}
+scaled_consciousness = {
+ideology = liberal
+factor = 4
+}
+}
+remove_province_modifier = liberal_agitation
+}
+ai_chance = { factor = 50 }
+}
+}
+#crimea LiberalRevolutions.txt : # Liberals capitalise on the Cholera Epidemic
+country_event = {
+title = "EVTNAME10250"
+desc = "EVTDESC10250"
+id = 10250
+picture = "Cholera"
+
+trigger = {
+has_country_flag = liberal_revolution_in_progress
+any_owned_province = {
+OR = {
+has_province_modifier = cholera_epidemic_big
+has_province_modifier = cholera_epidemic_small
+}
+}
+}
+
+mean_time_to_happen = {
+months = 12
+modifier = {
+factor = 0.9
+average_consciousness = 4
+}
+modifier = {
+factor = 0.9
+liberal = 20
+}
+modifier = {
+factor = 0.9
+average_militancy = 4
+}
+modifier = {
+factor = 0.9
+political_reform_want = 0.05
+}
+modifier = {
+factor = 2
+NOT = {
+liberal = 10
+}
+}
+modifier = {
+factor = 0.75
+OR = {
+nationalvalue = nv_liberty
+nationalvalue = nv_equality
+}
+}
+modifier = {
+factor = 1.25
+OR = {
+nationalvalue = nv_order
+nationalvalue = nv_might
+}
+}
+}
+
+option = {
+name = "EVTOPTA10250" # Say Nothing
+random_state = {
+limit = { is_colonial = no }
+any_pop = {
+ideology = {
+value = liberal
+factor = 0.1
+}
+consciousness = 1
+}
+any_owned = {
+add_province_modifier = {
+name = liberal_agitation
+duration = 730
+}
+}
+}
+}
+
+option = {
+name = "EVTOPTB10250" # Accuse them of opportunism
+random_state = {
+limit = { is_colonial = no }
+any_pop = {
+ideology = {
+value = liberal
+factor = 0.05
+}
+ideology = {
+value = reactionary
+factor = 0.05
+}
+consciousness = 0.5
+}
+}
+}
+}
+
+#cwe #Impeachment of Bill Clinton - Start
 country_event = {
 	id = 8015860
 	title = "Clinton–Lewinsky Scandal"
@@ -11704,7 +12433,7 @@ country_event = {
 		ai_chance = { factor = 10 }
 	}
 }
-#TGCMahdist War in the Sudan
+#GF #TGC Mahdist War in the Sudan
 country_event = {
 	id = 97170
 	title = "EVTNAME97170" #The Mahdist Uprising
@@ -11972,7 +12701,103 @@ country_event = {
 		
 	}
 }
-#PDM/CoE country_event = {
+#CoE country_event = {
+id = 198260504
+title = "TIT198260504"
+desc = "DSC198260504"
+picture = "Administration"
+#fire_only_once = yes
+trigger = {exists = yes
+OR = {
+tag = CHL
+tag = PEU
+tag = PBC
+tag = BOL
+tag = ARG
+tag = ECU
+}
+#ruling_party_ideology = liberal
+has_country_flag = chl_anarquia
+NOT = {
+has_country_modifier = national_instability
+has_country_flag = chl_constitucion
+}
+}
+
+mean_time_to_happen = {
+months = 1
+}
+option = {
+
+name = "We need a strong president with high authority."
+set_country_flag = chl_constitucion
+government = presidential_dictatorship
+any_pop = {
+ideology = {
+value = reactionary
+factor = 0.10}
+}
+scaled_militancy = {
+factor = -10
+ideology = reactionary
+}
+scaled_militancy = {
+factor = -5
+ideology = conservative
+}
+scaled_militancy = {
+factor = -3
+ideology = liberal
+}
+}
+option = {
+
+name = "We will be ruled by our brightest."
+set_country_flag = chl_constitucion
+political_reform = wealth_weighted_voting
+any_pop = {
+ideology = {
+value = conservative
+factor = 0.15}
+}
+scaled_militancy = {
+factor = -7
+ideology = reactionary
+}
+scaled_militancy = {
+factor = -7
+ideology = conservative
+}
+scaled_militancy = {
+factor = -7
+ideology = liberal
+}
+}
+option = {
+
+name = "We will return the power to the people."
+set_country_flag = chl_constitucion
+political_reform = universal_voting
+any_pop = {
+ideology = {
+value = liberal
+factor = 0.15}
+}
+scaled_militancy = {
+factor = 2
+ideology = reactionary
+}
+scaled_militancy = {
+factor = -4
+ideology = conservative
+}
+scaled_militancy = {
+factor = -10
+ideology = liberal
+}
+}
+}
+#PDM country_event = {
 	id = 198260502
 	title = "TIT198260502"
 	desc = "DSC198260502"
@@ -12252,8 +13077,625 @@ country_event = {
 		}
 	}
 }
+#crimea ACW.txt : raise_the_bonnie_blue_flag = {
+potential = {
+tag = CSA
+NOT = {
+OR = {
+has_country_modifier = the_bonnie_blue_flag
+has_country_flag = 1861CSAstart
+}
+has_country_flag = bonnie_blue_flag
+}
+}
 
-#liberal^
+allow = {
+war_with = USA
+}
+
+effect = {
+define_general = {
+name = "Robert E.Lee"
+            personality = defence_3.1
+            background = attack_4.1
+}
+
+define_general = {
+name = "Thomas Jackson"
+            personality = defence_5.1
+            background = attack_1.1
+}
+define_general = {
+name = "J.E.B. Stuart"
+            personality = defence_3.1
+            background = attack_2.1
+}
+define_general = {
+name = "James Longstreet"
+            personality = defence_2.1
+            background = attack_2.1
+}
+define_general = {
+name = "Nathan Bedford Forrest"
+            personality = defence_2.1
+            background = attack_3.1
+}
+define_general = {
+name = "Pierre Beauregard"
+            personality = defence_2.1
+            background = attack_2.1
+}
+small_arms = 200
+regular_clothes = 200
+ammunition = 200
+canned_food = 200
+artillery = 200
+cotton = 550
+leadership = 80
+any_pop = {
+militancy = -2
+consciousness = -7
+dominant_issue = {
+value = yes_slavery
+factor = 0.3
+}
+ideology = {
+factor = -0.1
+value = liberal
+}
+}
+add_country_modifier = {
+name = the_bonnie_blue_flag
+duration = 730
+}
+set_country_flag = bonnie_blue_flag
+}
+}
+#crimea NationalUnification.txt : fight_for_germany = {
+picture = military_parade
+potential = {
+is_greater_power = yes
+tag = SGF
+NOT = { has_country_flag = fight_for_germany }
+}
+allow = {
+war = no
+}
+effect = {
+add_country_modifier = {
+name = drive_to_reunify
+duration = 10950
+}
+years_of_research = 1
+set_country_flag = fight_for_germany
+any_pop = {
+limit = {
+OR = {
+culture = south_german
+}
+}
+ideology = {
+factor = -0.1
+value = liberal
+}
+ideology = {
+factor = 0.1
+value = conservative
+}
+ideology = {
+factor = 0.1
+value = reactionary
+}
+militancy = -9
+consciousness = -9
+}
+any_pop = {
+limit = {
+NOT = { culture = south_german }
+}
+ideology = {
+factor = -0.01
+value = liberal
+}
+ideology = {
+factor = 0.05
+value = conservative
+}
+militancy = -3
+consciousness = -3
+}
+}
+ai_will_do = {
+factor = 1
+}
+}
+#CWE soviet_union - After August Coup.txt: ### AFTER AUGUST COUP ###
+
+country_event = { # Condemnation of Gobachev's legacy - Kryuchkov
+id = 9001347
+title = "Condemnation of Gobachev's legacy"
+desc = EVT_9001347_DESC
+picture = "ussr_gorbatchev_legacy"
+
+fire_only_once = yes
+
+trigger = {
+tag = RUS
+year = 1992
+government = proletarian_dictatorship
+has_country_flag = vladimir_kryuchkov
+}
+
+mean_time_to_happen = { months = 1 }
+
+option = {
+name = "Remove Gorbachev's Reforms and make him a traitor."
+
+set_country_flag = ussr_gorbatchev_traitor
+
+any_pop = {
+consciousness = 2 militancy = 3
+ideology = { factor = -0.1 value = liberal }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = "Just remove the Gorbachev Reforms."
+
+any_pop = {
+consciousness = 1 militancy = 2
+ideology = { factor = -0.05 value = liberal }
+}
+
+ai_chance = { factor = 0.1 }
+}
+
+}
+#CWE soviet_union - After August Coup.txt : country_event = { # Condemnation of Gobachev's legacy - Pugo & Pavlov
+id = 9001349
+title = "Condemnation of Gobachev's legacy"
+desc = EVT_9001349_DESC
+picture = "ussr_gorbatchev_legacy"
+
+fire_only_once = yes
+
+trigger = {
+tag = RUS
+year = 1992
+government = proletarian_dictatorship
+OR = {
+has_country_flag = boris_pugo
+has_country_flag = valentin_pavlov
+}
+}
+
+mean_time_to_happen = { months = 1 }
+
+option = {
+name = "Remove Gorbachev's Reforms and make him a traitor."
+
+set_country_flag = ussr_gorbatchev_traitor
+
+any_pop = {
+consciousness = 2 militancy = 3
+ideology = { factor = -0.1 value = liberal }
+}
+
+ai_chance = { factor = 0.1 }
+}
+
+option = {
+name = "Just Eliminate Glasnost."
+
+any_pop = {
+consciousness = 1 militancy = 2
+ideology = { factor = -0.05 value = liberal }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+option = {
+name = "Eliminate Glasnost and Propose a New Economic Model."
+
+any_pop = {
+consciousness = 1 militancy = 2
+ideology = { factor = 0.05 value = communist_social }
+}
+
+ai_chance = { factor = 0.7 }
+}
+}
+
+#CWE soviet_union - After August Coup.txt : country_event = { # Death of Kryuchkov
+id = 9001362
+title = "Death of Kryuchkov"
+desc = EVT_9001362_DESC
+picture = "communist_death"
+
+fire_only_once = yes
+
+trigger = {
+tag = RUS
+year = 2006
+NOT = { year = 2010 }
+
+government = proletarian_dictatorship
+
+has_country_flag = vladimir_kryuchkov
+}
+
+mean_time_to_happen = { months = 11 }
+
+option = {
+name = "We have become a bigger North Korea..."
+
+clr_country_flag = vladimir_kryuchkov
+
+any_pop = {
+consciousness = -3 militancy = -4
+ideology = { factor = -0.05 value = liberal }
+}
+}
+
+}
+#CWE soviet_union - Stalin's Succession.txt: "###cwe Khrushchev ###
+
+country_event = { # Anti-Party Group - Khrushchev" & "Zhukov"
+
+#GF FlavourMod_NET.txt:
+    appoint_thorbecke = {
+        alert = no
+        picture = thorbecke_reforms
+        potential = {
+            OR = {
+tag = NET
+tag = BNF
+}
+            NOT = { year = 1860 }
+            OR = {
+                government = prussian_constitutionalism
+                government = semi_constitutional_empire
+                government = absolute_monarchy
+                government = absolute_empire
+            }
+            has_global_flag = thorbecke
+            has_global_flag = liberal_revolutions_should_now_fire
+            NOT = { has_global_flag = thorbecke_reforms }
+        }
+
+        allow = {
+            war = no
+            OR = {
+                average_militancy = 3
+                num_of_revolts = 1
+                average_consciousness = 5
+            }
+        }
+
+        effect = {
+            set_global_flag = thorbecke_reforms
+            prestige = -5
+            add_country_modifier = {
+                name = thorbecke_reforms
+                duration = 7300
+            }
+            random_owned = {
+                limit = {
+                    owner = {
+                        OR = {
+                            government = prussian_constitutionalism
+                            government = semi_constitutional_empire
+                        }
+                    }
+                }
+                owner = {
+                    political_reform = universal_weighted_voting
+                    political_reform = yes_meeting
+                    political_reform = free_press
+                }
+            }
+            random_owned = {
+                limit = {
+                    owner = { government = absolute_monarchy }
+                }
+                owner = {
+                    government = prussian_constitutionalism
+                    political_reform = landed_voting
+                    political_reform = yes_meeting
+                    political_reform = free_press
+                }
+            }
+            random_owned = {
+                limit = {
+                    owner = { government = absolute_empire }
+                }
+                owner = {
+                    government = semi_constitutional_empire
+                    political_reform = landed_voting
+                    political_reform = yes_meeting
+                    political_reform = free_press
+                }
+            }
+            political_reform = open_borders
+            remove_country_modifier = global_liberal_agitation
+            any_owned = {
+                limit = { is_colonial = no }
+                remove_province_modifier = liberal_agitation
+                any_pop = {
+                    ideology = { factor = 0.1 value = reactionary }
+                    scaled_militancy = { ideology = liberal factor = -8 }
+                    scaled_consciousness = { ideology = liberal factor = -8 }
+                    scaled_militancy = { ideology = conservative factor = -6 }
+                }
+                any_pop = {
+                    limit = {
+                        OR = {
+                            strata = rich
+                            strata = middle
+                        }
+                    }
+                    ideology = { factor = 0.1 value = conservative }
+                    ideology = { factor = 0.05 value = reactionary }
+                    ideology = { factor = -0.25 value = liberal }
+                }
+                any_pop = {
+                    limit = { strata = poor }
+                    ideology = { factor = 0.05 value = conservative }
+                    ideology = { factor = -0.05 value = liberal }
+                }
+            }
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+#GF NETFlavor.txt: #Ex Qua Die
+country_event = {
+    id = 211560
+    title = "DIM_NET_herstel_bisschoppen_title"
+    desc = "DIM_NET_herstel_bisschoppen_desc"
+    picture = "DIM_pope_pius_ix"
+    news = yes
+major = yes
+    news_title = "NEWS_dutch_bishops_title"
+    news_desc_long = "NEWS_dutch_bishops_long"
+    news_desc_medium = "NEWS_dutch_bishops_medium"
+    news_desc_short = "NEWS_dutch_bishops_short"
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA211560"
+        relation = { who = PAP value = 20 }
+        any_pop = {
+            limit = { has_pop_religion = catholic }
+            militancy = -0.5
+            consciousness = -0.5
+        }
+        any_pop = {
+            limit = { has_pop_religion = protestant }
+            ideology = { factor = 0.1 value = reactionary }
+            ideology = { factor = 0.1 value = conservative }
+            ideology = { factor = -0.05 value = liberal }
+            militancy = 1
+            consciousness = 1
+        }
+    }
+
+}
+
+#Ex Qua Die
+country_event = {
+    id = 211560
+    title = "DIM_NET_herstel_bisschoppen_title"
+    desc = "DIM_NET_herstel_bisschoppen_desc"
+    picture = "DIM_pope_pius_ix"
+    news = yes
+major = yes
+    news_title = "NEWS_dutch_bishops_title"
+    news_desc_long = "NEWS_dutch_bishops_long"
+    news_desc_medium = "NEWS_dutch_bishops_medium"
+    news_desc_short = "NEWS_dutch_bishops_short"
+    is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA211560"
+        relation = { who = PAP value = 20 }
+        any_pop = {
+            limit = { has_pop_religion = catholic }
+            militancy = -0.5
+            consciousness = -0.5
+        }
+        any_pop = {
+            limit = { has_pop_religion = protestant }
+            ideology = { factor = 0.1 value = reactionary }
+            ideology = { factor = 0.1 value = conservative }
+            ideology = { factor = -0.05 value = liberal }
+            militancy = 1
+            consciousness = 1
+        }
+    }
+
+}
+#GF NETFlavour.txt:#Aprilbeweging
+country_event = {
+    id = 211561
+    title = "DIM_NET_aprilbeweging_title"
+    desc = "DIM_NET_aprilbeweging_desc"
+    picture = "DIM_aprilbeweging"
+    fire_only_once = yes
+    news = yes
+major = yes
+    news_title = "NEWS_aprilbeweging_title"
+    news_desc_long = "NEWS_aprilbeweging_long"
+    news_desc_medium = "NEWS_aprilbeweging_medium"
+    news_desc_short = "NEWS_aprilbeweging_short"
+
+    trigger = {
+        OR = {
+tag = NET
+tag = BNF
+}
+        has_global_flag = DIM_restored_bishops
+    }
+
+    mean_time_to_happen = { months = 2 }
+
+    option = {
+        name = "EVTOPTA211561"
+        set_global_flag = DIM_aprilbeweging
+        prestige = -5
+        add_country_modifier = { name = DIM_aprilbeweging duration = 180 }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = catholic
+            }
+            militancy = -1
+            consciousness = -1
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = protestant
+            }
+            militancy = 1
+            consciousness = 2
+            ideology = { factor = 0.15 value = reactionary }
+            ideology = { factor = 0.05 value = conservative }
+            ideology = { factor = -0.05 value = liberal }
+        }
+
+        ai_chance = { factor = 90 }
+    }
+
+    option = {
+        name = "EVTOPTB211561"
+        badboy = 1
+        plurality = -5
+        prestige = 5
+        relation = { who = PAP value = -20 }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = catholic
+            }
+            militancy = 3
+            consciousness = 3
+            ideology = { factor = 0.1 value = liberal }
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+            }
+            scaled_militancy = { factor = 0.5 ideology = liberal }
+            scaled_militancy = { factor = 0.75 ideology = radical }
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = protestant
+            }
+            ideology = { factor = 0.05 value = conservative }
+            militancy = -1
+            consciousness = -1
+        }
+
+        ai_chance = { factor = 5 }
+    }
+}
+#GF NETFlavour: #A Visit to Utrecht
+country_event = {
+    id = 211562
+    title = "DIM_NET_a_visit_to_Utrecht_title"
+    desc = "DIM_NET_a_visit_to_Utrecht_desc"
+    picture = "DIM_aprilbeweging_utrecht"
+    fire_only_once = yes
+
+    trigger = {
+        OR = {
+tag = NET
+tag = BNF
+}
+        has_global_flag = DIM_aprilbeweging
+    }
+
+    mean_time_to_happen = { months = 1 }
+
+    option = {
+        name = "EVTOPTA211562"
+        any_pop = {
+            limit = { has_pop_religion = catholic }
+            consciousness = 1
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = protestant
+            }
+            ideology = { factor = 0.10 value = reactionary }
+            ideology = { factor = 0.05 value = conservative }
+            ideology = { factor = -0.05 value = liberal }
+        }
+
+        ai_chance = { factor = 70 }
+    }
+
+    option = {
+        name = "EVTOPTB211562"
+        any_pop = {
+            limit = { has_pop_religion = catholic }
+            militancy = 2
+            consciousness = 2
+            ideology = { factor = 0.1 value = liberal }
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    is_primary_culture = yes
+                    is_accepted_culture = yes
+                }
+                has_pop_religion = protestant
+            }
+            ideology = { factor = 0.1 value = conservative }
+            ideology = { factor = 0.15 value = reactionary }
+            ideology = { factor = -0.05 value = liberal }
+            militancy = 1
+            consciousness = 1
+        }
+
+        ai_chance = { factor = 30 }
+    }
+}
+
+#Ult Axis.txt : # Nazi Germany
+#
+# Event IDs 100000 - 100099
+#
+###########################################################################
+
+# National Instability
+
+#liberal:^
 	#BAI #crimea #NEM fukoku_kyohei = {
 		potential = {
 			OR = {
