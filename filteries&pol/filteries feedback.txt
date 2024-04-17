@@ -1,0 +1,33 @@
+For someone lacking political spectrum understanding, it´s good yet idk. More transparency would add credibility here. Just curious about what sources filteries.com uses, relationship with the political compass & polcompball-wiki, ...
+
+Definition of right-left in filteries.com:
+what left/right axis really mean (which http://web.archive.org/web/20220423113637/http://factmyth.com/the-left-right-political-spectrum-explained/ still active link in 23.04.2022 says cooperation (left) vs competition (right) ) 
+What´s may normal and confusing the 45 degree shift by your 2017 test-version compare to https://www.politicalcompass.org/test and
+http://spekr.org/ as seen by http://web.archive.org/web/20220423120842/https://www.thestudentroom.co.uk/showthread.php?t=4562836 (still active) and new-looking from 2022 3 years ago version by http://web.archive.org/web/20220423122114/https://www.nationstates.net/page=dispatch/id=1183434 , meanwhile in reddit.com, most filteries results seems to correlate better to their given dot-coordination like in http://web.archive.org/web/20220423131036/https://www.reddit.com/r/PoliticalCompass/comments/drtnrb/i_took_pretty_much_every_test_i_could_find_except/        her results https://i.postimg.cc/850YFjQf/Uchiha-Izanami-Results-2-years-ago-2022-04-23-u095111.png & http://web.archive.org/web/20220423132319/https://i.imgur.com/qVpzaya.png . 
+General self-tag critic: It´s irritating that for example "GB_He_Be" tagged himself as auth-right, yet due modernist contradiction being center and yet it can count as both centrist and auth-right, making both flairs in reddit less meaningful.
+
+Test Bias:
+Also I just found "looooooooooong deer tracker" replying to accusing your site as all tests he met as libertarian bias (http://web.archive.org/web/20220423132015/https://pbs.twimg.com/media/EDT5WXuXUAIhXU1?format=png&name=small) in http://web.archive.org/web/20220423131407/https://twitter.com/TLEBirdarchist/status/1167832363876921347
+"i just took both the political compass test and the sapply values version, i’ve heard that the political compass has a libleft bias and sapplyvalues has an authoritarian bias - thoughts?" - 1 year ago from 23.04.2022 in http://web.archive.org/web/20220423140725/https://i.reddit.com/r/PoliticalCompass/comments/k3kwxw/i_just_took_both_the_political_compass_test_and/
+Combining this and if quark did it in the same manner with dividing "social or cultural ideas" with the "economic and civic axis" in https://web.archive.org/web/20220423141359/https://quark88.github.io/bettercompass/ (link still works) I just found a more centrist one, just speculating. How questions affect scores you can see in https://web.archive.org/web/20220423141546/https://github.com/QUARK88/bettercompass/blob/main/questions.js .
+
+Similarity:
+Orioni (well-known name by "nationstates") in http://web.archive.org/web/20220423124857/https://www.europans.com/topic/4884-filteries-political-simulator/ said "This is related to the 8 values political test, but with much more detailed results."
+Interesting link about the Four Pillar Theory political spectrum looking similar then this: https://web.archive.org/web/20220201163810/http://percevalindex.atspace.eu/theory.html yet factmyth.comthe-left-right-political-spectrum-explained/ seems more promising.
+
+Feedback tab critique:
+The X by this feedback refuses to do his function by my Windows 10 PC.
+
+Test For Social Media Worth Look To, Adapting Some Parts Or Contact:
+There´s http://web.archive.org/web/20220423142202/https://quark88.github.io/dozenvalues/ causing results looking like this trying to get the most right-wing tent result (depending how "right" at this point is defined some around feudalism) (http://web.archive.org/web/20220423132419/https://quark88.github.io/dozenvalues/?0.0,0.0,50.0,0.0,0.0,100.0) finding the closest match of polcompball only missing left-r. and high/low spending axis compare to spectrum here. You can copy&paste https://polcompballanarchy.miraheze.org/wiki/DozenValues/ and after this slash put with capslock in beginning the resul values like "Coordination" which I think is eco. regulation to check yourself or read description in test. "Permission" is civil liberal-authority axis so must "Dominion" be statist.
+Just in their questionnaire, they say supporting monarchy makes one more towards heritage & dominion instead by yours civil.restrictive-authoritarian and just "right" by http://web.archive.org/web/20220423124829/https://github.com/QUARK88/dozenvalues/blob/master/json/questions.json
+
+^23.04.2022 16:37:34
+
+Noticing and Compass-Correlation: In 
+http://web.archive.org/web/20220425000603/http://aquarianagrarian.blogspot.com/2011/01/political-spectrums.html, there´s https://i.postimg.cc/mDX6NFCS/National-Bolshevism-To-Individualism-Square-Spectrum24042022u2113.png and https://i.postimg.cc/Lsvy2ZCM/Absolutists-To-Individual-Anarchist-2022-04-24-u211545.png which seems to correlate with yout spectrum I guess, making Constitutionalists and or nationalists in the "right" term meanwhile "left" being Internationalist Communist/Collectivist.
+
+Research Recommendations:
+You can use eTools.ch and s.zhaocloud.net for researching witz many search engine in once for better internet graps (different crawlers) and Yandex-Reverse-Image-Search for pictures.
+
+^25.04.2022 02:25
