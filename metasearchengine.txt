@@ -1,3 +1,4 @@
+2023-07-09 19:14 :
 https://github.com/jivoi/awesome-osint
 https://web.archive.org/web/20230709143241/https://www.cryer.co.uk/resources/search-engines/meta.htm#gsc.tab=0
 Uses Snap, Direct Hit,Yahoo, Lycos, Inktomi and others.
