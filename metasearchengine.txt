@@ -1,0 +1,24 @@
+https://github.com/jivoi/awesome-osint
+https://web.archive.org/web/20230709143241/https://www.cryer.co.uk/resources/search-engines/meta.htm#gsc.tab=0
+Uses Snap, Direct Hit,Yahoo, Lycos, Inktomi and others.
+
+last eTools: https://web.archive.org/web/20230222190829/https://searx.space/#
+
+https://search.serginho.dev/																																
+https://suche.tromdienste.de/ 4 error messages no crowdview
+no marginalia
+https://search.bus-hit.me/																																
+https://ooglester.com/ 4 error messages by "marginalia vs crowdviewer"
+
+eTools.ch 4 Brave | DuckDuckGo | Lilo | Qwant
+serginho 7 startpage bing yahoo brave wiby curlie yepbroke
+ooglester.com 8 duckduckgo bing yahoo brave wiby yep(broken) curlie google
+
+https://suche.tromdienste.de/ 8 yahoo brave qwant bing duckduckgo curlie wiby yepbroken
+https://search.bus-hit.me/ 6 startpage google brave curlie yepbroken wiby 
+https://searx.sev.monster/search 7 duckduckgo startpage yahoo brave google wiby curlie
+
+https://search.ethibox.fr/search yahoo duckduckgo onesearch qwant wiby worked crowdview under "marginalia vs crowdview"
+
+https://searx.roflcopter.fr/search has Kaufland search engine
+https://search.ethibox.fr/search imdb tvmaze only works
