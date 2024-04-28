@@ -11,3 +11,22 @@ https://web.archive.org/20240428/https://www.researchgate.net/publication/365892
 https://web.archive.org/20240428/https://research-methodology.net/research-philosophy/ontology/ : "Accordingly, objectivism (or positivism) and subjectivism can be specified as two important aspects of ontology.".
 "Positivism	External, objective and independent of social actors,
 Realism	Objective. Exists independently of human thoughts and beliefs or knowledge of their existence (realist), but is interpreted through social conditioning (critical realist)"
+archived later yet query-action happened 1 minute earlier: https://web.archive.org/20240428184700/https://heliumtrades.com/balanced-news/?q=What+is+the+difference+between+objectivity+and+realism%3F : "Distinguishing Objectivity from Realism
+The terms objectivity and realism are often used interchangeably in everyday discourse, yet they hold distinct meanings in philosophical and critical contexts.
+
+
+Objectivity refers to the concept of perceiving and representing facts free from personal bias, emotions, or subjective interpretations. It is often discussed within the realm of knowledge and truth-finding processes, emphasizing an impartial standpoint that strives to see things as they are, not as one might wish them to be [Cambridge Dictionary].
+Realism, in contrast, is a broader philosophical doctrine which posits that external reality exists independently of human thoughts or perceptions. Philosophical realism argues for the existence of an objective reality that human beings can know and understand [Stanford Encyclopedia of Philosophy].
+
+
+Key Differences
+Epistemological Focus: Objectivity primarily concerns methods of inquiry and the attitudinal stance of individuals towards facts, aiming for neutrality. Realism, however, is concerned with the nature of reality itself and the capacity of human knowledge to accurately reflect that reality.
+Disciplinary Applications: Objectivity is commonly applied in sciences and journalism where methods and reporting strive to minimize bias [Nature]. Realism spans across various disciplines including art (depicting life accurately), literature (illusory reality in narrative forms), and sciences (the existence of phenomena independent of observation).
+
+
+Conclusion
+While objectivity and realism can interrelate—realism requiring a degree of objective analysis and objectivity often assuming a realist background—their cores diverge in philosophical significance. One deals with an ethical and methodological approach to information (objectivity), while the other tackles the foundational nature of existence and perception (realism).
+
+
+Note: References to specific philosophical resources and articles were used for summarizing these definitions and differences.
+April 28, 2024"
