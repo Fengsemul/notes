@@ -1,0 +1,305 @@
+Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Subsystems] Discovering subsystems at path C:/Games/Among Us/Among Us_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   (null)
+    VRAM:     2062 MB
+    Driver:   27.20.11044.7
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.647700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3556.
+Total: 1.205000 ms (FindLiveObjects: 0.146100 ms CreateObjectMapping: 0.107300 ms MarkObjects: 0.938200 ms  DeleteObjects: 0.013100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.226900 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+UnityEngine.Object:DontDestroyOnLoad(Object)
+DestroyableSingleton`1:Awake()
+AchievementManager:Awake()
+
+[ line 11728180]
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4841.
+Total: 13.940400 ms (FindLiveObjects: 0.197900 ms CreateObjectMapping: 0.087700 ms MarkObjects: 13.606100 ms  DeleteObjects: 0.048000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4841.
+Total: 13.727000 ms (FindLiveObjects: 0.219300 ms CreateObjectMapping: 0.091000 ms MarkObjects: 13.405600 ms  DeleteObjects: 0.010500 ms)
+
+DiscordManager: Discord messed up
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DiscordManager:Start()
+
+Sending addressables request to https://6b8b0d91-4a20-4a00-a3e4-4da4a883a5f0.client-api.unity3dusercontent.com/client_api/v1/buckets/45a11978-2e3a-419f-b4e6-94f0eddbb343/release_by_badge/2024_3_5-2024_1_11_1015/entry_by_path/content/?path=/catalog_2024.02.14.05.12.35.hash
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<Initialize>b__6_0(UnityWebRequest)
+System.IOAsyncCallback:Invoke(IOAsyncResult)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:SendWebRequest(String)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:Start(ProvideHandle, TextDataProvider)
+UnityEngine.ResourceManagement.ResourceProviders.TextDataProvider:Provide(ProvideHandle)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation, Type, Boolean)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation)
+UnityEngine.ResourceManagement.ResourceManager:CreateGroupOperation(IList`1, Boolean)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:LoadContentCatalog(AddressablesImpl, IResourceLocation, String, IResourceLocation)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:LoadContentCatalogInternal(IList`1, Int32, ResourceLocationMap, IResourceLocation)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:<.ctor>b__35_0(AsyncOperationHandle)
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass57_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String)
+UnityEngine.ResourceManagement.AsyncOperations.InitalizationObjectsOperation:<Execute>b__8_0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.ResourceManager:ExecuteDeferredCallbacks()
+UnityEngine.ResourceManagement.ResourceManager:Update(Single)
+ScrollHandler:Invoke(Single)
+MonoBehaviourCallbackHooks:Update()
+
+Censor set language = Deutsch
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BlockedWords:SetLanguage(TranslatedImageSet)
+TranslationController:Initialize()
+
+No translation found in English for the following StringNames:
+None
+DataPolicyTitle
+DataPolicyText
+VitalsOK
+VitalsDEAD
+VitalsDC
+NoTranslation
+CrewmateGhostRole
+ImpostorGhostRole
+HideSeekHowToPlayTitleOne
+HideSeekHowToPlayImpostorOne
+QCCrewMyself
+QCRemarks
+ANY
+CreateTryAgain
+ColorSunset
+DownloadLabel
+UploadLabel
+HolidayHatLabel
+XpGained
+PodsEarned
+CosmicubeNodeUnlocked
+PrestigeLevelShorthand
+ErrorSelfPlatformLock
+CrewmateLeadTime
+CrewmadeHideBlurb
+ImpostorKillBlurb
+HideCountdown
+ScaryMusicDistance
+ShortTaskTimeValue
+LongTaskTimeValue
+CommonTaskTimeValue
+VeryScaryMusicDistance
+SeekerFinalVents
+CrewmateVentCooldown
+ShowPingTime
+MinPingTime
+ShowImpostorNames
+TryAgain
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+LanguageUnit:.ctor(TranslatedImageSet)
+TranslationController:Initialize()
+
+Hooked up SceneManager callback
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SceneManagerCallbacks:.cctor()
+SceneChanger:BeginLoadingSceneInternal(LoadSceneMode)
+SceneChanger:BeginLoadingScene()
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Begin async loading MainMenu
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SceneChanger:BeginLoadingSceneInternal(LoadSceneMode)
+SceneChanger:BeginLoadingScene()
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 1.042300 ms
+Game options game mode switched to Normal
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InnerNet.UnityLogger:WriteInfo(String)
+GameOptionsManager:SwitchGameMode(GameModes)
+GameOptionsManager:Initialize()
+MainMenuManager:Awake()
+
+ServerManager::LoadServers
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:LoadServers()
+
+Updated existing region: Modded EU (MEU)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:AddOrUpdateRegion(IRegionInfo)
+
+Updated existing region: Modded NA (MNA)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:AddOrUpdateRegion(IRegionInfo)
+
+Updated existing region: Modded Asia (MAS)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:AddOrUpdateRegion(IRegionInfo)
+
+ServerManager::ReselectServer
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:ReselectServer()
+
+Selected server: Http-1: https://matchmaker-as.among.us:443 False
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:ReselectServer()
+
+Among Us Version v2024.3.5i (build num: 3971) Pipeline Build Num: 3971
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+VersionShower:Start()
+
+
+Unloading 506 unused Assets to reduce memory usage. Loaded Objects now: 26564.
+Total: 74.446800 ms (FindLiveObjects: 1.837600 ms CreateObjectMapping: 2.303000 ms MarkObjects: 69.956900 ms  DeleteObjects: 0.348700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 26564.
+Total: 75.087700 ms (FindLiveObjects: 1.301100 ms CreateObjectMapping: 1.421500 ms MarkObjects: 72.315800 ms  DeleteObjects: 0.048700 ms)
+
+There were no cosmicubes to download ahead of time
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<StartDownload>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Didn't read EOS player prefs: NotFound
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PlayerStorageManager:OnReadPlayerPrefsCompleteInternal(MemoryStream, Result)
+PlayerStorageManager:OnReadPlayerPrefsComplete(ReadFileCallbackInfo&)
+Epic.OnlineServices.Auth.OnDeletePersistentAuthCallback:Invoke(DeletePersistentAuthCallbackInfo&)
+
+Unity IAP: <b>Unity In-App Purchasing</b> requires <b>Unity Gaming Services</b> to have been initialized before use.
+- Find out how to initialize <b>Unity Gaming Services</b> by following the documentation <i>https://docs.unity.com/ugs-overview/services-core-api.html#InitializationExample</i>
+or download the <i>06 Initialize Gaming Services</i> sample from <i>Package Manager > In-App Purchasing > Samples</i>.
+- If you are using the codeless API, you may want to enable the enable <b>Unity Gaming Services</b> automatic initialization by checking the <b>Automatically initialize Unity Gaming Services</b> checkbox at the bottom of the <b>IAP Catalog</b> window
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogWarning(String, Object)
+UnityEngine.Purchasing.UnityServicesInitializationChecker:CheckAndLogWarning()
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder, ILogger, String, IAnalyticsAdapter, IAnalyticsAdapter, ICatalogProvider, IUnityServicesInitializationChecker)
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder)
+StoreManager:Initialize()
+<InitializeStore>d__132:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+<UpdateFriendCodeAndInventory>d__131:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Coroutine couldn't be started because the the game object 'Cosmetics' is inactive!
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+CosmeticsLayer:SetPetIdle(PetData, Int32, Action)
+PoolablePlayer:UpdateFromDataManager(MaskType)
+AccountManager:UpdatePlayerCustomizationVisuals()
+InventoryManager:CheckEquipped()
+InventoryManager:OnInventoryOpenCallback(OnOpenCompleteCallbackInfo&)
+Epic.OnlineServices.Auth.OnDeletePersistentAuthCallback:Invoke(DeletePersistentAuthCallbackInfo&)
+
+[ line 11727796]
+
+finishing flow, login status LoggedIn
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EOSManager:EndFinalPartsOfLoginFlowFullAccount()
+<CheckForNewUnlockables>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+InventoryManager:<OnInventoryOpenCallback>b__46_0(OnCloseCompleteCallbackInfo&)
+Epic.OnlineServices.Auth.OnDeletePersistentAuthCallback:Invoke(DeletePersistentAuthCallbackInfo&)
+
+*******************updating to OFFLINE MODE
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AccountTab:UpdateVisuals()
+<CheckFriendCodeAndUpdateVisuals>d__50:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to store EOS file player.prefs: AlreadyPending
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+PlayerStorageManager:OnWriteFileComplete(WriteFileCallbackInfo&)
+Epic.OnlineServices.Auth.OnDeletePersistentAuthCallback:Invoke(DeletePersistentAuthCallbackInfo&)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ffc -> priority: 1 

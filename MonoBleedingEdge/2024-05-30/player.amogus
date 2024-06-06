@@ -1,0 +1,41 @@
+{
+  "account": {
+    "loginStatus": 1,
+    "guardianEmail": "",
+    "deleteDeviceIDFailed": false
+  },
+  "customization": {
+    "name": "Eggwry",
+    "colorID": 0,
+    "pet": "",
+    "hat": "",
+    "skin": "",
+    "visor": "",
+    "namePlate": ""
+  },
+  "stats": {
+    "level": 10,
+    "xp": 40,
+    "xpForNextLevel": 365
+  },
+  "onboarding": {
+    "privacyPolicyVersion": 4,
+    "viewedOnlineHelpMessage": false,
+    "viewedMinPlayerWarning": false,
+    "alwaysShowMinPlayerWarning": true,
+    "viewedHideAndSeekHowToPlay": true
+  },
+  "age": "ewwIIyQnYmZ8bEVtTmR8e3gzKDM2JyYnLTQqLjEtK0sQERgTFB8WFwoFJyEMDQxDUUVXQEBmU0N8WE5eHgceHXJxcHdpdXNqe3keenx3e35qYmp9YmxuZmBvbgF+UFQi",
+  "store": "ewwIIyQnZ2R8YHxuT2J9YnlyZ3FxNyw3Ojs2FhY9Pj1CVExHSEBVcUFMXW9NWUsNChEQAwQFBxoICBcLDWkOD3pxcnl0dWRrRUNqa24lLzsjBzs2IxE3Iz17YHt+bW5vUUxSUklVVzNYWVBbXFdeX1Jdf3lUVVQYDQ0cEggOKBbl9sbi8OCkvairuru8vKO/obyiosClpq2oqaCrrL+ykqqBgoHSzNXI2tr8wsna6s7E1JCJlJeGh4iIl4uNkI6OlPHy+fT1/Pf46+bGxu3u7aC0pqBWaGd0QGRyYiozKik8PT4+PSEjPiQkQicoIyorJi0uPQwsKAMEB0hGRUxaR01ZS1xmWFdEcFRCUhoDGhkMDQ4ObXFzbnR0End4c3p7dn1+bXxcWHN0dzU4KzQzOCk/OwkJBBUnBREDRVJJSFtcXV9CQEBfQ0UhRkdCSUpBTE1cU42LoqOm6ePg6erz2/n/7efx4vfgtq+2zMWUkOY=",
+  "ads": "ewwIIyQnZ2N7Wn5qeGgsNTAhPh4eNTY1cHhpS2lvfXdBUkdHZUF0QkVGXEpADxQPVlBeQFE4PEo=",
+  "announcements": {
+    "announcementsRead": [
+      74
+    ],
+    "latestAnnouncementNumber": 74
+  },
+  "friends": {
+    "names": []
+  },
+  "dataVersion": 1
+}

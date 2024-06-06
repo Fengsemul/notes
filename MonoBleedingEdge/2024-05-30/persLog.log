@@ -1,0 +1,34 @@
+----------------------------------------------------------
+30-51-2024-12-51-16: App Start
+30-51-2024-12-51-23: No Device ID account found on this device Error: NotFound
+30-51-2024-12-51-23: Start Platform Authentication
+30-51-2024-12-51-23: Log in with Platform itch.io
+30-51-2024-12-51-30: Successfully Logged into Platform Account itch.io/00020c1fd8ed4dbc928f0b32ae256e71
+30-51-2024-12-51-31: Query DOB
+30-51-2024-12-51-44: Finish Login Flow. Guest: //Logged in(itch.io): 00020c1fd8ed4dbc928f0b32ae256e71
+----------------------------------------------------------
+30-56-2024-12-56-24: App Start
+30-56-2024-12-56-29: No Device ID account found on this device Error: NotFound
+30-56-2024-12-56-29: Start Platform Authentication
+30-56-2024-12-56-30: Log in with Platform itch.io
+30-56-2024-12-56-30: Successfully Logged into Platform Account itch.io/00020c1fd8ed4dbc928f0b32ae256e71
+30-56-2024-12-56-36: Finish Login Flow. Guest: //Logged in(itch.io): 00020c1fd8ed4dbc928f0b32ae256e71
+30-57-2024-12-57-48: Log in with Platform itch.io
+30-57-2024-12-57-49: Successfully Logged into Platform Account itch.io/00020c1fd8ed4dbc928f0b32ae256e71
+30-57-2024-12-57-49: Finish Login Flow. Guest: //Logged in(itch.io): 00020c1fd8ed4dbc928f0b32ae256e71
+----------------------------------------------------------
+30-11-2024-01-11-49: App Start
+30-11-2024-01-11-54: No Device ID account found on this device Error: NotFound
+30-11-2024-01-11-54: Start Platform Authentication
+30-11-2024-01-11-55: Log in with Platform itch.io
+30-11-2024-01-11-56: Successfully Logged into Platform Account itch.io/00020c1fd8ed4dbc928f0b32ae256e71
+30-12-2024-01-12-02: Finish Login Flow. Guest: //Logged in(itch.io): 00020c1fd8ed4dbc928f0b32ae256e71
+----------------------------------------------------------
+30-29-2024-09-29-03: App Start
+30-29-2024-09-29-08: No Device ID account found on this device Error: NotFound
+30-29-2024-09-29-08: Start Platform Authentication
+30-29-2024-09-29-10: Win10 ID 2535427365446391
+30-29-2024-09-29-11: Log in with Platform Windows 10
+30-29-2024-09-29-11: Successfully Logged into Platform Account Windows 10/00021faa477249c1931b836543d11871
+30-29-2024-09-29-17: Finish Login Flow. Guest: //Logged in(Windows 10): 00021faa477249c1931b836543d11871
+30-29-2024-09-29-20: We're showing as fully logged in, but have 0 external accounts on PUID 00021faa477249c1931b836543d11871

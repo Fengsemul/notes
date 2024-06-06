@@ -1,0 +1,891 @@
+Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Subsystems] Discovering subsystems at path C:/Users/Se/Documents/Among.Us.v2024.3.53.0-0xdeadc0de/Among Us_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     7142 MB
+    Driver:   27.20.11044.7
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.567800 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3556.
+Total: 1.516300 ms (FindLiveObjects: 0.200200 ms CreateObjectMapping: 0.224100 ms MarkObjects: 1.062500 ms  DeleteObjects: 0.029100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.867200 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+DestroyableSingleton`1:Awake()
+
+[ line 1446505048]
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4841.
+Total: 25.987900 ms (FindLiveObjects: 0.297300 ms CreateObjectMapping: 0.149100 ms MarkObjects: 25.494500 ms  DeleteObjects: 0.046500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4841.
+Total: 23.031500 ms (FindLiveObjects: 0.255300 ms CreateObjectMapping: 0.169000 ms MarkObjects: 22.583600 ms  DeleteObjects: 0.023100 ms)
+
+NetworkManager::ListenForInvite
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10Manager:Start()
+
+DiscordManager: Discord messed up
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DiscordManager:Start()
+
+Sending addressables request to https://6b8b0d91-4a20-4a00-a3e4-4da4a883a5f0.client-api.unity3dusercontent.com/client_api/v1/buckets/acbd6a43-a66c-4e30-9adf-53b3b79d9dee/release_by_badge/2024_3_5-2024_1_11_1015/entry_by_path/content/?path=/catalog_2024.02.14.01.06.41.hash
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:SendWebRequest(String)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:Start(ProvideHandle, TextDataProvider)
+UnityEngine.ResourceManagement.ResourceProviders.TextDataProvider:Provide(ProvideHandle)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation, Type, Boolean)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation)
+UnityEngine.ResourceManagement.ResourceManager:CreateGroupOperation(IList`1, Boolean)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:LoadContentCatalog(AddressablesImpl, IResourceLocation, String, IResourceLocation)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass57_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String)
+UnityEngine.ResourceManagement.AsyncOperations.InitalizationObjectsOperation:<Execute>b__8_0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.ResourceManager:ExecuteDeferredCallbacks()
+UnityEngine.ResourceManagement.ResourceManager:Update(Single)
+ScrollHandler:Invoke(Single)
+
+Sending addressables request to https://6b8b0d91-4a20-4a00-a3e4-4da4a883a5f0.client-api.unity3dusercontent.com/client_api/v1/buckets/acbd6a43-a66c-4e30-9adf-53b3b79d9dee/release_by_badge/2024_3_5-2024_1_11_1015/entry_by_path/content/?path=/catalog_2024.02.14.01.06.41.json
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:SendWebRequest(String)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:Start(ProvideHandle, TextDataProvider)
+UnityEngine.ResourceManagement.ResourceProviders.TextDataProvider:Provide(ProvideHandle)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:UnityEngine.ResourceManagement.AsyncOperations.IAsyncOperation.Start(ResourceManager, AsyncOperationHandle, DelegateList`1)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation, Type, Boolean)
+UnityEngine.ResourceManagement.ResourceManager:ProvideResource(IResourceLocation)
+UnityEngine.AddressableAssets.ResourceProviders.InternalOp:LoadCatalog(String, Boolean)
+UnityEngine.AddressableAssets.ResourceProviders.ContentCatalogProvider:Provide(ProvideHandle)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:Execute()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeExecute()
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass57_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.GroupOperation:CompleteIfDependenciesComplete()
+System.Action`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.<>c__DisplayClass57_0:<add_CompletedTypeless>b__0(AsyncOperationHandle`1)
+System.Action`1:Invoke(T)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:InvokeCompletionEvent()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:RequestOperation_completed(AsyncOperation)
+System.Action`1:Invoke(T)
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+Censor set language = Deutsch
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BlockedWords:SetLanguage(TranslatedImageSet)
+TranslationController:Initialize()
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+No translation found in English for the following StringNames:
+None
+DataPolicyTitle
+DataPolicyText
+VitalsOK
+VitalsDEAD
+VitalsDC
+NoTranslation
+CrewmateGhostRole
+ImpostorGhostRole
+HideSeekHowToPlayTitleOne
+HideSeekHowToPlayImpostorOne
+QCCrewMyself
+QCRemarks
+ANY
+CreateTryAgain
+ColorSunset
+DownloadLabel
+UploadLabel
+HolidayHatLabel
+XpGained
+PodsEarned
+CosmicubeNodeUnlocked
+PrestigeLevelShorthand
+ErrorSelfPlatformLock
+CrewmateLeadTime
+CrewmadeHideBlurb
+ImpostorKillBlurb
+HideCountdown
+ScaryMusicDistance
+ShortTaskTimeValue
+LongTaskTimeValue
+CommonTaskTimeValue
+VeryScaryMusicDistance
+SeekerFinalVents
+CrewmateVentCooldown
+ShowPingTime
+MinPingTime
+ShowImpostorNames
+TryAgain
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+LanguageUnit:.ctor(TranslatedImageSet)
+TranslationController:Initialize()
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Hooked up SceneManager callback
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SceneManagerCallbacks:.cctor()
+SceneChanger:BeginLoadingSceneInternal(LoadSceneMode)
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Begin async loading MainMenu
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SceneChanger:BeginLoadingSceneInternal(LoadSceneMode)
+<InitializeRefdata>d__10:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 1.612800 ms
+Game options game mode switched to Normal
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameOptionsManager:SwitchGameMode(GameModes)
+MainMenuManager:Awake()
+
+ServerManager::LoadServers
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerManager:LoadServers()
+ServerManager:Awake()
+
+Unity IAP: <b>Unity In-App Purchasing</b> requires <b>Unity Gaming Services</b> to have been initialized before use.
+- Find out how to initialize <b>Unity Gaming Services</b> by following the documentation <i>https://docs.unity.com/ugs-overview/services-core-api.html#InitializationExample</i>
+or download the <i>06 Initialize Gaming Services</i> sample from <i>Package Manager > In-App Purchasing > Samples</i>.
+- If you are using the codeless API, you may want to enable the enable <b>Unity Gaming Services</b> automatic initialization by checking the <b>Automatically initialize Unity Gaming Services</b> checkbox at the bottom of the <b>IAP Catalog</b> window
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogWarning(String, Object)
+UnityEngine.Purchasing.UnityServicesInitializationChecker:CheckAndLogWarning()
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder, ILogger, String, IAnalyticsAdapter, IAnalyticsAdapter, ICatalogProvider, IUnityServicesInitializationChecker)
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder)
+<RunStartUp>d__38:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MainMenuManager:Start()
+
+Among Us Version v2024.3.5m (build num: 3972) Pipeline Build Num: 3972
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+VersionShower:Start()
+
+
+Unloading 506 unused Assets to reduce memory usage. Loaded Objects now: 26413.
+Total: 50.774000 ms (FindLiveObjects: 1.528800 ms CreateObjectMapping: 1.698400 ms MarkObjects: 47.152300 ms  DeleteObjects: 0.394200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 26413.
+Total: 50.660200 ms (FindLiveObjects: 1.577400 ms CreateObjectMapping: 1.768100 ms MarkObjects: 47.259300 ms  DeleteObjects: 0.055000 ms)
+
+There were no cosmicubes to download ahead of time
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<StartDownload>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Win10Manager::GetUserId Result 0
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10Manager:SetUser(XUserHandle)
+EOSManager:OnUserAdded(Int32, XUserHandle)
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.<>c__DisplayClass132_0:<XUserAddAsync>b__0(XAsyncBlockPtr)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Win10Manager::GetUserContext result 0
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10Manager:SetUser(XUserHandle)
+EOSManager:OnUserAdded(Int32, XUserHandle)
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.<>c__DisplayClass132_0:<XUserAddAsync>b__0(XAsyncBlockPtr)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PNXTMQB73JT (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PDJ3J26HW31 (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N412DLTD22P (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P7VWQCW46VX (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PP96GQFHW89 (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PN37XBLK67D (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PPS19044CLL (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P3XLTS02WKB (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N382JM8PG7J (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P97D0R3N4JR (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9MW7610J04G2 (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N7GR1WVD8FC (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PM63CM7XCWS (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Win10: CheckOutsideStarPurchase
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CheckOutsideStarPurchases()
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Unavailable product -
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Purchasing.PurchasingManager:HasAvailableProductsToPurchase(Boolean)
+UnityEngine.Purchasing.PurchasingManager:OnProductsRetrieved(List`1)
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Didn't read EOS player prefs: NotFound
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PlayerStorageManager:OnReadPlayerPrefsCompleteInternal(MemoryStream, Result)
+PlayerStorageManager:OnReadPlayerPrefsComplete(ReadFileCallbackInfo&)
+Epic.OnlineServices.RTCAudio.OnAudioBeforeSendCallbackInternal:Invoke(AudioBeforeSendCallbackInfoInternal&)
+Epic.OnlineServices.Bindings:EOS_Platform_Tick(IntPtr)
+
+Unity IAP: <b>Unity In-App Purchasing</b> requires <b>Unity Gaming Services</b> to have been initialized before use.
+- Find out how to initialize <b>Unity Gaming Services</b> by following the documentation <i>https://docs.unity.com/ugs-overview/services-core-api.html#InitializationExample</i>
+or download the <i>06 Initialize Gaming Services</i> sample from <i>Package Manager > In-App Purchasing > Samples</i>.
+- If you are using the codeless API, you may want to enable the enable <b>Unity Gaming Services</b> automatic initialization by checking the <b>Automatically initialize Unity Gaming Services</b> checkbox at the bottom of the <b>IAP Catalog</b> window
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogWarning(String, Object)
+UnityEngine.Purchasing.UnityServicesInitializationChecker:CheckAndLogWarning()
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder, ILogger, String, IAnalyticsAdapter, IAnalyticsAdapter, ICatalogProvider, IUnityServicesInitializationChecker)
+UnityEngine.Purchasing.UnityPurchasing:Initialize(IStoreListener, ConfigurationBuilder)
+<InitializeStore>d__129:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<UpdateFriendCodeAndInventory>d__128:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: False: -  -  -  - False - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9PNXTMQB73JT - 9PNXTMQB73JT - Airship Skin Set - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9PDJ3J26HW31 - 9PDJ3J26HW31 - MIRA HQ Skin Set - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9N412DLTD22P - 9N412DLTD22P - Polus Skin Set - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9P7VWQCW46VX - 9P7VWQCW46VX - Brainslug Pet Bundle - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9PP96GQFHW89 - 9PP96GQFHW89 - Bedcrab Pet Bundle - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9PN37XBLK67D - 9PN37XBLK67D - Hamster Pet Bundle - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9PPS19044CLL - 9PPS19044CLL - Mini Crewmate Bundle - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+receipts: True:{"Payload":"Bought","Store":"Win10","TransactionID":""} - 9P3XLTS02WKB - 9P3XLTS02WKB - Stickmin Pet Bundle - True - 
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StoreManager:ProcessOldReceipts()
+<CoUpdateInventoryOrValidateReceipts>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Found Windows Product 9PNXTMQB73JT (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PDJ3J26HW31 (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N412DLTD22P (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P7VWQCW46VX (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PP96GQFHW89 (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PN37XBLK67D (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PPS19044CLL (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P3XLTS02WKB (NonConsumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N382JM8PG7J (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9P97D0R3N4JR (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9MW7610J04G2 (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9N7GR1WVD8FC (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Found Windows Product 9PM63CM7XCWS (Consumable. With Purchase Status True. and type Durable
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Win10: CheckOutsideStarPurchase
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10PurchasingModule:CheckOutsideStarPurchases()
+Win10PurchasingModule:CompleteRetrieveProducts()
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Unavailable product -
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Purchasing.PurchasingManager:HasAvailableProductsToPurchase(Boolean)
+UnityEngine.Purchasing.PurchasingManager:OnProductsRetrieved(List`1)
+XGamingRuntime.XGameSaveReadBlobDataCompleted:Invoke(Int32, XGameSaveBlob[])
+XGamingRuntime.SDK:ExtractQueryResultAndComplete(XStoreQueryComplete, XAsyncBlockPtr, QueryExtractionFunction)
+System.Action`1:Invoke(T)
+XGamingRuntime.Interop.AsyncHelpers:AsyncBlockCallback(XAsyncBlockPtr)
+XGamingRuntime.SDK:XTaskQueueDispatch(UInt32)
+Win10Manager:Update()
+
+Coroutine couldn't be started because the the game object 'Cosmetics' is inactive!
+CosmeticsLayer:SetPetIdle(PetData, Int32, Action)
+PoolablePlayer:UpdateFromDataManager(MaskType)
+AccountManager:UpdatePlayerCustomizationVisuals()
+InventoryManager:OnInventoryOpenCallback(OnOpenCompleteCallbackInfo&)
+Epic.OnlineServices.RTCAudio.OnAudioBeforeSendCallbackInternal:Invoke(AudioBeforeSendCallbackInfoInternal&)
+Epic.OnlineServices.Bindings:EOS_Platform_Tick(IntPtr)
+
+[ line 1446504968]
+
+finishing flow, login status LoggedIn
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EOSManager:EndFinalPartsOfLoginFlowFullAccount()
+<CheckForNewUnlockables>d__48:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Epic.OnlineServices.RTCAudio.OnAudioBeforeSendCallbackInternal:Invoke(AudioBeforeSendCallbackInfoInternal&)
+Epic.OnlineServices.Bindings:EOS_Platform_Tick(IntPtr)
+
+*******************updating to LOGGED IN MODE
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AccountTab:UpdateVisuals()
+<CheckFriendCodeAndUpdateVisuals>d__50:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+We're showing as fully logged in, but have 0 external accounts on PUID 00021faa477249c1931b836543d11871
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+AccountTab:UpdateVisuals()
+<CheckFriendCodeAndUpdateVisuals>d__50:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Announcement Enabling!
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AnnouncementPopUp:OnEnable()
+AnnouncementPopUp:SetMenu()
+<ShowIfNew>d__42:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Announcement Setting full text
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AnnouncementPopUp:UpdateAnnouncementText(Int32, Boolean)
+<ShowIfNew>d__42:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+GET account deletion info 404
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<GetInfoRequest>d__54:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Win10Manager::UserGroup Get Users: Users Error: GenericError. Hresult: HRESULT_NOT_RECOGNIZED
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Win10Manager:GetUsersFromGroup(XblSocialManagerUserGroupHandle)
+Win10Manager:Update()
+
+Rewired: [WARNING] No Action exists for Action Id 0. You can create Actions in the editor.
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogWarning(String, Object)
+Rewired.Logger:LogWarning(Object, Boolean)
+paNYZVZdGkqIiKTEaBSIfSDRqvP:eOogNkHVebfNvtXbyrtObCMihuM(Int32)
+rPqDGiaNrBrSNDKPFWLaHekLakh:IWQsIzDKHryDxfTRfgylUCiwwSw(Int32, Int32, Boolean)
+Rewired.Player:GetAxisRaw(Int32)
+ManualScrollHelper:Update()
+
+Announcement Disabling!
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AnnouncementPopUp:OnDisable()
+AnnouncementPopUp:Close()
+System.Net.UnlockConnectionDelegate:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+PassiveButtonManager:Update()
+
+Failed to store EOS file player.prefs: AlreadyPending
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+PlayerStorageManager:OnWriteFileComplete(WriteFileCallbackInfo&)
+Epic.OnlineServices.RTCAudio.OnAudioBeforeSendCallbackInternal:Invoke(AudioBeforeSendCallbackInfoInternal&)
+Epic.OnlineServices.Bindings:EOS_Platform_Tick(IntPtr)
+
+Set language to English
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TranslationController:SetLanguage(TranslatedImageSet)
+LanguageSetter:SetLanguage(LanguageButton)
+System.Net.UnlockConnectionDelegate:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+PassiveButtonManager:Update()
+
+No translation found in English for the following StringNames:
+None
+DataPolicyTitle
+DataPolicyText
+VitalsOK
+VitalsDEAD
+VitalsDC
+NoTranslation
+CrewmateGhostRole
+ImpostorGhostRole
+HideSeekHowToPlayTitleOne
+HideSeekHowToPlayImpostorOne
+QCCrewMyself
+QCRemarks
+ANY
+CreateTryAgain
+ColorSunset
+DownloadLabel
+UploadLabel
+HolidayHatLabel
+XpGained
+PodsEarned
+CosmicubeNodeUnlocked
+PrestigeLevelShorthand
+ErrorSelfPlatformLock
+CrewmateLeadTime
+CrewmadeHideBlurb
+ImpostorKillBlurb
+HideCountdown
+ScaryMusicDistance
+ShortTaskTimeValue
+LongTaskTimeValue
+CommonTaskTimeValue
+VeryScaryMusicDistance
+SeekerFinalVents
+CrewmateVentCooldown
+ShowPingTime
+MinPingTime
+ShowImpostorNames
+TryAgain
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+LanguageUnit:.ctor(TranslatedImageSet)
+TranslationController:SetLanguage(TranslatedImageSet)
+LanguageSetter:SetLanguage(LanguageButton)
+System.Net.UnlockConnectionDelegate:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+PassiveButtonManager:Update()
+
+Censor set language = English
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BlockedWords:SetLanguage(TranslatedImageSet)
+TranslationController:SetLanguage(TranslatedImageSet)
+LanguageSetter:SetLanguage(LanguageButton)
+System.Net.UnlockConnectionDelegate:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+PassiveButtonManager:Update()
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 548 -> priority: 1 

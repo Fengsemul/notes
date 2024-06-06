@@ -1,0 +1,54 @@
+{
+  "gameplay": {
+    "screenShake": true,
+    "streamerMode": false
+  },
+  "accessibility": {
+    "colorBlindMode": true
+  },
+  "audio": {
+    "musicVolume": 0.6,
+    "ambienceVolume": 0.6,
+    "sfxVolume": 0.6
+  },
+  "video": {
+    "vsync": false
+  },
+  "language": {
+    "currentLanguage": "English"
+  },
+  "input": {
+    "inputMode": 2,
+    "mouseMovementEnabled": false,
+    "touchJoystickSize": 1.0
+  },
+  "multiplayer": {
+    "crossPlay": true,
+    "allowFriendInvites": false,
+    "censorChat": false,
+    "chatMode": 1,
+    "quickChatFavs": [],
+    "lastPlayedGameMode": 1,
+    "normalHostOptions": "B1UAAAEPAAEAAAAAAOA/ACgQG/////AAACA5AAAFAAAAAAECAAAAAAEAAAAAPAAAAQIEBQABZAMAAAAAAAIAAAACAAAFBQQAAAADAAAAHgEDAAAAAgAAAAA=",
+    "normalSearchOptions": "B1UAAAEKAAEAAAAAAIA/AACAPwAAwD8AAHBBAQECAQAAAAEBDwAAAHgAAAABAAEBAAAEBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8=",
+    "hideNSeekHostOptions": "Bz8AAAIPAAEAAAAAAIA/AACAPwAAwD8BAQIBAQAAAAAASEMzM7M+AACAPgEBAABIQpqZmT8BAP////8AAMBAAABAQA==",
+    "hideNSeekSearchOptions": "Bz8AAAIPAAEAAAAAAIA/AAIAPGAAwD8BAQIBAQAAAAAASEMzM7M+AACAPgEBAABIQpqZmT8BAP////8AAMBAAABAQA==",
+    "gameFilterRefreshDate": "0001-01-01T00:00:00",
+    "gameFilterTags": [
+      "Beginner",
+      "Casual",
+      "Serious",
+      "Expert"
+    ],
+    "hostFilterTags": [
+      "Beginner",
+      "Casual",
+      "Serious",
+      "Expert"
+    ],
+    "searchFilterTags": [
+      "Beginner"
+    ]
+  },
+  "dataVersion": 1
+}
