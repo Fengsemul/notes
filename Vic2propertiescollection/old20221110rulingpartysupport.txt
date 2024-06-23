@@ -1,3 +1,4 @@
+old20221110rulingpartysupport:
 #GFM
 spoil_system = {    active = yes
     local_ruling_party_support = 2.0
