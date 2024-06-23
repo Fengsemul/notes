@@ -1,3 +1,4 @@
+old 2022:
 #1701 raving_loon = {
 	global_pop_militancy_modifier = 0.05
 	research_points_modifier = -0.05
