@@ -31,7 +31,10 @@ While objectivity and realism can interrelate—realism requiring a degree of ob
 Note: References to specific philosophical resources and articles were used for summarizing these definitions and differences.
 April 28, 2024"
 
-. Michael-Pendlebury-Notes: https://philarchive.org/archive/POLRUW mentioned him; http://web.archive.org/web/20240605071655/https://chass.ncsu.edu/wp-content/uploads/sites/2/2020/07/CV.Pendlebury.240131.pdf is curriculum; 
+. Michael-Pendlebury-Notes: https://philarchive.org/archive/POLRUW mentioned him; http://web.archive.org/web/20240605071655/https://chass.ncsu.edu/wp-content/uploads/sites/2/2020/07/CV.Pendlebury.240131.pdf is curriculum; https://megalodon.jp/2024-0624-0725-59/https://www.transcript-verlag.de:443/shopMedia/openaccess/pdf/oa9783839462409.pdf; https://megalodon.jp/2024-0624-0726-56/https://wiredspace.wits.ac.za:443/server/api/core/bitstreams/28f1ae18-b929-41cc-8d56-73fb6035321d/content p.4: "I am deeply indebted to Professor Michael Pendlebury for both his philosophical
+guidance and encouragement in the supervision of this Research Report. While I have
+tried to indicate the ideas developed here at his suggestion, such footnotes cannot begin
+to do justice";
 
 https://archive.ph/RDg0g ; https://megalodon.jp/2024-0624-0449-38/https://www.connectedpapers.com:443/main/acc3501651d24fa5aeea95085a8b60cc13bafdec/Sense-experiences-and-their-contents%3A-A-defence-of-the-propositional-account/list & "graph".
 
@@ -63,8 +66,87 @@ They are sources of memory, wisdom, and happiness. And they do not represent any
 ; https://archive.ph/wip/yIbUr showing Michael pendlebury being suggested in Inquiry An Interdisciplinary Journal of Philosophy Journal.;
 
 Pendlebury's understanding of "Sense Experience": https://megalodon.jp/2024-0624-0536-58/https://www.jstor.org:443/stable/4545057 : "Sense Experience" "Perception always involves representation, and in the standard case the vehicle of perceptual representation is a sense of experience. In normal perception in other words, a sense experience is what does the representing, it is not something that is represented. A sense experience, moreover, is not something that is represented. a sense experience, moreover, is not and does not involve a special kind of thing such as a sense datum to which we are related by some mysterious relation of 'having' or 'sensing'. It is, rather, an event which inheres in a perceiver"--"a happening in his sensuous and mental life. It may be complex"/duration/changing/other sense exp. as parts -- "as the total exp" "I now have includes visual, aural, and tactile exp" "and as the visual exp"
+
 Pendlebury's commonsense realism: https://philpapers.org/rec/PENPAO-6 ; https://megalodon.jp/2024-0624-0548-58/https://www.bu.edu:443/wcp/IntroV5.htm (2000) : "We do however enjoy unproblematic access to sense data. Hence our direct awareness of sense experience is the only genuinely relational awareness that "includes within itself one of its relata." This awareness eliminates the specter of an infinite regress in the process of justification. To this argument one might object that the notion of sense data seems to a hybrid concept that conflates descriptive and explanatory motifs. If we limit ourselves to description of our experience, it seems that we are in fact simply not aware of sense data. We are aware of pained bodily parts and red things but not of pain or red tout court. Michael Pendlebury contends that the development of a sophisticated common sense realism requires an account of how perceptions become perceptual judgments "to the extent that they are imbedded in and engaged with the high level patterns of consciousness and reasoning characteristic of judgments." He rightly points out that whatever may be the relations between concepts in a conceptual system the applicability of concepts must be "anchored" in the nonconceptual aspects of perceptual experience. Human perceptions always blend conceptual and nonconceptual aspects. To the extent that they include conceptual aspects perceptions are raised into what Wilfred Sellars called "the space of reasons" and thus become perceptual judgments. Pendlebury develops a convincing account of how perceptual discriminations both found and merge with conceptual articulations."
-; 
+; https://megalodon.jp/2024-0624-0726-56/https://wiredspace.wits.ac.za:443/server/api/core/bitstreams/28f1ae18-b929-41cc-8d56-73fb6035321d/content : p.4: "Michael Pendlebury for both his philosophical
+guidance and encouragement in the supervision of this Research Report."..."his input has influenced the direction that this Report has
+taken"
+p.6:"[A] 'COMMONSENSE REALISM'
+The 'commonsense realism' which the Epistemological Realist is concerned to defend
+involves a commitment to three general claims:
+- we can (and do) have knowledge of the worid,
+- the world exists independently of our minds, and
+- we have access to the world in perception.
+Importantly, these claims are to be taken together rather than separately. On the
+realist view under consideration itis held that in perception we have access to the
+mind-independent world, this access being a crucial ground of the possibility of
+empirical knowledge. To put it in a slightly different way: the world of which we
+have knowledge in virtue of our perceptual access to it is mind-independent. Or
+again: our knowledge claims bear on the mind-independent world, this possibility
+being secured by the perceptual access we have to the latter."
+
+p.7: "What the Epistemological Realist is concerned to show, then, is that we can make
+good on our 'commonsense realist' intuition that we can and (In have knowledge of
+the mind-independent world. Importantly, however, ER acknowledges that there is
+much work to be done in this regard. In particular the I:R theorist argues that the way
+'commonsense realism' has traditionally been developed must be abandoned."
+> p.8:"On the ER view, at
+least partly responsible for this rise in the popularity of anti-realism has heen the
+failure of Traditional Realism (TR) to cash out the details of the 'commonsense
+realist' intuition in the right ways.
+The ER theorist urges that there are at least three areas in which we must take issue
+with the Traditional Realist if a 'commonsense realism' about the world is to be
+secured:
+(a) the TR account of how perception is able to make knowledge of the world
+possible,
+(b) the TR account of perception itself, and
+(c) the TR account of how our knowledge claims bear on reality.
+The ER project is centrally concerned to show that once we take issue with (a)-(c)
+and replace them with the right kinds of accounts then there is nothing to prevent us
+from being 'commonsense realists'." > "argue that
+the ER project is made more secure by adopting the account advanced by Michael Pendlebury."
+> p.11:"necessary if 'commonsense realism' is to be secured. This will lead us to something of
+a dilemma, the solution to which, I will suggest, is to adopt the kind of account
+proposed by Pendlebury (see e.g., Pendlebury, 1997, 1998a).
+"
+p.88: "In 'Defending Commonsense Realism'
+Pendlebury outlines a way in which the ER theorist can retain a commitment to the
+idea of a fact-proposition truth-making relation while doing justice to the insights
+made by Dummett (Pendlebury, 1998b). The first point to note is that the truth of a
+great number of our sentences on the ER account will not be verificationtranscendent. (Pendlebury refers to these as 'core sentences'.)
+The second is that the
+constituents and structures of these sentences occur in and are intimately related to
+those sentences whose truth IS verification-transcendent. (Pendlebury refers to these
+latter as 'non-core' sentences.) Now itis evident that according to Dummett there can
+be no problem with how we could come to grasp the meaning of the group of core
+sentences. Put then in light of what has been said above it will also be possible to
+give an account of how we could come to grasp the meaning ofthe non-core
+84
+sentences. As Pendlebury argues, there are two things to which we can appeal in
+explaining how a speaker could come to understand the group of non-core sentences:
+(i) the speaker's presumed grasp of the meanings of the constituents and
+structures of those sentences which also occur in core sentences, and
+(ii) the speaker's grasp of the other relevant connections between the
+constituents and structures of the non-core sentences and those which occur in core
+Sl -ntences.
+Pendlebury gives the following example. Consider a sentence the truth of which is
+very clearly verification transcendent (from our perspective now at any rate) on the
+ER account: 'There will be a large Eucalyptus tree on this spot at the start of the 25th
+century' . As Pendlebury points out, we seem to have no problem in understanding
+this sentence. The question is how the ER theorist can account for this fact given a
+commitment to the idea that sentence-meaning is a matter of truth conditions.
+"
+pdf-p.90:"To be sure, ER does have something in common
+with the TR picture arising from commitments (1)-(3) -like the Traditional Realist,
+the Epistemological Realist is committed to the idea that the world upon which our
+language bears is the real, mind-independent one. Where ER departs from TR is in
+the avoidance of any 'metaphysical fantasy'.
+"
+p.91:"'Commonsense realism' is a holistic view involving a combination of ontological and
+epistemological commitments. Simply stated, it involves a commitment to the
+commonsense picture that we can (and do) have knowledge of the mind-independent
+world, the possibility of such knowledge being in some sense secured by the access
+we have to the world in perception."
 
 Related to "commonsense realism": https://web.archive.org/web/20240623205621/https://philarchive.org/archive/PENIRA
 ; https://megalodon.jp/2024-0624-0611-21/https://philpapers.org:443/archive/PENFAT.pdf : p.8: "I now want to go over to the dark side (or is it the light side?) by giving up on unrestricted realism."..."speaking informal philosophical English"..."satisfy these standards."..."e.g.,"..."elementary arithmetical propositions is provability rather than the satisfaction of conditions of existence abd non-existence"..."provable."...
@@ -74,3 +156,9 @@ p.9: "Both choices call for justification based on a careful examination of thou
 "Again, it would seem that, while it is not so easy to settle the question of realism concerning logic and mathematics, there is good reason to favor objectivism over anti-objectivism about these domains."...
 "The realism of the Truth-maker program is an uncritical article of faith that is simply taken for granted."..."call for more  careful reasoning"
 ; https://web.archive.org/web/20240623214450/https://books.google.at/books?id=z4Wt5F_hC3AC&pg=PA223&lpg=PA223&dq=%22michael+pendlebury%22+agnosticism+There+are+two+forms+of+agnosticism:+weak+and&source=bl&ots=rh9ZGF7vHI&sig=ACfU3U0oKvtivnjEDBETW4vyGM1QLZx0Kw&hl=de&sa=X&ved=2ahUKEwj3j9uU2fKGAxUVSvEDHbEjB1gQ6AF6BAgIEAM#v=onepage&q=%22michael%20pendlebury%22%20agnosticism%20There%20are%20two%20forms%20of%20agnosticism%3A%20weak%20and&f=false : pdf-p.359 p.159. "The seemingly relational structure of attributions of experience is a challenge dealt with below in cennection with the adverbial theory. Apparent reference to and quantification over objects of experience can be handled by analysing them as reference to experiences themselves and quantification over experiences tacitly typed according to content. (Thus "The after-image which John experience was green" becomes "John's after-image experience was an experience of green", and "Macbeth saw something which his wife did not see" becomes "Macbeth had a visual experience which his wife did not have".)"
+
+Mentioned "commonsense realism": https://web.archive.org/web/20240623220754/https://philarchive.org/archive/PENTRO (May 1996): Michael Pendlebury prefers in certain issues "modest commonsense realism" and maybe as equal "commonsense fallibilism" ; 
+
+Comments on Michael Pendlebury's Facts as truthmakers. (1986): https://megalodon.jp/2024-0624-0720-22/https://philarchive.org:443/archive/ASATTA : "While I think realism is best understood in terms of truthmakers, this is not because 
+only realists are entitled to take a stand on truthmakers. Michael Pendlebury, critical of the 
+thought that truthmaker theory is essentially realist, writes that the “realism of the Truthmaker Program is an uncritical article of faith that is simply taken for granted” (2010: 145)."
