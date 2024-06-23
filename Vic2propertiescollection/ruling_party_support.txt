@@ -1,0 +1,2524 @@
+#GFM
+spoil_system = {    active = yes
+    local_ruling_party_support = 2.0
+    pop_consciousness_modifier = 0.01
+    icon = 8    trigger = {
+        NOT = { owner = { vote_franschise = none_voting } }
+        is_colonial = no
+    }
+}
+#1701mod spoil_system = {	active = yes
+	local_ruling_party_support = 2.0
+	icon = 7	
+	
+	trigger = {
+	}	
+}man_of_the_people = {
+	global_pop_militancy_modifier = -0.02
+	global_pop_consciousness_modifier = 0.02
+	ruling_party_support = 1
+	icon = 1 #alsoAoE
+}
+great_statesman = {
+	prestige = 0.01
+	diplomatic_points_modifier = 0.25
+	ruling_party_support = 0.5
+	badboy = -0.05
+	icon = 1 #alsoAoE
+}
+great_reformer = {
+	global_pop_militancy_modifier = -0.02
+	global_pop_consciousness_modifier = 0.04
+	ruling_party_support = 0.2
+	icon = 1 #alsoAoE
+}
+#disabledinNEM
+support_the_government = {
+	pop_militancy_modifier = -0.01
+	local_ruling_party_support = 0.5
+	icon = 19
+}
+hre_member = {
+	icon = 17
+    local_ruling_party_support = 0.1
+}
+ch_rel = {
+	icon = 17
+    local_ruling_party_support = 0.1
+}
+carl_rex = {
+	icon = 17
+    local_ruling_party_support = 0.1
+	land_organisation = 0.1
+	naval_organisation = 0.1
+	factory_throughput = 0.1
+	rgo_throughput = 0.1
+}
+#criandHGCandGFMandBAIandUlt
+totalitarian_system = {
+	suppression_points_modifier = 3
+	ruling_party_support = 3
+	literacy_con_impact = -0.5
+	education_efficiency_modifier = 0.05
+	global_pop_consciousness_modifier = -0.1
+	global_pop_militancy_modifier = -0.1
+	issue_change_speed = -3
+	research_points_modifier = -0.1
+	badboy = 0.01
+	icon = 7
+}
+cult_of_personality = {
+	ruling_party_support = 2
+	global_pop_consciousness_modifier = -0.1
+	icon = 13
+}
+#AoEandNEM
+totalitarian_system = {
+    suppression_points_modifier = 2
+    ruling_party_support = 2
+    literacy_con_impact = -0.3
+    education_efficiency_modifier = 0.02
+    global_pop_consciousness_modifier = -0.05
+    global_pop_militancy_modifier = -0.05
+    issue_change_speed = -2
+    research_points_modifier = -0.05
+    icon = 7
+}
+cult_of_personality = {
+    ruling_party_support = 2
+    global_pop_consciousness_modifier = -0.05
+    icon = 13
+}
+rivera_reforms = {
+    local_ruling_party_support = 1.0
+    pop_militancy_modifier = -0.1
+    pop_consciousness_modifier = -0.2
+    icon = 19
+}
+caudillo_leaders = {
+    tax_efficiency = 0.3
+    mobilisation_size = 0.02
+    supply_consumption = -0.1
+    ruling_party_support = 0.3
+    min_military_spending = 0.25
+    icon = 1
+}
+pancasila = {
+    assimilation_rate = 0.1
+    core_pop_militancy_modifier = -0.1
+    ruling_party_support = 0.1
+    icon = 5
+}
+camillo_cavour = {
+    prestige = 0.01
+    diplomatic_points_modifier = 0.25
+    influence_modifier = 0.15
+    ruling_party_support = 0.25
+    industry_tech_research_bonus = 0.05
+    core_pop_militancy_modifier = -0.01
+    badboy = -0.01
+    icon = 17
+}
+otto_von_bismarck = {
+    prestige = 0.02
+    core_pop_militancy_modifier = -0.05
+    diplomatic_points_modifier = 0.25
+    influence_modifier = 0.2
+    ruling_party_support = 0.35
+    badboy = -0.05
+    icon = 17
+}louis_napoleon_iii = {
+    prestige = 0.02
+    ruling_party_support = 1.0
+    core_pop_militancy_modifier = -0.05
+    core_pop_consciousness_modifier = -0.05
+    land_organisation = -0.05
+    icon = 17
+}
+#MDL2021 #support_the_government = {
+#	pop_militancy_modifier = -0.01
+#	local_ruling_party_support = 0.5
+#	icon = 19
+#}#alsoinGFMHFMmodandTGC as ## Netherlands Flavor ##
+thorbecke_reforms = {
+    ruling_party_support = 0.05
+    core_pop_militancy_modifier = -0.02
+    core_pop_consciousness_modifier = -0.01
+    icon = 7
+}
+war_minister_boulanger = {
+    mobilisation_size = 0.01
+    land_unit_start_experience = 5
+    ruling_party_support = 0.05
+    icon = 17
+}
+yuan_shikai = {
+    prestige = 0.01
+    ruling_party_support = 0.25
+    supply_consumption = -0.15
+    land_organisation = 0.05
+    naval_organisation = 0.05
+    org_regain = 0.05
+    administrative_efficiency_modifier = 0.05
+    icon = 17
+}
+gustav_iii = {
+    army_tech_research_bonus = 0.05
+    ruling_party_support = 0.35
+    influence_modifier = 0.2
+    global_pop_consciousness_modifier = 0.03
+    icon = 13
+}
+swedish_absolutism = {
+    ruling_party_support = 0.35
+    influence_modifier = 0.2
+    icon = 7
+}
+peter_the_great = {
+	culture_tech_research_bonus = 0.1
+	navy_tech_research_bonus = 0.1
+	research_points = 0.25
+	ruling_party_support = 0.35
+	bad_badboy = -0.05
+	education_efficiency_modifier = 0.15
+	prestige = 0.08
+	icon = 13
+}
+catharine_the_great = {
+    culture_tech_research_bonus = 0.1
+    diplomatic_points_modifier = 0.25
+    influence_modifier = 0.2
+    bad_badboy = -0.05
+    ruling_party_support = 0.35
+    prestige = 0.05
+    icon = 13
+}
+nakaz = {
+    administrative_efficiency_modifier = 0.05
+    ruling_party_support = 0.05
+    tax_efficiency = 0.05
+    icon = 5
+}
+maria_theresa = {
+    culture_tech_research_bonus = 0.1
+    influence_modifier = 0.2
+    ruling_party_support = 0.35
+    prestige = 0.05
+    icon = 13
+}
+louis_grande = {
+    influence_modifier = 0.2
+    ruling_party_support = 0.35
+    bad_badboy = -0.05
+    global_pop_militancy_modifier = -0.02
+    diplomatic_points_modifier = 0.05
+    supply_consumption = -0.05
+    prestige = 0.05
+    icon = 13
+}
+frederick_grosse = {
+    army_tech_research_bonus = 0.1
+    culture_tech_research_bonus = 0.05
+    diplomatic_points_modifier = 0.25
+    influence_modifier = 0.2
+    bad_badboy = -0.05
+    global_pop_militancy_modifier = -0.02
+    ruling_party_support = 0.35
+    prestige = 0.06
+    icon = 13
+}
+peasant_in_government = {
+    influence_modifier = -0.2
+    ruling_party_support = 0.35
+    icon = 18
+}
+direct_control = {
+    pop_militancy_modifier = -0.5
+    local_ruling_party_support = 0.1
+    local_RGO_throughput = 0.1
+    local_factory_output = 0.1
+    immigrant_attract = 0.25
+    icon = 3
+}
+constitutio_criminalis_theresiana = {
+    core_pop_militancy_modifier = -0.1
+    global_assimilation_rate = 0.05
+    social_reform_desire = -0.1
+    prestige = 0.01
+    ruling_party_support = 0.05
+    icon = 17
+}
+polish_absolutism = {
+    ruling_party_support = 0.004
+    icon = 17
+}
+rights_of_man = {
+    global_pop_militancy_modifier = -0.01
+    global_pop_consciousness_modifier = 0.04
+    global_immigrant_attract = 0.1
+    global_assimilation_rate = 0.1
+    non_accepted_pop_consciousness_modifier = 0.2
+    ruling_party_support = 0.05
+    icon = 3
+}
+the_safeheaven_for_liberalism = {
+    global_pop_militancy_modifier = -0.01
+    global_pop_consciousness_modifier = 0.002
+    global_assimilation_rate = 0.1
+    ruling_party_support = 0.005
+    global_immigrant_attract = 2
+}
+orangist_domination = {
+    bad_badboy = -0.05
+    ruling_party_support = 0.35
+    prestige = 0.05
+    global_pop_consciousness_modifier = 0.01
+    icon = 1
+}
+napoleon_bonaparte = {
+    army_organisation = 0.15
+    org_regain = 0.5
+    supply_consumption = 0.35
+    core_pop_consciousness_modifier = -0.04
+    prestige = 0.05
+    ruling_party_support = 0.15
+    cb_generation_speed_modifier = -0.15
+    icon = 13
+}
+jacobite_absolutism = {
+    prestige = 0.01
+    literacy_con_impact = -0.15
+    ruling_party_support = 0.05
+    icon = 13
+}
+mameluke_influence_egypt = {
+	local_ruling_party_support = 0.1
+	local_artisan_output = -0.1
+	non_accepted_pop_consciousness_modifier = -0.1
+	non_accepted_pop_militancy_modifier = -0.1
+	icon = 14
+}
+salutary_neglect = {
+	local_artisan_output = -0.05
+	local_factory_throughput = -0.1
+	local_RGO_output = -0.15
+	local_RGO_throughput = -0.15
+	local_ruling_party_support = 0.15
+	pop_militancy_modifier = -0.1
+	pop_consciousness_modifier = -0.1
+	icon = 14
+}
+nv_autocracy = {
+    literacy_con_impact = -0.2
+    core_pop_militancy_modifier = -0.01
+    ruling_party_support = 0.3
+    political_reform_desire = -0.05
+    social_reform_desire = -0.05
+    mobilisation_size = 0.01
+    mobilisation_economy_impact = 1.1
+}
+nv_tradition = {
+    research_points_modifier = -0.1
+    global_pop_militancy_modifier = -0.01
+    global_pop_consciousness_modifier = -0.01
+    social_reform_desire = -0.2
+    issue_change_speed = -0.2
+    ruling_party_support = 0.25
+    mobilisation_size = 0.001
+    mobilisation_economy_impact = 1.0
+}
+#alsoinNEM
+nv_autocracy = {
+	literacy_con_impact = -0.2
+	core_pop_militancy_modifier = -0.01
+	ruling_party_support = 0.3
+	political_reform_desire = -0.05
+	mobilisation_size = 0.045
+	mobilisation_economy_impact = 1.0
+}nv_tradition = {
+	research_points_modifier = -0.1
+	global_pop_militancy_modifier = -0.01
+	social_reform_desire = -0.2
+	issue_change_speed = -0.2
+	ruling_party_support = 0.25
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1.0
+}#cri
+cult_of_capital = {
+	ruling_party_support = 0.5
+	global_pop_consciousness_modifier = -0.02
+	global_pop_militancy_modifier = -0.02
+	literacy_con_impact = -0.1
+	factory_output = 0.02
+	factory_input = -0.02
+	artisan_throughput = 0.15
+	education_efficiency_modifier = -0.15
+	global_immigrant_attract = 0.08
+	icon = 5
+}
+#CWE
+vote_rigging_crime = {
+	
+	active = yes
+		
+	local_ruling_party_support = 0.5
+	
+	icon = 11
+	
+	trigger = {
+		is_colonial = no
+		NOT = { crime_fighting = 0.70 }
+		country = { election = yes }
+	}}
+#andGFMtoo government_propaganda = {
+	literacy_con_impact = -0.20
+	issue_change_speed = -0.20
+	ruling_party_support = 0.2
+	icon = 5
+}
+vts_default = {
+	factory_throughput = -0.025
+	RGO_output = -0.025
+	loan_interest = 0.50
+	import_cost = 0.20
+	factory_cost = 0.20
+	factory_owner_cost = 0.020
+	ruling_party_support = 0.25
+	non_accepted_pop_consciousness_modifier = -0.1
+	non_accepted_pop_militancy_modifier = -0.1
+	icon = 12
+}
+new_capital = { 
+assimilation_rate = 0.25
+immigrant_attract = 0.50
+life_rating = 0.25
+local_factory_input = -0.10
+local_ruling_party_support = 0.25
+local_artisan_output = 0.5
+icon = 15
+}
+media_conspiracy1 = { 
+ruling_party_support = 0.25
+icon = 13
+}
+internet_owner = {
+factory_throughput = 0.010
+prestige = 0.02
+ruling_party_support = 0.10
+icon = 5
+}
+### Handover ###territory_talk = {
+ruling_party_support = 0.25
+icon = 5
+}
+#byNEMterritory_talk = {
+	ruling_party_support = 0.15
+	icon = 5
+}
+### Crisis Summits ###crisis_talk = {
+	badboy = -0.01
+	ruling_party_support = 0.25
+	icon = 7
+}
+peace_region = {
+	local_ruling_party_support = 0.25
+	immigrant_attract = 0.10
+	pop_militancy_modifier = -0.01
+	icon = 9
+}
+### High Powered Computing ###
+hcplow = {
+	research_points_modifier = 0.2
+	tax_efficiency = -0.03
+	global_immigrant_attract = 0.25
+	global_assimilation_rate = 0.1
+	issue_change_speed = 0.1
+	ruling_party_support = 0.25
+	icon = 17
+}
+### Aerial Bombardment & Occupation Damage ###aerial_bombed = { 
+immigrant_push = 0.10
+local_artisan_output = -0.50
+local_factory_throughput = -0.10
+local_repair = -0.50
+local_ruling_party_support = 0.25
+local_ship_build = 0.50
+population_growth = -0.001
+local_factory_input = 0.2
+icon = 18  
+}
+ban_social_media = {
+issue_change_speed = -0.8
+ruling_party_support = 0.25
+icon = 4
+}
+### Special Drawing Rights ###
+cur_mani_timer = {
+prestige = 0.05 
+ruling_party_support = 0.20
+icon = 5
+}
+### Financial Stimulus ###recent_financial_stimulus = {
+factory_throughput = 0.25
+ruling_party_support = 0.25
+factory_owner_cost = -0.025
+import_cost = -0.25
+tax_efficiency = 0.05
+goods_demand = 0.2
+icon = 9
+}
+### Banking Regulations ###
+bkrmedium = {
+	tax_efficiency = 0.05
+	factory_output = -0.05
+	ruling_party_support = 0.10
+	social_reform_desire = 0.10
+	rich_income_modifier = 0.05
+	middle_income_modifier = 0.05
+	poor_income_modifier = -0.10
+	icon = 10
+}
+were_all_republicans = {
+	ruling_party_support = 1.0
+	pop_consciousness_modifier = -0.1
+}
+### Taiwanese White Terror ###kmt_white_terror = {
+social_reform_desire = -0.30
+political_reform_desire = 0.50
+ruling_party_support = 0.20
+factory_input = -0.010
+factory_throughput = 0.0125
+non_accepted_pop_militancy_modifier = 0.02
+	icon = 18
+}
+spy_medium = {
+global_assimilation_rate = -0.1
+non_accepted_pop_militancy_modifier = -0.025
+ruling_party_support = 0.2
+core_pop_militancy_modifier = -0.05
+suppression_points_modifier = 0.25
+icon = 16
+}
+spy_high_gp = {
+global_assimilation_rate = 0.2
+ruling_party_support = 0.2
+non_accepted_pop_militancy_modifier = -0.1
+core_pop_militancy_modifier = -0.1
+icon = 16
+}
+### OPEC ###
+opecoption1 = {
+ruling_party_support = 0.20
+icon = 7
+}
+opecoption2 = {
+ruling_party_support = 0.10
+icon = 7
+}
+opecoption3 = {
+ruling_party_support = 0.05
+icon = 7
+}
+commonwealthoption4 = {
+ruling_party_support = 0.20
+core_pop_consciousness_modifier = 0.05
+core_pop_militancy_modifier = 0.05
+icon = 7
+}
+francophoneoption4 = {
+ruling_party_support = 0.20
+core_pop_consciousness_modifier = 0.05
+core_pop_militancy_modifier = 0.05
+icon = 7
+}
+cisoption4 = {
+ruling_party_support = 0.20
+core_pop_consciousness_modifier = 0.05
+core_pop_militancy_modifier = 0.05
+icon = 7
+}
+call_for_support_against_democracy = { ruling_party_support = 0.2 icon = 14 }
+nv_islamic = {
+	war_exhaustion = -2
+	literacy_con_impact = -0.3
+	research_points_modifier = -0.1
+	core_pop_militancy_modifier = -0.02
+	social_reform_desire = -0.1
+	political_reform_desire = -0.1
+	issue_change_speed = -0.2
+	ruling_party_support = 0.4
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = -0.25
+	political_reform_desire = -0.1
+	global_population_growth = 0.001
+}
+elchigh = {
+	trigger = {
+		has_country_flag = elchigh
+		election = yes
+	}
+	social_reform_desire = 0.25
+	ruling_party_support = 0.1
+}elcmedium = {
+	trigger = {
+		has_country_flag = elcmedium
+		election = yes
+	}
+	political_reform_desire = 0.25
+	ruling_party_support = 0.1
+}
+internet_low = {	trigger = {
+has_global_flag = internet_low
+NOT = { publishing_rights = censored_publishing }
+					}ruling_party_support = 0.2
+issue_change_speed = -0.25
+global_pop_consciousness_modifier = -0.02
+global_pop_militancy_modifier = 0.02
+	}
+1999_frenzy  = {
+	trigger = {
+		year = 1999
+		NOT = { year = 2000 }
+			}
+	factory_throughput = 0.0125
+	population_growth = 0.001	
+	ruling_party_support = 0.10
+	issue_change_speed = 0.20
+}
+### Wartime Legal Restictions ###
+lawno = {
+	trigger = {
+		has_country_flag = lawno
+		war = yes
+		is_mobilised = yes
+	}
+	ruling_party_support = 0.50
+	icon = 18
+}
+#GFM
+santa_ana_rule = {
+    ruling_party_support = 0.1
+    political_reform_desire = -0.05
+    org_regain = -0.05
+    icon = 5
+}
+rheinbegradigt = {
+	local_factory_throughput = 0.5
+	local_RGO_throughput = 0.5
+	local_ruling_party_support = 0.2
+    icon = 15
+}
+wilhelminism = {
+    prestige = 0.05
+	core_pop_militancy_modifier = -0.02
+	core_pop_consciousness_modifier = 0.03
+	ruling_party_support = 0.75
+    icon = 17
+}
+irish_scottish_suzerainty = {
+    local_factory_throughput = -0.5
+	local_rgo_throughput = -0.25
+	immigrant_attract = 0.3
+	local_ruling_party_support = 0.3
+	icon = 9
+}
+capital_gaelic_suzerainty = {
+    local_factory_throughput = -0.5
+	local_rgo_throughput = -0.25
+	immigrant_attract = 0.6
+	local_ruling_party_support = 0.6
+	icon = 9
+}
+democratic_nation = {
+    trigger = {
+        exists = yes
+        slavery = no_slavery
+        vote_franschise = universal_voting
+        upper_house_composition = population_equal_weight
+        voting_system = proportional_representation
+        public_meetings = yes_meeting
+        press_rights = free_press
+        trade_unions = all_trade_unions
+        political_parties = secret_ballots
+        border_policy = open_borders
+        debt_law = bankruptcy
+        citizens_rights = all_voting_pops
+    }
+    global_immigrant_attract = 0.75
+    ruling_party_support = 0.1
+    core_pop_militancy_modifier = -0.1
+    research_points_modifier = 0.05
+}
+leadership_principle_modifier = {
+    trigger = {
+        #year = 1837
+        invention = the_leadership_principle
+        government = fascist_dictatorship
+    }
+    land_attack_modifier = 0.05
+    ruling_party_support = 0.2
+    leadership_modifier = 0.25
+    factory_throughput = 0.1
+    cb_generation_speed_modifier = 0.1
+    RGO_throughput = -0.1
+    army_tech_research_bonus = -0.1
+    navy_tech_research_bonus = -0.1
+    commerce_tech_research_bonus = -0.1
+    culture_tech_research_bonus = -0.1
+    industry_tech_research_bonus = -0.1
+    issue_change_speed = -0.25
+    icon = 17
+}
+#NEM
+guarantee_the_constitution = {
+	ruling_party_support = 0.1
+	core_pop_militancy_modifier = -0.02	icon = 5
+}
+bonapartism = {
+	issue_change_speed = -0.10
+	ruling_party_support = 0.15	icon = 5
+}
+3rd_french_empire = {
+	issue_change_speed = -0.15
+	ruling_party_support = 0.2	icon = 5
+}
+patriotism_over_internationalism = {
+	ruling_party_support = 0.5
+	suppression_points_modifier = 0.4
+	core_pop_militancy_modifier = -0.03
+	land_organisation = 0.15
+	icon = 3
+}
+power_to_the_tsar = {
+	ruling_party_support = 0.1
+	suppression_points_modifier = 0.2
+	core_pop_militancy_modifier = 0.02
+	icon = 18
+}
+promote_bulgarian_nationalism = {
+	ruling_party_support = 0.5
+	suppression_points_modifier = 0.4
+	core_pop_militancy_modifier = -0.03
+	land_organisation = 0.15
+	icon = 17
+}
+fascist_youth = {
+	literacy_con_impact = -0.05
+	leadership_modifier = 0.05
+	tax_efficiency = -0.1
+	ruling_party_support = 0.1
+	icon = 16
+}
+ideological_fanaticism = {
+	research_points_modifier = -0.02
+	ruling_party_support = 0.2
+	literacy_con_impact = -0.1
+	education_efficiency_modifier = 0.01
+	icon = 5
+}
+reason_of_our_fight = {
+	suppression_points_modifier = 0.5
+	ruling_party_support = 0.1
+	global_pop_consciousness_modifier = -0.01
+	global_pop_militancy_modifier = -0.01
+	icon = 7
+}
+a_new_germany = {
+	ruling_party_support = 0.1
+	icon = 16
+}
+vittoria_mutilata = {
+	prestige = 0.05
+	suppression_points_modifier = 0.1
+	core_pop_militancy_modifier = 0.01
+	ruling_party_support = 0.05
+	land_unit_start_experience = 5
+	icon = 15
+}
+great_patriotic_spirit = {
+	prestige = 0.1
+	ruling_party_support = 0.05
+	suppression_points_modifier = 0.1
+	core_pop_militancy_modifier = -0.02
+	icon = 15
+}
+permanent_revolution = {
+	core_pop_consciousness_modifier = -0.1
+	ruling_party_support = 0.15
+	icon = 4
+}
+socialist_realism = {
+	core_pop_militancy_modifier = -0.1
+	education_efficiency_modifier = 0.2
+	ruling_party_support = 0.15
+	icon = 4
+}
+project_cybersyn = {
+	prestige = 0.01
+	factory_input = -0.02
+	factory_output = 0.02
+	factory_throughput = 0.15
+	diplomatic_points_modifier = 0.05
+	ruling_party_support = 0.15
+	industry_tech_research_bonus = 0.05
+	badboy = -0.01
+	icon = 17
+}
+maintain_the_second_republic = {
+	ruling_party_support = 0.1
+	core_pop_militancy_modifier = -0.02
+	icon = 5
+}
+the_phalanx_ascendant = {
+	ruling_party_support = 0.15
+	icon = 2
+}
+aristocratic_cabinet = { 
+	ruling_party_support = 0.2
+	rich_vote = 0.15
+	political_reform_desire = -0.05
+	global_pop_militancy_modifier = 0.02
+	min_tariff = 0.4
+	RGO_output = 0.15
+	literacy_con_impact = -0.2
+	core_pop_militancy_modifier = 0.01
+	mobilisation_size = 0.015
+	mobilisation_economy_impact = 0.5
+	icon = 14
+}
+#TGC ### PUIR-Romania###
+alexandru_ioan_cuza = {
+	prestige = 0.02
+	diplomatic_points_modifier = 0.15
+	ruling_party_support = 0.1
+	political_reform_desire = 0.05
+	social_reform_desire = 0.05
+	core_pop_militancy_modifier = -0.01
+	core_pop_consciousness_modifier = 0.02
+	icon = 17
+}
+communist_loyalty = {
+		global_pop_militancy_modifier = -0.01
+		global_pop_consciousness_modifier = 0.02
+		ruling_party_support = 0.1
+		issue_change_speed = 0.1
+		icon = 4
+	}## West Africa Flavour ##	
+omar_tall_leader = {
+		core_pop_militancy_modifier = -0.01
+		non_accepted_pop_militancy_modifier = 0.01
+		global_pop_consciousness_modifier = 0.01
+		ruling_party_support = 1
+		icon = 13
+	}
+###Order###
+nv_order = {	#Tech Bonus
+	army_tech_research_bonus = 0.05
+	navy_tech_research_bonus = 0.05
+	#commerce_tech_research_bonus = ###
+	culture_tech_research_bonus = -0.05
+	#industry_tech_research_bonus = ###	#Research Points
+	#research_points_modifier = ###	#Global Pop Militancy & Conciousness
+	#global_pop_militancy_modifier = ###
+	#global_pop_consciousness_modifier = ###	#Core Pop Militancy & Conciousness
+	core_pop_militancy_modifier = -0.01
+	core_pop_consciousness_modifier = -0.01	#Non-Core Pop Militancy & Conciousness
+	non_accepted_pop_militancy_modifier = 0.01
+	non_accepted_pop_consciousness_modifier = 0.01	#Pop Needs
+	#poor_everyday_needs = ###
+	#middle_everyday_needs = ###
+	#rich_everyday_needs = 0.1	#poor_luxury_needs = ###
+	#middle_luxury_needs = ###
+	#rich_luxury_needs = 0.1	#Immigration and Assimilation
+	#global_population_growth = ###
+	global_immigrant_attract = -0.05
+	assimilation_rate = 0.05	#Industry & Commerce
+	tax_efficiency = 0.1
+	#factory_throughput = ###
+	RGO_throughput = 0.05
+	#rgo_output = ###
+	#factory_owner_cost = ###	#Politics
+	ruling_party_support = 0.2
+	political_reform_desire = -0.1
+	#social_reform_desire = ###	#Army Stats
+	#land_organisation = ###
+	#naval_organisation = ###
+	#org_regain = ###
+	#unit_start_experience = ###
+	land_unit_start_experience = 5
+	naval_unit_start_experience = 5
+	#supply_consumption = ###
+	leadership_modifier = 0.1	#War Exhaustion & Mobilisation
+	war_exhaustion = -0.01
+	#mobilisation_size = ###
+	#mobilisation_economy_impact = ###}
+nv_autocracy = {	#Tech Bonus
+	army_tech_research_bonus = -0.05
+	#navy_tech_research_bonus = ###
+	#commerce_tech_research_bonus = ###
+	culture_tech_research_bonus = 0.05
+	industry_tech_research_bonus = -0.05	#Research Points
+	research_points_modifier = -0.02	#Global Pop Militancy & Conciousness
+	#global_pop_militancy_modifier = ###
+	#global_pop_consciousness_modifier = ###	#Core Pop Militancy & Conciousness
+	core_pop_militancy_modifier = -0.015
+	core_pop_consciousness_modifier = -0.015	#Non-Core Pop Militancy & Conciousness
+	non_accepted_pop_militancy_modifier = 0.015
+	non_accepted_pop_consciousness_modifier = 0.015	#Pop Needs
+	#poor_everyday_needs = -0.1
+	#middle_everyday_needs = ###
+	#rich_everyday_needs = 0.1	#poor_luxury_needs = -0.1
+	#middle_luxury_needs = ###
+	#rich_luxury_needs = 0.1	#Immigration and Assimilation
+	global_population_growth = 0.0001
+	global_immigrant_attract = -0.1
+	assimilation_rate = 0.05	#Industry & Commerce
+	tax_efficiency = 0.1
+	factory_throughput = -0.1
+	#RGO_throughput = ###
+	#rgo_output = ###
+	factory_owner_cost = 0.1	#Politics
+	ruling_party_support = 0.3
+	#political_reform_desire = ###
+	social_reform_desire = -0.1	#Army Stats
+	#land_organisation = ###
+	#naval_organisation = ###
+	org_regain = 0.05
+	#unit_start_experience = ###
+	land_unit_start_experience = -5
+	#naval_unit_start_experience = ###
+	supply_consumption = -0.1
+	leadership_modifier = -0.1	#War Exhaustion & Mobilisation
+	war_exhaustion = 0.01
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1.3}
+###Pioneer###
+nv_pioneer = {	#Tech Bonus
+	army_tech_research_bonus = 0.05
+	navy_tech_research_bonus = 0.05
+	#commerce_tech_research_bonus = ###
+	culture_tech_research_bonus = -0.05
+	industry_tech_research_bonus = -0.05	#Research Points
+	research_points_modifier = -0.01	#Global Pop Militancy & Conciousness
+	#global_pop_militancy_modifier = ###
+	#global_pop_consciousness_modifier = ###	#Core Pop Militancy & Conciousness
+	core_pop_militancy_modifier = -0.02
+	core_pop_consciousness_modifier = -0.02	#Non-Core Pop Militancy & Conciousness
+	non_accepted_pop_militancy_modifier = 0.02
+	non_accepted_pop_consciousness_modifier = 0.02	#Pop Needs
+	#poor_everyday_needs = -0.1
+	#middle_everyday_needs = -0.1
+	#rich_everyday_needs = -0.2	#poor_luxury_needs = -0.1
+	#middle_luxury_needs = -0.1
+	#rich_luxury_needs = -0.2	#Immigration and Assimilation
+	global_population_growth = 0.0001
+	global_immigrant_attract = 0.1
+	assimilation_rate = -0.05	#Industry & Commerce
+	#tax_efficiency = ###
+	#factory_throughput = ###
+	RGO_throughput = 0.1
+	#rgo_output = ###
+	factory_owner_cost = -0.1	#Politics
+	ruling_party_support = 0.2
+	#political_reform_desire = ###
+	social_reform_desire = 0.1	#Army Stats
+	#land_organisation = ###
+	#naval_organisation = ###
+	#org_regain = ###
+	#unit_start_experience = ###
+	land_unit_start_experience = 10
+	naval_unit_start_experience = 10
+	supply_consumption = -0.1
+	leadership_modifier = 0.1	#War Exhaustion & Mobilisation
+	war_exhaustion = -0.02
+	mobilisation_size = -0.02
+	mobilisation_economy_impact = 0.9}
+	#nv_tradition = {
+	#	research_points_modifier = -0.1
+	#	global_pop_militancy_modifier = -0.01
+	#	global_pop_consciousness_modifier = -0.01
+	#	social_reform_desire = -0.2
+	#	issue_change_speed = -0.2
+	#	ruling_party_support = 0.25
+	#	mobilisation_size = 0.04
+	#	mobilisation_economy_impact = 1.0
+	#}
+#IPM3 tokugawa_philosophy = {
+	research_points_modifier = -0.95
+	ruling_party_support = 0.25
+	land_organisation = 0.50
+	suppression_points_modifier = 0.3
+	icon = 4
+}
+#IPM3 chinese_philosophy = {
+	research_points_modifier = -0.40
+	ruling_party_support = 0.25
+	land_organisation = 0.05
+	suppression_points_modifier = 0.15
+	icon = 4
+}
+#TTA ruling_party_focus = {
+		local_ruling_party_support = 0.25
+		icon = 37
+	}
+party_loyalty:
+Standard & Ultimate national_focus.txt: 
+party_loyalty_focus = {
+fascist_focus = {
+ideology = fascist
+loyalty_value = 0.003
+icon = 25
+}
+,
+CWEevents indonesia.txt:
+#Indonesian Civil War 1958
+country_event = {
+id = 82990031
+title = "Indonesian Civil War of $YEAR$"
+desc = EVTDESC1412244
+picture = "ido_civil_war"
+
+fire_only_once = yes
+
+trigger = {
+tag = IDO
+year = 1958
+NOT = { year = 1990 }
+
+#Cold War
+has_global_flag = blocsenabled
+
+#Is not the USI
+government = democracy
+is_vassal = no
+
+#Sukarno's party
+ruling_party_ideology = nationalist
+
+war = no
+ATJ = { exists = no }
+}
+
+mean_time_to_happen = { 
+months = 2
+}
+
+option = {
+name = "Crush the rebels!"
+
+#Create Rebellion
+any_owned = { 
+
+limit = { 
+OR = { 
+province_id = 1407
+province_id = 1406
+province_id = 1408
+province_id = 1409
+province_id = 1401
+province_id = 1400
+province_id = 1398
+province_id = 1410
+province_id = 1403
+province_id = 1399
+}
+}
+any_pop = {
+ideology = {
+factor = 0.05
+value = conservative
+}
+}
+any_pop = {
+scaled_militancy = {
+factor = 10
+ideology = conservative
+}
+}
+
+change_controller = REB
+
+}
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = nationalist
+                loyalty_value = 1
+            }
+}
+
+add_country_modifier = { name = revolution_chaos duration = 1825 }
+
+add_country_modifier = { name = stockcrash duration = 730 }
+
+#USA lose influence over Indonesia
+USA = { 
+diplomatic_influence = { who = IDO value = -100 } 
+relation = { who = IDO value = -100 }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = "Accede to the western backed rebels"
+prestige_factor = -0.20
+ruling_party_ideology = conservative
+
+#USA gains influence over Indonesia
+USA = { 
+diplomatic_influence = { who = IDO value = 200 } 
+relation = { who = IDO value = 200 }
+}
+ai_chance = { factor = 0.1 }
+}
+
+}
+#CWE events usa_elections.txt:
+#1948 elections
+country_event = {
+  id = 8015801
+  title = EVT_8015801_NAME
+  desc = EVT_8015801_DESC
+  picture = "nwo2_usa_elections_1948"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1948 
+NOT = { has_global_flag = 1950_start_date_flag }
+NOT = { year = 1952 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1949 } }
+
+option = {
+name = EVT_8015801_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers culture = afro_american } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.7 }
+}
+
+option = {
+name = EVT_8015801_B
+any_pop = { militancy = 2 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+option = {
+name = EVT_8015801_C
+any_pop = { militancy = 1.0 consciousness = 1.0 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Add ideological support
+any_pop = { ideology = { factor = 0.2 value = populist } }
+
+ai_chance = { factor = 0.1 }
+} 
+}
+
+#1952 elections
+country_event = {
+  id = 8015802
+  title = EVT_8015802_NAME
+  desc = EVT_8015802_DESC
+  picture = "nwo2_usa_elections_1952"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1952 NOT = { year = 1955 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1953 } }
+
+option = {
+name = EVT_8015802_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers culture = afro_american } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015802_B
+any_pop = { militancy = 2 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.1 }
+}
+}
+
+#1956 elections
+country_event = {
+  id = 8015803
+  title = EVT_8015803_NAME
+  desc = EVT_8015803_DESC
+  picture = "nwo2_usa_elections_1956"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1956 NOT = { year = 1959 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1957 } }
+
+option = {
+name = EVT_8015803_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers culture = afro_american } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015803_B
+any_pop = { militancy = 2 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.1 }
+}
+}
+
+#1960 elections
+country_event = {
+  id = 8015804
+  title = EVT_8015804_NAME
+  desc = EVT_8015804_DESC
+  picture = "nwo2_usa_elections_1960"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1960 NOT = { year = 1962 }
+government = democracy
+election = no
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1961 } }
+
+option = {
+name = EVT_8015804_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = jfk_elected
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015804_B
+any_pop = { militancy = 2 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers culture = afro_american } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.1 }
+}
+}
+
+#Assassination of JFK
+country_event = {
+  id = 8015805
+  title = EVT_8015805_NAME
+  desc = EVT_8015805_DESC
+  picture = "nwo2_assassination_of_jfk"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 1963 NOT = { year = 1964 }
+ruling_party_ideology = liberal
+OR = { 
+has_country_flag = jfk_elected
+has_country_flag = elections_disabled 
+}
+}
+
+mean_time_to_happen = { months = 11 }
+
+option = {
+name = EVT_8015805_A
+prestige_factor = -0.02
+any_pop = { militancy = -2.0 consciousness = 1 }
+}
+}
+
+#1964 elections
+country_event = {
+  id = 8015806
+  title = EVT_8015806_NAME
+  desc = EVT_8015806_DESC
+  picture = "nwo2_usa_elections_1964"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1964 NOT = { year = 1968 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1965 } }
+
+option = {
+name = EVT_8015806_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = socialist
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = socialist } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = socialist
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = lbj_elected
+ai_chance = { factor = 0.8 }
+}
+
+option = {
+name = EVT_8015806_B
+any_pop = { militancy = 2 consciousness = 1 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers location = { is_state_capital = no } culture = afro_american } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = goldwater_elected
+ai_chance = { factor = 0.2 }
+}  
+}
+
+#1968 elections
+country_event = {
+  id = 8015807
+  title = EVT_8015807_NAME
+  desc = EVT_8015807_DESC
+  picture = "nwo2_usa_elections_1968"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1968 NOT = { year = 1972 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1969 } }
+
+option = {
+name = EVT_8015807_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = nixon_elected
+ai_chance = { factor = 0.7 }
+}
+
+option = {
+name = EVT_8015807_B
+any_pop = { militancy = 2 consciousness = 1 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+option = {
+name = EVT_8015807_C
+any_pop = { militancy = 5 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Add ideological support
+any_pop = { ideology = { factor = 0.2 value = populist } }
+
+ai_chance = { factor = 0.1 }
+}  
+}
+
+#1972 elections
+country_event = {
+  id = 8015808
+  title = EVT_8015808_NAME
+  desc = EVT_8015808_DESC
+  picture = "nwo2_usa_elections_1972"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1972 NOT = { year = 1973 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1973 } }
+
+option = {
+name = EVT_8015808_A
+any_pop = { militancy = -2 consciousness = -1 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015808_B
+any_pop = { militancy = 1 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = mcgovern_elected
+ai_chance = { factor = 0.1 }
+}
+}
+
+#Resignation of Spiro Agnew - Republican Party
+country_event = {
+  id = 8015809
+  title = EVT_8015809_NAME
+  desc = EVT_8015809_DESC
+  picture = "nwo2_spiro_agnew"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1973 NOT = { year = 1974 }
+OR = { 
+has_country_flag = nixon_elected
+ruling_party_ideology = conservative
+ruling_party_ideology = big_tent
+}
+}
+
+mean_time_to_happen = { months = 11 }
+
+option = {
+name = EVT_8015809_A
+
+#Democrat support rises
+any_pop = { ideology = { factor = 0.05 value = liberal } }
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015809_B
+prestige = -50
+any_pop = { militancy = 5 consciousness = 5 }
+
+#Add corruption
+random_owned = {
+limit = { owner = { NOT = { has_country_modifier = massive_government_corruption } } }
+owner = { 
+remove_country_modifier = minimal_government_corruption
+remove_country_modifier = low_government_corruption
+remove_country_modifier = medium_government_corruption
+remove_country_modifier = large_government_corruption
+add_country_modifier = { name = massive_government_corruption duration = -1 } 
+}
+}
+
+ai_chance = { factor = 0.1 }
+}
+}
+
+#Nixon Resigns - Republican Party
+country_event = {
+  id = 8015810
+  title = EVT_8015810_NAME
+  desc = EVT_8015810_DESC
+  picture = "nwo2_nixon_resigns"
+  is_triggered_only = yes # USA
+
+option = {
+name = EVT_8015810_A
+prestige = -50
+
+#Change leader
+country_event = 111222
+
+#Add Democrat support
+any_pop = { ideology = { factor = 0.1 value = liberal } }
+
+set_country_flag = nixon_resigns
+}
+}
+
+#1976 Elections
+country_event = {
+  id = 8015811
+  title = EVT_8015811_NAME
+  desc = EVT_8015811_DESC
+  picture = "nwo2_usa_elections_1976"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1976 NOT = { year = 1980 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1977 } }
+
+option = {
+name = EVT_8015811_A
+any_pop = { militancy = -6 consciousness = -2 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+clr_country_flag = nixon_entrenched
+clr_country_flag = watergate_scandal_flag
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015811_B
+any_pop = { militancy = 2 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+clr_country_flag = nixon_entrenched
+clr_country_flag = watergate_scandal_flag
+ai_chance = { factor = 0.1 }
+}
+}
+
+#1980 Elections
+country_event = {
+  id = 8015812
+  title = EVT_8015812_NAME
+  desc = EVT_8015812_DESC
+  picture = "nwo2_usa_elections_1980"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1980 NOT = { year = 1984 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1981 } }
+
+option = {
+name = EVT_8015812_A
+any_pop = { militancy = -2 consciousness = -6 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = reagan_elected
+ai_chance = { factor = 0.7 }
+}
+option = {
+name = EVT_8015812_B
+any_pop = { militancy = 3 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } strata = rich strata = middle location = { is_state_capital = yes } culture = afro_american } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+option = {
+name = EVT_8015812_C
+any_pop = { militancy = 5 consciousness = 5 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Add ideological support
+any_pop = { ideology = { factor = 0.2 value = big_tent } }
+
+ai_chance = { factor = 0.1 }
+} 
+}
+
+#1984 Elections
+country_event = {
+  id = 8015813
+  title = EVT_8015813_NAME
+  desc = EVT_8015813_DESC
+  picture = "nwo2_usa_elections_1984"
+  
+fire_only_once = yes
+
+trigger = {
+tag = USA
+year = 1984 NOT = { year = 1988 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1985 } }
+
+option = {
+name = EVT_8015813_A
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = EVT_8015813_B
+any_pop = { militancy = 1 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.1 }
+}
+}
+
+#1988 Elections
+country_event = {
+  id = 8015814
+  title = "1988 Presidential Election"
+  desc = EVTDESC8015814
+  picture = "nwo2_usa_elections_1988"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 1988 NOT = { year = 1992 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1989 } }
+
+option = {
+name = "George H. W. Bush wins!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.8 }
+}
+
+option = {
+name = "Michael Dukakis for President!"
+any_pop = { militancy = 2 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+}
+
+#1992 Elections
+country_event = {
+  id = 8015815
+  title = "1992 Presidential Election"
+  desc = EVTDESC8015815
+  picture = "nwo2_usa_elections_1992"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 1992 NOT = { year = 1996 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1993 } }
+
+option = {
+name = "Support Bill Clinton!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.7 }
+}
+
+option = {
+name = "George H. W. Bush is re-elected!"
+any_pop = { militancy = 2 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+option = {
+name = "Third party candidate Ross Perot wins"
+any_pop = { militancy = 3 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Add ideological support
+any_pop = { ideology = { factor = 0.2 value = populist } }
+
+ai_chance = { factor = 0.1 }
+}
+
+}
+
+#1996 Elections
+country_event = {
+  id = 8015816
+  title = "1996 Presidential Election"
+  desc = EVTDESC8015816
+  picture = "nwo2_usa_elections_1996"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 1996 NOT = { year = 2000 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 1997 } }
+
+option = {
+name = "Bill Clinton wins again!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.7 }
+}
+
+option = {
+name = "Bob Dole is successful!"
+any_pop = { militancy = 2 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+option = {
+name = "Third party candidate Ross Perot finally wins"
+any_pop = { militancy = 3 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Add ideological support
+any_pop = { ideology = { factor = 0.2 value = populist } }
+
+ai_chance = { factor = 0.1 }
+}
+
+}
+
+#2000 Elections
+country_event = {
+  id = 8015817
+  title = "2000 Presidential Election"
+  desc = EVTDESC8015817
+  picture = "nwo2_usa_elections_2000"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2000 NOT = { year = 2004 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2001 } }
+
+option = {
+name = "Support George W. Bush!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.7 }
+}
+
+option = {
+name = "Al Gore invented the internet and won"
+any_pop = { militancy = 2 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.3 }
+}
+
+}
+
+#2004 Elections
+country_event = {
+  id = 8015818
+  title = "2004 Presidential Election"
+  desc = EVTDESC8015818
+  picture = "nwo2_usa_elections_2004"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2004 NOT = { year = 2008 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2005 } }
+
+option = {
+name = "Support George W. Bush's re-election!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.6 }
+}
+
+option = {
+name = "John Kerry wins"
+any_pop = { militancy = 1 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.4 }
+}
+
+}
+
+#2008 Elections
+country_event = {
+  id = 8015819
+  title = "2008 Presidential Election"
+  desc = EVTDESC8015819
+  picture = "nwo2_usa_elections_2008"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2008 NOT = { year = 2012 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2009 } }
+
+option = {
+name = "Yes we can, Vote Obama!"
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.25
+            }
+}
+
+set_country_flag = obama_presidency
+ai_chance = { factor = 0.9 }
+}
+
+option = {
+name = "John McCain wins"
+any_pop = { militancy = 1 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.1 }
+}
+
+}
+
+#2012 Elections
+country_event = {
+  id = 8015820
+  title = "2012 Presidential Election"
+  desc = EVTDESC8015820
+  picture = "nwo2_usa_elections_2012"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2012 NOT = { year = 2016 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2013 } }
+
+option = {
+name = "Yes we can again, Vote Obama!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.8 }
+}
+
+option = {
+name = "Mitt Romney wins"
+any_pop = { militancy = 1 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = conservative
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = conservative } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = conservative
+                loyalty_value = 0.25
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+}
+
+#2016 Elections
+country_event = {
+  id = 8015821
+  title = "2016 Presidential Election"
+  desc = EVTDESC8015821
+  picture = "nwo2_usa_elections_2016"
+  
+fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2016 NOT = { year = 2020 }
+election = no
+government = democracy
+NOT = { has_country_flag = elections_disabled }
+
+NOT = { ruling_party_ideology = populist }
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2017 } }
+
+option = {
+name = "Donald J. Trump is triumphant!"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = populist } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = populist
+                loyalty_value = 0.5
+            }
+}
+
+set_country_flag = trump_2016_election
+
+ai_chance = { factor = 0.8 }
+}
+
+option = {
+name = "Hillary Clinton is the next president"
+any_pop = { militancy = 1 consciousness = 4 }
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = liberal
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = liberal } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = liberal
+                loyalty_value = 0.5
+            }
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+}
+
+#2020 Elections
+country_event = {
+  id = 8015822
+  title = "2020 Presidential Election"
+  desc = EVTDESC8015822
+  picture = "nwo2_usa_elections_2020"
+  fire_only_once = yes
+
+trigger = {
+    tag = USA
+year = 2020 NOT = { year = 2024 }
+election = no
+government = democracy
+
+is_vassal = no
+
+NOT = { has_country_flag = elections_disabled }
+
+ruling_party_ideology = populist
+
+#Trump won previously
+has_country_flag = trump_2016_election
+}
+
+mean_time_to_happen = { months = 11 modifier = { factor = 0.1 year = 2017 } }
+
+option = {
+name = "Joe Biden wins, as expected"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = big_tent
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { location = { is_core = CAL } culture = afro_american strata = rich strata = middle location = { is_state_capital = yes } } } ideology = { factor = 0.2 value = big_tent } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = big_tent
+                loyalty_value = 0.25
+            }
+}
+
+#Republican are furious
+any_pop = {
+scaled_militancy = {
+factor = 5
+ideology = conservative
+}
+scaled_militancy = {
+factor = 10
+ideology = traditionalist
+}
+scaled_militancy = {
+factor = 10
+ideology = populist
+}
+scaled_militancy = {
+factor = 10
+ideology = nationalist
+}
+}
+
+#For a possible civil war
+set_country_flag = biden_2020_flag
+
+ai_chance = { factor = 0.8 }
+}
+
+option = {
+name = "Donald Trump wins again!?"
+
+#The president's party becomes the executive, ie the lower house in Vicky
+ruling_party_ideology = populist
+
+#Simulate the ideological divide
+any_pop = { limit = { OR = { AND = { location = { is_core = CSA } NOT = { culture = afro_american } } strata = rich type = farmers type = labourers location = { is_state_capital = no } } } ideology = { factor = 0.2 value = populist } }
+
+#Add party loyalty so the president's party will retain the executive after this event
+any_owned = {
+limit = { is_colonial = no }
+party_loyalty = {
+                ideology = populist
+                loyalty_value = 0.25
+            }
+}
+
+#Weaken US democracy
+political_reform = regulated_opinion
+political_reform = universal_weighted_voting
+political_reform = politicised_service
+
+#Democrats are furious
+any_pop = {
+scaled_militancy = {
+factor = 5
+ideology = liberal
+}
+scaled_militancy = {
+factor = 10
+ideology = progressive
+}
+scaled_militancy = {
+factor = 10
+ideology = socialist
+}
+scaled_militancy = {
+factor = 10
+ideology = communist
+}
+scaled_militancy = {
+factor = 10
+ideology = communist_social
+}
+}
+
+ai_chance = { factor = 0.2 }
+}
+
+},
+
