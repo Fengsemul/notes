@@ -67,16 +67,16 @@ UCyEJX-kSj0kOOCS7Qlq2G7g	0.800	C	0.900"
 "UCJtkHqH4Qof97TSx7BzE5IQ	0.850	Mainstream News	0.6
 UCJtkHqH4Qof97TSx7BzE5IQ	0.850	C	0.700"
 
+"WFAA,Mainstream News,UCBu0KdNokE4MqdkacvH37_A,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
+"UCBu0KdNokE4MqdkacvH37_A	0.950	Mainstream News	0.8
+UCBu0KdNokE4MqdkacvH37_A	0.950	C	0.700"
+
 >C 1.000 MSM 0.6:^
 
 Less MSM, less C:v
 "Bloomberg Markets and Finance,Mainstream News,UCIALMKvObZNtJ6AmdCLP7Lg,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
 "UCIALMKvObZNtJ6AmdCLP7Lg	0.950	Mainstream News	0.8
 UCIALMKvObZNtJ6AmdCLP7Lg	0.950	C	0.600";
-
-"WFAA,Mainstream News,UCBu0KdNokE4MqdkacvH37_A,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
-"UCBu0KdNokE4MqdkacvH37_A	0.950	Mainstream News	0.8
-UCBu0KdNokE4MqdkacvH37_A	0.950	C	0.700"
 
 Less MSM, less C:^
 
