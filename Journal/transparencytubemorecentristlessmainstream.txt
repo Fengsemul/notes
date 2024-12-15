@@ -1,0 +1,36 @@
+2024-12-15: 
+"ABC Action News,Mainstream News,UCK0UUsCjtMRNtS3BPh1Yc4w,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCK0UUsCjtMRNtS3BPh1Yc4w	0.850	Mainstream News	0.8
+UCK0UUsCjtMRNtS3BPh1Yc4w	0.850	C	1.000"
+
+"WXYZ-TV Detroit | Channel 7,Mainstream News,UC6HyKpYWmX4zsy6_bJZIK7A,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UC6HyKpYWmX4zsy6_bJZIK7A	0.850	Mainstream News	0.8
+UC6HyKpYWmX4zsy6_bJZIK7A	0.850	C	1.000"
+
+"FOX 13 News - Tampa Bay,Mainstream News,UC13mSI38YWz5zfvxXDPpePA,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UC13mSI38YWz5zfvxXDPpePA	0.800	Mainstream News	0.8
+UC13mSI38YWz5zfvxXDPpePA	0.800	C	1.000"
+
+"WKYC Channel 3,Mainstream News,UCNBmxc6FvKyxtCpUygcdINA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCNBmxc6FvKyxtCpUygcdINA	0.850	Mainstream News	0.8
+UCNBmxc6FvKyxtCpUygcdINA	0.850	C	1.000"
+
+Conspiracy:v
+"Viper TV - Docs,Conspiracy,UCIUlQSeoRtEsLbg4vcI8JyQ,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", "
+UCIUlQSeoRtEsLbg4vcI8JyQ	0.900	Conspiracy	1.0
+UCIUlQSeoRtEsLbg4vcI8JyQ	0.900	C	1.000"
+
+"Near Death Experiment,Conspiracy,UCh7H09ZousqvAWfa3qitwzQ,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCh7H09ZousqvAWfa3qitwzQ	1.000	Conspiracy	1.0
+UCh7H09ZousqvAWfa3qitwzQ	1.000	C	1.000"
+
+"Martin Willis Live Shows,Conspiracy,UCSTVGU0oHJp-gvlYPfWUvWQ,C,0.85,C,Conspiracy,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	Conspiracy	1.0
+UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	C	1.000"
+Conspiracy:^
+1 some PartisanRight:v
+"KRQE,Mainstream News,UCJnpF9oROFPvd7wWbPUDdGA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCJnpF9oROFPvd7wWbPUDdGA	0.850	Mainstream News	1.0
+UCJnpF9oROFPvd7wWbPUDdGA	0.850	PartisanRight	0.2
+UCJnpF9oROFPvd7wWbPUDdGA	0.850	C	1.000"
+PartisanRight:^
