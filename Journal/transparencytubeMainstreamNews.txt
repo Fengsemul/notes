@@ -1,3 +1,4 @@
+GMT 2023-08-18 21:02:v
 https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
 https://raw.githubusercontent.com/sam-clark/chan2vec/master/data/datasets/channel_review_20201025.csv
 "0.850" is Precision
@@ -152,3 +153,195 @@ UCyGhGrs-1hA22jX6X850VEQ	0.850	Mainstream News	1.0
 UCyGhGrs-1hA22jX6X850VEQ	0.850	C	0.500
 UCu0Gn50PSjozOgwgPVTBB4A	0.900	Mainstream News	1.0
 UCu0Gn50PSjozOgwgPVTBB4A	0.900	C	0.500
+GMT 2023-08-18 21:02:^
+GMT 2024-12-11 23:59:v
+FOX31 Denver as local news (according to transparency.tube 0.8 Mainstream News C (Center) 1.000 (archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt : ""), (https://archive.fo/2024.12.13/https://github.com/markledwich2/Recfluence : "Mainstream News: Reporting on newly received or noteworthy information. Widely accepted and self-identified as news (even if mostly opinion). Appears in either https://www.adfontesmedia.com or https://mediabiasfactcheck.com.") and no other labels when ignoring "C" where "Mainstream News" is defined as recently updating cable news) is slightly more left (archive.fo/2024.12.13/https://mediabiasfactcheck.com/kdvr-tv/), Policy Leanings: Somewhat Conservative but ranked "N/A" and uses mostly center but more right-wing sources (https://archive.fo/2024.12.12/https://ground.news/interest/kdvr). archive.fo/2024.12.13/https://www.biasly.com/sources/fox31-denver-kdvr-bias-rating/ : Bias: "0% Center" Policy Leanings: "20% Somewhat Conservative"
+No mention in archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt .
+archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/channel_review_20201025.csv : "CNBC International,Mainstream News,UCo7a6riBFJ3tkeHjvkXPn1g,C,0.9,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"/
+"CNBC International,Mainstream News,UCo7a6riBFJ3tkeHjvkXPn1g,C,0.9,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"  2x tagged as MSM.
+archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt : "UCo7a6riBFJ3tkeHjvkXPn1g	0.850	Mainstream News	1.0
+UCo7a6riBFJ3tkeHjvkXPn1g	0.850	C	0.600"
+archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/channel_review_20201025.csv : "CBS Los Angeles,Mainstream News,UCkH1uDkyuO9sVjSqdqBygOg,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z", 
+archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt : "UCkH1uDkyuO9sVjSqdqBygOg	1.000	Mainstream News	1.0
+UCkH1uDkyuO9sVjSqdqBygOg	1.000	C	0.900"
+"11Alive,Mainstream News,UCzF4Ryn8TKn64md77gS5Q5Q,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"
+All of them have no mention in archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt .
+"New York Daily News,Mainstream News,UCx-h2AWPCBJEqzH9HXe2ZIA,C,0.7,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"/
+"New York Daily News,Mainstream News,UCx-h2AWPCBJEqzH9HXe2ZIA,C,0.7,C,Mainstream News,,0.7,mar,2020-07-06T03:15:50.2001521Z"+"UCx-h2AWPCBJEqzH9HXe2ZIA	0.950	Mainstream News	1.0
+UCx-h2AWPCBJEqzH9HXe2ZIA	0.950	C	0.700" 2x MSM
+has mention in archive.fo/2024.12.13/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt : "UCx-h2AWPCBJEqzH9HXe2ZIA	MainstreamNews
+UCx-h2AWPCBJEqzH9HXe2ZIA	C
+UCx-h2AWPCBJEqzH9HXe2ZIA	MainstreamMedia" 3x MSM;
+"Click On Detroit | Local 4 | WDIV,Mainstream News,UCqMdEOPBZbGPykVOhUqWqfA,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", "UCqMdEOPBZbGPykVOhUqWqfA	0.950	Mainstream News	1.0
+UCqMdEOPBZbGPykVOhUqWqfA	0.950	C	0.900"; 
+"Eyewitness News ABC7NY,Mainstream News,UCrlIS7z20CnVaCrMvdkig_g,C,1,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"/ 
+"Eyewitness News ABC7NY,Mainstream News,UCrlIS7z20CnVaCrMvdkig_g,C,1,C,Mainstream News,UCBi2mrWuNuyYy4gbM6fU18Q,1,mar,2020-07-06T08:16:42.6998500Z"+"UCrlIS7z20CnVaCrMvdkig_g	0.950	Mainstream News	1.0
+UCrlIS7z20CnVaCrMvdkig_g	0.950	C	0.800" 2x tagged as MSM., 
+"WCPO 9,Mainstream News,UCQaDjAIpg-pd44ats-HXCyA,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z" "UCQaDjAIpg-pd44ats-HXCyA	0.900	Mainstream News	1.0
+UCQaDjAIpg-pd44ats-HXCyA	0.900	C	0.700", 
+"KHON2 News,Mainstream News,UCtqFUxpLnV-RaraQVu1rMTw,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"
+"Chicago Tribune,Mainstream News,UCB2aea_wLJJaklTOplAC82A,C,0.8333333333,C,Mainstream News,,0.5,mar,2020-07-06T03:15:50.2001279Z"/
+"Chicago Tribune,Mainstream News,UCB2aea_wLJJaklTOplAC82A,C,0.8333333333,C,Mainstream News,,1,dae,2020-07-06T03:15:50.1988052Z"/
+"Chicago Tribune,Mainstream News,UCB2aea_wLJJaklTOplAC82A,C,0.8333333333,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"/ 
+"Chicago Tribune,Mainstream News,UCB2aea_wLJJaklTOplAC82A,C,0.8333333333,L,PartisanLeft|Mainstream News,,1,ann,2020-07-06T03:15:50.1994765Z", "UCB2aea_wLJJaklTOplAC82A	0.900	Mainstream News	1.0
+UCB2aea_wLJJaklTOplAC82A	0.900	C	1.000" 4x scanned as MSM, 1x L, 1x PartsanLeft.
+Soft tag:"UCB2aea_wLJJaklTOplAC82A	MainstreamNews
+UCB2aea_wLJJaklTOplAC82A	C
+UCB2aea_wLJJaklTOplAC82A	MainstreamMedia" 5x MSM, 1x L, 1x PartisanLeft; 
+ archive.fo/2024.12.13/https://mediabiasfactcheck.com/chicago-tribune/ : Right-center , archive.fo/2024.12.13/https://www.allsides.com/news-source/chicago-tribune : Low or initial confidence of Center, archive.fo/2024.12.13/https://adfontesmedia.com/chicago-tribune-bias-and-reliability/ : "Bias: -4.24" still "Bias: Middle", archive.fo/2024.12.13/https://www.biasly.com/sources/chicago-tribune-bias-rating/ : "Bias Score of 20% Somewhat Conservative
+" and "Policy Leanings 36% Somewhat Conservative", archive.fo/2024.12.13/https://library.bu.edu/blumenthal/bias : "Leans Conservative": Chicago Tribune, archive.fo/2024.12.13/https://ground.news/interest/chicago-tribune : Latest stories uses 100% Center sources except the newest with lower than third of left-wing-sources and no right-wing sources., archive.fo/2024.12.13/https://www.quora.com/Is-the-Chicago-Tribune-really-an-honest-and-unbiased-newspaper-source sees Chicago Tribune positive, so more likely yes, it's unbiased for them. Mixed opinions between democrat, center-right and far-right in archive.fo/2024.12.13/https://old.reddit.com/r/illinois/comments/15jx9gd/chicago_tribune_bias/ , which reddit feed itself is left-bias (https://archive.fo/2024.12.13/https://news.umich.edu/u-m-study-explores-how-political-bias-in-content-moderation-on-social-media-feeds-echo-chambers/"For regular Reddit users, it should come as no surprise the site is, on average, left-leaning. The largest political subreddit on the website, /r/politics, is a bastion of Democratic support. It’s also borne out in our data and modeling of political opinion among users and moderators of the local subreddits we study.
+Suffice to say that biased content moderation is not limited to any one side.", archive.fo/2024.12.13/https://michiganross.umich.edu/news/new-study-reddit-explores-how-political-bias-content-moderation-feeds-echo-chambers : "Within this dataset, they identify the political leanings of both commenters and moderators and find that if commenters had different political opinions than moderators, then they were more likely to have comments removed.") but bias depends on each subreddit. This subreddit uses "33% LEFT 54% CENTER 13% RIGHT" sources with Articles from Center leaning sources receiving 57% of the upvotes in r/illinois
+Upvotes: "37% LEFT
+57% CENTER
+  " & "ILLINOIS POLICY
+R
+906 Upvotes" as last of Top 10 from archive.fo/2024.12.13/https://ground.news/blindspotter/reddit/illinois.,
+"KHOU 11,Mainstream News,UCXwRxm0zS0jBNTMOVI6xZJw,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", "UCXwRxm0zS0jBNTMOVI6xZJw	0.950	Mainstream News	1.0
+UCXwRxm0zS0jBNTMOVI6xZJw	0.950	C	0.700",
+"ABC10,Mainstream News,UCT350j4u6alUKyF9eu2bGug,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCT350j4u6alUKyF9eu2bGug	1.000	Mainstream News	1.0
+UCT350j4u6alUKyF9eu2bGug	1.000	C	0.900", 
+"LOCAL 12,Mainstream News,UC673WfesrYoCgG9VsekGlEQ,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UC673WfesrYoCgG9VsekGlEQ	0.900	Mainstream News	1.0
+UC673WfesrYoCgG9VsekGlEQ	0.900	C	0.900", 
+"The Canadian Press,Mainstream News,UCj6EKBe990fanr4MSh45Alw,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCj6EKBe990fanr4MSh45Alw	0.850	Mainstream News	1.0
+UCj6EKBe990fanr4MSh45Alw	0.850	C	0.700", 
+"The Boston Globe,Mainstream News,UCcNkwfTQuXAxAFwoAUHweJA,L,1,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"/
+"The Boston Globe,Mainstream News,UCcNkwfTQuXAxAFwoAUHweJA,L,1,L,Mainstream News,,1,mar,2020-07-06T03:15:50.2001296Z"/
+"The Boston Globe,Mainstream News,UCcNkwfTQuXAxAFwoAUHweJA,L,1,L,PartisanRight|Mainstream News,,1,ann,2020-07-06T03:15:50.1994784Z"/
+"The Boston Globe,Mainstream News,UCcNkwfTQuXAxAFwoAUHweJA,L,1,C,Mainstream News,,1,dae,2020-07-06T03:15:50.1988070Z"+"UCcNkwfTQuXAxAFwoAUHweJA	0.900	Mainstream News	1.0
+UCcNkwfTQuXAxAFwoAUHweJA	0.900	C	0.800"+"UCcNkwfTQuXAxAFwoAUHweJA	L
+UCcNkwfTQuXAxAFwoAUHweJA	MainstreamNews
+UCcNkwfTQuXAxAFwoAUHweJA	MainstreamMedia" is left-leaning in soft tag. 4x MSM. 1x PartisanRight. 7x L; 
+"WCVB Channel 5 Boston,Mainstream News,UC72UssJ1DNQcakZXm-B2-zw,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UC72UssJ1DNQcakZXm-B2-zw	1.000	Mainstream News	1.0
+UC72UssJ1DNQcakZXm-B2-zw	1.000	C	0.800", 
+"KOIN 6,Mainstream News,UCXN7rPhZK6Rp8lMhvpSri_Q,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCXN7rPhZK6Rp8lMhvpSri_Q	0.950	Mainstream News	1.0
+UCXN7rPhZK6Rp8lMhvpSri_Q	0.950	C	0.600", 
+"WCNC,Mainstream News,UC-RxXi2Xws6Uk22vp-sLbGA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UC-RxXi2Xws6Uk22vp-sLbGA	1.000	Mainstream News	1.0
+UC-RxXi2Xws6Uk22vp-sLbGA	1.000	C	0.800", 
+"NewsChannel 5,Mainstream News,UCO6kzQ-7wcG0x8W5LpBA9RQ,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCO6kzQ-7wcG0x8W5LpBA9RQ	0.900	Mainstream News	1.0
+UCO6kzQ-7wcG0x8W5LpBA9RQ	0.900	C	0.800"; 
+"KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"/
+"KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,C,Mainstream News,,1,ann,2020-09-15T17:26:40.2107163Z"/
+"KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,C,Mainstream News,,1,scl,2020-09-14T19:31:39.4349451Z"/
+"KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,L,Mainstream News,UCBi2mrWuNuyYy4gbM6fU18Q,0.9,mar,2020-09-14T05:51:28.8371858Z"+"UCxXTyFekH99JnS3qaXIQW7A	1.000	Mainstream News	1.0
+UCxXTyFekH99JnS3qaXIQW7A	1.000	C	0.900" 1x L.; 
+"6abc Philadelphia,Mainstream News,UCw77677G3EAODp61b0izs7w,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCw77677G3EAODp61b0izs7w	1.000	Mainstream News	1.0 
+UCw77677G3EAODp61b0izs7w	1.000	C	0.800", 
+"CBS Boston,Mainstream News,UCi4fcBVyo4CAnmdgXeO-NvA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCi4fcBVyo4CAnmdgXeO-NvA	1.000	Mainstream News	1.0
+UCi4fcBVyo4CAnmdgXeO-NvA	1.000	C	1.000" archive.fo/2024.12.13/https://mediabiasfactcheck.com/cbs-boston-wbz-tv/ : Left-Center, https://archive.fo/2024.12.13/https://www.biasly.com/sources/cbs-boston-bias-rating/ : Bias: -6% Center, Policy Leanings: -8%;Politician Portrayal: 91% Negative, archive.fo/2024.12.13/https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2016/11/30/cbs-boston-freelancer-tweets-trump-died-sleeping-calms-him : "As outrageous has Leavitt’s tweet was, CBS Boston’s public relations kneejerk reaction was flat out ridiculous. The local news outlet responded to more than 100 irate twitter users, first proclaiming, “Mr. Leavitt is not a current or former employee of WBZ-TV or CBS. His comments do not reflect the views of our station.” Before changing it to, “Mr. Leavitt does not and never has worked for WBZ-TV or CBS.” It’s noteworthy that they argued that he does not “reflect the views” of the network, since they claimed he never worked for them."; 
+"NBC4 Columbus,Mainstream News,UCDFLiE2iGUvlZMmhemzy6eA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCDFLiE2iGUvlZMmhemzy6eA	0.850	Mainstream News	1.0
+UCDFLiE2iGUvlZMmhemzy6eA	0.850	C	0.900"; 
+"United States Broadcasting,Mainstream News,UCvqoktDC6KhnIPz2xTIjMFA,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCvqoktDC6KhnIPz2xTIjMFA	0.900	Mainstream News	1.0
+UCvqoktDC6KhnIPz2xTIjMFA	0.900	C	0.900"; 
+"Chicago Sun-Times,Mainstream News,UCvU3ALK4osa_RV4znIToB2Q,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCvU3ALK4osa_RV4znIToB2Q	0.900	Mainstream News	1.0
+UCvU3ALK4osa_RV4znIToB2Q	0.900	C	0.800"; 
+"MassLive,Mainstream News,UCDmXyuvUm8aDC4asAOgFrgQ,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCDmXyuvUm8aDC4asAOgFrgQ	0.900	Mainstream News	1.0
+UCDmXyuvUm8aDC4asAOgFrgQ	0.900	C	0.700"; 
+"FOX10 News,Mainstream News,UC_B1lpgj2DH_wO8T1jJnSYA,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UC_B1lpgj2DH_wO8T1jJnSYA	0.900	Mainstream News	1.0
+UC_B1lpgj2DH_wO8T1jJnSYA	0.900	C	0.900"; 
+"WMAR-2 News,Mainstream News,UCADaBeM0qiKEZIw9_OuYmuA,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCADaBeM0qiKEZIw9_OuYmuA	0.950	Mainstream News	1.0
+UCADaBeM0qiKEZIw9_OuYmuA	0.950	C	0.900"; 
+"WKMG News 6 ClickOrlando,Mainstream News,UCjpzEgbbDUg4YC6vpSrzsyg,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCjpzEgbbDUg4YC6vpSrzsyg	1.000	Mainstream News	1.0
+UCjpzEgbbDUg4YC6vpSrzsyg	1.000	C	0.900"; 
+"KMOV St. Louis,Mainstream News,UCwHKLYLfz6M14SbBahFH5VA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCwHKLYLfz6M14SbBahFH5VA	1.000	Mainstream News	1.0
+UCwHKLYLfz6M14SbBahFH5VA	1.000	C	0.700"; 
+"WIVBTV,Mainstream News,UCENwe4N7FQCfIWY5wEjimNA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCENwe4N7FQCfIWY5wEjimNA	0.850	Mainstream News	1.0
+UCENwe4N7FQCfIWY5wEjimNA	0.850	C	0.800"; 
+"WPRI,Mainstream News,UCnwI-VN5jXWIGQKOI9PMDMw,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCnwI-VN5jXWIGQKOI9PMDMw	1.000	Mainstream News	1.0
+UCnwI-VN5jXWIGQKOI9PMDMw	1.000	C	0.800"; 
+"KENS 5: Your San Antonio News Source,Mainstream News,UCVnjt9mMx46gMUeTtONXimQ,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCVnjt9mMx46gMUeTtONXimQ	1.000	Mainstream News	1.0
+UCVnjt9mMx46gMUeTtONXimQ	1.000	C	0.900"; 
+"WISN 12 News,Mainstream News,UC8Tm7Xuz8QekHzjsDxgFNnw,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UC8Tm7Xuz8QekHzjsDxgFNnw	0.950	Mainstream News	1.0
+UC8Tm7Xuz8QekHzjsDxgFNnw	0.950	C	0.800"; 
+"CBS Sacramento,Mainstream News,UCxZMOY2RdtK6LQUbIYgec4A,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCxZMOY2RdtK6LQUbIYgec4A	0.950	Mainstream News	1.0
+UCxZMOY2RdtK6LQUbIYgec4A	0.950	C	0.600"; 
+""WKBW TV | Buffalo, NY",Mainstream News,UCfbPQcdF5an7ui8bwwry1Cw,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCfbPQcdF5an7ui8bwwry1Cw	0.950	Mainstream News	1.0
+UCfbPQcdF5an7ui8bwwry1Cw	0.950	C	0.700"; 
+"KCTV5 News,Mainstream News,UCie7RmdcnvXA1FXHRJa7WtA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCie7RmdcnvXA1FXHRJa7WtA	1.000	Mainstream News	1.0
+UCie7RmdcnvXA1FXHRJa7WtA	1.000	C	0.800"; 
+"The Salt Lake Tribune,Mainstream News,UCZj3_eWQ4f4oHm_x-wsxG7Q,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCZj3_eWQ4f4oHm_x-wsxG7Q	0.850	Mainstream News	1.0
+UCZj3_eWQ4f4oHm_x-wsxG7Q	0.850	C	0.700"; 
+"WBAL-TV 11 Baltimore,Mainstream News,UCpmb83_U37eDBlgEezsxK7w,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCpmb83_U37eDBlgEezsxK7w	0.900	Mainstream News	1.0
+UCpmb83_U37eDBlgEezsxK7w	0.900	C	0.900"; 
+"Orlando Sentinel,Mainstream News,UC-MCjIJ5Wo61YyzJjC7Mh7w,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UC-MCjIJ5Wo61YyzJjC7Mh7w	0.850	Mainstream News	1.0
+UC-MCjIJ5Wo61YyzJjC7Mh7w	0.850	C	0.900"; 
+"The Edge TV,Mainstream News,UCf6MsyqRkmt7vDyXBPkfrRQ,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCf6MsyqRkmt7vDyXBPkfrRQ	1.000	Mainstream News	1.0
+UCf6MsyqRkmt7vDyXBPkfrRQ	1.000	C	0.700"; 
+"WPBF 25 News,Mainstream News,UCeD5NwvPbEZKcu02_v8tUZQ,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCeD5NwvPbEZKcu02_v8tUZQ	0.850	Mainstream News	1.0
+UCeD5NwvPbEZKcu02_v8tUZQ	0.850	C	0.800"; 
+"FOX6 News Milwaukee,Mainstream News,UCzHN-FjWDMsgfGPvRq7oy-Q,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCzHN-FjWDMsgfGPvRq7oy-Q	0.950	Mainstream News	1.0
+UCzHN-FjWDMsgfGPvRq7oy-Q	0.950	C	0.900"; 
+"KRIS 6 News,Mainstream News,UCvM_k1scQ1YU50HiQc-4xyg,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+"UCvM_k1scQ1YU50HiQc-4xyg	0.800	Mainstream News	1.0
+UCvM_k1scQ1YU50HiQc-4xyg	0.800	C	0.900"; 
+"KRIS 6 News,Mainstream News,UCvM_k1scQ1YU50HiQc-4xyg,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+"UCyGhGrs-1hA22jX6X850VEQ	0.850	Mainstream News	1.0
+UCyGhGrs-1hA22jX6X850VEQ	0.850	C	0.500" archive.fo/2024.12.13/https://mediabiasfactcheck.com/kris-6-news-corpus-christi-bias/ : Least biased slightly on left., archive.fo/2024.12.13/https://reporterslab.org/tag/kris-tv/ : "In addition to the projects that began in 2019, we also added three established fact-checkers to our database that were already in operation before this year: Local TV station KRIS-TV in Corpus Christi, Texas, has been on the fact-checking beat since 2017." , https://ratemystation.com/product-tag/my-newsroom/ from eTools.ch-snippet :"… bias and nepotism. When your news director has no collegiate education in … KRIS TV is nothing more than a “Hooterville” station in a backwoods …", archive.fo/2024.12.13/https://www.w3.org/services/html2txt?url=https%3A%2F%2Fratemystation.com%2FKRIS%2F&internalrefs=on : "News Director: Paul Alexander
+“Is a dinosaur. A weak man who cannot make eye contact He lies and cannot be trusted.”
+While working for KRIS this person experienced:
+An Overall Toxic Work Environment", https://old.reddit.com/r/corpus/comments/19bqez4/i_hate_kris_channel_6/ : "35
+" upvotes "
+
+10 months ago by pah2000": "Man, all they offer is pre recorded boring stories. If they didn’t air them 4 times a week, it wouldn’t be so bad. Did Katia’s contract cost them way too much? Damn. Bring back the local news.", "53 points 10 months ago* 
+KRIS-TV's Ohio-based corporate owners (Scripps) have imposed a way cheaper way of "reporting" the news on Channel 6 / Channel 10 & its 60+ other stations around the country and it shows. Your best bet is to change the channel to KIII-TV 3. (Or, if you speak Spanish to Univision/KORO Channel 28).
+
+And I say this, sadly, as a former journalist at Channel 6. :("
+
+
+"[–]gwaydms 9 points 10 months ago 
+
+After watching channel 6 for many years, I must agree." , "Now: KIII-TV 3 is the last serious English-language TV newsroom standing; The Caller-Times is a shell of what it used to be; and KRIS/KZTV/KAJA is but a shadow of what it once was." Reddit-post after transparency.tube-bias-assessment.; 
+"KTVQ News,Mainstream News,UCN2IWwjVxh4vOnMbnjiM8Hw,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCN2IWwjVxh4vOnMbnjiM8Hw	0.900	Mainstream News	1.0
+UCN2IWwjVxh4vOnMbnjiM8Hw	0.900	C	0.900"; 
+"FOX59 News,Mainstream News,UCktceZtn0Kxd53qjjM2KzqA,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCktceZtn0Kxd53qjjM2KzqA	0.950	Mainstream News	1.0
+UCktceZtn0Kxd53qjjM2KzqA	0.950	C	0.900"; 
+"Times and Democrat,Mainstream News,UCfjvEhw87LGduwCUPi6jkkQ,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCfjvEhw87LGduwCUPi6jkkQ	0.950	Mainstream News	1.0
+UCfjvEhw87LGduwCUPi6jkkQ	0.950	C	0.900"; 
+"KSNV News 3 Las Vegas,Mainstream News,UCllyIkZaUy2zg-smrWiahow,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCllyIkZaUy2zg-smrWiahow	0.850	Mainstream News	1.0
+UCllyIkZaUy2zg-smrWiahow	0.850	C	1.000" archive.fo/2024.12.13/https://baltimorepostexaminer.com/what-does-the-las-vegas-police-final-report-on-the-massacre-tell-us-about-marilou-danley/2018/10/22 : "In the June 27 Baltimore Post-Examiner article, ‘KSNV-TV News 3 fails to ask Lombardo the hard questions,’ I made reference to an interview that was aired the day before with Clark County Sheriff Joe Lombardo who runs the LVMPD.", "Lombardo should have been challenged on this by the KSNV-TV reporter, but he wasn’t. Maybe it flew right over the interviewer’s head. It fits into a pattern though as to how Lombardo has been handled by the Las Vegas media from the outset. They never asked him the hard questions and let his absurd comments, lies, convoluted and misleading statements go unchallenged time and time again." ; 
+"WPXI-TV News Pittsburgh,Mainstream News,UCBnnls7hGYmkQmuFTDDe10g,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCBnnls7hGYmkQmuFTDDe10g	0.900	Mainstream News	1.0
+UCBnnls7hGYmkQmuFTDDe10g	0.900	C	0.800"; 
+"The Herald,Mainstream News,UCX-7YWAOdZ6P6tPRXeEs49A,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCX-7YWAOdZ6P6tPRXeEs49A	0.900	Mainstream News	1.0
+UCX-7YWAOdZ6P6tPRXeEs49A	0.900	C	1.000" archive.fo/2024.12.13/https://mediabiasfactcheck.com/rock-hill-herald/ : "Overall, we rate the Rock Hill Herald Left-Center Biased based on editorial positions that moderately favor the left.", archive.fo/2024.12.13/https://www.heraldonline.com/opinion/article12425921.html : "Those studies are a reminder that we humans are perhaps less rational than we would like to think, and more prone to the buffeting of unconscious influences. That’s something for those of us who are white men to reflect on when we’re accused of “privilege.”", "So, come on, white men! Let’s just acknowledge that we’re all flawed, biased and sometimes irrational, and that we can do more to resist unconscious bias." implying their heraldonline-staffs are white-biased themselves., archive.fo/2024.12.13/https://www.heraldonline.com/opinion/letters-to-the-editor/article12224666.html : 2008-06-22 : "Cartoon showed left-wing bias
+The liberal, left-wing bias of the Herald is something that, while I do not like it, I have tried to ignore. Unfortunately, the disgusting, demeaning and shameful editorial cartoon in the June 18 paper cannot be ignored. The Herald owes every member of the United States military an abject apology for that piece of tripe.
+Sharon Vasher
+Tega Cay", archive.fo/2024.12.13/https://www.heraldonline.com/opinion/letters-to-the-editor/article12239510.html : 2008-10-29: "Paper biased for Obama
+Your newspaper has been very biased throughout this campaign in favor of Obama. Well, I happen to be one of those geeks supporting Sen. McCain, and the Oct. 24 cartoon goes over the top as far as bias goes. You seem to forget that there are a lot of Republicans reading your paper. Your paper is supposed to present the news, not try to sway voters how to vote.
+Ronald G. Annett
+Rock Hill", archive.fo/2024.12.13/https://www.researchgate.net/publication/380961141_Editor's_Choice_Measuring_Candidate_Quality_using_Local_Newspaper_Endorsements : "In the United States, it is common for local newspapers to make endorsements of candi-dates. In many cases, newspapers summarize their endorsements in a list for voters leading up to or on election day.",  https://electionstudies.org/wp-content/uploads/2018/03/anes_timeseries_1972_newspaper_endorsements.pdf : p.5: 1972-11-04: Rock Hill Herald in South Carolina as uncommitted., archive.fo/2024.12.13/https://www.congressionalresearch.org/extrafiles/images/Arnold2002PressPoliticalAccountability.pdf : "7. Newspapers show no evidence of bias in the frequency with which they cover particular
+representatives. They give neither more nor less coverage to liberals, conservatives, ideological extremists,
+women, or minority members.", "The best campaign coverage appeared in quality newspapers with competitive races. The Las Vegas Review-Journal, Lewiston Morning Tribune, Los Angles Times, and Tulsa World set the standard here, with the Bloomington Pantagraph, Buffalo News, and Rock Hill Herald as runners-up.", "small-city papers like the Rock Hill Herald (South Carolina)", archive.fo/2024.12.13/https://www.degruyter.com/document/doi/10.1515/9781400849581.194/html : "Some experts argue that rival newspapers compete for readers by devotingmore  resources  to  news  gathering  than  do  monopolistic  local  newspapersthat  have  little  reason  to  fear  their  readers’  defection  (Bogart  1981,  264;Bagdikian 1987, 129). Several studies offer empirical support for this propo-sition. For example, one study found that competitive newspapers had largernewsholes  than  noncompetitive  newspapers  (Everett  and  Everett  1989).  Apair  of  studies  found  that  competitive  newspapers  were  more  likely  than noncompetitive  papers  to  subscribe  to  multiple  news  services  (beyond  theubiquitous  AP  and  UPI),  such  as  the  services  run  by  the  Los  Angles  Times,", archjive.fo/2024.12.13/https://www.andrew.cmu.edu/user/rlessem/endorse.pdf : Propensity for Major Newspapers to Endorse Democrats, 1940-2002 : Years Searched: "Rock Hill Herald 1998-2002"; 
+"NYU Stern,Mainstream News,UCod8o80imMaMr5TwcOK7iqw,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+"UCod8o80imMaMr5TwcOK7iqw	0.800	Mainstream News	1.0
+UCod8o80imMaMr5TwcOK7iqw	0.800	C	0.700"; 
+"FOX 29 Philly,Mainstream News,UCqdOvfSmM2NKRNE0FSbATuw,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+"UCqdOvfSmM2NKRNE0FSbATuw	0.800	Mainstream News	1.0
+UCqdOvfSmM2NKRNE0FSbATuw	0.800	C	0.900"; 
+"WLOS News 13,Mainstream News,UCu0Gn50PSjozOgwgPVTBB4A,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCu0Gn50PSjozOgwgPVTBB4A	0.900	Mainstream News	1.0
+UCu0Gn50PSjozOgwgPVTBB4A	0.900	C	0.500", archive.fo/2024.12.13/https://mediabiasfactcheck.com/wlos-abc13news/ : Right-center "Overall, we rate WLOS (ABS13News) Right-Center Biased based on editorial positions that slightly favor the right. We also rate them High for factual reporting due to proper sourcing and a clean fact check record.
+", archive.fo/2024.12.13/https://en.wikipedia.org/wiki/WLOS#cite_note-60 : "Sinclair ownership" > archive.fo/2024.12.13/https://wlos.com/news/local/rescan-required-for-over-the-air-viewers-on-sept-20 : "Updated Mon, September 20th 2021 at 12:24 PM": "My40 will move to channel 14 for Charter cable customers.", archive.fo/2024.12.13/https://usadomainhub.com/fox28media.com/ : "Wlos.com
+Wlos.com
+DA: 8 PA: 50 MOZ Rank: 45", archive.fo/2024.12.13/https://tvstations.fandom.com/wiki/WLOS : "WLOS, virtual and VHF digital channel 13, is an ABC-affiliated television station licensed to Asheville, North Carolina, United States, serving Western North Carolina and Upstate South Carolina. The station is owned by the Sinclair Broadcast Group, which also operates Anderson, South Carolina-licensed MyNetworkTV affiliate WMYA-TV (channel 40) under a local marketing agreement with owner Cunningham Broadcasting. However, Sinclair effectively owns WMYA as the majority of Cunningham's stock is owned by the family of deceased group founder Julian Smith.[1][2]" ; 
+"Invesco,Mainstream News,UCQ-uHE6_ow1KHvE0GpqMtyw,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCQ-uHE6_ow1KHvE0GpqMtyw	0.900	Mainstream News	1.0
+UCQ-uHE6_ow1KHvE0GpqMtyw	0.900	C	0.800"; 
+"KSBW Action News 8,Mainstream News,UCwPzlQU2MqEQJWgqM_0VFKQ,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCwPzlQU2MqEQJWgqM_0VFKQ	0.950	Mainstream News	1.0
+UCwPzlQU2MqEQJWgqM_0VFKQ	0.950	C	0.900"; 
+"Boston Herald,Mainstream News,UCqihn-jTsq9s4HsLEyJQM3A,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z"+"UCqihn-jTsq9s4HsLEyJQM3A	0.850	Mainstream News	1.0
+UCqihn-jTsq9s4HsLEyJQM3A	0.850	C	1.000" archive.fo/2024.12.13/https://www.biasly.com/blog/is-the-boston-herald-biased/ :"smaller, local news sources tend to be less biased than large national or international publications", "Other third-party media bias research agencies gave the Boston Herald similar scores. Media Bias/Fact Check scored the Boston Herald as right-center, meaning the Herald favors moderately right-leaning politics in its reporting.", "according to Pew Research, 40% of daily newspaper readers identify as conservative while 33% identify as moderate, leaving only 22% identifying as liberal.", 
+archive.fo/2024.12.13/https://www.biasly.com/sources/boston-herald-bias-rating/ : Bias: "38% Somewhat Conservative", Policy Leanings: "24% Somewhat Conservative", "Politician Portrayal: 51% negative
+", archive.fo/2024.12.13/https://www.pewresearch.org/politics/2012/09/27/section-4-demographics-and-political-views-of-news-audiences/ : "Many regular news audiences have more education than the general public. And in general, regular readers of newspapers and magazines are more educated than the audiences of television shows or networks.", "Regular viewers of daytime talk shows are less educated than the public as a whole.", https://adfontesmedia.com/boston-herald-bias-and-reliability/ : "Reliability: 36.31
+Bias: 9.68", archive.fo/2024.12.13https://www.allsides.com/news-source/boston-herald-media-bias/ : 2.00 Bias Lean Right with low or initial confidence., archive.fo/2024.12.13/https://mediabiasfactcheck.com/boston-herald/ : Right-Center, " slight to moderately conservative in bias. They often publish factual information that utilizes loaded words (wording that attempts to influence an audience by appeals to emotion or stereotypes) to favor conservative causes. These sources are generally trustworthy for information but may require further investigation.", archive.fo/2024.12.13/https://ground.news/interest/boston-herald :  Most recent 1 82%-majority right-biased with 11 sources, 2 100% right-wing, 3 centrist & 2 left ones in "Latest News Stories"., archive.fo/2024.12.13/https://heliumtrades.com/media-bias/boston-herald : "The source presents a complex bias landscape, showing a distinct inclination towards conservative viewpoints, particularly regarding political and social issues.
+", "Ultimately, the source exhibits a tendency towards promoting conservative narratives while sidelining progressive voices, thereby shaping a viewpoint that aligns closely with traditional Republican values."
+"My Bias: I may have an inclination to interpret bias based on the predominance of conservative versus progressive themes in the training data." - 2024-11-23 but HT has authoritarian-left on map. Maybe HT's bias-calculation and or Boston Herald's bias is too complex for the average reader., archive.fo/2024.12.13/https://www.imediaethics.org/white-house-punishes-boston-herald-for-bias-after-after-romney-front-page-oped/ : 2011-05-29 : "The White House denied the Boston Herald access to a Barack Obama fundraiser and accused the newspaper of bias, the Herald reported.  But, The Herald hasn’t been permanently banned from being included in the press pool.  And the Herald wasn’t blocked from total access to the president’s visit – just partial." , https://web.archive.org/web/20100123130634/http://news.bostonherald.com/news/opinion/editorials/view.bg?articleid=1224899 : 2010-01-12 : "Herald: Scott Brown for U.S. Senate
+By Boston Herald Editorial Staff", "Scott Brown can single-handedly deliver on that kind of change and the Herald is pleased to endorse his candidacy in the race for U.S. Senate.", "Brown talks about being the “41st senator,” adding to Republican ranks and depriving Democrats of the “supermajority” which has allowed them to ride roughshod over the nation’s agenda. But he would go to Washington as his own man - and as ours, beholden to no one, except Massachusetts voters.", 
+"Brown is a social moderate in the Weld/Cellucci tradition, who considers Roe vs. Wade “settled law.”", "Brown is a solid fiscal conservative, he is a compassionate conservative, voting to override gubernatorial vetoes and restore funding for breast cancer screening, suicide prevention programs and the METCO program.";
+"Cape Cod Times,Mainstream News,UCuDpxakayVL_Ge8JWQUgHYg,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+""UCuDpxakayVL_Ge8JWQUgHYg        0.800     Mainstream News          1.0
+
+UCuDpxakayVL_Ge8JWQUgHYg 0.800     C             0.600; 
+
+"Wild Nature Channel,Mainstream News,UCuPRep-AhUwNaBrekzNt51A,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z"+"UCuPRep-AhUwNaBrekzNt51A            0.800     Mainstream News          1.0
+
+UCuPRep-AhUwNaBrekzNt51A 0.800     C             0.600"; 
+
+  
+
+
+The most mainstream-ish news can be the ones with "C	0.500", since if they are neither L, C, nor R, than this media can focus on just being mainstream. On other hand, being just half-center without anything else stated in a relative binary Left-Right-spectrum can be ambiguous and only says confidence of how center (C), a source is. Chicago Tribune's bias seems to go from moderate left to far-right, yet that subreddit claiming far-right by some is itself is left-leaning. I don't know enough of Eyewitness News ABC7NY except 2x MSM meanwhile C	0.800.
+CNBC International is the only international-called, just-mainstream-tagged media.
+To see what the YT-channel-names are more exactly for example "The Herald", type after "https://transparency.tube/?openRowKey=" the letters-numbers-symbols-combination with no commas coming from raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/* like "UCX-7YWAOdZ6P6tPRXeEs49A". Than click on one of their videos > channel > Most YT-channels have their owned webpage in their channel-description.
+GMT 2024-12-11 23:59:^
