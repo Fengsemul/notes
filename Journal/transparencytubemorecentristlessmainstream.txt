@@ -1,4 +1,9 @@
-2024-12-15: 
+2024-12-15: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/channel_review_20201025.csv , archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
+Not used: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt
+
+
+C 1.000 
+C 1.000 MSM 0.8:v
 "ABC Action News,Mainstream News,UCK0UUsCjtMRNtS3BPh1Yc4w,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
 "UCK0UUsCjtMRNtS3BPh1Yc4w	0.850	Mainstream News	0.8
 UCK0UUsCjtMRNtS3BPh1Yc4w	0.850	C	1.000"
@@ -15,6 +20,80 @@ UC13mSI38YWz5zfvxXDPpePA	0.800	C	1.000"
 "UCNBmxc6FvKyxtCpUygcdINA	0.850	Mainstream News	0.8
 UCNBmxc6FvKyxtCpUygcdINA	0.850	C	1.000"
 
+"FOX31 Denver,Mainstream News,UCkRP0nS2qERsw-U-OTLbI0A,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCkRP0nS2qERsw-U-OTLbI0A	1.000	Mainstream News	0.8
+UCkRP0nS2qERsw-U-OTLbI0A	1.000	C	1.000"
+
+"12 News,Mainstream News,UCu7G08TrwPx_0WH4M7OxjIQ,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCu7G08TrwPx_0WH4M7OxjIQ	0.900	Mainstream News	0.8
+UCu7G08TrwPx_0WH4M7OxjIQ	0.900	C	1.000"
+
+"KJRH -TV | Tulsa | Channel 2,Mainstream News,UChrpaYlmaVsVyEF0bTqmuHw,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UChrpaYlmaVsVyEF0bTqmuHw	0.850	Mainstream News	0.8
+UChrpaYlmaVsVyEF0bTqmuHw	0.850	C	1.000"
+
+"NBC 6 South Florida,Mainstream News,UCBgcPSn61UQ4l_-FvcEgLQA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCBgcPSn61UQ4l_-FvcEgLQA	1.000	Mainstream News	0.8
+UCBgcPSn61UQ4l_-FvcEgLQA	1.000	C	1.000"
+
+"WREG News Channel 3,Mainstream News,UCueJOS3ZjWyTtRU9bnx9XFw,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z
+Timothy ", 
+"UCueJOS3ZjWyTtRU9bnx9XFw	0.800	Mainstream News	0.8
+UCueJOS3ZjWyTtRU9bnx9XFw	0.800	C	1.000"
+
+"News 4 Tucson KVOA-TV,Mainstream News,UCs8cRivViWcNIx5arlnYXYg,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
+"UCs8cRivViWcNIx5arlnYXYg	0.950	Mainstream News	0.8
+UCs8cRivViWcNIx5arlnYXYg	0.950	C	1.000"
+
+"The News & Observer,Mainstream News,UCASQzDb4SUC0gZNPbwBubIQ,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCASQzDb4SUC0gZNPbwBubIQ	0.900	Mainstream News	0.8
+UCASQzDb4SUC0gZNPbwBubIQ	0.900	C	1.000"
+C 1.000 MSM 0.8:^
+
+> or C 1.000 MSM 0.6:v
+"KGUN9,Mainstream News,UC-f-EC3-yv-_Ok-m5Dd5akw,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UC-f-EC3-yv-_Ok-m5Dd5akw	0.850	Mainstream News	0.6
+UC-f-EC3-yv-_Ok-m5Dd5akw	0.850	C	0.900"
+
+"WATE 6 On Your Side,Mainstream News,UCMmuHfeLHhAA5Q8WWc1e0eA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCMmuHfeLHhAA5Q8WWc1e0eA	0.850	Mainstream News	0.6
+UCMmuHfeLHhAA5Q8WWc1e0eA	0.850	C	1.000"
+
+"Arise News,Mainstream News,UCyEJX-kSj0kOOCS7Qlq2G7g,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCyEJX-kSj0kOOCS7Qlq2G7g	0.800	Mainstream News	0.6
+UCyEJX-kSj0kOOCS7Qlq2G7g	0.800	C	0.900"
+
+"Web Summit,Mainstream News,UCJtkHqH4Qof97TSx7BzE5IQ,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCJtkHqH4Qof97TSx7BzE5IQ	0.850	Mainstream News	0.6
+UCJtkHqH4Qof97TSx7BzE5IQ	0.850	C	0.700"
+
+>C 1.000 MSM 0.6:^
+
+Less MSM, less C:v
+"Bloomberg Markets and Finance,Mainstream News,UCIALMKvObZNtJ6AmdCLP7Lg,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
+"UCIALMKvObZNtJ6AmdCLP7Lg	0.950	Mainstream News	0.8
+UCIALMKvObZNtJ6AmdCLP7Lg	0.950	C	0.600";
+
+"WFAA,Mainstream News,UCBu0KdNokE4MqdkacvH37_A,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
+"UCBu0KdNokE4MqdkacvH37_A	0.950	Mainstream News	0.8
+UCBu0KdNokE4MqdkacvH37_A	0.950	C	0.700"
+
+Less MSM, less C:^
+
+C 0.900 EduLessMSM:v
+"UCzocYTD8J3ezkaoND4iQPGA	0.900	Mainstream News	0.6
+UCzocYTD8J3ezkaoND4iQPGA	0.900	Educational	0.2
+UCzocYTD8J3ezkaoND4iQPGA	0.900	C	0.900"
+
+"UCZuzhTcxpJZ1VEJ5s9H9MdA	0.850	Mainstream News	0.6
+UCZuzhTcxpJZ1VEJ5s9H9MdA	0.850	Educational	0.2
+UCZuzhTcxpJZ1VEJ5s9H9MdA	0.850	C	0.500"
+
+"UCJ2mQ488RZEUsHOu7bwFpZA	0.800	Mainstream News	0.6
+UCJ2mQ488RZEUsHOu7bwFpZA	0.800	Educational	0.2
+UCJ2mQ488RZEUsHOu7bwFpZA	0.800	C	0.700"
+C 0.900 EduLessMSM:^
+
 Conspiracy:v
 "Viper TV - Docs,Conspiracy,UCIUlQSeoRtEsLbg4vcI8JyQ,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", "
 UCIUlQSeoRtEsLbg4vcI8JyQ	0.900	Conspiracy	1.0
@@ -27,10 +106,94 @@ UCh7H09ZousqvAWfa3qitwzQ	1.000	C	1.000"
 "Martin Willis Live Shows,Conspiracy,UCSTVGU0oHJp-gvlYPfWUvWQ,C,0.85,C,Conspiracy,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
 "UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	Conspiracy	1.0
 UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	C	1.000"
+
+"UCkgPT7LeB_t1aXTYyMiFVAg	0.950	Conspiracy	1.0
+UCkgPT7LeB_t1aXTYyMiFVAg	0.950	C	1.000"
 Conspiracy:^
-1 some PartisanRight:v
+
+Conspiracy+MSM+C:v
+"To The Stars Media,Conspiracy,UCTUK60nrsgANlcmms5yDaIA,C,0.85,C,Conspiracy,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCTUK60nrsgANlcmms5yDaIA	0.850	Conspiracy	0.8
+UCTUK60nrsgANlcmms5yDaIA	0.850	Mainstream News	0.2
+UCTUK60nrsgANlcmms5yDaIA	0.850	C	1.000"
+Conspiracy+MSM+C:^
+
+Conspiracy+OrganizedReligion+C:v
+"UCcxnAEWJmbQxaA0FXpYI8vA	0.800	Conspiracy	0.8
+UCcxnAEWJmbQxaA0FXpYI8vA	0.800	OrganizedReligion	0.2
+UCcxnAEWJmbQxaA0FXpYI8vA	0.800	C	1.000"
+Conspiracy+OrganizedReligion+C:^
+
+AntiTheist+C:v
+"Word of Fakes,AntiTheist,UCYd3oDYfutGL0HmRL0oiLjQ,C,0.9,C,AntiTheist,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCYd3oDYfutGL0HmRL0oiLjQ	0.900	AntiTheist	1.0
+UCYd3oDYfutGL0HmRL0oiLjQ	0.900	C	1.000"
+AntiTheist+C:^
+
+2 some PartisanRight:v
 "KRQE,Mainstream News,UCJnpF9oROFPvd7wWbPUDdGA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
 "UCJnpF9oROFPvd7wWbPUDdGA	0.850	Mainstream News	1.0
 UCJnpF9oROFPvd7wWbPUDdGA	0.850	PartisanRight	0.2
 UCJnpF9oROFPvd7wWbPUDdGA	0.850	C	1.000"
+
+"Knoxville News Sentinel,Mainstream News,UCypowE_p8nJK2uZgE77tNUA,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCypowE_p8nJK2uZgE77tNUA	0.850	Mainstream News	1.0
+UCypowE_p8nJK2uZgE77tNUA	0.850	PartisanRight	0.2
+UCypowE_p8nJK2uZgE77tNUA	0.850	C	1.000"
+
 PartisanRight:^
+MissingLink+Partisan+MSM+C:v
+"UC_-gT7OYiRCK9Sp8SIv9WgQ	1.000	Mainstream News	0.8
+UC_-gT7OYiRCK9Sp8SIv9WgQ	1.000	PartisanRight	0.2
+UC_-gT7OYiRCK9Sp8SIv9WgQ	1.000	MissingLinkMedia	0.2
+UC_-gT7OYiRCK9Sp8SIv9WgQ	1.000	C	1.000"
+MissingLink+Partisan+MSM+C:^
+
+MissingLink+MSM:v
+"UCf0aMG-_d_ol_7BEllE3kRw	1.000	Mainstream News	0.8
+UCf0aMG-_d_ol_7BEllE3kRw	1.000	MissingLinkMedia	0.2
+UCf0aMG-_d_ol_7BEllE3kRw	1.000	C	1.000";
+
+"UCaqEHP76q9TblVUO3sHFSQQ	0.900	Mainstream News	0.8
+UCaqEHP76q9TblVUO3sHFSQQ	0.900	MissingLinkMedia	0.2
+UCaqEHP76q9TblVUO3sHFSQQ	0.900	C	1.000"
+MissingLink+MSM:^
+
+PartisanLeft+MSM+C:v
+"Amplify Trading,Mainstream News,UCj_bZtVhV4SYXsi7EHssVLw,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCj_bZtVhV4SYXsi7EHssVLw	0.800	PartisanLeft	0.2
+UCj_bZtVhV4SYXsi7EHssVLw	0.800	Mainstream News	1.0
+UCj_bZtVhV4SYXsi7EHssVLw	0.800	C	1.000"
+PartisanLeft+MSM+C:^
+
+Social Justice+MSM+C:v
+"UCGNzGJ7jMyc6c06ypOz0RVQ	0.800	Mainstream News	0.8
+UCGNzGJ7jMyc6c06ypOz0RVQ	0.800	SocialJustice	0.2
+UCGNzGJ7jMyc6c06ypOz0RVQ	0.800	C	1.000"
+Social Justice+MSM+C:^
+
+odd:v
+"UCDUKfaniTFlAKttu2zbYsgw	1.000	StateFunded	0.4
+UCDUKfaniTFlAKttu2zbYsgw	1.000	Mainstream News	0.2
+UCDUKfaniTFlAKttu2zbYsgw	1.000	QAnon	0.2
+UCDUKfaniTFlAKttu2zbYsgw	1.000	Conspiracy	0.6
+UCDUKfaniTFlAKttu2zbYsgw	1.000	PartisanRight	0.2
+UCDUKfaniTFlAKttu2zbYsgw	1.000	C	1.000";
+
+"UC_55jAkr4g99CYPTrnVDrzw	0.950	Conspiracy	1.0
+UC_55jAkr4g99CYPTrnVDrzw	0.950	AntiSJW	0.2
+UC_55jAkr4g99CYPTrnVDrzw	0.950	C	1.000"
+
+"UCnAGjNvU7KL7db5DJfzAJrw	1.000	AntiSJW	0.8
+UCnAGjNvU7KL7db5DJfzAJrw	1.000	AntiTheist	0.2
+UCnAGjNvU7KL7db5DJfzAJrw	1.000	Educational	0.2
+UCnAGjNvU7KL7db5DJfzAJrw	1.000	C	1.000"
+
+"UCrOsk5nMMB21_9f6YkHsVnw	0.900	Conspiracy	0.6
+UCrOsk5nMMB21_9f6YkHsVnw	0.900	SocialJustice	0.6
+UCrOsk5nMMB21_9f6YkHsVnw	0.900	C	1.000"
+
+"UCeKem7g09AKfD1KNR1ytjhA	0.950	SocialJustice	0.8
+UCeKem7g09AKfD1KNR1ytjhA	0.950	Conspiracy	0.2
+UCeKem7g09AKfD1KNR1ytjhA	0.950	C	1.000"
+odd:^
