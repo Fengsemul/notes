@@ -2,6 +2,20 @@
 Not used: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt
 To see what the YT-channel-names are more exactly for example "The Herald", type after "https://transparency.tube/?openRowKey=" the letters-numbers-symbols-combination with no commas coming from raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/* like "UCX-7YWAOdZ6P6tPRXeEs49A". Than click on the channel-pic > Most News-YT-channels have their owned webpage in their channel-description.
 
+archive.fo/2024.12.15/https://github.com/markledwich2/Recfluence : "Left/Center/Right
+For news:
+
+Compare https://www.adfontesmedia.com and https://mediabiasfactcheck.com/. If they exist in those lists and were in agreement then I accepted that category. Otherwise I used the same process as with the commentary channels.
+For political/cultural commentary I considered all of the following:
+
+Self identified political label, or support for a party
+One sided content on divided political topics of the day (e.g. Kavanaugh, Migrant Caravan)
+One sided content reacting to cultural events topics of the day (e.g. campus protests, trans activism )
+Clearly matches Democrat (left) or Republican (right) views on issues in the ISideWith poll
+If these considerations align in the same direction then the channel is left or right. If there was a mix then they are assigned the center/heterodox category.
+
+To calculated the majority view, Left/Center/Right are coded as -1, 0, and 1 respectively. The average is taken then rounded back to the nearest Left/Center/Right value.", "We measured the consistency between the reviewers judgments. Left/Center/Right classifications are moderately reliable, and tags are varius degrees of reliability. Take this into consideration"
+
 C 1.000 
 C 1.000 MSM 0.8:v
 "ABC Action News,Mainstream News,UCK0UUsCjtMRNtS3BPh1Yc4w,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
