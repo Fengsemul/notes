@@ -94,7 +94,7 @@ UCJ2mQ488RZEUsHOu7bwFpZA	0.800	Educational	0.2
 UCJ2mQ488RZEUsHOu7bwFpZA	0.800	C	0.700"
 C 0.900 EduLessMSM:^
 
-Conspiracy:v
+Conspiracy+C:v
 "Viper TV - Docs,Conspiracy,UCIUlQSeoRtEsLbg4vcI8JyQ,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", "
 UCIUlQSeoRtEsLbg4vcI8JyQ	0.900	Conspiracy	1.0
 UCIUlQSeoRtEsLbg4vcI8JyQ	0.900	C	1.000"
@@ -107,9 +107,10 @@ UCh7H09ZousqvAWfa3qitwzQ	1.000	C	1.000"
 "UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	Conspiracy	1.0
 UCSTVGU0oHJp-gvlYPfWUvWQ	0.850	C	1.000"
 
+"Jeremy Corbell,Conspiracy,UCkgPT7LeB_t1aXTYyMiFVAg,C,0.95,C,Conspiracy,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
 "UCkgPT7LeB_t1aXTYyMiFVAg	0.950	Conspiracy	1.0
 UCkgPT7LeB_t1aXTYyMiFVAg	0.950	C	1.000"
-Conspiracy:^
+Conspiracy+C:^
 
 Conspiracy+MSM+C:v
 "To The Stars Media,Conspiracy,UCTUK60nrsgANlcmms5yDaIA,C,0.85,C,Conspiracy,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
