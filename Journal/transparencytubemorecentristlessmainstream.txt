@@ -1,6 +1,6 @@
 2024-12-15: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/channel_review_20201025.csv , archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
 Not used: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt
-To see what the YT-channel-names are more exactly for example "The Herald", type after "https://transparency.tube/?openRowKey=" the letters-numbers-symbols-combination with no commas coming from raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/* like "UCX-7YWAOdZ6P6tPRXeEs49A". Than click on one of their videos > channel > Most YT-channels have their owned webpage in their channel-description.
+To see what the YT-channel-names are more exactly for example "The Herald", type after "https://transparency.tube/?openRowKey=" the letters-numbers-symbols-combination with no commas coming from raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/* like "UCX-7YWAOdZ6P6tPRXeEs49A". Than click on the channel-pic > Most News-YT-channels have their owned webpage in their channel-description.
 
 C 1.000 
 C 1.000 MSM 0.8:v
@@ -284,6 +284,9 @@ C0.5+AntiSJW:v
 "K,AntiSJW,UCcX9nxdblc19kfm5hqVfRBA,C,1,C,AntiSJW,,1,sam,2020-10-06T00:00:00.0000000Z", 
 "UCcX9nxdblc19kfm5hqVfRBA	1.000	AntiSJW	1.0
 UCcX9nxdblc19kfm5hqVfRBA	1.000	C	0.500"
+archive.fo/2024.12.15/https://transparency.tube/?openRowKey=UCcX9nxdblc19kfm5hqVfRBA : " automatic classification
+
+-Currently under construction-" > archive.fo/2024.12.15/https://www.youtube.com/channel/UCcX9nxdblc19kfm5hqVfRBA : 0 Videos
 
 "TwizzFizz,AntiSJW,UC3ldfbt69kQEvcuRdK_IIVQ,C,1,C,AntiSJW,,1,sam,2020-10-06T00:00:00.0000000Z", 
 "UC3ldfbt69kQEvcuRdK_IIVQ	1.000	AntiSJW	0.8
