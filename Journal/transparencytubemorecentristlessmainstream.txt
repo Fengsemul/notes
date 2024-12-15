@@ -1,6 +1,6 @@
 2024-12-15: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/channel_review_20201025.csv , archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/site_preds/labels_20201006/all_political_soft_tags_20201006.txt
 Not used: archive.fo/2024.12.15/https://raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/data/datasets/recfluence_vis_channel_stats_20200727.soft_tags.txt
-
+To see what the YT-channel-names are more exactly for example "The Herald", type after "https://transparency.tube/?openRowKey=" the letters-numbers-symbols-combination with no commas coming from raw.githubusercontent.com/sam-clark/chan2vec/refs/heads/master/* like "UCX-7YWAOdZ6P6tPRXeEs49A". Than click on one of their videos > channel > Most YT-channels have their owned webpage in their channel-description.
 
 C 1.000 
 C 1.000 MSM 0.8:v
@@ -173,6 +173,161 @@ UCGNzGJ7jMyc6c06ypOz0RVQ	0.800	SocialJustice	0.2
 UCGNzGJ7jMyc6c06ypOz0RVQ	0.800	C	1.000"
 Social Justice+MSM+C:^
 
+C0.5+1 tag:v
+AntiTheist+C0.5:v
+"Matt Dillahunty,AntiTheist,UCry4eIS1_98ZxFO0geP7xJw,C,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCry4eIS1_98ZxFO0geP7xJw	1.000	AntiTheist	1.0
+UCry4eIS1_98ZxFO0geP7xJw	1.000	C	0.500",
+"UCry4eIS1_98ZxFO0geP7xJw	AntiTheist
+UCry4eIS1_98ZxFO0geP7xJw	YouTube
+UCry4eIS1_98ZxFO0geP7xJw	C";
+
+"Suris,AntiTheist|SocialJustice|Socialist,UCh-YXgnF0tmBxCsh4w_4svw,L,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z"/
+"Suris,AntiTheist|SocialJustice|Socialist,UCh-YXgnF0tmBxCsh4w_4svw,L,1,L,AntiTheist|SocialJustice|Socialist,,1,mar,2020-10-24T11:25:30.8800666Z", 
+"UCh-YXgnF0tmBxCsh4w_4svw	1.000	AntiTheist	0.8
+UCh-YXgnF0tmBxCsh4w_4svw	1.000	C	0.500"
+
+"Friendly Atheist,AntiTheist,UCsgjnUBCB9xbUXQfMg0pd8A,C,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCsgjnUBCB9xbUXQfMg0pd8A	1.000	AntiTheist	1.0
+UCsgjnUBCB9xbUXQfMg0pd8A	1.000	C	0.500"
+archive.fo/2024.12.15/https://ground.news/blindspotter/reddit/FriendlyAtheist : 100% Center posted & upvoted
+"PATHEOS.COM C : 23,413 Upvotes SNOPES L : 10 Upvotes YAHOO NEWS : 4 Upvotes"
+
+"Zelph On the Shelf,AntiTheist,UC3Y4j05DDAXv7vCedrOQ9FQ,C,0.95,C,AntiTheist,,0.95,sam,2020-10-06T00:00:00.0000000Z", 
+"UC3Y4j05DDAXv7vCedrOQ9FQ	0.950	AntiTheist	1.0
+UC3Y4j05DDAXv7vCedrOQ9FQ	0.950	C	0.500"
+
+"ChristopherHitchensV,AntiTheist,UCX67EIY4yuwbqSz8asE4BCg,C,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCX67EIY4yuwbqSz8asE4BCg	1.000	AntiTheist	1.0
+UCX67EIY4yuwbqSz8asE4BCg	1.000	C	0.500"
+
+"Small Treasures.,AntiTheist,UCJqtn5Y2dTyoi0BnPgiAFOA,C,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCJqtn5Y2dTyoi0BnPgiAFOA	1.000	AntiTheist	1.0
+UCJqtn5Y2dTyoi0BnPgiAFOA	1.000	C	0.500"
+AntiTheist+C0.5:^
+
+C0.5+Conspiracy:v
+"Knowledge is Power - Gary Lite,Conspiracy,UC2UNU3wdDuPZ4GGeTH9XUBw,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UC2UNU3wdDuPZ4GGeTH9XUBw	1.000	Conspiracy	0.8
+UC2UNU3wdDuPZ4GGeTH9XUBw	1.000	C	0.500"
+
+"Innerstanding,Conspiracy,UCj5syBRsjuLG-u7PCuua_Qw,C,0.8,C,Conspiracy,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCj5syBRsjuLG-u7PCuua_Qw	0.800	Conspiracy	1.0
+UCj5syBRsjuLG-u7PCuua_Qw	0.800	C	0.500"
+
+"LIFTING THE VEIL,Conspiracy,UCUGtuhLxxZn0sQ_4_zkkKyA,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCUGtuhLxxZn0sQ_4_zkkKyA	1.000	Conspiracy	1.0
+UCUGtuhLxxZn0sQ_4_zkkKyA	1.000	C	0.500"
+
+"Media Monarchy,,UCbE3nGd3Yto59BN-taoOEAQ,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z"/
+"Media Monarchy,,UCbE3nGd3Yto59BN-taoOEAQ,C,1,C,Libertarian,,1,mar,2020-07-01T05:04:33.6910398Z"/
+"Media Monarchy,,UCbE3nGd3Yto59BN-taoOEAQ,C,1,C,Conspiracy,,1,ann,2020-07-01T05:04:33.6910398Z"/
+"Media Monarchy,,UCbE3nGd3Yto59BN-taoOEAQ,C,1,C,,,1,dae,2020-07-01T05:04:33.6910398Z",
+"UCbE3nGd3Yto59BN-taoOEAQ	1.000	Conspiracy	1.0
+UCbE3nGd3Yto59BN-taoOEAQ	1.000	C	0.500", 
+"UCbE3nGd3Yto59BN-taoOEAQ	YouTube
+UCbE3nGd3Yto59BN-taoOEAQ	C"
+
+"Sasquatch Chronicles,Conspiracy,UCKaj8rccZ9n6d0dPgHsZmBg,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCKaj8rccZ9n6d0dPgHsZmBg	0.900	Conspiracy	1.0
+UCKaj8rccZ9n6d0dPgHsZmBg	0.900	C	0.500"
+
+"OpenSourceOccultTV,Conspiracy,UCoJgaiSe0sxRDz42zr3KOjw,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCoJgaiSe0sxRDz42zr3KOjw	1.000	Conspiracy	1.0
+UCoJgaiSe0sxRDz42zr3KOjw	1.000	C	0.500"
+
+"Thyalwaysseek,Conspiracy,UCKY8BFowze3w1hSn1JBRV1Q,C,1,C,Conspiracy,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCKY8BFowze3w1hSn1JBRV1Q	1.000	Conspiracy	1.0
+UCKY8BFowze3w1hSn1JBRV1Q	1.000	C	0.500"
+
+"DOGMAN Encounters With Jeffrey Nadolny,Conspiracy,UC3-MLQdVpwcRyhvNRk6Ypbw,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UC3-MLQdVpwcRyhvNRk6Ypbw	0.900	Conspiracy	1.0
+UC3-MLQdVpwcRyhvNRk6Ypbw	0.900	C	0.500"
+
+"Jose Escamilla,Conspiracy,UCwz3jAzVeMoTEbw2LHP-WZg,C,0.85,C,Conspiracy,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCwz3jAzVeMoTEbw2LHP-WZg	0.850	Conspiracy	1.0
+UCwz3jAzVeMoTEbw2LHP-WZg	0.850	C	0.500"
+
+"Ninjarem,Conspiracy,UCSuDabdNpaoGZwlX4dxTOBw,C,0.9,C,Conspiracy,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCSuDabdNpaoGZwlX4dxTOBw	0.900	Conspiracy	0.8
+UCSuDabdNpaoGZwlX4dxTOBw	0.900	C	0.500"
+C0.5+Conspiracy:^
+
+C0.5+SocialJustice:v
+"Your Black World,Black,UCQcPBLsq9rRc5TxDqSz_Dog,C,1,C,Black,,1,mar,2020-07-01T06:05:00.8702720Z"/
+"Your Black World,Black,UCQcPBLsq9rRc5TxDqSz_Dog,C,1,C,ReligiousConservative|Provocateur|AntiWhiteness,,1,ann,2020-07-01T05:04:33.6909880Z"/
+"Your Black World,Black,UCQcPBLsq9rRc5TxDqSz_Dog,C,1,L,SocialJustice,,1,dae,2020-07-01T05:04:33.6909880Z"/
+"Your Black World,Black,UCQcPBLsq9rRc5TxDqSz_Dog,C,1,C,Black|SocialJustice,,0.85,sam,2020-10-06T00:00:00.0000000Z",
+"UCQcPBLsq9rRc5TxDqSz_Dog	0.850	SocialJustice	1.0
+UCQcPBLsq9rRc5TxDqSz_Dog	0.850	C	0.500", 
+"UCQcPBLsq9rRc5TxDqSz_Dog	YouTube
+UCQcPBLsq9rRc5TxDqSz_Dog	C"
+
+"Lisa Cabrera,Black|SocialJustice,UCcTzK_2JDmFYGnUiaUleQYg,C,1,C,Black|SocialJustice,,0.95,sam,2020-10-06T00:00:00.0000000Z"/
+"Lisa Cabrera,Black|SocialJustice,UCcTzK_2JDmFYGnUiaUleQYg,C,1,C,SocialJustice|Black,,1,mar,2020-07-06T03:45:29.9540562Z", 
+"UCcTzK_2JDmFYGnUiaUleQYg	0.950	SocialJustice	0.8
+UCcTzK_2JDmFYGnUiaUleQYg	0.950	C	0.500", 
+"UCcTzK_2JDmFYGnUiaUleQYg	YouTube
+UCcTzK_2JDmFYGnUiaUleQYg	SocialJustice
+UCcTzK_2JDmFYGnUiaUleQYg	C"
+
+"DAILYLIGHT,Black|SocialJustice,UCaz7iLBG_AKdCUaZyrE-smg,C,0.9,C,Black|SocialJustice,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCaz7iLBG_AKdCUaZyrE-smg	0.900	SocialJustice	0.8
+UCaz7iLBG_AKdCUaZyrE-smg	0.900	C	0.500"
+
+"Sgt. Dorsey Speaks,Black|SocialJustice,UCUYFVX9K2gCjx0kExI4nHHA,C,1,C,Black|SocialJustice,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCUYFVX9K2gCjx0kExI4nHHA	1.000	SocialJustice	0.8
+UCUYFVX9K2gCjx0kExI4nHHA	1.000	C	0.500"
+C0.5+SocialJustice:^
+
+C0.5+AntiSJW:v
+"K,AntiSJW,UCcX9nxdblc19kfm5hqVfRBA,C,1,C,AntiSJW,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCcX9nxdblc19kfm5hqVfRBA	1.000	AntiSJW	1.0
+UCcX9nxdblc19kfm5hqVfRBA	1.000	C	0.500"
+
+"TwizzFizz,AntiSJW,UC3ldfbt69kQEvcuRdK_IIVQ,C,1,C,AntiSJW,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UC3ldfbt69kQEvcuRdK_IIVQ	1.000	AntiSJW	0.8
+UC3ldfbt69kQEvcuRdK_IIVQ	1.000	C	0.500"
+
+"Transliminal,AntiSJW,UCjQsylicxr6qnUPoj9ADgvw,C,0.9,C,AntiSJW,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCjQsylicxr6qnUPoj9ADgvw	0.900	AntiSJW	1.0
+UCjQsylicxr6qnUPoj9ADgvw	0.900	C	0.500"
+
+"Danarchy,AntiSJW,UCR-wH05CgKgLJHWoeGpcslQ,C,0.8,C,AntiSJW,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCR-wH05CgKgLJHWoeGpcslQ	0.800	AntiSJW	0.8
+UCR-wH05CgKgLJHWoeGpcslQ	0.800	C	0.500"
+C0.5+AntiSJW:^
+
+C0.5+MSM:v
+"SABC News,Mainstream News|StateFunded,UC8yH-uI81UUtEMDsowQyx1g,C,1,C,StateFunded|Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"/
+"SABC News,Mainstream News|StateFunded,UC8yH-uI81UUtEMDsowQyx1g,C,1,C,Mainstream News|StateFunded,,1,mar,2020-08-24T05:03:56.7410477Z", 
+"UC8yH-uI81UUtEMDsowQyx1g	0.950	Mainstream News	1.0
+UC8yH-uI81UUtEMDsowQyx1g	0.950	C	0.500"
+
+"Capital One,Mainstream News,UCyGhGrs-1hA22jX6X850VEQ,C,0.85,C,Mainstream News,,0.85,sam,2020-10-06T00:00:00.0000000Z", 
+"UCyGhGrs-1hA22jX6X850VEQ	0.850	Mainstream News	1.0
+UCyGhGrs-1hA22jX6X850VEQ	0.850	C	0.500"
+
+"Accenture,Mainstream News,UCvDOfCgmS7q4OYMKVpy5Xjw,C,0.8,C,Mainstream News,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCvDOfCgmS7q4OYMKVpy5Xjw	0.800	Mainstream News	0.8
+UCvDOfCgmS7q4OYMKVpy5Xjw	0.800	C	0.500"
+
+"WLOS News 13,Mainstream News,UCu0Gn50PSjozOgwgPVTBB4A,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z", 
+"UCu0Gn50PSjozOgwgPVTBB4A	0.900	Mainstream News	1.0
+UCu0Gn50PSjozOgwgPVTBB4A	0.900	C	0.500"
+C0.5+MSM:^
+C0.5+1 tag:^
+
+C0.7+AntiTheist:v
+"FightingAtheist,AntiTheist,UCWt9QgdOSXMsuIqlzPwgB-Q,C,1,C,AntiTheist,,1,sam,2020-10-06T00:00:00.0000000Z", 
+"UCWt9QgdOSXMsuIqlzPwgB-Q	1.000	AntiTheist	1.0
+UCWt9QgdOSXMsuIqlzPwgB-Q	1.000	C	0.700"
+C0.7+AntiTheist:^
+C0.7+Conspiracy:v
+"Universe Explorers,Conspiracy,UCKfXAHDmGWev6EzNZDkiISg,C,0.8,C,Conspiracy,,0.8,sam,2020-10-06T00:00:00.0000000Z", 
+"UCKfXAHDmGWev6EzNZDkiISg	0.800	Conspiracy	1.0
+UCKfXAHDmGWev6EzNZDkiISg	0.800	C	0.700"
+C0.7+Conspiracy:^
 odd:v
 "UCDUKfaniTFlAKttu2zbYsgw	1.000	StateFunded	0.4
 UCDUKfaniTFlAKttu2zbYsgw	1.000	Mainstream News	0.2
