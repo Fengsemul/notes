@@ -223,7 +223,7 @@ UCO6kzQ-7wcG0x8W5LpBA9RQ	0.900	C	0.800";
 "KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,C,Mainstream News,,1,ann,2020-09-15T17:26:40.2107163Z"/
 "KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,C,Mainstream News,,1,scl,2020-09-14T19:31:39.4349451Z"/
 "KVUE,Mainstream News,UCxXTyFekH99JnS3qaXIQW7A,C,0.9666666667,L,Mainstream News,UCBi2mrWuNuyYy4gbM6fU18Q,0.9,mar,2020-09-14T05:51:28.8371858Z"+"UCxXTyFekH99JnS3qaXIQW7A	1.000	Mainstream News	1.0
-UCxXTyFekH99JnS3qaXIQW7A	1.000	C	0.900" 1x L.; 
+UCxXTyFekH99JnS3qaXIQW7A	1.000	C	0.900" 1x L., archive.fo/2024.12.15/https://mediabiasfactcheck.com/kvue-austin-news-bias/ : Least biased but bit left., archive.fo/2024.12.15/https://ground.news/interest/kvue : Mostly 100% Center sources in "Latest News Stories". 1/5-left in few., archive.fo/2024.12.15/ : Bias: -16% Somewhat Liberal, Policy Leanings: -16%, Politician Portrayal: N/A, Reliability: N/A ; 
 "6abc Philadelphia,Mainstream News,UCw77677G3EAODp61b0izs7w,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCw77677G3EAODp61b0izs7w	1.000	Mainstream News	1.0 
 UCw77677G3EAODp61b0izs7w	1.000	C	0.800", 
 "CBS Boston,Mainstream News,UCi4fcBVyo4CAnmdgXeO-NvA,C,1,C,Mainstream News,,1,sam,2020-10-06T00:00:00.0000000Z"+"UCi4fcBVyo4CAnmdgXeO-NvA	1.000	Mainstream News	1.0
