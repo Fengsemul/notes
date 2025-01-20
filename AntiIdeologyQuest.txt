@@ -7201,7 +7201,7 @@ country_event = {
 	}
 }
 
-#cwe 880140 - Party Scandal - Conservative
+2nd #cwe 880140 - Party Scandal - Conservative
 country_event = {
 	id = 880140
 	title = "EVTNAME880140"
