@@ -1,0 +1,46 @@
+capital = 3246
+primary_culture = noculture
+
+#culture = polar_bears
+
+plurality = 0.5
+
+literacy = 0.87
+civilized = no
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+# Social Reforms
+wage_reform = trinket_wage
+work_hours = ten_hours
+safety_regulations = no_safety
+health_care = trinket_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = low_pensions
+school_reforms = no_schools
+# New Reforms
+conscription = one_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+centralization = unitary
+colonial_policy = no_colonies
+decision = option_enable_options decision = option_disable_extra_flavour decision = option_disable_easter_eggs decision = option_disable_hpm_crisis decision = option_enable_spectator_mode decision = option_disable_commiemod decision = option_enable_overrides
+ruling_party = JAN_no
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 0
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

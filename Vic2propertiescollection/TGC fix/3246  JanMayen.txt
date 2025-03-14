@@ -1,0 +1,6 @@
+add_coren = JAN
+owner = JAN
+controller = JAN
+life_rating = 5
+colonial = 2
+#terrain = small_island
