@@ -1,4 +1,3 @@
-ENCYCLOPEDIA OF PHYSICS 
 EDITED BY 
 S. FLOGGE 
 VOLUME 111/1 
@@ -45012,4 +45011,5 @@ ZoRAWSKI's criterion of flux conservation,
 Zorawskisches Kriterium für Erhaltung 
 des Flusses 346. 
 ZoRAWSKI's theorem on relative motion, 
-Zorawskischer Satz über die Relativbewegung 440. 
+Zorawskischer Satz über die Relativbewegung 440.
+https://smallpdf-production-files.0eb7351a55248d53ef0d306ef341ddfd.r2.cloudflarestorage.com/8a54aeab168a46798c52285a7eade0dc.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=233e3f4276e9a9d218be498fbe2a10dc%2F20250528%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250528T092717Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22principles_of_classical_mechanics_and_field_theory_%20j_%20l_%20synge_s_%20fluegge-pages.pdf%22%3B%20filename%2A%3DUTF-8%27%27principles_of_classical_mechanics_and_field_theory_%2520j_%2520l_%2520synge_s_%2520fluegge-pages.pdf&response-content-type=application%2Fpdf&x-id=GetObject&X-Amz-Signature=5bdf5b35d79d5e9ff4acce8ac7b2607f7ea0fab1f0c553848a9258b755af6efd
