@@ -5,6 +5,12 @@ generalizations which do not instantiate necessity.  The latter maintains that l
 2025.10.27/carneades.pomona.edu/1998-2006/2005-Hume/Notes/ModernPhil.shtml : "Hume argued that we have no idea of bodies without the secondary qualities, especially color.", "Hume, like Berkeley, thinks that we can’t have an idea of colorless extension — a length of something with no color.", "end of the section, Hume denied that we have sensory impressions of solidity that are different in kind from our sensory impressions of the putative secondary qualities. Just as perceived colors vary from person to person, so do perceptions of solidity.", p.4: "Hume’s ambition is to develop a science of human nature that is different from natural philosophy." contradicts Jonathan Israel's notion that 
 Framing David Hume as a skeptic:a
 
+Empiricism and Rationalism in common:v
+2025.11.03/philosophy.stackexchange.com/questions/49624/what-is-common-between-the-rationalists-and-empiricists : "committed to the idea there is a sure foundation for knowledge in a particular source ... ergo they are both foundationalist epistemologies even if they disagree about whether reason or the senses supplies the foundation.", "Knowledge for these foundationalists is unassailable access to reality as it is.", "Direct perception and certainty", Certainty as "(epistemological)'immunity from error", "Individualism",
+"Rationalism does not exclude the empirical totally", "Observation, sensation, and experiment - which clearly belong to the world of experience - are by no means excluded from the Cartesian search for knowledge. Descartes never says that we or he can build an adequate body of knowledge without any reference to the senses. It is just that the contribution of the senses is either unnecessary or highly unreliable at the deepest, foundational level of knowledge." Opposite: Contribution of the senses is either necessary or highly reliable at the highest, surface level of knowledge.
+Empiricism and Rationalism in common:a
+
+
 Classical physics-note:v
 2025.10.27/philarchive.org/archive/SLAHOT : p.3: "Today we 
 can portray the dynamics of the 17th and 18th centuries in the form of four basic laws: 
