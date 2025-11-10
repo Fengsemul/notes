@@ -11,7 +11,11 @@ Empiricism and Rationalism in common:v
 Empiricism and Rationalism in common:a
 
 Empiricism and Rationalism-note:v
-2025.10.11/intellectualmathematics .com/blog/rationalism-versus-empiricism :"Rationalism says mathematical knowledge comes from within, from pure thought; empiricism that it comes from without, from experience and observation. Rationalism led Kepler to look for divine design in the universe, and Descartes to reduce all mechanical phenomena to contact mechanics and all curves in geometry to instrumental generation. Empiricism led Newton to ignore the cause of gravity and dismiss the foundational importance of constructions in geometry."
+2025.10.11/intellectualmathematics .com/blog/rationalism-versus-empiricism :"Rationalism says mathematical knowledge comes from within, from pure thought; empiricism that it comes from without, from experience and observation. Rationalism led Kepler to look for divine design in the universe, and Descartes to reduce all mechanical phenomena to contact mechanics and all curves in geometry to instrumental generation. Empiricism led Newton to ignore the cause of gravity and dismiss the foundational importance of constructions in geometry.".."On the one hand, the internal, mental conviction that mathematics establishes absolute truths purely by reasoning. On the other hand, the external, physical fact that mathematics works in the real world.
+
+What is the bridge between these two worlds? It is as if there is a natural harmony between our minds and the outer world. What is the cause of that harmony?
+
+These two poles can be called rationalism and empiricism."
 Empiricism and Rationalism-note:a
 
 Classical physics-note:v
