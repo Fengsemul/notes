@@ -10,6 +10,9 @@ Empiricism and Rationalism in common:v
 "Rationalism does not exclude the empirical totally", "Observation, sensation, and experiment - which clearly belong to the world of experience - are by no means excluded from the Cartesian search for knowledge. Descartes never says that we or he can build an adequate body of knowledge without any reference to the senses. It is just that the contribution of the senses is either unnecessary or highly unreliable at the deepest, foundational level of knowledge." Opposite: Contribution of the senses is either necessary or highly reliable at the highest, surface level of knowledge.
 Empiricism and Rationalism in common:a
 
+Empiricism and Rationalism-note:v
+2025.10.11/intellectualmathematics .com/blog/rationalism-versus-empiricism :"Rationalism says mathematical knowledge comes from within, from pure thought; empiricism that it comes from without, from experience and observation. Rationalism led Kepler to look for divine design in the universe, and Descartes to reduce all mechanical phenomena to contact mechanics and all curves in geometry to instrumental generation. Empiricism led Newton to ignore the cause of gravity and dismiss the foundational importance of constructions in geometry."
+Empiricism and Rationalism-note:a
 
 Classical physics-note:v
 2025.10.27/philarchive.org/archive/SLAHOT : p.3: "Today we 
