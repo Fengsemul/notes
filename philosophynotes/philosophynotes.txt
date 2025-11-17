@@ -8,7 +8,14 @@ Framing David Hume as a skeptic:a
 Empiricism and Rationalism in common:v
 2025.11.03/philosophy.stackexchange.com/questions/49624/what-is-common-between-the-rationalists-and-empiricists : "committed to the idea there is a sure foundation for knowledge in a particular source ... ergo they are both foundationalist epistemologies even if they disagree about whether reason or the senses supplies the foundation.", "Knowledge for these foundationalists is unassailable access to reality as it is.", "Direct perception and certainty", Certainty as "(epistemological)'immunity from error", "Individualism",
 "Rationalism does not exclude the empirical totally", "Observation, sensation, and experiment - which clearly belong to the world of experience - are by no means excluded from the Cartesian search for knowledge. Descartes never says that we or he can build an adequate body of knowledge without any reference to the senses. It is just that the contribution of the senses is either unnecessary or highly unreliable at the deepest, foundational level of knowledge." Opposite: Contribution of the senses is either necessary or highly reliable at the highest, surface level of knowledge.",
-"proves that these principles really work; that is to say, that they are sufficient to prove everything. That part is the same to both rationalists and empiricists. The key difference is how they account for where the principles or axioms came from."
+"proves that these principles really work; that is to say, that they are sufficient to prove everything. That part is the same to both rationalists and empiricists. The key difference is how they account for where the principles or axioms came from.";
+2025.11.17/duck.ai : What do empiricism and rationalism have in common?
+GPT-4o mini: "Both empiricism and rationalism are foundational approaches in philosophy that explore the nature of knowledge. They share a commitment to the pursuit of truth but differ significantly in their methods and beliefs about the nature of knowledge.
+Shared Characteristics
+Quest for Knowledge: Both seek to understand the world and establish knowledge foundations.
+Challenge of Skepticism: Each school addresses skepticism about how we know what we know, albeit from different angles.
+Influence on Science and Philosophy: Both have significantly shaped modern scientific methods and philosophical inquiry.
+Integration: Many philosophers integrate elements of both empiricism and rationalism in their theories, acknowledging that both experience and reasoning contribute to knowledge."
 Empiricism and Rationalism in common:a
 
 Empiricism and Rationalism-note:v
