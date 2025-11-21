@@ -44,6 +44,8 @@ objective world is not necessary to account for experience. Therefore,
 experiences can be seen as existing on their own; an objective world
 might perhaps exist and mirror the events of experience, but since its
 existence is not necessary, it cannot be said to cause the events of experience.",
+p.26:"scepticism is committed to metaphysical realism but doubts (or even denies) that we can
+know the world" Different definition.
 p.139:"Within objective realism, the questions ‘But what if
 you are actually a brain-in-a-vat?’ and ‘Are we living in a computer
 simulation?’ are real questions that would have real (but likely unknowable) answers. In analytic nondualism, the world that you experience is
