@@ -57,7 +57,7 @@ reality in general.";
 2025.11.21/https://philarchive.org/archive/DIERAA-2 : p.1:"Philosophers have been arguing the relative merits of realism and antirealism of all stripes – metaphysical, moral, scientific, etc. – for a very long
 time – from at least Protagoras (see, e.g., Jenkins 2005). This longevity
 alone is reason enough to consider that the two may form a dialetheic
-pair: though contradictories, both may be true (and false)."
+pair: though contradictories, both may be true (and false)."; 2025.11.21/https://link.springer.com/chapter/10.1007/978-3-031-98886-8_5 : "Double Stalemate of Objective Scientific Realism","objective scientific realism (OSR)", "My analyses of Chakravartty’s attempt to justify OSR as well as French’s attempt to overcome it provide reasons why both are able to raise legitimate objections to each other without being able to refute the arguments against their own position. This demonstrates the second stalemate"
 Realism being subjective:a
 
 Classical physics-note:v
