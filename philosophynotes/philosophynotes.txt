@@ -53,7 +53,11 @@ real and just the way it is, not illusory or actually some other way" Disagree, 
 the way the world is and how we experience it, since the world within
 experience is the primary and relevant notion of the world. Nevertheless,
 this does not imply that we always have full knowledge of the world or
-reality in general."
+reality in general.";
+2025.11.21/https://philarchive.org/archive/DIERAA-2 : p.1:"Philosophers have been arguing the relative merits of realism and antirealism of all stripes – metaphysical, moral, scientific, etc. – for a very long
+time – from at least Protagoras (see, e.g., Jenkins 2005). This longevity
+alone is reason enough to consider that the two may form a dialetheic
+pair: though contradictories, both may be true (and false)."
 Realism being subjective:a
 
 Classical physics-note:v
