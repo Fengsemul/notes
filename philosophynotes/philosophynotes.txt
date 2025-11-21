@@ -57,7 +57,23 @@ reality in general.";
 2025.11.21/https://philarchive.org/archive/DIERAA-2 : p.1:"Philosophers have been arguing the relative merits of realism and antirealism of all stripes – metaphysical, moral, scientific, etc. – for a very long
 time – from at least Protagoras (see, e.g., Jenkins 2005). This longevity
 alone is reason enough to consider that the two may form a dialetheic
-pair: though contradictories, both may be true (and false)."; 2025.11.21/https://link.springer.com/chapter/10.1007/978-3-031-98886-8_5 : "Double Stalemate of Objective Scientific Realism","objective scientific realism (OSR)", "My analyses of Chakravartty’s attempt to justify OSR as well as French’s attempt to overcome it provide reasons why both are able to raise legitimate objections to each other without being able to refute the arguments against their own position. This demonstrates the second stalemate"
+pair: though contradictories, both may be true (and false).",
+p.4:"ANTI-REALISM: There is nothing more to reality over and
+above intersubjectivity.
+REALISM: There is something more to reality over and above
+intersubjectivity",
+p.5:"Everyone agrees that reality exists. This is an analytic truth if ever
+there was one. So wherein lies the disagreement? As Taylor (2006) puts
+it, realists are urging that some objects have “gold-class existence”, and
+anti-realists do not so urge. But this is just rough slang, and betrays
+mostly sentiment. For example, the mathematical anti-Platonist will say
+that the Platonist believes in some “spooky realm” of etherial objects.
+But who would sign up for a “spooky” doctrine? The realist does not
+claim that objects have gold-class existence; the realist merely claims
+that objects exist. The anti-realist agrees. Since neither party at this
+point feels very happy about the dialectic, though, there must be some
+disagreement about wherein lies the meaning of existence."
+; 2025.11.21/https://link.springer.com/chapter/10.1007/978-3-031-98886-8_5 : "Double Stalemate of Objective Scientific Realism","objective scientific realism (OSR)", "My analyses of Chakravartty’s attempt to justify OSR as well as French’s attempt to overcome it provide reasons why both are able to raise legitimate objections to each other without being able to refute the arguments against their own position. This demonstrates the second stalemate"
 Realism being subjective:a
 
 Classical physics-note:v
