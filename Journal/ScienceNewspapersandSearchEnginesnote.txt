@@ -5,7 +5,11 @@ https://citizentruth.org/objective-journalism-media-bias-media-history/
 https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
 2023-10-21:a
 
-Evidence-leveled search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe epistemonikos.org/en/search?q= ; cebm.net
+Evidence-leveled search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe epistemonikos.org/en/search?q= ; cebm.net ; https://guides.library.ualberta.ca/c.php?g=345165&p=2324908 :
+
+Guide of evidence-based medicine: guides.library.ualberta.ca/c.php?g=345165&p=2324908 ; pedro.org.au/english/resources/links/
+
+meta-search-engine of evidence-hierarchy-ranking:accessss.org 
 
 reviewed medicine database:bmj.com
 
@@ -13,6 +17,7 @@ Search engine-note: 2025.11.24/https://websitering.neocities.org/ScrubTheWebIsGo
 Search engine-critic:a
 
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
+
 
 
 
