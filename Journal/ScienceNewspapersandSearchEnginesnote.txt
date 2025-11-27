@@ -5,7 +5,7 @@ https://citizentruth.org/objective-journalism-media-bias-media-history/
 https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
 2023-10-21:a
 
-Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe epistemonikos.org/en/search?q= ; cebm.net ; healthevidence.org/search.aspx ; search.pedro.org.au doesnt rate systematic review; kinda crd.york.ac.uk/PROSPERO/search/simple ; cancercareontario.ca/en/guidelines-advice/types-of-cancer/171
+Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe epistemonikos.org/en/search?q= ; cebm.net ; healthevidence.org/search.aspx ; search.pedro.org.au doesnt rate systematic review; kinda crd.york.ac.uk/PROSPERO/search/simple ; cancercareontario.ca/en/guidelines-advice/types-of-cancer/171 < cancercareontario.ca/en/guidelines-advice/types-of-cancer/171
 
 Guide of evidence-based medicine: guides.library.ualberta.ca/c.php?g=345165&p=2324908 ; pedro.org.au/english/resources/links/ ; megalodon.jp/2025-1127-1744-13/https://ualberta.scholaris.ca:443/bitstreams/7b06ac0f-add8-41f5-b4d4-311f1353c332/download ; https://megalodon.jp/2025-1127-1744-18/https://hslmcmaster.libguides.com:443/friendly.php?s=ebm ;
 
@@ -19,6 +19,7 @@ Search engine-critic:a
 claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : Germany and Austria denies direct access more than US.; 2025.11.27/cebm.net/covid-19/covid-cases-in-england-arent-rising-heres-why/ : 2020-08-02: "The potential for false-positives (those people without the disease who test positive) to drive the increase in community (Pillar 2) cases is substantial, particularly because the accuracy of the test and the detection of viable viruses within a community setting is unclear."; 2025.11.27/cebm.net/2020/09/should-covid-19-travel-quarantine-policy-be-based-on-apparent-new-case-rates/ : "reported case rates have a particular limitation: they are a statistic strongly influenced by testing policy."
 
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
+
 
 
 
