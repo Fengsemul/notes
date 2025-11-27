@@ -7,13 +7,11 @@ https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
 
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe epistemonikos.org/en/search?q= ; cebm.net ; healthevidence.org/search.aspx ; search.pedro.org.au doesnt rate systematic review; kinda crd.york.ac.uk/PROSPERO/search/simple ; cancercareontario.ca/en/guidelines-advice/types-of-cancer/171 < cancercareontario.ca/en/guidelines-advice/types-of-cancer/171 ; nccmt.ca/search?q=
 
-GRADE-descriptive search results: ebm.bmj.com/search/
+GRADE-descriptive, reviewed search results: ebm.bmj.com/search/ ; bmj.com
 
 Guide of evidence-based medicine: guides.library.ualberta.ca/c.php?g=345165&p=2324908 ; pedro.org.au/english/resources/links/ ; megalodon.jp/2025-1127-1744-13/https://ualberta.scholaris.ca:443/bitstreams/7b06ac0f-add8-41f5-b4d4-311f1353c332/download ; https://megalodon.jp/2025-1127-1744-18/https://hslmcmaster.libguides.com:443/friendly.php?s=ebm ;
 
 evidence-based search-engine of evidence-hierarchy-ranking:accessss.org ; crd.york.ac.uk/CRDWeb/ResultsPage.asp?Active_Results_Tab=0&DatabaseID=0&PageNumber=1&RecordsPerPage=20&SearchSessionID=3478443&LineID=3367404&SearchFor=%28test%29&SearchXML=%26amp%3Bamp%3Blt%3Badvanced%26amp%3Bamp%3Bgt%3B%26amp%3Bamp%3Blt%3Bsearchfor+field%3D%26amp%3Bamp%3Bgt%3B%28test%29%26amp%3Bamp%3Blt%3B%2Fsearchfor%26amp%3Bamp%3Bgt%3B%26amp%3Bamp%3Blt%3B%2Fadvanced%26amp%3Bamp%3Bgt%3B&UserID=0&ShowPreviews=0&ShowPubmed=0&SearchSortField=3&SearchSortDirection=0&ShowSelected=0
-
-reviewed medicine database:bmj.com
 
 Search engine-note: 2025.11.24/https://websitering.neocities.org/ScrubTheWebIsGone : "some searches that Google and Bing just aren't good at; they can only find relevant documents if they're on popular websites. Popularity!=Relevancy.", "As far as I know the last remaining 90's search engines are Aliweb (1993, no longer crawling but returning results,) WhatUSeek (1995, at least, more of a directory today, but still has an active crawler,) NorthernLight (1997, went off line in 1999, came back around 2007, current public index only includes recent business news articles,) Thunderstone's Web Catalog (1998, crawls sites and organizes them into a directory, but does not index individule pages,) Zerx (1999, at least, returns many dead links,) Findia.net (1999,) and Google (1996, under a subdirectory of Stanford's domain, 1998 with their own domain.)"
 Search engine-critic:a
@@ -22,6 +20,7 @@ claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : 
 2025.11.27/https://www.healthevidence.org/view-article.aspx?a=effect-pre-covid-post-covid-vaccination-long-covid-systematic-review-meta-49777 : 2024 : 10/10 strength  evidence that 
 
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
+
 
 
 
