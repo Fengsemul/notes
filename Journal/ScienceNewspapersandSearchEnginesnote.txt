@@ -10,5 +10,8 @@ Evidence-leveled search engine: pedro.org.au/english/resources/links/ : tripdata
 Search engine-note: 2025.11.24/https://websitering.neocities.org/ScrubTheWebIsGone : "some searches that Google and Bing just aren't good at; they can only find relevant documents if they're on popular websites. Popularity!=Relevancy.", "As far as I know the last remaining 90's search engines are Aliweb (1993, no longer crawling but returning results,) WhatUSeek (1995, at least, more of a directory today, but still has an active crawler,) NorthernLight (1997, went off line in 1999, came back around 2007, current public index only includes recent business news articles,) Thunderstone's Web Catalog (1998, crawls sites and organizes them into a directory, but does not index individule pages,) Zerx (1999, at least, returns many dead links,) Findia.net (1999,) and Google (1996, under a subdirectory of Stanford's domain, 1998 with their own domain.)"
 Search engine-critic:a
 
+maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
+
+
 
 
