@@ -59,7 +59,7 @@ claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : 
 2025.11.27/healthevidence.org/view-article.aspx?a=effect-pre-covid-post-covid-vaccination-long-covid-systematic-review-meta-49777 : 2024 : 10/10 strength evidence that WHO's definition of Long-COVID substantially decreases life quality.; https://www.healthevidence.org/view-article.aspx?a=protect-long-term-care-facilities-pandemic-events-systematic-review-48796 : 2024 : 10/10 "Certainty of evidence (CoE) was assessed using GRADE.", "Although CoE of interventions was low or very low for most outcomes, the implementation of NPIs identified as potentially effective in this review often constitutes the sole viable option, particularly prior to the availability of vaccinations. Our evidence-gap map underscores the imperative for further research on several interventions. These gaps need to be addressed to prepare LTCFs for future pandemics." contradicts 2025.11.27/healthevidence.org/view-article.aspx?a=effect-pre-covid-post-covid-vaccination-long-covid-systematic-review-meta-49777 at vaccine effectiveness.; 
 2025.11.27/openpublichealthjournal.com/VOLUME/18/ELOCATOR/e18749445367433/ : "Non-pharmacological interventions (NPIs), also known as public health and social measures, have played a critical role in mitigating the spread of infectious diseases, particularly during the COVID-19 pandemic [6, 8]. These interventions include measures such as mask-wearing, hand disinfection, physical distancing, screening and isolating infected individuals, and improving ventilation systems in buildings to reduce airborne transmission [3, 9, 10]."
 
-maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
+maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/ ; https://www.miniindustry.com/molar-mass/f/h2o.html : "Empirical formula: In chemistry, the empirical formula of a chemical compound is the simplest positive integer ratio of atoms present in a compound."
 
 .edu and .gov-source: abs.harvard .edu, Polish library, King Abdullah University
 
@@ -243,6 +243,7 @@ https://hsm.stackexchange.com/search?&q=test+[newton]+[lagrange]+-[quantum-mecha
 
 2025.04.27/old.reddit .com/r/apcalculusbcapphysics : Too few posts.; 2025.04.27/ reddit Alevelphysics; < 2025.04.27/tutorchase. com/blog/a-level-physics-a-complete-guide : Modern physics, quantum physics & relativity., "approximately 40% of the content requiring the application of mathematical skills to solve physics problems.", "particle physics, astrophysics, and nuclear physics, each requiring a deep understanding of both theoretical and mathematical principles."; 2025.04.27/ reddit AskPhysics101 ; 2025.05.07/old.reddit.com/r/planamundi : "classical physics rooted in Newtonian mechanics and electromagnetism"; 2025.05.07/old.reddit .com/r/GUToCPandSociety/
 Failed classical physics-search-note:a
+
 
 
 
