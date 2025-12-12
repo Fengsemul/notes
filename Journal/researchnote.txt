@@ -32,7 +32,7 @@ of Stanford's domain, 1998 with their own domain.)"; 2025.12.01/https://www.redd
 2025.12.01/searchenginemap.com/ : Yep's crawler is independent and not connected to  Google, Bing, Mojeek, Yandex.; 2025.12.01/https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/ : Living document. "Google, Microsoft (the company behind Bing), and Yandex aren’t just search engine companies; they’re content and ad companies as well."; 2025.12.01/https://community.e.foundation/t/all-the-internet-search-engine/33403/4 : "Alltheinternet is a metasearch engine. This means they aggregate results of search queries from various sources (incl. Bing, Google, …). At the end it is compareable to spot from /e/, which is based on searx. As such the two later are very configurable and may yield the same/similar results. You can adjust which sources are used. The number of sources is growing in searx/spot. Searx has the benefit that you can decide which instances (decentralized in contrast to alltheinternet) you want to use.", "AWS, Google and MS are natural choices here. Guess there is someone more knowledgeable in this forum.
 You can use trackercontrol. It appears indeed that they ping google and some others directly."..."TrackerControl (TrackerControl allows to monitor and control hidden data collection in apps.) - https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid";
 2025.12.02/https://www.hardweb.com.au/searchengines.html ; 2025.12.02/https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/ : "Secret Search Engine Labs Very small index with very little SEO spam; it toes the line between a “search engine” and a “surf engine”. It’s best for reading about broad topics that would otherwise be dominated by SEO spam, thanks to its CashRank algorithm.";
-2025.12.12/ self: If I already found something like a source for english-words roughly oxfordlearnersdictionary and Oxford Dictionary, then the mere point of using search engines is the assumption that there's something better to search like a more authoritative or a more adequat dictionary.;
+2025.12.12: self: If I already found the source like the most general authoritative/scholary dictionary presumingly to use it when an english stranger express words unless contexts is more clarified to use a specialized dictionary, then the mere point of using search-engines is to use a better source/thing/dictionary..;
 
 Search engine-note:a
 
@@ -245,6 +245,7 @@ https://hsm.stackexchange.com/search?&q=test+[newton]+[lagrange]+-[quantum-mecha
 
 2025.04.27/old.reddit .com/r/apcalculusbcapphysics : Too few posts.; 2025.04.27/ reddit Alevelphysics; < 2025.04.27/tutorchase. com/blog/a-level-physics-a-complete-guide : Modern physics, quantum physics & relativity., "approximately 40% of the content requiring the application of mathematical skills to solve physics problems.", "particle physics, astrophysics, and nuclear physics, each requiring a deep understanding of both theoretical and mathematical principles."; 2025.04.27/ reddit AskPhysics101 ; 2025.05.07/old.reddit.com/r/planamundi : "classical physics rooted in Newtonian mechanics and electromagnetism"; 2025.05.07/old.reddit .com/r/GUToCPandSociety/
 Failed classical physics-search-note:a
+
 
 
 
