@@ -71,6 +71,8 @@ Mit edu: web.mit .edu
 
 International and Research-focused: research.webometrics .info/en/world OECD
 
+Dictionary-usage: 2025.12.15: https://megalodon.jp/2025-1215-2344-11/https://web.archive.org:443/web/20231003071349/https:/wor.do/about found by https://search.slzii.com/?q=Dictionary&lang_s=&country_s= and https://dictionaryapi.dev/ found by https://search.slzii.com/?q=Dictionary&lang_s=&country_s= uses Wiktionary.
+
 Shadow library: moscow.sci-hub .ru/4852/ce93688fc5ba00ab8e60edcb8adabbdd/michiyoshi1988.pdf ; zh.z-lib .gs/book/81568765/555a74/interaction-of-waves-in-solid-mixtures.html?dsource=recommend ; 2024.sci-hub ; citeseerx.ist.psu .edu/document?repid=rep1&type=pdf&doi=6f8d7a883aa6552caf91bcde4550ebd0fa31f38c ; dl.libcata ; 2025.10.13/imgur .com/how-to-get-scientific-papers-free-fAlR1da
 
 Useful library:v
@@ -245,6 +247,7 @@ https://hsm.stackexchange.com/search?&q=test+[newton]+[lagrange]+-[quantum-mecha
 
 2025.04.27/old.reddit .com/r/apcalculusbcapphysics : Too few posts.; 2025.04.27/ reddit Alevelphysics; < 2025.04.27/tutorchase. com/blog/a-level-physics-a-complete-guide : Modern physics, quantum physics & relativity., "approximately 40% of the content requiring the application of mathematical skills to solve physics problems.", "particle physics, astrophysics, and nuclear physics, each requiring a deep understanding of both theoretical and mathematical principles."; 2025.04.27/ reddit AskPhysics101 ; 2025.05.07/old.reddit.com/r/planamundi : "classical physics rooted in Newtonian mechanics and electromagnetism"; 2025.05.07/old.reddit .com/r/GUToCPandSociety/
 Failed classical physics-search-note:a
+
 
 
 
