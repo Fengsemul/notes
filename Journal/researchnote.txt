@@ -49,6 +49,16 @@ Only seems to be available via the MetaGer metasearch engine after turning off B
 2025.12.03/https://www.hardweb.com.au/searchengines.html : "Mamma is definitely on the decline now that it charges to list. It's results have fallen off too. A previous meta engine favourite of mine."; 2025.12.03/https://www.mamma.com/search_results?query=2%2B2%3D is inaccurate in my view.; Discovered by similarweb's competitors from activesearchresults .com : 2025.12.03/exactseek.com/cgi-bin/search.cgi?q=What%27s+2%2B2&sub=Search is second time mentioned here because I oversaw it in seirdly.one's post about search engines with own index.;
 worst search engine:a
 
+Found by assumingly bad search engine:v
+2025.12.05/web.archive .org/web/20220405054619/http://www.pentranslator.com/ : "Autism can be defined as an abnormal absorption with the self, which is marked by communication disorders and short attention span and inability to treat others as people.";
+2025.12.05/activesearchresults .com : "Dates des jours fris ftes civiles et religieuses en France. ... jours fries Ftes civiles Ftes Catholiques Ftes Juives Ftes Mulsulmanes Calendrier Interactif Accueil Dates des jours fris Dates des jours Fris en ...  https://www.calendrier-jours-feries.com"
+Found by assumingly bad search engine:a
+
+Search engine-list:v
+Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .com/report/smartsearchdirect .com : Rating : 3.5 Stars; 2025.12.15/generaldirectory .biz/smart,search,direct,more-16883.htm ;
+2025.12.15/daduru .com/internet/internet-search/ : < daduru .com/azooscom-internet-search-engine-3943.html > 2025.12.15/azoos .com : 
+Search engine-list:a
+
 Blog-note:v
 2025.11.02/http://stallman.org/articles/dont-watch-covid-tv.html : "TV news coverage of a crisis struggles to fill 24 hours a day with "information", notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat."
 Blog-note:a
@@ -247,6 +257,7 @@ https://hsm.stackexchange.com/search?&q=test+[newton]+[lagrange]+-[quantum-mecha
 
 2025.04.27/old.reddit .com/r/apcalculusbcapphysics : Too few posts.; 2025.04.27/ reddit Alevelphysics; < 2025.04.27/tutorchase. com/blog/a-level-physics-a-complete-guide : Modern physics, quantum physics & relativity., "approximately 40% of the content requiring the application of mathematical skills to solve physics problems.", "particle physics, astrophysics, and nuclear physics, each requiring a deep understanding of both theoretical and mathematical principles."; 2025.04.27/ reddit AskPhysics101 ; 2025.05.07/old.reddit.com/r/planamundi : "classical physics rooted in Newtonian mechanics and electromagnetism"; 2025.05.07/old.reddit .com/r/GUToCPandSociety/
 Failed classical physics-search-note:a
+
 
 
 
