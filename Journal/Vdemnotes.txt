@@ -44,14 +44,15 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
 1934-1938: Austria CI (High) tag:23, Republic of Vietnam CI (High),
 1939-1945: Republic of Vietnam CI (High],
 1946-1948: China CI (High) tag:95, Republic of Vietnam CI (High],
-1949: Republic of Vietnam CI (High],
+1949: Republic of Vietnam CI (High),
 1950-1957: no 3.999,
 1958: Malawi CI (High) tag:284,
 1959-1963: no,
 1964-1973: Laos CI (High) tag:257,
 1974-1975: no 3.999,
 1976: Thailand CI (High) tag:485,
-1977-2024: no 3.999]]
+1977-2024: no 3.999],
+4: 1789: Netherlands CI (High)]
 [Chief executive no longer elected: 1789-1813:0, then increaingly more countries respond with 1/Yes. Highest in World: 1876: 0.06. (Western Europe & North America: 1974 with 0.04 was last time. 1856: 0.06 highest.)],
 [Election assume office: 1790-1810: World: 2, 2007: Western Europe & North America: 1.99-2],
 [Election boycotts were lower in 1789-1819 than 1973-2024 in Western Europe and North America. Germany-data avaliable only after 1847.],
@@ -72,7 +73,7 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
 [2024:Tajikistan CI (Low), North Korea CI (Low) tag:343, Eritrea CI (Low) tag:142 has 0 on Average people’s use of social media to organize offline action.],
 [2024:Saudi Arabia CI (Low) has 0 on Party/candidate use of social media in campaigns.],
 [2024: Bangladesh CI (Low) and Palestine/Gaza CI (Low) has 0 on Use of social media to organize offline violence.],
-[2024: Online media existence: Eritrea CI (Low): 0.869,Chad CI (Low): 0.848]
+[2024: Online media existence: 1-3: Eritrea CI (Low): 0.869,Chad CI (Low): 0.848, lowest value in all data (2000-2024): 2000-2008:Chad, CI (Low),(High):0.871,0.75,1.057]
 [Judicial corruption decision is higher in 1978-2018 West than in 1789-1944-West. 1795-1797 with 3.13 is lowest in West 1789-2024. 1796-1797 lowest CI 2.88 in West. World in-, de- then increased Judical corruption decision. Geopolitical Simulator since 2008 also showed importance of bribery in convincing constitutents.],
 [1848 is highest in West with 0.56 in Legislative or constituent assembly election. World: 1990: 0.31],
 [1900-1922 World never did Legislative or constituent assembly election aborted.],
