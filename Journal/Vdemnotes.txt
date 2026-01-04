@@ -52,7 +52,46 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
 1974-1975: no 3.999,
 1976: Thailand CI (High) tag:485,
 1977-2024: no 3.999],
-4: 1789: Netherlands CI (High)]
+[4: 1789: Netherlands CI (High) tag:329,France CI (High) tag:161;
+1790-1792: Netherlands CI (High) tag:329, Morocco CI (High) tag:317, France CI (High) tag:161;
+1793-1795: Netherlands CI (High) tag:329,France CI (High) tag:161;
+1796-1801: Netherlands CI (High) tag:329;
+1802-1806: no 4;
+1807-1808: Portugal CI (High) tag:386;
+1809: Spain CI (High) tag 455;
+1810-1812: Venezuela CI (High) tag:533, Spain CI (High) tag 455;
+1813: Venezuela CI (High) tag:533, Spain CI (High) tag 455, Netherlands CI (High) tag:329;
+1814: Venezuela CI (High) tag:533, Netherlands CI (High) tag:329;
+1815-1816: Venezuela CI (High) tag:533;
+1817: Venezuela CI (High) tag:533, Serbia CI (High) tag:416;
+1818-1819: Venezuela CI (High) tag:533, Spain CI (High) tag 455;
+1820: Spain CI (High) tag 455;
+1821-1823: Spain CI (High) tag 455, Mexico CI (High) tag:305;
+1824-1826: Mexico CI (High) tag:305;
+1827-1828: Portugal CI (High) tag:386, Mexico CI (High) tag:305;
+1829: Portugal CI (High) tag:386, Mexico CI (High) tag:305, France CI (High) tag:161;
+1830: Portugal CI (High) tag:386, Netherlands CI (High) tag:329, Mexico CI (High) tag:305, France CI (High) tag:161;
+1831: Por 386, Net 329, Mex 305, Fra 161, Brazil CI (High) tag:59;
+1832-1833: Por 386, Net 329, Mex 305;
+1834: Spa 455, Por 386, Net 329, Mex 305;
+1835-1838: Spa 455, Net 329, Mex 305, Bra 59;
+1839: Spa 455, Ser 416, Net 329, Mex 305, Bra 59;
+1840: Net 329, Mex 305, Bra 59;
+1841: Net 329, Mex 305;
+1842: Net 329, Mex 305, Costa Rica CI (High) tag:104;
+1843-1844: Net 329, Mex 305;
+1845: Nicaragua CI (High) tag:335, Net 329, Mex 305;
+1846: Net 329, Mex 305;
+1847: Net 329, Mex 305, Fra 161, Denmark CI (High) tag:122;
+1848: Net 329, Mex 305, Hungary CI (High) tag:203, Germany CI (High) tag:173, Fra 161, Austria CI (High) tag:23;
+1849: Mex 305, Aus 23;
+1850: Mex 305, Fra 161;
+1851: Nic 335, Mex 305;
+1852-1853: Mex 305;
+1854-1855: Nic 335, Mex 305;
+
+]
+]
 [Chief executive no longer elected: 1789-1813:0, then increaingly more countries respond with 1/Yes. Highest in World: 1876: 0.06. (Western Europe & North America: 1974 with 0.04 was last time. 1856: 0.06 highest.)],
 [Election assume office: 1790-1810: World: 2, 2007: Western Europe & North America: 1.99-2],
 [Election boycotts were lower in 1789-1819 than 1973-2024 in Western Europe and North America. Germany-data avaliable only after 1847.],
