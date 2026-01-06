@@ -65,8 +65,8 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
 1815-1816: Venezuela CI (High) tag:533;
 1817: Venezuela CI (High) tag:533, Serbia CI (High) tag:416;
 1818-1819: Venezuela CI (High) tag:533, Spain CI (High) tag 455;
-1820: Spain CI (High) tag 455;
-1821-1823: Spain CI (High) tag 455, Mexico CI (High) tag:305;
+1820: Spain CI (High) tag:455;
+1821-1823: Spain CI (High) tag:455, Mexico CI (High) tag:305;
 1824-1826: Mexico CI (High) tag:305;
 1827-1828: Portugal CI (High) tag:386, Mexico CI (High) tag:305;
 1829: Portugal CI (High) tag:386, Mexico CI (High) tag:305, France CI (High) tag:161;
@@ -89,9 +89,80 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
 1851: Nic 335, Mex 305;
 1852-1853: Mex 305;
 1854-1855: Nic 335, Mex 305;
-
-]
-]
+1856: Nic 335, Mex 305, India CI (High) tag:209;
+1857-1858: Mex 305, Indi 209;
+1859: Mex 305, Costa Rica CI (High) tag:106;
+1860: Venezuela CI (High) tag:533, Mex 305;
+1861-1863: Ven 533, Mex 305, Madagascar CI (High) tag:281;
+1864-1865: Mex 305;
+1866-1867: Spa 455, Mex 305;
+1868: Spa 455, Ser 416, Mex 305, Cuba CI (High) tag: 110;
+1869: Spa 455, Nic 335, Mex 305, Cub 110;
+1870: Spa 455, Mex 305, Fra 161, Cub 110;
+1871-1874: Spa 455, Mex 305, Cub 110;
+1875-1876: Mex 305, Cub 110;
+1877-1878: Cub 110;
+1879-1885: no 4;
+1886: Bulgaria CI (High) tag:62;
+1887-1889: Bra 59;
+1890: no 4;
+1891: Bra 59;
+1892: Saudi Arabia CI (High) tag:410;
+1893: Sau 410, Nic 335, Bra 59;
+1894: South Korea CI (High) tag:446, Sau 410, 
+1895: SoK 446, Sau 410, Cub 110;
+1896-1898: Sau 410, Cub 110;
+1899: Sau 410;
+1900-1902: Sau 410, Barbados CI (High) tag:35;
+1903: Ser 416, Bar 35;
+1904-1906: Bar 35;
+1907-1908: Morocco CI (High) tag:317, Bar 35;
+1909-1918: Bar 35;
+1919: Hun 203, Bar 35;
+1920-1929: Bar 35; (Same two values before Barbardos and it generally looks same.)
+1930-1931: Ger 173, Bar 35;
+1932: Thailand CI (High) tag:485, Ger 173, Bar 35;
+1933-1938: Bar 35;
+1939: Ser 416, Bar 35;
+1940-1941: Bar 35;
+1942-1943: Philippines CI (High) tag:380, Bar 35;
+1944: Phi 380, Guatemala CI (High) tag:182, Bar 35;
+1945: Phi 380, Bar 35;
+1946-1948: Bar 35;
+1949: Cos 104, Bar 35;
+1950: no 4, Bar 35 Low/Middle/High:2.141,1.299,2.877;
+1951-1952: Bolivia CI (High) tag:50;
+1953: Cub 110;
+1954: Cub 110, Guat 182;
+1955: Cub 110;
+1956-1957: Guinea CI (High) tag:185, Cub 110;
+1958: Cub 110;
+1959: no 4;
+1960: Laos CI (High) tag:257;
+1961-1964: Dominican Republic CI (High) tag:128;
+1965: Mozambique CI (High) tag:320, Dom 128;
+1966-1968: Zimbabwe CI (High) tag:548, Namibia CI (High) tag:323, Moz 320;
+1969: Zim 548, Nam 323, Moz 320, Cyprus CI (High) tag:113;
+1970-1972: Zim 548, Nic 335, Nam 323, Moz 320, Guinea-Bissau CI (High) tag:188, Cyp 113;
+1973-1974: Zim 548, Nic 335, Nam 323, Moz 320, GuB 188, Cyp 113, Cambodia CI (High) tag:74;
+1975: Zim 548, Nic 335, Nam 323;
+1976: Zim 548, Timor-Leste CI (High) tag:491, Nic 335, Nam 323, Iran CI (High) tag:215;
+1977-1978: Zim 548, Tim 491, Nic 335, Nam 323, Iran 215;
+1979: Zim 548, Tim 491, Nic 335, Nam 323, Iran 215, El Salvador CI (High) tag:137 which has highest average of 1789-2024;
+1980-1988: Tim 491, ElS 137;
+1989: Tim 491, German Democratic Republic CI (High) tag:170, ElS 137;
+1990: Tim 491, Georgia CI (High) tag:167, ElS 137, Albania CI (High) tag:5;
+1991: Ukraine CI (High) tag:512, Tim 491, Mad 284, Geo 167, ElS 137;
+1992: Tim 491, Tha 485, Tajikistan CI (High) tag:479, Geo 167;
+1993: Tim 491, Geo 167, Cam 74;
+1994: Tim 491, Geo 167;
+1995-1999: Tim 491;
+2000: no 4;
+2001: Mad 281;
+2002-2003: no 4;
+2004-2007: Maldives CI (High) tag:290
+2008-2019: no 4;
+2020-2024: Gui 185; ] ]
 [Chief executive no longer elected: 1789-1813:0, then increaingly more countries respond with 1/Yes. Highest in World: 1876: 0.06. (Western Europe & North America: 1974 with 0.04 was last time. 1856: 0.06 highest.)],
 [Election assume office: 1790-1810: World: 2, 2007: Western Europe & North America: 1.99-2],
 [Election boycotts were lower in 1789-1819 than 1973-2024 in Western Europe and North America. Germany-data avaliable only after 1847.],
