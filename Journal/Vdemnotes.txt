@@ -14,6 +14,7 @@ Croatia,CI (Low),(High): 1943: 0.218,0.164,0.278 1944: 0.218,0.164,0.278
 North Korea,CI (Low),(High): 1947: 0.029,0.006,0.04], 
 [State ownership of economy stayed constant, de-, then increased in West and World. 1946: Hong Kong CI (Low) has 4. 1944: Papua New Guinea CI (Low]:4, Many more has 4, which means less state ownership.
 0:1800-1810 and further:Indonesia CI (Low),(High):0.266,0,0.442 ,1943:Russia,Mongolia tag:310 1944:Russia,Mongolia 1946-1947:Russia tag:400],
+[2026.01.11: Russia in 1936-1940
 [Institutionalized autocracy is 0 at 1799 and constantly, linearly at 0.2 like 2002-2004 which is decreasing till 0.16 in 2013, then staying at 0.17 till 2024, where the data stops.
 It's because of lack of data in other countries in 1789-1799. No decimal numbers beyond 1 comma-number. There were no estimation-ranges in this graph and "null,null" after every number in 2018 and seemingly before. 2019-2024 has only "null" as result and therefore no data.
 "United States of America" solely determining the world average data in 1789-1799.
@@ -239,3 +240,4 @@ USA: 1789-1796: 0.2, 1797-1800: 0, It seems to stay at 0 in 1800s and roughly 0 
     <input class="chosen-search-input" type="text" autocomplete="off" value="Search Countries" style="width: 25px;">
   </li>
 </ul>
+
