@@ -18,6 +18,7 @@ unnoticable useless role troll-setting: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAA3EEC
 1s voting time, 0 kill cd, 5x imp vis, 32x c vis, 15793980 emergency meetings, 26 Common, 134 short, inf. eng, useless roles, 255s invisible, useless detective, 0s dissolve time: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAAaAIY///AAAgIAAAAAAQAAAAA8AAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA9kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w==
 cozy player-is-able-to-do-nothing-without-others-noticing-mode with 1s-dissolve Viper, 6 short tasks, 15 emergency meetings:CoQAAAEAZA8AAQAAAgAAwD8AAKBAAACgQAAAIEECAAYPAAAAAgIUAAAAEAAAAAAeAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA5kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAJkAQAAAQ==
 player-is-able-to-do-nothing-without-others-noticing-mode with 1s-dissolve Viper, 15 short tasks, 143 emergency meetings:CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAAcEECAA+PAAAAAgIUAAAAEAAAAAAeAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA5kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAANkAQAAAQ==
+Troll and Strategy-settings: 3 imps, kill cd:87912161000.0s,crew version:32.0x,0s acid cooldown:"CoQAAAEAZA8AAQAAAAAA4D8AAABCAACgQAAAA1AZAAABAAAAAwI7AAAAAQAAAAAyAAABAQAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAAAAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAANkAQAAAA=="
 
 almost stealth-mode: 65 emergency meetings:"CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CEZA/ZBAAAAAQIAAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
 89 Short task, 103 long tasks, 5 common tasks : CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CZZZwXpAAAAAQIAAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B
@@ -33,17 +34,18 @@ undefined task-bar means inactive taskbar: "CZAAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB
 part of i. s.-m.: Tracking Cooldown: 255s, Tracking Duration: 254s : "CZAAAAEAZA8AAQAAAAAAAD8AAAAAAAAAAAAAAAAAZwA/AAAAAQIAAAAAAQAAAAAAAQABAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAA//4AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 0 emergency, 0 kill cd, 15 trackers, 1.0x Player Speed, 3 ss, more sensational no-meetings-game: "CZAAAAEAZA8AAQAAAAAAgD8AAKBAAACgQAAAAAAAAgAAAAAAAQIAAAAAAQAAAAA8AAEBAAALBQADZAMAAAEAAAIAAAACAAAAAAQAD2QDAAA/AAEDAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAA9kAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 
-Tracking Cooldown:1s Delay: 0s, Duration: 152s "CZAAAAEAZA8AAQAAAAAAAD8AAAAAAAAAAAAAAAAAZwA/AAAAAQIAAAAAAQAAAAAAAQABAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAAAZgAygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==",
-A/8:Tracking Cooldown: 0s, Tracking Delay: 252s Tracking Duration: deleted
-Tracking & Invisibility's highest discovered stage with 0 cooldown/s:"AP8"
-0s Tracking duration = infinite
+Voting Time: after 57 sel.:1s: "Q",
+
+Discussion Time: after 51 sel.: B:1s,P:15s,e:30s,t:45s,7:59s,8:60s,9:61s
+
 
 letter changed away from voting time, 128 short tasks, 102 long tasks, minus voting time: "CZAAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAooAArAArAQAAAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 
 (AQ 1s,Ag 2s,Aw 3s vote);(sequence: ABC...abc)
-kill cooldown:60s:"CHMAAAEAZA8AAQAAAAAAgD8AAIA/AACAPwAA>cE<IAAwE,10s:/AACAPwAA>IEE<AAwE,57.5s:Zk,55s:XE
-"AAB":0s:Aa,aa,AB,BB,0B,B9C: close 0 but rigged to minus, 0.0...: AiE, "B2C":38911100000000000000.0s,"B3C":167121900000000000000000000000.0x also works the same in player speed.,
-Patterns with A in beginning being probably closer to 0.
+kill cooldown in slot after 36 Selected symbols:60s:"CHMAAAEAZA8AAQAAAAAAgD8AAIA/AACAPwAA>cE<IAAwE,10s:/AACAPwAA>IEE<AAwE,57.5s:Zk,55s:XE
+"AAB":0s:Aa,aa,AB,BB,0B,B9C: close 0 but rigged to minus, 0.0...: AiE, "B2C":38911100000000000000.0s,"B3C":167121900000000000000000000000.0x also works similar the same in player speed.,B3D:1617121900000000000000000000000.0s same as "B3C" 10s default cooldown runs down yet no kill. Button just turns less transparent for 100 miliseconds or so and then reverts back.,"A2C" 37758180000000000000.0s doesn't kill., "A1C" 8791261000.0s works and shows 214 then below 748 then below 364
+Patterns with A in beginning being probably closer to 0.,						   1617121900000000000000000000000.0
+2026.02.18: +++ = roughly -15536150000 0000 0000 0000 00.0s counts as 0s and increases common tasks alot.,zzz:0.03
 
 emergency meetings: "CXQAAAEAZA8AAQAAAP3/vz8AAABCAACgQAAANEMAAQZZZAAAAQAeAAAAHwAAAAAAAAEAAAAHBQAAAAMAAAEBAAIAAAACAAAAAAQAAAADAAAeAAADAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAAAAAwAAAP8A"
  > ZZZ = 25689,+++=63678,/// = 64767,after & replacing ZZZ is ////=15794180,/////=-large numbers
@@ -54,16 +56,25 @@ maybe "CXQAAAEAZA8AAQAAAL/1yD8AAABCAAAAQgrXIzwAAQ////AAAQAAAAAAAQAAAAA8AAEAAAAHB
 Emergency cooldown: 127s : CoQAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAPAAAAAB/AQAAAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw==
 255s:  "normalHostOptions": "CoQAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAPAAAAAD/AQAAAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw=="<"D/"
 
-Viper: 0s AA at last causes crash when report. 255s acts liek 0s with every player except Host and maybe other random ones and or imposters by causing an error to leave game. Only when that setting in played out my multi-alts or awhile, will it work.
-
 Imposter version 0.02:"CXQAAAEAZA8AAQAAAAAAgD8AAIA/AADAPAAAcEIBAQIBAAAAAQEPAAAAeAAAAAAPAQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
-Crewmate version: 32.0x: "BCA" at "CXQAAAEAZA8AAQAAAP3/vz8AAA > BCA or ABC
+Crewmate version (after Sel: 25): 32.0x: "ABC" at "CoQAAAEAZA8AAQAAAAAAAEAAAABC,
+
+Common tasks (Sel:38):AC:2,AZ:25,CA:128
 
 Player speed: 0.91x:"CZAAAAEAZA8AAQAAAAAA>aD8<AAAAAAAAAAAAAAAAA/wD/AAAAAQIAAAAAAQAAAAAAAQEBAwALBQAAAAMAAAAAAAIAAAACAAAPBQQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==",
 B9C:-9059697000.0x reverse directions like kill cooldown, very fast at local, being kicked in online, 0.00x:IDA,5AA from 2024 Among Us, 0.63x:ID8,1.16x:"AlD"
 https://likefuss.itch.io/among-us/download/eyJleHBpcmVzIjoxNzU1MjU2ODQ1LCJpZCI6MzY1MzI2OX0%3d.q%2fM78IkbpIQryPARIfJ7HHdUU9w%3d , https://www.4shared.com/rar/TlnkVOTQfa/Among_Us.html , https://gofile.io/d/6dfo1o  for .rar and 2025-08-01: https://torbt.cz/search/among%20us for both new AmongUs.rar 2025-05-11; 2025-05-11: https://limetorrents.torrentbay.st/search/all/among-us//3/ for 2024 Among Us-file-download too.
 
-2025-09-25: Phantom with 0s cd on swift might cause player's crash. I thought it didn't till I checked 255s vanish duration.
+Viper: 0s AA at last causes crash when report. 255s acts like 0s with every player except Host and maybe other random ones and or imposters by causing an error to leave game. Only when that setting in played out my multi-alts or awhile, will it work.
+
+Tracking Cooldown:1s Delay: 0s, Duration: 152s "CZAAAAEAZA8AAQAAAAAAAD8AAAAAAAAAAAAAAAAAZwA/AAAAAQIAAAAAAQAAAAAAAQABAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAAAZgAygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==",
+A/8:Tracking Cooldown: 0s, Tracking Delay: 252s Tracking Duration: deleted
+Tracking & Invisibility's highest discovered stage with 0 cooldown/s:"AP8"
+0s Tracking duration = infinite
+
+Protection Cooldown (after Sel: 106):BQ:80s
+
+2025-09-25: Phantom with 0s cd on swift cause player's crash. I thought it didn't till I checked 255s vanish duration comapred to 0s.
 Among Us-social-note: GMT 2025-05-30 00:31: Playing in individualistic steal-mode at v16.0.3a in BlueStacks, imposter never unrevealed their invisibility. Even 1x with tracker, which fewer players left than in no-tracker-i.-s.-m., which with 3 players, both imposter & crewmate left except me as host. 2025-05-31 20:35: At The Fungus-map after me and 1 afk-player in total 1 imposter and 2 crewmates I think because absense of players in my view during sabotage, imposter revealed themselves, leading to crewmate-victory.
 
 error: CZAAAAEAZA8AAQAAAgAABACAAAAAAACgQAAAAiEAAAAAAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAAAAQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAA">"A"<"AJAAAAAgAABAAKAAAAAwAAAA/8ygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==" makes main character spawn at above lobby room & loads game without end. "A" supposed to make noiser 0s. 2025-06-02 17:39:Idk what makes game broken. I press play but screen goes darker. It´s an account-issue I guess. Still weird that my character spawned above. 2025-06-02 17:51: I noticed itch.io being down. 18:13 some itch-account-bug. Idk. It works now. 18:5: Above-lobby-spawn occurs because at "same time" as I create local lobby, the game requests connection.
