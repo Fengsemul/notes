@@ -1,0 +1,438 @@
+2025.06.19: 
+Europa Universalis 4\localisation\generic_events_l_english.yml (3 hits)
+	Line   96:  institution_events.7.d:0 "The last century has seen Rationalism and Empiricism gaining an ever-increasing popularity among the great minds of the age. In letters, publications and coffee houses, kings, scientists, philosophers and littérateurs are discussing the merits of tolerance, the scientific method and the spreading of the ideals of the Enlightenment to all of humanity. From universities or courts of enlightened monarchs, expeditions are being sent to measure, catalogue, weigh and map the world so that we can better understand the laws that govern the things around us. Others discuss the laws that govern society and try to reach an understanding of the Rights of Man. In [From.Capital.GetCapitalName], a colossal undertaking has begun for the assembly of a complete encyclopedia of all knowledge. The Light of Reason has now been lit and many will not rest until it has been brought to all corners of the earth."
+	Line   99:  institution_events.700.d:0 "The last century has seen Rationalism and Empiricism gaining an ever increasing popularity among the great minds of the age. In letters, publications or coffee houses kings, scientists, philosophers and litterateurs are discussing the merits of tolerance, the scientific method and the spreading of enlightenment ideals to all humanity. From universities or courts of enlightened monarchs expeditions are being sent to measure, catalogue, weigh and map the world so that we can better understand the laws that govern the things around us. Others discuss the laws that govern society and try to reach an understanding of the Rights of Man. In [From.Capital.GetCapitalName], a colossal undertaking has begun in the assembly of a complete encyclopedia of all knowledge. The Light of Reason has now been lit and many will not rest until it has been brought to all corners of the earth."
+	Line  798:  cultural_event.2.d:0 "Like a mighty torch, bringing the light of reason into even the darkest corners of the old and new worlds, the Enlightenment is sweeping across the world. Supporting this movement will doubtlessly lead to advances in science and philosophy, but the movement's notions about human freedom and the unalienable rights of man may cause a bit of a rebellious fervor in our country."
+
+\localisation\institutions_l_english.yml (1 hit)
+	Line  25:  desc_enlightenment:0 "The last century has seen Rationalism and Empiricism gaining an ever-increasing popularity among the great minds of the age. In letters, publications and coffee houses, kings, scientists, philosophers and littérateurs are discussing the merits of tolerance, the scientific method and the spreading of the ideals of the Enlightenment to all of humanity. From universities or courts of enlightened monarchs, expeditions are being sent to measure, catalogue, weigh and map the world so that we can better understand the laws that govern the things around us. Others discuss the laws that govern society and try to reach an understanding of the Rights of Man.\n\nGreat projects such as the colossal undertaking of creating a complete encyclopedia of all knowledge or a complete index of all plants, animals and fungi in the world are being pursued for the greater good of humanity. The Light of Reason has been lit and many will not rest until it has been brought to all corners of the earth."
+
+\localisation\powers_and_ideas_l_english.yml :
+lon_school_of_salamanca_desc:0 "The prestigieous university of Salamanca has become the centre for a new school of jurisprudence as well as philosophical and economic thought. Let us patronize the learned men of the School of Salamanca and make good use of their coherent interpretations of Natural Law, Property and the Natural Rights of Man."
+\common\ideas\00_country_ideas.txt : trigger = {tag = LON} free = yes
+
+
+localisation\technology_l_english.yml (2 hits)
+	Line 142:  adm_tech_cs_29_name:1 "Rights of Man"
+	Line 175:  adm_tech_cs_29_desc:1 "At the forefront of current revolutionary thought is the radical notion of equality for all. Philosophers from different parts of the world have worked together to create a document entitled the 'Declaration of the Rights of Man and of the Citizen', proclaiming that these rights are universal and should be enforced by law. It is likely that this will have ample repercussions for the development and spread of the concepts of freedom and democracy, and we would do well not to lag behind."
+French: Line 142:  adm_tech_cs_29_name:1 "Droits de l'homme"
+	Line 175:  adm_tech_cs_29_desc:1 "Portée aux nues par les pensées révolutionnaires se trouve la notion radicale de l'égalité entre tous. Les philosophes de différentes régions du monde ont travaillé de concert pour créer un document intitulé « La Déclaration des droits de l'homme et du citoyen », proclamant que ces droits sont universels et devraient être imposés par la loi. Il est à prévoir que cela aura des répercussions importantes pour le développement et la diffusion de la liberté et de la démocratie, aussi ne devrions-nous pas trop tarder à nous y intéresser."
+German: Line 142:  adm_tech_cs_29_name:1 "Menschenrechte"
+	Line 175:  adm_tech_cs_29_desc:1 "An der Front des gegenwärtigen revolutionären Denkens steht der radikale Begriff der Gleichheit für alle. Philosophen aus verschiedenen Teilen der Welt haben zusammengearbeitet, um ein Dokument zu erschaffen, dass die "Erklärung der Menschen- und Bürgerrechte" genannt wird und verkündet, dass diese Rechte universell sind und per Gesetz durchgesetzt werden sollten. Es ist wahrscheinlich, dass dies weiträumige Auswirkungen auf die Entwicklung und Verbreitung der Konzepte von Freiheit und Demokratie haben wird und wir würden gut daran tun, nicht zurückzufallen."
+Spanish:Line 142:  adm_tech_cs_29_name:1 "Derechos del hombre"
+	Line 175:  adm_tech_cs_29_desc:1 "Al frente del actual pensamiento revolucionario está noción radical de la igualdad. Filósofos de todas las partes del mundo han trabajado juntos para crear un documento denominado 'Declaración de los derechos del hombre y el ciudadano', proclamando que estos derechos son universales y deben estar apoyados por la ley. Es probable que esto tenga amplias repercusiones en el desarrollo y expansión de los conceptos de libertad y democracia, y no nos haría bien quedarnos atrás."
+localisation\text_l_english.yml (1 hit)
+	Line 7539:  support_enlightenment_movement_desc:0 "Like a mighty torch, bringing the light of reason into even the darkest corners of the old and new worlds, the Enlightenment is sweeping across the world. Supporting this movement will doubtlessly lead to advances in science and philosophy, but the movements notions about human freedom, and the unalienable rights of man, may cause a bit of a rebellious fervor in our country."
+
+\common\ideas\00_country_ideas.txt: lie_rights_of_man = {global_unrest = -1}
+
+localisation\powers_and_ideas_l_english.yml: lie_rights_of_man:0 "Declaration of the Rights of Man and Citizen"
+	Line 6228:  lie_rights_of_man_desc:0 "Closely modelled on French revolutionary documents, the Declaration of Rights sets out a radical list of inalienable rights for our citizens."
+french: lie_rights_of_man:0 "Déclaration des droits de l'homme et du citoyen de Franchimont"
+	Line 6228:  lie_rights_of_man_desc:0 "Largement inspirée du document de la France révolutionnaire, la Déclaration des droits de l'homme et du citoyen dresse la liste de tous les droits inaliénables des citoyens de Liège."
+german: lie_rights_of_man:0 "Erklärung der Rechte des Menschen und des Bürgers"
+	Line 6228:  lie_rights_of_man_desc:0 "In enger Anlehnung an französische Dokumente der Revolution legt die Erklärung der Rechte eine radikale Liste unveräußerlicher Rechte für unsere Bürger fest."
+spanish: lie_rights_of_man:0 "Declaración de los derechos del Hombre y Ciudadano"
+	Line 6228:  lie_rights_of_man_desc:0 "Inspirada estrechamente en los documentos revolucionarios franceses, la Declaración de Derechos, fija una lista radical de derechos inalienables de nuestros ciudadanos."
+
+localisation\domination_l_english.yml (1 hit)
+	Line 6749:  gc_cas_spa_native_reductions2_desc:0 "Scholars at the School of Salamanca have forced us to begrudgingly admit that the natives of the Americas are in fact ensouled human beings, and as such are entitled to natural rights. We should consider gathering those natives that still remain and systemically re-educating them rather than simply murdering and enslaving them."
+localisation\golden_century_l_english.yml (2 hits)
+	Line  92:  dominican_order_desc:0 "The Dominican Order are firm advocates for the natural rights of all mankind. Abhorring slavery and mistreatment, they seek to change the world through compassionate deeds."
+	Line 307:  pirates.19.d:0 "The crew of the [Root.GetRandomShipName] are a menace. Though they have an excellent record of delivering prizes, as soon as they make port their drunkenness and violence cause so much damage and disruption in [Root.Capital.GetCapitalName] that many wonder if they are worth the trouble they cause.\n\n After a particularly destructive episode, the local smuggling consortium has decided to blacklist the entire crew, making them unable to sell their plunder anywhere in [Root.GetName]. This has caused upset among the pirates that call the island home; they believe their natural rights to live as they please are being violated, and several rabble-rousers compare the smugglers to snobbish aristocrats."
+localisation\new_missions_l_english.yml (1 hit)
+	Line 1568:  gc_cas_spa_native_reductions_desc:0 "Scholars at the School of Salamanca have forced us to begrudgingly admit that the natives of the Americas are in fact ensouled human beings, and as such are entitled to natural rights. We should consider gathering those natives that still remain and systemically re-educating them rather than simply murdering and enslaving them."
+localisation\powers_and_ideas_l_english.yml (1 hit)
+	Line 4117:  lon_school_of_salamanca_desc:0 "The prestigieous university of Salamanca has become the centre for a new school of jurisprudence as well as philosophical and economic thought. Let us patronize the learned men of the School of Salamanca and make good use of their coherent interpretations of Natural Law, Property and the Natural Rights of Man."
+localisation\scandinavia_l_english.yml (1 hit)
+	Line 3588:  the_social_contract_reform_desc:0 "The governments of the past are the result of different levels of inequalities between the social classes.\nThe social contract is a concept where people join together into a civil society. By abandoning their claims of natural right, individuals can both preserve themselves and remain free."
+
+Europa Universalis 4\localisation\winds_of_change_l_english.yml
+	Line 2209:  NED_dutch_slavery_desc:0 "Slavery has been practiced for many centuries under different forms. With the rise of human rights however, many advocate for the abolition of slavery. We must make sure we settle this issue."
+
+\mods\eu4-ageofenlightenment-master\ageofenlightenment\localisation\ageofenlightenment_events_l_english.yml (1 hit)
+	Line 123:  french_revolution.3.d: "The Declaration of the Rights of Man and of the Citizen, passed by France's National Constituent Assembly in August 1789, is a important document of the French Revolution and in the history of human and civil rights. The Declaration was directly influenced by Thomas Jefferson, working with General Lafayette, who introduced it. Influenced also by the doctrine of 'natural right', the rights of man are held to be universal: valid at all times and in every place, pertaining to human nature itself. It became the basis for a nation of free individuals protected equally by the law."
+
+eu4-ageofenlightenment-master\ageofenlightenment\events\disaster_french_revolution.txt (2 hits)
+	Line   68: #Declaration of the Rights of Man and of the Citizen
+trigger = {
+		is_year = 1789
+		has_country_flag = bastille_stormed
+		OR = {
+			is_month = 6
+			is_month = 7
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = declaration_rom
+	}
+	option = {
+		name = "french_revolution.3.a"
+		change_government = constitutional_monarchy
+		set_revolution_target = ROOT
+		add_stability = -1
+		add_prestige = 10
+	}
+}
+
+Europa Universalis 4\common\event_modifiers\00_event_modifiers.txt (4 hits)
+	Line  1447: enlightenment_movement = { technology_cost = -0.2
+	global_missionary_strength = -0.03
+	dip_tech_cost_modifier = -0.1
+	adm_tech_cost_modifier = -0.15
+	prestige = 0.1
+	papal_influence = -10
+	monthly_fervor_increase = -1
+	church_power_modifier = -0.75
+	global_unrest = 8 }, spread_of_enlightenment_ideals = {
+	global_unrest = 4
+	global_institution_spread = 0.15},pru_enlightenment_reforms = {idea_cost = -0.25},birthplace_of_enlightenment = {local_autonomy = -0.05}
+
+\common\event_modifiers\01_mission_modifiers.txt (2 hits)
+	Line   306: teu_pru_prussian_enlightenment_modifier = { 	republican_tradition = 0.2
+	legitimacy = 0.5
+	devotion = 0.5
+	global_autonomy = -0.05},liv_lva_seat_of_the_livonian_enlightenment = {	#Permanent
+	institution_growth = 6
+	technology_cost = -0.05}
+
+\common\government_reforms\02_government_reforms_republics.txt (2 hits)
+	Line 3465: 	icon = "enlightenment"
+			allow_normal_conversion = yes
+	trigger = {
+		OR = {
+			full_idea_group = innovativeness_ideas
+			has_institution = enlightenment
+		}
+	}
+	modifiers = {
+		years_of_nationalism = -10
+	}
+}; Europa Universalis 4\common\government_reforms\04_government_reforms_tribes.txt (2 hits)
+	sacred_kingdom = {
+	icon = "divine_guidance_reform"
+	allow_normal_conversion = yes
+	lock_level_when_selected = yes
+	potential = {
+		has_dlc = "Origins"
+		religion_group = pagan
+	}
+	trigger = {
+		OR = {
+			NOT = { has_institution = enlightenment }	#Why should any enlightened person ever want to support this system?
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = sacred_kingdom
+			}
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 10
+	nation_designer_trigger = {
+		religion_group = pagan
+	}
+	legacy_equivalent = sacred_kingdom_legacy
+	maintain_dynasty = yes
+	
+	removed_effect = {
+		if = {
+			limit = {
+				NOT = { has_institution = enlightenment }
+			}
+			add_stability = -2
+		}
+	}
+
+	modifiers = {
+		tolerance_own = 2
+		max_absolutism = 25
+		legitimacy = 0.5
+	}
+}; \common\ideas\00_country_ideas.txt (3 hits)
+	Line  9854: 	kub_journey_of_enlightenment = {
+	Line 14423: 	utr_enlightenment_masses = {
+	Line 16433: 	wes_enlightenment = {
+  C:\Games\Europa Universalis 4\common\ideas\zz_group_ideas.txt (2 hits)
+	Line 2244: 	greek_enlightenment = {
+	Line 2320: 	french_enlightenment = {
+; \Europa Universalis 4\common\institutions\00_Core.txt (29 hits)
+	Line 1995: # Enlightenment
+	can_start = {
+		is_year = 1700
+		is_institution_enabled = manufactories
+		is_in_capital_area = yes
+		is_island = no
+		is_state = yes
+		printing_press = 100
+		global_trade = 100
+		development = 30
+		OR = {
+			custom_trigger_tooltip = {
+				tooltip = tooltip_has_seat_in_parliament
+				has_seat_in_parliament = yes
+			}
+			has_building = university
+			AND = {
+				continent = europe
+				owner = {
+					ADM = 5
+					MIL = 5
+					DIP = 5
+				}
+			}
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	on_start = institution_events.7
+	can_embrace = {
+		always = yes
+	}, industrialization = { 	can_start = {
+		is_year = 1750
+		is_institution_enabled = enlightenment
+		is_in_capital_area = yes
+		is_island = no
+		is_state = yes
+		development = 30
+		manufactories = 100
+		enlightenment = 100
+		if = {
+			limit = {
+				has_dlc = "Rule Britannia"
+				NOT = { is_year = 1780 } #just in case no one develops their coal provinces
+			}
+			has_building = furnace
+			owner = {
+				OR = {
+					production_leader = {
+						trade_goods = iron
+					}
+					production_leader = {
+						trade_goods = cloth
+					}
+					production_leader = {
+						trade_goods = coal
+					}
+					num_of_trading_bonuses = 3
+					is_year = 1770 #fallback
+				}
+			}
+			OR = {
+				highest_value_trade_node = yes
+				is_year = 1760 #fallback
+			}
+		}
+		else = {
+			OR = {
+				has_building = weapons
+				has_building = textile
+			}
+			owner = {
+				OR = {
+					production_leader = {
+						trade_goods = iron
+					}
+					production_leader = {
+						trade_goods = cloth
+					}
+					num_of_trading_bonuses = 3
+					is_year = 1770 #fallback
+				}
+			}
+			OR = {
+				highest_value_trade_node = yes
+				is_year = 1760 #fallback
+			}
+		}
+	}start_chance = 100		#in 100 for when a province can_start
+	on_start = institution_events.80
+	can_embrace = {
+		always = yes};
+adm.txt : #Seperation of Powers # Tech 26 year = 1745
+
+CulturalEvents.txt: trigger = {
+		innovativeness_ideas = 7
+		has_institution = enlightenment
+		current_age = age_of_revolutions
+		NOT = {
+			has_country_flag = enlightenment_movement #Liberte Egalite Fraternite
+		}
+		adm_power = 10
+		adm = 3
+		years_of_income = 1
+		prestige = 40
+	}
+... name = "enlightenment_movement" #Liberte Egalite Fraternite
+
+Europa Universalis 4\events\flavorLIV.txt: #Livonian Enlightened Monarchy (+3 Tall, +3 Mercs, +5 Enlightenment, +3 Naval, +5 Centralization);
+Europa Universalis 4\events\FlavorRUS.txt : Line 4465: # Serfdom in the Age of the Enlightenment: 	trigger = {
+		has_dlc = "Domination"
+		has_estate_privilege = estate_nobles_total_serfdom
+		has_institution = enlightenment
+		NOT = { has_country_flag = final_serfdom_privileges }}mean_time_to_happen = {months = 60};
+# Physiocrats # Weirdo agrarian gentry country_event = { id = innovativeness_events.14 title = "innovativeness_events.14.t" desc = "innovativeness_events.14.d" picture = INDUSTRIALIZATION_eventPictures is_triggered_only = yes trigger = { has_dlc = "Rule Britannia" innovativeness = 5 has_institution = enlightenment } mean_time_to_happen = { days = 1 } option = { # adopt their ideas name = "innovativeness_events.14.a" add_innovativeness_big_effect = yes if = { limit = { has_estate = estate_nobles } add_estate_influence_modifier = { estate = estate_nobles desc = PHYSIOCRACY influence = 10 duration = 3650}add_mercantilism = -2}else = {add_mercantilism = -4}}option = {name = "innovativeness_events.14.b" add_mercantilism = 1}};
+
+\Europa Universalis 4\history\advisors\BritishIsles.txt (2 hits) Line  898: 	name = "Francis Hutcheson" #Irish philosopher, one of the founding fathers of the Scottish Enlightenment. Line  953: 	name = "David Hume" #Scottish philosopher, important figure of the Scottish Enlightenment C:\Games\Europa Universalis 4\history\advisors\FemaleAdvisors.txt (1 hit) Line 144: 	name = "Y. Vorontsova" #Yekaterina Vorontsova, a major figure of the Russian Enlightenment C:\Games\Europa Universalis 4\history\advisors\FranceSwizz.txt (1 hit) Line 1014: 	name = "Voltaire" #Well known French Enlightenment writer and philosopher. C:\Games\Europa Universalis 4\history\advisors\Germany.txt (2 hits) Line 1070: 	name = "Lessing" #Gotthold Ephraim Lessing, an outstanding German representative of the Enlightenment era Line 1081: 	name = "Moses Mendelssohn" #philosopher, important for the Haskalah, the Jewish enlightenment C:\Games\Europa Universalis 4\history\advisors\IndiaSouthEastAsia.txt (1 hit) Line 1128: 	advisor = { advisor_id = 767 name = "Sant Dariya Saheb" #Hindu saint and poet, preached non-violence. location = 558 #Bihar discount = yes skill = 2 type = philosopher date = 1711.1.1 #'received enlightenment', aged 20. death_date = 1780.1.1 #dies } C:\Games\Europa Universalis 4\history\advisors\TurkeyBalkans.txt (1 hit) Line 1034: 	name = "Antioch Kantemir" # Moldavian-born Russian Enlightenment man of letters and diplomat. ;
+
+localisation\00_lanfang_l_english.yml (2 hits)
+	Line 170:  khmer.3.a:0 "Our Theravada faith will bring us to enlightenment.",  flavor_lna.3.t:0 "[Root.GetAdjective] Absolutism"
+ flavor_lna.3.d:0 "The [Root.Monarch.GetTitle] is far more than a mortal human. [Root.Monarch.GetSheHeCap] is a Chakravarti, a divine light that shines upon humanity, a great beacon that guides us towards harmony and enlightenment. The rule of [Root.Monarch.GetTitle] [Root.Monarch.GetName] must be felt across every corner of the world so that all may know peace and prosperity."
+ flavor_lna.3.a:0 "We will bring order to the world."
+ flavor_lna.3.b:0 "Our current government suits us well."
+
+\localisation\domination_l_english.yml: flavor_rus.307.desc:0 "With the liberation of the peasants from the [Root.GetNobilityName] and other owners, the peasantry enjoys great freedom of mobility within the territory of [Root.GetUsableName]. While the commoners enjoy their newfound freedom, it comes with unintended consequences for the [Root.GovernmentName]: early thoughts of the Enlightenment, emphasizing the freedom of the lower class opposed to the ruling class, have spread in the minds of the masses. If the rights of the peasants are not to be revoked, the very stability of [Root.GetUsableName] is under threat."
+	Line 5080:  flavor_rus.312.t:0 "Ideals of the Enlightenment and the Serfdom"
+	#enlightened ideals Line 5081:  flavor_rus.312.desc:0 "Too many ordinary [Root.GetAdjective]s have been enslaved through the serfdom. In strong contrast to the ideals of the Enlightenment, the realm of [Root.GetUsableName] is built on the hard labor of peasants who are comparable to the cattle they work with.
+"desc_eng_a_different_kind_of_christian:0 "While our former brothers in faith slaughter each other in the midst of the Reformation, our people have found enlightenment in the ways of [Root.Religion.GetName]. We pity those who still hang on the archaic ways of Catholicism and its reformed counterpart.""
+ 
+localisation\emperor_content_l_english.yml: wes_enlightenment:0 "Religious Toleration"
+ wes_enlightenment_desc:0 "Our lands are home to many beliefs. While some would insist all others to be wrong and seek the removal of all those they consider heretics, we shall take a more enlightened path. Let all believe as they wish, so long as they agree to serve us!",
+enlightened_monarchy_reform_desc:0 "The ideals of the Enlightenment are the very foundation for Revolutionary thought, and as long as our Emperor does not truly embrace the ideals of the Enlightenment then he does not represent the values of the Revolution. Many would say a hereditary monarchy itself betrays the ideals of the Revolution, but a combination of an absolute monarch and Enlightenment thought shall ensure that none can oppose the ideals of our state."
+	Line 2949:  guru_advisors_reform_desc:0 "All across the Dharmic world, there are men and women alike who fully detach themselves from the material world and live isolated in the untamed countryside to attain enlightenment. To be a Sikh means to be a student, and by learning from these wise men and studying the works of the great Gurus of the Sikh religion, we may spread our enlightened vision across the world."
+
+\Europa Universalis 4\localisation\EU4_l_english.yml (3 hits)
+	Line  196:  age_of_revolutions_desc:1 "The questioning of rights, authority and the world itself during the Enlightenment has led to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics."
+#enlightened ideals westfalian_nation_desc:0 "As the ideas of the Enlightenment are sweeping through Europe, we may choose to embrace them ourselves in Westphalia. Our future model state will feature ideas as revolutionary as equal rights for all male population, freedom for serfs and emancipation for the Jews, as well as enabling of free enterprise through abolition of socage and the guilds."
+
+\Europa Universalis 4\localisation\flavor_events_l_english.yml (15 hits)
+#enlightened ideals	Line  481:  flavor_hun.32.d:0 "Upper Hungary has always been home to both the Slovak people and the many different groups that have come to exploit the rich mines of the area. Inspired by the growing pan-slavic movement Slovak intellectuals and adherents to the Enlightenment have begun to talk of the possibility of a Slovak nation and some have begun to write down and organize a Slovak literary language."
+	Line  856:  flavor_eng.EVTDESC9203:0 "John Locke was an initiator of the Enlightenment in England and France, an inspirer of the U.S. Constitution and the author of, among other works, 'An Essay Concerning Human Understanding'. Locke held that knowledge of the world could only be gained by experience and reflection on experience, and this knowledge was being gained by Boyle, Sydenham, Christiaan, Huygens, and Newton. They were the true philosophers who were advancing knowledge."
+	Line 1113:  flavor_rus.EVTDESC1000:0 "Mikhailo Shcherbatov was an important statesman, historian and philosopher in 18th century Russia. He became a member of the Board of Trade in 1770 and a president of the Chamber Council and a Senator in 1779. Though a leading representative of Russian conservatism and a proponent of the Russian Enlightenment movement, he is perhaps best know as an author. His 'History of Russia from the Earliest Times' was published between 1771 and 1791 in seven volumes. Shcherbatov's final work 'On the Corruption of Morals in Russia' was published in 1797 and contained a scathing attack on the contemporary social customs."
+,#enlightened ideal "	Line 1219:  flavor_rus.EVTDESC3437:0 "Paul I, in an effort to strengthen the autocracy, reversed many of Catherine's policies - he reestablished centralized administrative agencies she had abolished in 1775, increased bureaucratic control in local government, and sought to impose limits on the authority of the nobles. While Catherine caused many ordinary Russians to be enslaved through serfdom, Paul was the first Russian czar to limit the work required of these unfortunate people. At Gatchina, Paul educated their children, lent them money, instituted a system of free medical care, gave them more land for their use, and upgraded agricultural technology. In short, he was a model landlord. When it came to Russia's most humble people, as both czar and grand duke, he sought to end their suffering and improve their lives. In this, he put into action the Enlightenment ideas parroted, but never followed unless it suited her, by his mother.""
+"flavor_fra.EVTDESC5001:0 "In 1729 Voltaire returned to France from his exile in England. Determined to present England as a model to his countrymen the great writer of the Enlightenment began writing plays in discrete imitation of Shakespeare. He also commenced work on his biography of the great Swedish King Charles XII. His greatest achievement to date, however, was published in 1734. 'Philosophical Letters' was an incisive critique of the religious establishment and the Christian philosopher Blaise Pascal.","flavor_hab.EVTDESC3216:0 "Joseph II, 1741-90, Holy Roman Emperor (1765-90), King of Bohemia and Hungary (1780-90). After his father's death in 1765, Joseph acted as emperor and co-regent with his mother but had little real influence. Resenting this fact, he took to traveling until his mother's death in 1780. He then began reforms largely based on his own philosophy and principles, rather than those originating in the Enlightenment. These reforms consisted of nothing less than the abolition of hereditary and ecclesiastic privileges as well as the creation of a civil service based on merit and loyalty rather than birth."",(flavor_brapru.EVTDESC5140:0 "Kant was the foremost thinker of the Enlightenment and one of the greatest philosophers of all time. In him were subsumed new trends that had begun with the Rationalism (stressing reason) of René Descartes and the Empiricism (stressing experience) of Francis Bacon. He thus inaugurated a new era in the development of philosophical thought."
+	#enlightened ideals Line 2400:  flavor_brapru.EVTDESC3530:0 "After the end of the reign of Louis XIV in France and the following wars of the Spanish succession, the age of enlightenment slowly began to spread all over Europe by the words of writers and philosophers of the time such as Locke, Rousseau, Diderot, Hume, Leibniz and Montesquieu. The New Ideals included religious freedom, education, freedom of speech and political opinion. The monumental work that captured the essence of the enlightenment was Diderot's Encyclopedie, taking 25 years for its completion and in the end totaling a collection of no less than 35 volumes of 1000 pages each describing everything from how to knit a sock to methods of improving the manufacturing of artillery pieces. Of the monarchs of Europe none was a stronger believer of these ideas than the Prussian King, Friedrich II, also known as Frederick the Great.")
+"1534 by the Spaniard Don Iñigo López de Recalade, better know as Ignatius of Loyola. He becomes one of the most devoted counter reformists and enemy number one of the Protestant movement. Loyola having a soldier background makes its mark on the order, which is organized almost as an army. High priority was given both to educating missionaries but also counselors for European royal courts. This made the Jesuite order very powerful in the politic scene. 1773 the Jesuite order was dissolved by Pope Pius VI due to pressure from Christian countries in the age of enlightenment. 1814 the Jesuite order was reinstituted, however, just as a faint shadow of the powerful order it once had been.""
+
+generic_events_l_english.yml:  institution_events.600.d:0 "While a number of technical innovations during the course of the 16th and 17th centuries
+, institution_events.7.d:0 "The last century has seen Rationalism and Empiricism gaining an ever-increasing popularity among the great minds of the age. In letters, publications and coffee houses, kings, scientists, philosophers and littérateurs are discussing the merits of tolerance, the scientific method and the spreading of the ideals of the Enlightenment to all of humanity. From universities or courts of enlightened monarchs, expeditions are being sent to measure, catalogue, weigh and map the world so that we can better understand the laws that govern the things around us. Others discuss the laws that govern society and try to reach an understanding of the Rights of Man. In [From.Capital.GetCapitalName], a colossal undertaking has begun for the assembly of a complete encyclopedia of all knowledge. The Light of Reason has now been lit and many will not rest until it has been brought to all corners of the earth."
+"	Line 2384:  EVTDESC6177:0 "A delegation of senior Monks, after several days of meditation, have come to suggest that our tolerant policy is affecting the enlightenment of our realm. It seems that some of our people have decided to embrace the Hindu faith."
+	Line 2787:  EVTDESC854:0 "With peace in our country, the great musicians, artists and poets are rejoicing in the capabilities of entertaining their betters. This era of cultural enlightenment is definitely improving the mood of $COUNTRY$."
+	Line 2861:  EVTDESC876:1 "A talented [Root.GetAdjective] inventor has made something many considered impossible. He managed to devise a method that allows him to build a press to print huge amounts of copies of the Holy Bible, allowing every Christian to have one and rendering many monks across the world jobless. He started with the Bible but soon other books will be printed to spread enlightenment across the continent. As the classics are rediscovered in Europe, the whole continent is going to change forever."";
+localisation\hinduism_l_english.yml (2 hits)
+	Line  22:  desc_vishnu_celibacy:0 "The ruler abstains from sexual activity, focusing mind and spirit on attaining religious enlightenment."
+	Line  39:  hindu_events.1.h:2 "Buddha is the path to Enlightenment.";
+
+\localisation\insults_l_english.yml (1 hit)
+	Line 64:  insult_for_buddhists:0 "May you succumb to Samsara and live a thousand lives without joy or enlightenment.";
+
+\king_of_kings_l_english.yml (14 hits)
+	Line 2396:  flavor_per.21.desc:0 "Our nation is more than just a political entity on the world stage. We are the center of religious enlightenment; the Safaviyya order made into an Empire without its equals. Unlike for many other empires, the religious matters of the state are directly in the hands of the ruling dynasty as they are the head of the order."
+	Line 2477:  flavor_per.45.desc:0 "Islam is a complicated religion. Many heirs of Muhammad - peace be upon him - claim the superiority of their teachings over those of their rivals, and eventually, the Islamic faith split into different branches. Only one path can be chosen, only one branch can be taken to reach spiritual enlightenment.\n\nThe Shia Twelvers, also known as the Imamiyya, have a strong presence in [Root.GetName] even though they are no majority in our lands. They are more than willing to fight for their beliefs and spread them outside of our borders.\n\nThe Sunni faith, on the other hand, is already a majority religion and is not part of any militant order. Still, a general desire to unify Islam exists within this branch, and it would be our task to carry the legacy of the Caliphates."
+	Line 2784:  per_the_islamic_teachings_desc:0 "Islam is a complicated religion. Many heirs of Muhammad - peace be upon him - claim the superiority of their teachings over those of their rivals, and eventually, the Islamic faith split into different branches. Only one path can be chosen, only one branch can be taken to reach spiritual enlightenment."
+	Line 3401:  flavor_geo.5.d:0 "In the realm of Georgian intellect and culture, one name stands tall, embodying the essence of enlightenment, literary brilliance, and a deep passion for preserving the heritage of a proud nation: Sulkhan-Saba Orbeliani. Regarded as a luminary of his time, Orbeliani's life and accomplishments have left an indelible mark on the tapestry of Georgian history. Orbeliani's written works, marked by their eloquence and depth, captured the essence of Georgian folklore, traditions, and the very soul of the nation. His masterful contributions to ethnography and folklore not only served as a testament to the richness of Georgian heritage but also played a pivotal role in preserving and revitalizing cultural identity during a time of external influences. How shall we honor this man?"
+
+\localisation\mandala_missions_l_english.yml (2 hits)
+	Line 163:  mnd_khm_enlightened_rule_desc:0 "The King is not simply a mortal man, but a beacon of divine enlightenment. We must ensure that the reach of the state is long enough to extend his enlightenment to all of our subjects."
+
+localisation\mandate_of_heaven_l_english.yml (10 hits)
+	Line 260:  confucian_events.1.a:0 "'Submit the people of virtue, assimilate the people with enlightenment.'"
+
+#enlightened ideals \modifers_l_english.yml (10 hits)
+	Line  330:  pru_enlightenment_reforms:0 "Prussian Reforms of Enlightenment"
+	Line  331:  desc_pru_enlightenment_reforms:0 "Prussia has embraced the New Ideals of the Age of Enlightenment - religious freedom, education, freedom of speech and political opinion."
+#spread of enlightened ideals "desc_spread_of_enlightenment_ideals:0 "Due to the spread of popular literacy the enlightenment ideals and the words of great philosophers are reaching an increasing number of our subjects.""
+
+\powers_and_ideas_l_english.yml (24 hits)
+	Line  620:  religious_orthodoxy_desc:0 "The foolish people who claim to the mantle of enlightenment fail to realize that true enlightenment can only come from the Bible. We will keep them from power and ensure that Denmark remains free.",
+#Benevolence=tolerance+enlightenment:"benevolence_desc:0 "Our nation is a bastion of tolerance and enlightenment. By ensuring that all other nations know this, we can foster better relations abroad."",
+"thu_weimar_clacissicism_desc:0 "The city of Weimar has become one of the great centers of the Enlightenment in Germany. Renowned writers and artists such as Goethe and Schiller now make Weimar their home. With such famous personages living here, we shall become famous throughout Europe as a center of learning and culture!"
+	Line 3669:  bti_haskalah_desc:0 "The Enlightenment is changing the courts of Europe forever and Jewish intellectuals have been playing an important part in this process. Let us integrate the Jewish Enlightenment in our society and reap the benefits of secularization, studies of the Hebrew language and Jewish history."
+	Line 4036:  greek_enlightenment:0 "Greek Enlightenment"
+	Line 4037:  greek_enlightenment_desc:0 "Our ancestors were great thinkers, statesmen and philosophers and their ideas remain strong foundations of stringent tought to this day. Let us combine our strong intellectual heritage with the new ideal of Enlightenment that has enveloped the courts of Europe. This will allow us to develop ideas of statehood and to reform the Greek language to fit the modern era."
+	Line 4256:  french_enlightenment:0 "French Enlightenment"
+	Line 4257:  french_enlightenment_desc:0 "French culture and French language is the carrier of the ideas of the modern age. As the enlightenment spreads from court to court so does the respect for all things French. It would be wrong, however, to presume that this is strictly a spread of Parisian ideas and values. As French becomes the language of all courts, books and plays our influence spreads worldwide with it."
+	Line 4548:  kub_journey_of_enlightenment:0 "Journey of Enlightenment""
+utr_enlightenment_masses_desc:0 "In this era of wonders, the education of our people is of paramount importance. Universities and schools are springing up from East to West. Let us embrace this knowledge for the betterment of Man."
+https://en.wikipedia.org/wiki/Kingdom_of_Simien: Kingdom of Beta Israel : semi-legendary Jewish kingdom said to have been located in the northwestern part of the Ethiopian Empire.,"In 1329, during Amda Seyon I's conquests, he campaigned in the northern provinces of Semien, Wegera, Tselemt, and Tsegede, in which many had been converting to Judaism and where the Beta Israel had been gaining prominence.[6]"
+bti_haskalah_desc is only in english.;
+
+\localisation\rights_of_man_l_english.yml (2 hits)
+	Line  937:  fetishist_flavor.402.d:0 "We have met a sage, dressed most humbly, who claims to be a monk following the teachings of the 'Buddha'. When we asked what this meant, he proceeded to tell us about a man who reached enlightenment. He later became known as the Buddha and he shared his wisdom of the Four Noble Truths with his disciples. They reveal how we as humans crave and cling to that which is impermanent, keeping us unsatisfied and trapped in an endless cycle of rebirth, but also how to reach liberation and enlightenment by following the Noble Eightfold Path."
+
+#enlightened ideals \localisation\scandinavia_l_english.yml (23 hits)
+	Line  360:  swe_multi_cultural_kingdom_desc:0 "Religious tolerance is one aspect. The tolerance between cultures is another one we should consider. If we want to be the beacon of enlightenment in this dark world we have to show that everyone is welcome in [Root.GetName] - regardless of their faith or their culture.",
+... #enlightened ideals #alternative to rights of man Line 1838:  teu_pru_prussian_enlightenment_desc:0 "The people of our land are no fools. They question the purpose of an absolute rule, the very idea of monarchies and theocracies. Some might fear these questions as they may indicate the end of their power. We, on the other hand, shall embrace the Enlightenment and justify our rule not by the mercy of the Lord himself, but also by logic and concsiousness."
+	Line 2154:  teu_pru_prussian_enlightenment_modifier:0 "Prussian Enlightenment"
+	 #alternative to rights of man Line 2155:  desc_teu_pru_prussian_enlightenment_modifier:0 "We have embraced the Enlightenment, and justify our rulership not through religion but through science, power and personality."
+	Line 2331:  liv_lva_construct_universities_desc:0 "The Enlightenment has struck the world. The masses are questioning the rule of the few. Science and education replaces religion in our socieity.\nIt would be wise to follow this trend and start constructing universities in our land for the Enlightenment."
+divinity_through_craftsmanship_reform_desc:0 "The theologians discuss the means of reaching divine enlightenment, but only few realize what truly brings us closer to the immortal realm. The act of creation is the only holy way to approach our maker."
+	Line 4397:  lit_jesuit_academy_desc:0 "No nation may pride itself as a torchbearer of knowledge and enlightenment without a robust center of tuition. To address that, the University of Vilnius was built in 1579, being the third oldest university in the regional vicinity. Originally founded by the Jesuits as an institution of higher learning, the faculty would later go on to host a variety of divisions including theology, humanities and philosophy."
+French:"la logique et le raisonnement.","les sciences, le raisonnement et sa propre personnalité."",German:"Logik und Vernunft","Wissenschaft, Macht und Persönlichkeit."",Spanish:"lógica y consciencia","ciencia, poder y personalidad."
+
+\localisation\sikh_l_english.yml (1 hit)
+	Line 36:  sikhism_flavor.4.d:0 "Guru Amar Das has left this world and passed the guruship to his disciple and son-in-law Jetha, now known as Ram Das. He will oversee the continued construction of our holy city and encourages followers to attain enlightenment not only through solitary meditation, but from actively engaging with the community and their fellow Sikhs."
+
+\localisation\text_l_english.yml: mahayana_religion_desc:1 "Mahayana is the most widely practiced branch of Buddhism. The goal of its adherents is to achieve enlightenment, possibly even achieve Buddhahood.\nIn the game only Dai Viet start as Mahayana Buddhist as many countries where it was dominant are instead categorized as Confucianist."
+	Line  921:  enlightened_despotism_desc:0 "In essence a political system where a nation is governed by an absolute ruler embracing the ideas of the Enlightenment."
+	Line 1801:  desc_obscurantism:0 "As a typical response to different kinds of problems, obscurantism was a frequent behavior in most nations at least until the Age of Enlightenment arose in the most advanced western nations of the European continent."
+enlightenment_movement:0 "Liberté, Egalité, Fraternité"
+
+\USA_dlc_l_english.yml: "usa_dlc.EVTDESC25:0 "'The First American', a title earned by the polymath Benjamin Franklin"..."Without Franklin's endless work and energy, the United States of America would be a lesser nation.""
+
+\eu4-ageofenlightenment-master\ageofenlightenment\common\institutions\00_Core.txt : start = { ... development = 20
+
+mods\eu4-ageofenlightenment-master\ageofenlightenment\localisation\ageofenlightenment_events_l_english.yml (1 hit)
+	Line   9:  disaster_republicofchina.1.d: "After the ideals of the European Enlightenment spread to China, the Chinese people grew tired of the ancient regime of dynastic rule in China. Today, they are up in arms, proclaiming their belief in the importance of establishing a \"Republic of China,\" with \"universal suffrage\" and \"liberty and equality for all.\"";
+
+\mods\eu4-ageofenlightenment-master\README.md : proto-Republic of China now can form in a disaster similar to the Revolution disaster
+
+\mods\FlavourEventsExpanded-master\common\event_modifiers\FEE_Enlightenment_Modifiers.txt : fee_enlightenment_coffee_house = { idea_cost = -0.05 } fee_enlightenment_not_enlightened_ruler = { stability_cost_modifier = -0.1 idea_cost = 0.05 } fee_enlightenment_enlightened_ruler = { stability_cost_modifier = 0.1 idea_cost = -0.05 } fee_enlightenment_grand_work_adm = { adm_tech_cost_modifier = -0.05 production_efficiency = 0.1 } fee_enlightenment_grand_work_dip = { dip_tech_cost_modifier = -0.05 trade_efficiency = 0.05 } fee_enlightenment_grand_work_mil = { mil_tech_cost_modifier = -0.05 army_tradition_decay = -0.01 navy_tradition_decay = -0.01 } fee_enlightenment_suffering_military_thought = { army_tradition_decay = 0.005 mil_tech_cost_modifier = 0.05 } fee_enlightenment_rationalist_trade_practices = { trade_efficiency = 0.01 }...fee_enlightenment_thinker_repressed = { global_unrest = -1 stability_cost_modifier = 0.10 legitimacy = -0.025 }...fee_enlightenment_academia_adm = { adm_tech_cost_modifier = -0.1 } fee_enlightenment_academia_dip = { dip_tech_cost_modifier = -0.1 } fee_enlightenment_academia_mil = { mil_tech_cost_modifier = -0.1 } #Scientific Revolution fee_enlightenment_technological_developments = { technology_cost = -0.05 } fee_enlightenment_development_empiricism = { idea_cost = -0.05 } fee_enlightenment_falling_behind = { technology_cost = 0.05 }
+
+#creating enlightenment mods\FlavourEventsExpanded-master\localisation\FEE_Genoa_Events_l_english.yml : "patronage of Shaykh Sidi Yahia ben-Idir, reached the ancient oasis of Tamantit in the heart of the Central Sahara. The whispered tales of the desert winds spoke of the shaykh's benevolence, guiding the intrepid explorer through the labyrinth of dunes. Under the sheltering palms of Tamantit, Antonio found not only respite but a treasury of knowledge. Merchants, their faces weathered by the sands, and Shaykh Sidi Yahia ben-Idir himself, a sage of the desert, unveiled the secrets of the Sahel and the enigmatic lands of Black Africa. The merchants' tales painted a vibrant mosaic of cultures-the rhythmic beats of drums in Sahelian villages, the intricate weaving of kente cloth in the hands of skilled artisans, and the vibrant marketplaces where colors and scents intertwined. The sheikh's wisdom narrated the customs and rituals of diverse peoples, each a thread in the intricate tapestry of Saharan and sub-Saharan life. Antonio, beneath the celestial dome of the Sahara, absorbed the wealth of information like the sands that shifted beneath his feet. Tamantit, a crossroads of trade and knowledge, became a sanctuary of enlightenment."
+
+mods\FlavourEventsExpanded-master\localisation\FEE_Korea_l_english.yml (1 hit)
+#accidental beginning of political enlightenment like Russia:	Line 41:  FEE_Korea_Events.9.D: "A number of Silhak scholars in the state apparatus have banded together in agreement over our recent westwards-looking policies. While they see Enlightenment science as a way of evolving their own empirical-based form of Confusianism, westernisation more than anything presents a path to marking out Korea as a historical entity of its own, not quite as tied to the traditions of its neighbors."
+
+#controlling as enlightenment ideal: FlavourEventsExpanded-master\localisation\FEE_Maya_l_english.yml (1 hit)
+	Line 12:  FEE_Maya_Events.3.D: "Nestled within the splendid city of Sotuta lies a repository of knowledge amassed over centuries, if not millennia. Here, the entire history of the Maya, from the dawn of the first light to the present day, is meticulously preserved and readily accessible to all our citizens. This renowned repository of knowledge, now unveiled, will serve as a beacon guiding us towards a brighter future. With this wealth of wisdom at our disposal, we are poised to elevate the grandeur of our people to unprecedented heights. No longer bound by the constraints of ignorance, we shall emerge as true Masters of the Water, harnessing the power of knowledge to shape our destiny and chart a course towards prosperity and enlightenment."
+
+#enlightened ideals FlavourEventsExpanded-master\localisation\FEE_Monuments_l_english.yml (2 hits)
+	Line 27:  FEE_Monuments_Events.7.D: "Borobudur was constructed between 778 and 850 by the Shailendra dynasty. From 1000 AD it was buried under ash and overgrown with plants when an English explorer re-discovered it in 1814. A team of Dutch archeologists restored the site between 1907 and 1911 and another restoration was finished in 1987. Built with around 2 million cubic feet of volcanic stone Borobudur encloses a small hill and is shaped like a stepped pyramid with three major levels, a square base, a middle level made of five square terraces and an upper level of three circular terraces totalling, in effect, 9 lesser sections as the number 9 is important in Buddhism. The center, rising 115 ft above the base, consists of a large stupa. Each of its three main levels represents a stage on the way to the Bodhisattva ideal of Enlightenment; as a symbol of this journey a visiting pilgrim begins at the eastern stairway and walks clockwise around each of the nine levels before reaching the top, a distance of nearly 3 mi. At the lowest level which is still partly hidden, there are hundreds of reliefs of earthly desires illustrating Kama-Dhatu or The Realm of Feeling, the lowest sphere of the Mahayana Buddhist universe. On the next level a series of reliefs show Rupa-Dhatu or the Realm of Form through the events of the life of the Gautama Buddha and scenes from the Jatakas which were stories from his previous lives. The upper level symbolizes Arupa-Dhatu or the Realm of Formlessness or detachment from the physical world. There is little decoration but lining the terraces are 72 bell shaped stupas, many still housing a statue of the Buddah partially visible through the opened stonework. During the Waisak ceremony which is performed once a year on the full moon thousands of saffron robed Buddhist monks walk in a solemn procession to Borobudur to remember the birth, death and enlightenment of the Buddah."
+
+\mods\FlavourEventsExpanded-master\localisation\FEE_Scotland_l_english.yml (3 hits)
+	Line 152:  FEE_Scotland_Events.31.T: "Scottish Enlightenment"
+ FEE_Scotland_Events.31.D: "While the focus on the continent is on the new wave of French and German thinkers, Scotland in the 18th century is experiencing a new age of cultural, intellectual, and scientific flowering of its own. In Scotland, however, there is much less focus on abstract and philosophical questions and pure reason and a more solid foundation of empiricism and a search for practical benefits to society. After all, who really cares how many angels can dance on the head of a pin? The strong network of universities, clubs, printing houses, libraries, museums, and societies that had grown up over centuries have already helped create a vibrant intellectual culture unmatched anywhere in the world. Royal patronage, however, would definitely be welcomed in solidifying Scotland's position as intellectual capital of the world."
+
+\FlavourEventsExpanded-master\localisation\FEE_Switzerland_l_english.yml (1 hit)
+FEE_Switzerland_Events.8.D: "The Bernoullis were an entire family of mathematicians, a scientific dynasty spanning a hundred years from the late 17th century. While originally from Germany, the family settled in Switzerland to escape religious persecution. \nThey were behind multiple discoveries within a range of mathematical fields, from probability to calculus. They also made important discoveries in physics, including Bernoulli's Principle, the principle that would later be used to develop the carburetor and the airplane wing. \n\nAcross three generations, the family gave rise to no less than eight prominent mathematicians."
+	Line  38:  FEE_Switzerland_Events.8.OPT1: "With thinkers like these, we will lead the enlightenment of peoples."
+
+enable_institution-note:v
+FlavourEventsExpanded-master\common\scripted_triggers\fee_scripted_triggers.txt : "# fee_province_does_not_lack_any_institution = yes
+# in province scope
+fee_province_does_not_lack_any_institution = {
+	if = {
+		limit = { is_institution_enabled = industrialization }
+		industrialization = 100
+	}
+	else_if = {
+		limit = { is_institution_enabled = enlightenment }
+		enlightenment = 100"
+
+FlavourEventsExpanded-master\events\FEE_Scotland_Events.txt :"#James Watt
+country_event = {
+	id = FEE_Scotland_Events.33
+	title = FEE_Scotland_Events.33.T
+	desc = FEE_Scotland_Events.33.D
+	picture = ADVISOR_eventPicture
+	fire_only_once = yes
+	trigger = {
+		OR = {
+			tag = SCO
+			primary_culture = scottish
+		}
+		is_year = 1700
+		any_owned_province = {
+			enlightenment = 100
+		}
+		any_owned_province = {
+			trade_goods = coal
+		}
+	}
+	mean_time_to_happen = {
+		months = 200"
+enable_institution-note:a
