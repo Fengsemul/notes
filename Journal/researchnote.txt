@@ -1,3 +1,15 @@
+Potentially lowest Market share in search engines-note:v
+2026.03.22/https://resourcera.com/data/search/search-engine-market-share/ : Search Engines	October 2025	October 2024:
+Google	90.04%	89.34% , ... , Shenma	0.01%	0.02%, Petal Search	0.01%	0.01%, Other	0.04%	0.04%
+(So I can't be Shemma nor Petal Search.);
+2026.03.22/https://gs.statcounter.com/search-engine-market-share#monthly-202502-202603 : Worldwide:	Google	bing	YANDEX
+Yahoo!	DuckDuckGo	Baidu	Naver	CocCoc	Haosou	Ecosia	Seznam	Qwant	Sogou	AOL	Petal Search	Other: Other: 0.05 0.04 0.05
+0.05 0.05 0.05 0.05 0.04 0.05 0.05 0.06 0.05 0.06 0.05
+
+
+
+Potentially lowest Market share in search engines-note:a
+
 2023-10-21: http://philsci-archive.pitt.edu/18326/1/may-bias-in-science.pdf
 
 https://citizentruth.org/objective-journalism-media-bias-media-history/
