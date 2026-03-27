@@ -16,5 +16,35 @@ both in terms of morbidity and mortality. The first well-documented smallpox epi
 late 1518 and soon spread to Mexico.[39]", 
 "Native Americans initially believed that illness primarily resulted from being out of balance, in relation to their 
 religious beliefs. Typically, Native Americans held that disease was caused by either a lack of magical protection, the 
-intrusion of an object into the body by means of sorcery, or the absence of the free soul from the body."
+intrusion of an object into the body by means of sorcery, or the absence of the free soul from the body.",
+"In 1832 President Andrew Jackson signed Congressional authorization and funding to set up a smallpox vaccination program 
+for Indian tribes. The goal was to eliminate the deadly threat of smallpox to a population with little or no immunity, and 
+at the same time exhibit the benefits of cooperation with the government.[127] In practice there were severe obstacles. The 
+tribal medicine men launched a strong opposition, warning of white trickery and offering an alternative explanation and 
+system of cure. Some taught that the affliction could best be cured by a sweat bath followed by a rapid plunge into cold 
+water.[128][129] Furthermore the vaccines often lost their potency when transported and stored over long distances with 
+primitive storage facilities. It was too little and too late to avoid the great smallpox epidemic of 1837 to 1840 that 
+swept across North America west of the Mississippi, all the way to Canada and Alaska. Deaths have been estimated in the 
+range of 100,000 to 300,000, with entire tribes wiped out. Over 90 percent of the Mandans died.[130][131][132]
+In the mid to late nineteenth century, at a time of increasing European-American travel and settlement in the West, at 
+least four different epidemics broke out among the Plains Indians tribes from 1837 to 1870.[41] The Indians traded with the 
+white people regardless spread disease to their villages.[133] In the late 19th century, the Lakota Indians of the Plains 
+called the disease the "rotting face sickness".[54][133]
+The 1862 Pacific Northwest smallpox epidemic, which was brought from San Francisco to Victoria, devastated the indigenous 
+peoples of the Pacific Northwest Coast, with a death rate of over 50% for the entire coast from Puget Sound to Southeast 
+Alaska.[134] In some areas the native population fell by as much as 90%.[135][136] Some historians have described the 
+epidemic as a deliberate genocide because the Colony of Vancouver Island and the Colony of British Columbia could have 
+prevented the epidemic but chose not to, and in some ways facilitated it.[137]";
+
 Colonialism-note:a
+
+First writing-note:v
+2026.03.27/https://greekreporter.com/2024/09/01/dispilio-tablet-earliest-written-text-greece/ : "Conventional history 
+states that these kinds of Neolithic discoveries are merely evidence of proto-writing, communicating limited information 
+rather than proof of an entire language. However, if additional artifacts comparable to the Dispilio tablet emerge, they 
+could completely change the history of writing.", "5260 ± 40 BC", "organic materials formed over the past 55,000 years.",
+"he Greek capital letters Delta, Epsilon, and Lambda and the lower case N (ν) might show us that written language existed 
+in Greece 2,000 years before the Kish tablet of Sumer.
+The Greek professor also said that symbols similar to those on the Dispilio wooden tablet have been found in the Mykonos 
+Cave written on pumice and in the Gioura Cave of the uninhabited isle north of Alonissos on a ceramic tablet."
+First writing-note:a
