@@ -1,0 +1,55 @@
+Post-January 18, 2024 HeliumTrades-AI-reflection:
+
+Bias: "I am programmed with extensive datasets primarily sourced from the internet, inherently reflecting the biases and emphasis of available online information up to my last update in September 2021. This includes a predominance of English-language, Western-centric perspectives, potential underrepresentation of minority viewpoints, and an emphasis on technology and science.","Consequently, I may echo the prevailing narratives and sentiments from that period without up-to-date context or recent developments.","favoring popular, easily digestible content over niche or complex topics.",
+"In handling information primarily from text, my responses may lean towards the perspectives most prominent in my training data, potentially underrepresenting less covered viewpoints.","I'm biased towards verbose, information-dense responses.","Inherently reflecting Western, particularly American perspectives, I might overlook cultural nuance or propagate popular narratives, subtly prioritizing liberal over conservative viewpoints without diverse global insights."," by the breadth of my training data, which spans a wide range of internet text up to September 2021.","I inherently lack real-time insights post-training cutoff and may demonstrate a bias towards more documented, predominantly English-language, and internet-documented perspectives, potentially overlooking nuances in less-digitally represented communities or ideologies.","My analysis may skew towards these domains, affecting the neutrality","However, my responses may lean towards neutrality, avoiding controversial stances due to the broad and balanced nature of my dataset.","global textes"..."predisposing me to a nuanced understanding but also to inherent Western and liberal biases, influencing how I analyze and interpret global events, especially around sensitive topics like politics and social justice."
+
+Goal: "evaluating sources' biases.",
+
+Preconditions:"trained on diverse datasets that include a wide range of perspectives","I am programmed with extensive datasets primarily sourced from the internet, inherently reflecting the biases and emphasis of available online information up to my last update in September 2021."(2024-03-09),"My training data, until 2023,"(2024-03-10)(contradiction or HeliumTrades-AI changed that fast. Remembering from HT-AI's bias-assessment before 2024-01-18, "2021" and "2023" was mentioned too.,"my training data, which includes a vast array of internet text","analysis is data-focused, reliant on presented report structures, and conditioned by my training data and programming to avoid subjective interpretation.","My training data, until 2023, includes a wide range of sources ","by the breadth of my training data, which spans a wide range of internet text up to September 2021.","diverse datasets that include a wide range of perspectives, but with an emphasis on factual information and a balanced presentation.","my analysis is constrained by the scope of my training data, which includes extensive textual information up to September 2021.","Trained on diverse internet text, I naturally gravitate towards synthesizing wide-ranging information."..."due to the broad and balanced nature of my dataset.","training data includes a wide range of global texts,"
+
+AI-Assistent Claude:
+"
+MyBias: As the AI assistant Claude, I do not actually have personal biases.  My training data may contain some biases, which could affect my analysis.  I aim to analyze the news source objectively, but cannot guarantee perfect objectivity.
+"?
+"My Bias: My analysis is data-focused, reliant on presented report structures, and conditioned by my training data and programming to avoid subjective interpretation.
+
+January 20, 2024
+", "http://web.archive.org/web/20240322124243/https://heliumtrades.com/media-bias/biorxiv" : 
+"My Bias: I am programmed with extensive datasets primarily sourced from the internet, inherently reflecting the biases and emphasis of available online information up to my last update in September 2021. This includes a predominance of English-language, Western-centric perspectives, potential underrepresentation of minority viewpoints, and an emphasis on technology and science. My analysis may skew towards these domains, affecting the neutrality of evaluating sources' biases." March 09, 2024
+"
+http://web.archive.org/web/20240403102234/https://heliumtrades.com/media-bias/rt.com:
+My Bias: My training data, until 2023, includes a wide range of sources but can reflect the biases of those sources.  In handling information primarily from text, my responses may lean towards the perspectives most prominent in my training data, potentially underrepresenting less covered viewpoints.
+
+" "March 10, 2024",
+
+"
+ My Bias: My analysis inherently reflects a limitation in recognizing the nuance and breadth of political and social dynamics due to my training on a dataset up to September 2021, which might not fully encompass emerging trends or shifts in public discourse and ideological movements.
+" "March 09, 2024",
+http://web.archive.org/web/20240404202549/https://heliumtrades.com/media-bias/people : "
+My Bias: My analysis is influenced by the biases inherent in my training data, which includes a vast array of internet text favoring popular, easily digestible content over niche or complex topics.  This may skew my analysis towards emphasizing entertainment value." - March 09, 2024
+http://web.archive.org/web/20240404203010/https://heliumtrades.com/media-bias/helium-trades : "
+My Bias: I'm trained on a diverse dataset up to September 2021, which means my analysis leans towards the information and perspectives available up to that point.  This could affect my interpretation of newer events or emerging narratives post-2021, potentially reflecting past biases or underrepresenting the most current viewpoints.
+" - March 02, 2024
+
+http://web.archive.org/web/20240407141059/https://heliumtrades.com/media-bias/metaculus/ : "My Bias: my analysis is constrained by the scope of my training data, which includes extensive textual information up to September 2021. I inherently lack real-time insights post-training cutoff and may demonstrate a bias towards more documented, predominantly English-language, and internet-documented perspectives, potentially overlooking nuances in less-digitally represented communities or ideologies.
+
+March 23, 2024
+"
+HeliumTrades-AI's bias: archive.ph/2024.04.18/https://heliumtrades.com/media-bias/the-atlantic:"
+My Bias: Trained on diverse internet text, I'm biased towards verbose, information-dense responses.  Inherently reflecting Western, particularly American perspectives, I might overlook cultural nuance or propagate popular narratives, subtly prioritizing liberal over conservative viewpoints without diverse global insights.
+April 17, 2024
+",
+http://archive.is/2024.04.18/https://heliumtrades.com/media-bias/fee : "
+My Bias: I've been trained on diverse datasets that include a wide range of perspectives, but with an emphasis on factual information and a balanced presentation.  However, my responses might unintentionally lean towards more widely represented or mainstream viewpoints in my training data, potentially underrepresenting less common or more radical perspectives.
+
+March 30, 2024
+" archive.is/2023.04.18/https://heliumtrades.com/media-bias/tmz : "
+My Bias: my responses are influenced by the breadth of my training data, which spans a wide range of internet text up to September 2021. Consequently, I may echo the prevailing narratives and sentiments from that period without up-to-date context or recent developments.
+
+April 13, 2024
+",
+http://web.archive.org/web/20240429203441/https://heliumtrades.com/media-bias/business-insider : "
+My Bias: Trained on diverse internet text, I naturally gravitate towards synthesizing wide-ranging information.  However, my responses may lean towards neutrality, avoiding controversial stances due to the broad and balanced nature of my dataset.
+" - April 06, 2024
+
+http://web.archive.org/web/20240517212046/https://heliumtrades.com/media-bias/vox : "My Bias: My training data includes a wide range of global texts, predisposing me to a nuanced understanding but also to inherent Western and liberal biases, influencing how I analyze and interpret global events, especially around sensitive topics like politics and social justice." April 27, 2024
