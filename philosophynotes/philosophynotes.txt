@@ -64,7 +64,16 @@ analysis to day-to-day work in science remains an open problem."
 ; 2026.05.17/https://academic.oup.com/chicago-scholarship-online/book/22217/chapter-abstract/182388235?redirectedFrom=fulltext : "Yet modern Western scientific secularism turns out to be just one of many existing 
 secularisms, each constituted within, and retaining distinctive features of, the religion with respect to which it is non-observant. After all, each religion marks the path of its own possible secularism(s) when it 
 specifies what counts as being observant."..."Thus secularisms, too, are culturally specific and often positive forces on the growth of scientific knowledge. Even religious and spiritual experiences, beliefs, and 
-interests need not be regarded as invariably damaging the reliability of the results of scientific research. This issue also has gender effects."
+interests need not be regarded as invariably damaging the reliability of the results of scientific research. This issue also has gender effects.";
+2026.05.17/https://link.springer.com/chapter/10.1007/978-3-031-68058-8_1 : "Baier writes: “What is the difference between trusting others and merely relying on them? It seems to be reliance on their good will toward 
+one, as distinct from their dependable habits, or only on their dependably exhibited fear, anger, or other motives compatible with ill will toward one, or on motives not directed on one at all. […] Trust is often mixed 
+with other species of reliance on persons. Trust which is reliance on another’s good will, perhaps minimal good will, contrasts with the forms of reliance on others’ reactions and attitudes” (Baier, 1986: 234)." (This 
+reminds me of 2026.05.17/https://www.researchgate.net/publication/328218175_Deep_disagreement_and_hinge_epistemology / https://anotepad.com/notes/247rrrty : p.24:"This sort of case should beintelligible on Wright’s picture of entitlement as rational
+trust. Wright himself maintains that entitlement to trust that p doesn’t entail entitlement
+to believe that p. Ipso facto, you shouldn’t believe that p if you’re only entitled to
+trust that p, for then you would be believing without any evidence or anything which
+indicates that p is true. So, cases where you trust that p whilst disbelieving p should
+be possible" as an attempt to answer Michael Pendlebury's question at p.19 in philpapers.org/archive/PENOVR.pdf with source:Startpage.com: ""distinguish between different kinds" "of commitments"" 2nd result.);
 Scientific objectivity-note:a
 
 1750 being exeptional-note:v
