@@ -88,7 +88,7 @@ Website informing free:v
 Website informing free:a
 
 Navigating with blocks-note:v
-2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test
+2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test with Blockie-extension blocking every category at Microsoft Edge. Blockie.net and broken Google-pages like Google-api-apges, broken pages and https://valerie-ai-detector.replit.app/ works still.
 Navigating with blocks-note:a
 
 claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : Germany and Austria denies direct access more than US.; 2025.11.27/cebm.net/covid-19/covid-cases-in-england-arent-rising-heres-why/ : 2020-08-02: "The potential for false-positives (those people without the disease who test positive) to drive the increase in community (Pillar 2) cases is substantial, particularly because the accuracy of the test and the detection of viable viruses within a community setting is unclear."; 2025.11.27/cebm.net/2020/09/should-covid-19-travel-quarantine-policy-be-based-on-apparent-new-case-rates/ : "reported case rates have a particular limitation: they are a statistic strongly influenced by testing policy."; 2025.11.27/healthevidence.org/view-article.aspx?a=efficacy-sars-cov2-vaccines-preventing-sars-cov-2-infection-systematic-review-52347 : SARS SRAS mistypo in their side.; 
