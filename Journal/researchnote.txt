@@ -91,6 +91,10 @@ Temp-mail-note:v
 https://tempgbox.net/ : gmail
 Temp-mail-note:a
 
+Chat-note:
+2026.06.18/wireclub.com/chat/room/private_chat_lobby
+Chat-note:a
+
 Navigating with blocks-note:v
 2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test with Blockie-extension blocking every category at Microsoft Edge. Blockie.net and broken Google-pages like Google-api-pages, some broken pages and https://valerie-ai-detector.replit.app/ works still.
 Navigating with blocks-note:a
