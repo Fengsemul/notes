@@ -87,6 +87,10 @@ Website informing free:v
 2025.12.03//website.informer.com/slzii.com : DE
 Website informing free:a
 
+Temp-mail-note:v
+https://tempgbox.net/ : gmail
+Temp-mail-note:a
+
 Navigating with blocks-note:v
 2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test with Blockie-extension blocking every category at Microsoft Edge. Blockie.net and broken Google-pages like Google-api-pages, some broken pages and https://valerie-ai-detector.replit.app/ works still.
 Navigating with blocks-note:a
