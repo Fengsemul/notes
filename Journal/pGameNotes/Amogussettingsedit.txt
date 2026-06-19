@@ -109,6 +109,10 @@ Vanish Duration: exact-Sel: 146-147:P8:255s,Fo:90s;
 2026-06-06: 23:05: Among Us North America English has most diversity in terms of settings in search-filters.
 Among Us-social-note:  
 
+Accuse Us-social-note:v
+2026.06.19: 07:43: White and rose accused me, the host and white is confirmed to be imposter. the imposter tried to lure influencers and act as a client
+Accuse Us social-note:a
+
 Among Us function-note: When I click and press alot in PC-Among Us both BlueStack and Steam-Among Us, I get role-screen earlier.
 2026.03.08: When I lock android-Samsung-phone at the screen where the big red visor makes a "Pssst"-gesture and android is host, then the imp can kill meanwhile game doesnt end till the host fully loads their role. I even got Guardian Angel as role:"Protect the crewmates" or something like that. At times earlier, when android has too bad connection, then their character is still there and doesnt left.;
 2026.04.09: When a 4th player joins, but that 4th player has blackscreen, then it's counted on everyone as 4 meanwhile the 4th player never sended a "joined"-message or are they visible.
