@@ -3,22 +3,31 @@ weak bugged phantom-imposter: 0s 255s Tracker in it: CZAAAAEAZA8AAQAAAAAAEEAAAAB
 Almost stealth-mode with blind crewmates:CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CEAAAEBAAAAAQIPAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B
 restricted statute mode: CZAAAAEAZA8AAQAAAAAAIDAAAAAAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAQAAAAAAAAABAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
 restricted statue with op-imposter-mode:CZAAAAEAZA8AAQAAAAAABACAAAAAAACgQAAAAiEAAAAAAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAPBQQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAAAAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
-more completed restricted statue with stronger imposter and weaker c.:CZAAAAEAZA8AAQAAAAAABACAAAAAAACgQAA5AAE/AA8AAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAAAAQAD2QDAAA/AAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAABAAKAAAAAwAAAA/8ygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
+more completed restricted statue with stronger imposter and weaker c. but 0.01 kill cd:CZAAAAEAZA8AAQAAAAAABACAAAAAAACgQAA5AAE/AA8AAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAAAAQAD2QDAAA/AAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAABAAKAAAAAwAAAA/8ygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
+0x version imp restricted statue mode with background game connection 0.01 kill cd: CoQAAAEAZA8AAQAAAAAABACAAAAAAACAAAA5AAE/AA8AAAAAAwIAAAAAAQAAAAAAAAABAgAJBQABZAMAAAAAAAIAAAACAAAAAAQAD2QDAAA/AAADAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAABAAKAAAAAwAAAA/8DAAAAAEAAAMSAAAAAQAADw== (after few trials, kill cd gets maybe automatically to 0.00...s kill cd.);
+except angel-cooldown completed statue mode:CoQAAAEAZA8AAQAAAAAABACAAAAAAACAAAAAAAA/AA8JAAAAAwIAAAAAPQAAAAAAAAABAgAJBQAAAAMAAAAAAAIAAAACAAAAAAQAD2QDAAA/AAADAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAAAAAwAAAA/8DAAAAAEAAAMSAAAAAQAADw==
 Free chat S.imp-weak-c:CZAAAAEAZA8AAQAAAAAABACAAAAAAACgQAAAAAA/AA8AAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAAAAQAD2QDAAA/AAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAABAAKAAAAAwAAAA/8ygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
 Caughting-Only-Imp: 19 short tasks no kill ss-imp:CZAAAAEAZA8AAQAAAAAAEEAAAABCAAAAAAAAAAAAABP/AAAAAQAAAAAAPQAAAAAAAQAAAwALBQABZAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wADAAAAAgAAAAAIAAAAAgAADwEJAAAAAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==
-blind crewmate 5.0x version 0.0...x kill cd imp: "CZAAAAEAZA8AAQAAAAAAEEAAAAAAAACgQAAB9CEAAAIAAAAAAQIAAAAAPQAAAAAAAAABAAALBQADZAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wADAA9kAgAAAAAIAAAAAgAADwEJAAAAAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
+blind crewmate 5.0x version 2026.03.08 still working below 0.01x: 0.0...x kill cd imp: "CZAAAAEAZA8AAQAAAAAAEEAAAAAAAACgQAAB9CEAAAIAAAAAAQIAAAAAPQAAAAAAAAABAAALBQADZAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wADAA9kAgAAAAAIAAAAAgAADwEJAAAAAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 kill cd: 10.5, Imp version: 1.4x, crewmate version: 0.9x: CXQAAAEAZA8AAQAAAAAAwD9kZmY/NjOzPwAAKEEBAQIBAAAAAQEPAAAAeAAAAAAPAAEAAAAHBQAAAAMAAAAACAIAAAACAAAPBQQAAAADAAAeEAADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B
 32x version for imp and crewmate, Only tasks, only sabotage: CXQAAAEAZA8AAQAAAL/1yD8AAABCAAAAQgAAAAAAAgAAAAAAAwAtAAAALgAAAAA8AAEAAAAHBQADZAMAAAEAAAIAAAACAAAAAAQAAAADAAAAAAADAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAA9kAwAAAP8A
 all equal caughting-imp, 7 short tasks, 5 common tasks:CZAAAAEAZA8AAQAAAL/16D8AAABCAAAAQgAAAAAFAAg///AAAQAtAAAAEAAAAAA8AAABAgALBQAAAAMAAAH/AQIAAAACAAAPBQQAD2QDAAAAAAADAA9kAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAAAAAwAAAP8AogAAAAAAAEIAAAAAAADwAAAAAAAAAAAAAAAAAA==
+No kill Among Us with 0s ss and 0s Trackers: CoQAAAEAZA8AAQAAAL/16D8AAABCAAAAQgAAAAAFAAg///AAAQAPAAAALgAAAAA8AQABAgAJBQADZAMAAAEAAAIAAAACAAAPBQQAD2QDAAAAAAADAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAA9kAwAAAAAADAAAAAEAAAMSAAAAAQAADw==
 15793980 emergency meetings, 255s cd, 102 Long Tasks, 134 Short Tasks, 255s protect-angel, 0 cd, ignoring viper detective, no kill: "CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAAAZoY///AAAQIAAAAAPAAAAAD/AAABAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAAAAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw==",
 ^ but powerless angel, 35s cd: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAAAZoY///AAAQIAAAAAPAAAAAD/AAABAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAjAAADAA9kAgAAAAAIAAAAAgAAAQAJAAAAAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw== , with 90 common tasks, 0s dissolve viper, 0 suspects: "CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAABaAIY///AAAQIAAAAAPAAAAAA8AAABAgAJBQAAAAMAAAABAAIAAAACAAAPBQQAD2QDAAAeAAADAA9kAgAAAAAIAAAAAgAAAQAJAAAAAgAAAP8KAAAAAwAADx4BDAAAAAEAAAASAAAAAQAAAA==", ^ but 18 short tasks, 3 common tasks, 1s Viper, 0 inv.,detective: CosAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAADABI///AAAQIAAAAAAaAAAAA8AAABAgAKBQAAAAMAAAABAAIAAAACAAAPBQQAAAADAAAeAAADAAAAAgAAAAAIAAAAAgAAAQAJAAAAAgAAAP8KAAAAAwAADx4BDAAAAAEAAAASAAAAAQAAAdIAAAAAAAA=
-15793980 emergency meetings, voting time 61s, useless roles, inf engineer, inf tracker, 134 short tasks, 90 long tasks, 90 common tasCoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAABaWoY///AAAQIAAAAAPQAAAAA8AAABAgAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAHgoPDAAAAAEAAAASAAJkAQAA/w==
-unnoticable useless role troll-setting: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAA3EECAAUJAAAAAwIAAAAAPAAAAAA8AAEBAAAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAFAoPDAAAAAEAAAASAANkAQAA/w==
+15793980 emergency meetings, voting time 61s, useless roles, inf engineer, del. tracker, 134 short tasks, 90 long tasks, 90 common tasks: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAABaWoY///AAAQIAAAAAPQAAAAA8AAABAgAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAHgoPDAAAAAEAAAASAAJkAQAA/w==
+15793980 emergency meetings,0killcd time 61s, useless roles, inf engineer, del. tracker, 134 short tasks, 90 long tasks,136 common tasks: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAACEWoY///AAAQIAAAAAAQAAAAA8AAABAwAJBQAAAAMAAAEAAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAHh4jDAAAAAEAAAASAANkAQAA/w==
+broken unnoticable useless role troll-setting                  : CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAA3EECAAUJAAAAAwIAAAAAPAAAAAA8AAEBAAAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAFAoPDAAAAAEAAAASAANkAQAA/w==
+broken unnotica. useless r. 0 kill cd-setting, 136 common tasks: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAAAACEAAUJAAAAAwIAAAAAPAAAAAA8AAEBAAAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAFAoPDAAAAAEAAAASAANkAQAA/w== /2026.02.26: I managed to get 132 common tasks by mongUsRevamped, then got 0s kill cd by ehr, then I have to manually change values by editing previous, since EHR resets to 30s kill cd..)
 0 kill cd, 5x imp vis, 32x c vis, 15793980 emergency meetings, 26 Common, 134 short, inf. eng, useless roles, 255s invisible, useless detective, 0s dissolve time: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAAIEECAAUJAAAAAwIAAAAAPAAAAAA8AQEBAAAJBQAAAAMAAAABAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAACgoPDAAAAAEAAAASAANkAQAA/w== > AB/w== makes 1s, ZZ/w= makes 255s
-1s voting time, 0 kill cd, 5x imp vis, 32x c vis, 15793980 emergency meetings, 26 Common, 134 short, inf. eng, useless roles, 255s invisible, useless detective, 0s dissolve time: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAAaAIY///AAAgIAAAAAAQAAAAA8AAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA9kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w==
+1s voting time, not 0 kill cd, 5x imp vis, 32x c vis, 15793980 emergency meetings, 26 Common, 134 short, inf. eng, useless roles, 255s invisible, useless detective, 0s dissolve time: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAAAaAIY///AAAgIAAAAAAQAAAAA8AAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA9kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w==
 cozy player-is-able-to-do-nothing-without-others-noticing-mode with 1s-dissolve Viper, 6 short tasks, 15 emergency meetings:CoQAAAEAZA8AAQAAAgAAwD8AAKBAAACgQAAAIEECAAYPAAAAAgIUAAAAEAAAAAAeAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA5kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAJkAQAAAQ==
 player-is-able-to-do-nothing-without-others-noticing-mode with 1s-dissolve Viper, 15 short tasks, 143 emergency meetings:CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAAcEECAA+PAAAAAgIUAAAAEAAAAAAeAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAA5kAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAANkAQAAAQ==
-Troll and Strategy-settings: 3 imps, kill cd:87912161000.0s,crew version:32.0x,0s acid cooldown:"CoQAAAEAZA8AAQAAAAAA4D8AAABCAACgQAAAA1AZAAABAAAAAwI7AAAAAQAAAAAyAAABAQAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAAAAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAANkAQAAAA=="
+Troll and Strategy-settings: 3 imps, kill cd:87912161000.0s,crew version:32.0x,0s acid cooldown:"CoQAAAEAZA8AAQAAAAAA4D8AAABCAACgQAAAA1AZAAABAAAAAwI7AAAAAQAAAAAyAAABA/AJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAAAAEDAAAAAgAAAAAIAA9kAgAAAAEJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAANkAQAAAA=="
+unmoveable Accuse Us Revamped with 2s Voting Time, 4 tasks each, 0.1x Vision, lots of emergency meetings:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAAEBAQ///AAAwE8AAAAAgAAAAAAAQABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAAAADAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
+unmoveable Accuse Us Revamped with 3s Voting Time, 0.1x Vision, lots of emergency meetings,no confirm ejects,kill distance:short,15 useless angels:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAADBQU///AAAwA8AAAAAwAAAAAAAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
+unmoveable Accuse Us Revamped with 2s Voting Time, 0.1x Vision, lots of emergency meetings,no confirm ejects,kill distance:short,15 useless angels,black taskbar:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAADBQU///AAAwA6AAAAAgAAAAAAAAABAwAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
+
 
 almost stealth-mode: 65 emergency meetings:"CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CEZA/ZBAAAAAQIAAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
 89 Short task, 103 long tasks, 5 common tasks : CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CZZZwXpAAAAAQIAAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B
@@ -34,19 +43,28 @@ undefined task-bar means inactive taskbar: "CZAAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB
 part of i. s.-m.: Tracking Cooldown: 255s, Tracking Duration: 254s : "CZAAAAEAZA8AAQAAAAAAAD8AAAAAAAAAAAAAAAAAZwA/AAAAAQIAAAAAAQAAAAAAAQABAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAA//4AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 0 emergency, 0 kill cd, 15 trackers, 1.0x Player Speed, 3 ss, more sensational no-meetings-game: "CZAAAAEAZA8AAQAAAAAAgD8AAKBAAACgQAAAAAAAAgAAAAAAAQIAAAAAAQAAAAA8AAEBAAALBQADZAMAAAEAAAIAAAACAAAAAAQAD2QDAAA/AAEDAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAA9kAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 
-Voting Time: after 57 sel.:1s: "Q",
+Voting Time: after 57 after-Sel:  1s: "Q",
+Voting Time in AmongUsRevamped: after-Sel: 56: 3-digits: 1s:AQ,2s:Ag,4s:BA,BQ:5s,Bg:6s,Cg:10,
+Voting Time in AmongUsRevamped Quick Chat: after-Sel: 56: 3-digits: 
 
-Discussion Time: after 51 sel.: B:1s,P:15s,e:30s,t:45s,7:59s,8:60s,9:61s
+Discussion Time: after 51 after-Sel:  B:1s,P:15s,e:30s,t:45s,7:59s,8:60s,9:61s
 
 
 letter changed away from voting time, 128 short tasks, 102 long tasks, minus voting time: "CZAAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAooAArAArAQAAAgALBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA=="
 
 (AQ 1s,Ag 2s,Aw 3s vote);(sequence: ABC...abc)
+
+Common tasks: after after-Sel: 36: 4-digits: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAA">"yEGE"
+136 common tasks, 0s kill cd: CoQAAAEAZA8AAQAAAAAAAEAAAKBAAACgQAAA>AACE
+
 kill cooldown in slot after 36 Selected symbols:60s:"CHMAAAEAZA8AAQAAAAAAgD8AAIA/AACAPwAA>cE<IAAwE,10s:/AACAPwAA>IEE<AAwE,57.5s:Zk,55s:XE
-"AAB":0s:Aa,aa,AB,BB,0B,B9C: close 0 but rigged to minus, 0.0...: AiE, "B2C":38911100000000000000.0s,"B3C":167121900000000000000000000000.0x also works similar the same in player speed.,B3D:1617121900000000000000000000000.0s same as "B3C" 10s default cooldown runs down yet no kill. Button just turns less transparent for 100 miliseconds or so and then reverts back.,"A2C" 37758180000000000000.0s doesn't kill., "A1C" 8791261000.0s works and shows 214 then below 748 then below 364
+"AAB":0s:Aa,aa,AB,BB,0B,B9C: close 0 but rigged to minus, 0.0...: AiE, "B2C":38911100000000000000.0s,"B3C":167121900000000000000000000000.0x also works similar the same in Player Speed.,B3D:1617121900000000000000000000000.0s same as "B3C" 10s default cooldown runs down yet no kill. Button just turns less transparent for 100 miliseconds or so and then reverts back.,"A2C" 37758180000000000000.0s doesn't kill., "A1C" 8791261000.0s works and shows 214 then below 748 then below 364.;AAE:0.00...s
 Patterns with A in beginning being probably closer to 0.,						   1617121900000000000000000000000.0
 2026.02.18: +++ = roughly -15536150000 0000 0000 0000 00.0s counts as 0s and increases common tasks alot.,zzz:0.03
 
+Kill distance: after-Sel: 50: A: short, 
+
+Taskbar: after-Sel:  69:g:Never,Q:Meetings,A:Always,/:Taskbar stuck
 emergency meetings: "CXQAAAEAZA8AAQAAAP3/vz8AAABCAACgQAAANEMAAQZZZAAAAQAeAAAAHwAAAAAAAAEAAAAHBQAAAAMAAAEBAAIAAAACAAAAAAQAAAADAAAeAAADAAAAAgAAAAAIAAAAAgAAAAEJAAAAAgAABAAKAAAAAwAAAP8A"
  > ZZZ = 25689,+++=63678,/// = 64767,after & replacing ZZZ is ////=15794180,/////=-large numbers
 2025-09-25: CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAEEAZoY///AAAQIAAAAAPAAAAAD/AQABAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAAAAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw==" < "///" as 15793980 emergency meetings,
@@ -56,14 +74,17 @@ maybe "CXQAAAEAZA8AAQAAAL/1yD8AAABCAAAAQgrXIzwAAQ////AAAQAAAAAAAQAAAAA8AAEAAAAHB
 Emergency cooldown: 127s : CoQAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAPAAAAAB/AQAAAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw==
 255s:  "normalHostOptions": "CoQAAAEAZA8AAQAAAAAAQEAAAABBAACgQAAB9CYAZoAHAAAAAQIAAAAAPAAAAAD/AQAAAgAJBQAAAAMAAAAAAAIAAAACAAAPBQQAD2QDAAAA/wEDAA9kAgAAAAAIAAAAAgAAAQAJAAFkAgAAAP8KAAAAAwAADx4BDAAAAAEAAAMSAAAAAQAADw=="<"D/"
 
-Imposter version 0.02:"CXQAAAEAZA8AAQAAAAAAgD8AAIA/AADAPAAAcEIBAQIBAAAAAQEPAAAAeAAAAAAPAQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
-Crewmate version (after Sel: 25): 32.0x: "ABC" at "CoQAAAEAZA8AAQAAAAAAAEAAAABC,
+Imposter version (after after-Sel:  31): 0.02:"CXQAAAEAZA8AAQAAAAAAgD8AAIA/AADAPAAAcEIBAQIBAAAAAQEPAAAAeAAAAAAPAQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
+Crewmate version (after after-Sel:  25): 32.0x: "ABC" at "CoQAAAEAZA8AAQAAAAAAAEAAAABC,
 
-Common tasks (Sel:38):AC:2,AZ:25,CA:128
+Common tasks (after-Sel: 38):AC:2,AZ:25,CA:128
 
-Player speed: 0.91x:"CZAAAAEAZA8AAQAAAAAA>aD8<AAAAAAAAAAAAAAAAA/wD/AAAAAQIAAAAAAQAAAAAAAQEBAwALBQAAAAMAAAAAAAIAAAACAAAPBQQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==",
+Player speed: after-Sel: 17: 5-digits: 0.91x:"CZAAAAEAZA8AAQAAAAAA>aD8<AAAAAAAAAAAAAAAAA/wD/AAAAAQIAAAAAAQAAAAAAAQEBAwALBQAAAAMAAAAAAAIAAAACAAAPBQQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAAQAJAAFkAgAABAAKAAAAAwAAAP8AygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==",
 B9C:-9059697000.0x reverse directions like kill cooldown, very fast at local, being kicked in online, 0.00x:IDA,5AA from 2024 Among Us, 0.63x:ID8,1.16x:"AlD"
+
 https://likefuss.itch.io/among-us/download/eyJleHBpcmVzIjoxNzU1MjU2ODQ1LCJpZCI6MzY1MzI2OX0%3d.q%2fM78IkbpIQryPARIfJ7HHdUU9w%3d , https://www.4shared.com/rar/TlnkVOTQfa/Among_Us.html , https://gofile.io/d/6dfo1o  for .rar and 2025-08-01: https://torbt.cz/search/among%20us for both new AmongUs.rar 2025-05-11; 2025-05-11: https://limetorrents.torrentbay.st/search/all/among-us//3/ for 2024 Among Us-file-download too.
+
+Shapeshift cooldown: after-Sel: 83:A:0,B:1s,F:5s
 
 Viper: 0s AA at last causes crash when report. 255s acts like 0s with every player except Host and maybe other random ones and or imposters by causing an error to leave game. Only when that setting in played out my multi-alts or awhile, will it work.
 
@@ -71,13 +92,197 @@ Tracking Cooldown:1s Delay: 0s, Duration: 152s "CZAAAAEAZA8AAQAAAAAAAD8AAAAAAAAA
 A/8:Tracking Cooldown: 0s, Tracking Delay: 252s Tracking Duration: deleted
 Tracking & Invisibility's highest discovered stage with 0 cooldown/s:"AP8"
 0s Tracking duration = infinite
+Tracking cooldown: after-Sel:  156:Hi:30s,Iy:35s
+Tracking duration: after-Sel:  157: 2 digits: go:10s,30s:h4, 
+Tracking Delay: after-Sel:  159: p:10s,e:30s,j:35s
 
-Protection Cooldown (after Sel: 106):BQ:80s
+Protection Cooldown (after after-Sel:  106):BQ:80s
 
 2025-09-25: Phantom with 0s cd on swift cause player's crash. I thought it didn't till I checked 255s vanish duration comapred to 0s.
-Among Us-social-note: GMT 2025-05-30 00:31: Playing in individualistic steal-mode at v16.0.3a in BlueStacks, imposter never unrevealed their invisibility. Even 1x with tracker, which fewer players left than in no-tracker-i.-s.-m., which with 3 players, both imposter & crewmate left except me as host. 2025-05-31 20:35: At The Fungus-map after me and 1 afk-player in total 1 imposter and 2 crewmates I think because absense of players in my view during sabotage, imposter revealed themselves, leading to crewmate-victory.
+Among Us social-note: GMT 2025-05-30 00:31: Playing in individualistic steal-mode at v16.0.3a in BlueStacks, imposter never unrevealed their invisibility. Even 1x with tracker, which fewer players left than in no-tracker-i.-s.-m., which with 3 players, both imposter & crewmate left except me as host. 2025-05-31 20:35: At The Fungus-map after me and 1 afk-player in total 1 imposter and 2 crewmates I think because absense of players in my view during sabotage, imposter revealed themselves, leading to crewmate-victory.
+Vanish Duration: exact-Sel: 146-147:P8:255s,Fo:90s;
+2026.03.15: MEU: 12:10-12:23: Crewmates almost lost as 3 last men standing to the last of 3 imposters by lvl 1 imposter with no roles and basic Among Us setting in Revamped.
+2026-03-31 UTC 01:30: 
+2026-04-27: 17:30: Germans dont like unmoveable Accuse Us.
+18:20 European Other / practically Turkish Among Us crashes before start mostly. Even when Host has no mod.
+2026-04-27: 18:24 After Vio left, game crashed with 15 players on my unmodded android. Vio and some loners at time (ppl who are only with me and no other players) ask how I did it.
+2026-06-06: 23:05: Among Us North America English has most diversity in terms of settings in search-filters.
+Among Us-social-note:  
+
+Among Us function-note: When I click and press alot in PC-Among Us both BlueStack and Steam-Among Us, I get role-screen earlier.
+2026.03.08: When I lock android-Samsung-phone at the screen where the big red visor makes a "Pssst"-gesture and android is host, then the imp can kill meanwhile game doesnt end till the host fully loads their role. I even got Guardian Angel as role:"Protect the crewmates" or something like that. At times earlier, when android has too bad connection, then their character is still there and doesnt left.;
+2026.04.09: When a 4th player joins, but that 4th player has blackscreen, then it's counted on everyone as 4 meanwhile the 4th player never sended a "joined"-message or are they visible.
+2026.04.26: Skield: Not everyone is equally at emergency button-reach.
+21:04: Top, left reaches button.
+2026-06-06 23:09 0s Kill-Button leads to kill when changed by Among-Us-Revamped-settings.
+
+Among Us Revamped function-note:v
+2026.04.26: Quick Chat: 0x Player Speed STRMISS in Among-Us-Revamped can't move to another player while haunt as ghost. STRMISS makes hat more transparent like dead.
+20:55: Free Chat: Game Master is alive, has no task and is blind like the rest. Game-Master at winning comdition counts as crewmate.
+20:58: Now Game-Master is a ghost. Still can't hunt.
+21:00: After switching map, Game Master is alive with None-task.
+21:01 Switches to Polus and Game-Master is dead.
+21:09: After auto-pressing emergency button at MIRA HQ: Top couldn't press. Button is on 50% below.
+21:10: After auto-pressing emergency button at Polus: Emergency button is too far from left and right. All 4 players spawn at left.
+21:11-21:12: After auto-pressing emergency button at Airship: doesn't react when choosing location lately, so no option.
+21:13: After auto-pressing emergency button at Fungle: Only top has access to emergency button. Bottom spawned too far.
+2026-06-06 23:06 0s Kill-Button leads to kill after 2nd round at least when changed by Among-Us-Revamped-settings.
+Among Us Revamped function-note:a
 
 error: CZAAAAEAZA8AAQAAAgAABACAAAAAAACgQAAAAiEAAAAAAAAAAQIAAAAAAQAAAAAAAAABAgALBQABZAMAAAAAAAIAAAACAAAAAAQAAAADAAAA/wEDAAAAAgAAAAAIAAAAAgAAA">"A"<"AJAAAAAgAABAAKAAAAAwAAAA/8ygAAAAAAAEoAAAAAAABmAAAAAAAAxkAAAAAAAA==" makes main character spawn at above lobby room & loads game without end. "A" supposed to make noiser 0s. 2025-06-02 17:39:Idk what makes game broken. I press play but screen goes darker. It´s an account-issue I guess. Still weird that my character spawned above. 2025-06-02 17:51: I noticed itch.io being down. 18:13 some itch-account-bug. Idk. It works now. 18:5: Above-lobby-spawn occurs because at "same time" as I create local lobby, the game requests connection.
 itch:2024-06-06:3Dml26z8eqGeNymuxeDCnjOJzXOt5ImuundIIrK6 ; 2025-06-02 removed: pEdYCVgwVhErNXFZ8arr2zzt9fqqNjiImv7z8nDH
 
 EHR: 2025-09-23: When VoodooMaster-Host presses kill on another VoodooMaster, then host's game crashes. Fragile-AddOn works on Host.
+2026-02-20: Adding Dictator-role in almost-death-setting which gets killed when not voting leads to game not loading sometimes. Sometimes it gets "Error, Report to Host!!" in character's head and end screen.
+2026-02-20: Better Among Us can disable sabotage, yet it only works private.
+2026-02-26: Killing machine is stronger like bypass shields, bait, & beartrap. Also in EHR. Yet host and player as killing machine can press meeting but not sabotage. When the killingmachine after presses emergency, then 3 players are kicked and game disappears for one meanwhile another stuck on darscreen-lobby-state, so idk of game really dissolved. When ejecting non-imp after imp presses emergency meeting, then game doesnt end after imp or host left of error. It ended when someone left.
+2026-03-08: When all "Fix Lags", "Remove pets by dead players" & "Fix Lags" are disable, "/color" is enabled, forcing players to get certain pet maybe, and host at safety clothes himself as banana, then everyone is bananaman. Name mode can be changed to color-name too. It isnt Shields-Animation: off. Name changing doesnt work, yet it seems to be related with commands dis-/enabling like a name that after choosing name-m9ode to color lead to random names after I enabled and then disabled /name. And if I let Host's popup open. I realized that maybe because of the start-skip-mods or else, I lost start-popup.
+2026-02-22: AmongUsRevamped works on normal public. When all tasks are disabled, "No Game End" is enabled and imposter presses emergency button, then crewmate wins.
+2026-02-23: https://github.com/astra1dev/AUnlocker : Removes the following restrictions that apply to guest accounts:
+Not being able to set a custom name, Quick Chat Only , No limits on game host options (e.g. amount of impostors).,
+2026-01-03:Medic has fake tasks. According to description, he has to use shield and after it got broken, he can do tasks. Can be set to 0s. Medic got blackscreen. I turned Chat:On. Chat was off after meeting. 2-players-game. After shielding awhile, tasks weren't fake for iPhone-user.,
+2026-03-15: PRESET 1 has host as "Banana Banana", meanwhile other players have just "Banana" from other's perspectives sometimes. There's no "Fix Lag",no "Prioritize Performance","Don't Update Dead Players to Improve Performance", disable emojis in name, but Players can use the /color command.
+AnomgUsRevamped compared to ehr has "everyone has same tasks"-option., 2026.03.01: AUR tends to have same imposter at 4-player-game at least with "/endgame". (2026.03.02: Roles in post-"/endgame"-ended-games can be split more equally when that person who gets always imp leaves and re-joins game.) Bloodmoon still has 30 seconds kill cooldown. Same to Guardian Angel regardless of 0s. When killed by bloodmoon, then "You will die in" counts in minus-secs maybe because the delay of bloodmoon's kill is set 0s.
+2026.03.03: When everyone starts game as 3 crewmates except 1 and the 1 stays in previous "Imposter Disconnected"-screen, then they get imposter at least first try. Doesn't work. When host manages to get "GAME MASTER" as role-title, then Android gets Imposter the 2nd or 3rd time.
+2026.03.04: When Android has weak connection, then he can hit the from the other player's previous location's hitbox, like when crewmate stood at cafeteria, then moves away, but from the Android-imposter's device, he's still there and kill-button works despite BlueStack-crewmate being further away.
+2026-02-24: TONE: Vigilante can convert crewmates to madmates. Gangster can convert also Coven and maybe all imps. Killing machine is stronger like bypass shields, bait, & beartrap. Also in EHR.
+Las Monjas: Police and Thiefs. Squire can protect. TimeTravler after tasks completed triggers shield. Kid is immortal. They have no standard-Among-Us-region-options.
+Town Of Host Optimized: Killing Machine can bypass shields, bait, & beartrap. On local server, his emergency button don't register & reporting doesn't work. 3 Extra lifes. Overclocked. Madmate to original team. Fragile kills. Oblivious cant report bodies. If other non-mod people join, then host is banned for hacking.
+SuperNewRoles!!!!: Change Report Distance. Imp/Crew ladder cd. At airship, tasks at wall can disabled.
+https://among-us.net/en/mod/the-other-roles/:2025:"The Other Roles is currently one of the best MODs for Among Us, since it allows us to access to many roles in the same installation, which is ideal to save time. The only pack of MODs at the height of this today is Town Of Us"
+https://github.com/Mr-Fluuff/StellarRolesAU?tab=readme-ov-file#rogue-impostors :Team: Neutral Killers:"Impostor role into a Neutral Killer Role", "Changeling is a 'choose your fighter'-style Impostor role who behaves exactly like a vanilla impostor until they use their one-time use ability.","Undertaker can kill while dragging a body"
+NewMod Crewmate Cam Access (F2),
+TheSushiRoles: Vigilante kills like Sheriff with shots. Doesnt work.
+Zeo666/AllTheRoles: drunk, Button Barry "even during sabotages", "Giant is a gigantic Crewmate",Ruthless allows the impostor to kill through Medic shields, GA protection, Survivor vests & Veteran alerts.
+The impostor will still die if the Veteran is on alert., "Time Lord also has a Time Shield that they can use to protect themselves and the attacker will get rewinded by themselves","Medium is a Crewmate that can see ghosts","Mayor has a Vote Bank, which is the number of times they can vote. They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank","Medic"..."shield that will make them immortal","Vigilante"..."only one shot", Parallel MedBay Scan. Works multiple only when other players installed this mod.
+2026.02.25/https://github.com/astra1dev/awesome-among-us : List. I need extra client setting up with others having ImposterServer's version of region.json I guess to join, which is too unlikely for others expecting to set this up. Maybe with CrowdedMod.
+More Gamemodes-mod: v2.1.1 2026.03.15: You can disable zipline and gap platform and enable chat mid-game.
+
+2026-02-23: https://www.reddit.com/r/AmongUs/comments/186szjk/whats_the_best_way_of_grinding_beans_and/ : "Hide N Seek gamemode. Better for strategically managing the time that you will spend on the game due to the fact that each match there will have a max limit on how long they will last."
+https://www.youtube.com/watch?v=bsO52jBCi_s&t=9s : "impostor will get the high Xp numbers, so let’s say you want a specific person (or account) to get the most levels.", "Kill one person (if 4 in lobby) so they become a guardian angel. If you have more than 4 players, kill enough, but not too many people so the game doesn’t end. Once this is done, the angels spam protect a player, and the impostor will break the angel’s protections. Doing this gives XP. You’ll get an average of 24,000 XP per hour. Remember to be VERY CAREFUL when doing this because a game lasts for an hour maximum before it closes to inactivity."
+2026.02.23: XP: 4 players: 41 XP on losing imposter after task win. 60 XP on scan-task-doer. 49 Xp on red bluestack-task-doer.
+0 imp: 8 XP, only 1 imp: 7,6 XP, 7 XP with 0 tasks completed meanwhile losing imp got 6 XP, Force /endgame leading to "Imposter disconnected" on HideNSeek with short cooldown gave 100 XP. I think it doesnt matter if it's HideNSeek or not.
+2026-02-24: With No Game End, when Imposter presses emergency button, then crewmates win with 20 XP and imp with roughly 10 XP. when pressing as fast as possible like 15 seconds emergency cooldown, then its 11-14 XP for all. In a 4 player-game. Killing and reporting seems to have same effect.
+Even after killing all in No Game End, when imposter reports body after crewmates finishes tasks, dead crewmates win. When they didnt complete their tasks, no auto-win. With imp voting themselves after killing everyone, blackscreen appears. 94 XP for crewmates.,
+2026.03.01: As I started and we stuck at lobby screen and then I typed /endgame in AmongUsRevamped-Mod, all 4 players got 6 XP. Another standby-game, they all got 1 XP after staying 3 seconds or so before I send "/endgame".
+2026.03.02: 3 players making Admin Swipe makes no difference compared to Imposter when "Imposter disconnected". They all got 21-23 XP or so.
+When all ejects Imposter, crewmates get 40-46 XP meanwhile imposter gets 26 XP or so with 5s Energency Button and 15s Discussion Time.
+When imp kill all 3 in 1 second at beginning and then Host sends "/endgame", then all got 11-14 XP.
+2026.03.03: I heard that first game has XP-bonus. More XP but less beans compared to 3 others. Lvl 100 is max and doesnt show further XP increase.
+2026.03.04: AUR: Game End enabled: 73 XP for 60-100x too fast swiping and 1x bad-reading admin card-host-crewmate and 93 XP or so for others. Scan: When host adrupts scan 3-4x times ath 5th sec or so, then 68 XP. A 1x-finished one has 60 XP. Difference too marginal to matter.
+When imp lefts because error: 10-11 XP compared with 2 players at 4-player-game. I started lvl-100-host as lvl 51 or so and was either votekicked or got error immediately after I said:"I am above the law." My Lvl. 100 as Max player gets kicked regardless.
+2026.03.08: When imp kills 2 crewmates fast: 10 XP or so with the rest of the crewmates.
+2026-03-19: After 1 meeting, seeker kills instead misfires to suicide.
+2026-03-31: Force chat 1st round to see roles (experimental) makes host press emergency at start of game and then after 3 seconds ends meeting automatically
+
+Among Us Revamped-note:v
+2026.03.30/https://github.com/ApeMV/AmongUsRevamped/issues/9: "Found by https://github.com/ApeMV/AmongUsRevamped/blob/7da659af7b4e764a5fa3b0c4d62960ddbfccd255/Modules/CustomOptionsHolder.cs#L562
+
+dnSpy v6.1.8 (64-bit, -NET) -> AmongUsRevamped.dll -> AmongUsRevamped -> Options @0200000C -> Load() : void @06000062 -> 
+"Options.TaskPercentNeededToWin = IntegerOptionItem.Create(22996, Translator.Get("taskPercentNeededToWin"), new IntegerValueRule(30, 100, 5)".
+
+To change minimal value "30" in "Options.TaskPercentNeededToWin = 
+IntegerOptionItem.Create(22996, Translator.Get("taskPercentNeededToWin"), new IntegerValueRule(30, 100, 5)" via left-click "Edit IL instructions"-option, go to 
+Index: 1294, Offset: 143C, OpCode: ldc.i4.s, & change Operand to 0  to have "IntegerValueRule(0, 100, 5)".
+
+As the pattern of the IntegralRule, 30 is minimal percent value on 
+taskPercentNeededToWin, 100 is max percent value and 5 is how the number jumps after pressing the left- & right-arrows.  Changing Operand with "Show 
+Instructions in Hex Editor" led to disappearing all modded settings in interface except the vanilla-options & the buttons for said modded settings.
+
+I tested this setting with 0% TaskPercentNeededToWin,  5% TaskPercentNeededToWin, which behaves the same as 0%, disabled all tasks and 
+4 players. It results the same with crewmates winning tasks as vanilla & the message for some reason telling that the imposter won through sabotage.
+
+Here's how Endless Host mod came closest: I disabled all tasks. Everyone except 
+host and imposter can't move, press emergency meeting, can't report, they were stoned and in their perspective in one place in the north of emergency table in 
+The Skield. Host and Imposter could see all players standing around the table. The non-host-crewmates can then move after a meeting happens.
+
+Here's how I circumvented it in Endless-Host-Mod: I made every crewmate the 
+role: Medic, because on start of the game, the Medic got fake tasks and after they place a protection-spell on another player, then those fake tasks get real.
+
+History and rant: The "first Among Us" which came from Marcus's idea didn't even had tasks. Although you could say that mandatory wandering aimlessly at the 
+house is somehow a task. 2026.02.28/https://www.innersloth.com/the-original-among-us-game/ : Victoria T.: "THE ORIGINAL AMONG US GAME. Also known as 
+the real life game PuffballsUnited, Fortebass, and their friends used to play in college. This game, called Mafia (or Assassin), would ultimately be one of the 
+biggest inspirations for Among Us!", "many variations/versions/house rules for Mafia, but this is the one they ended up playing": "10 people playing and 2 
+Jacks, then you’ll need to add 8" (2 Jacks being more common than 1 implies that 2 jacks/imposters are the norm.), "Jacks are Impostor, so put in 1-2", "Assign 
+one room to be the designated meeting room.",
+Wander aimlessly until you die or find a dead body." Inspiration from Mafia. 
+Dead body was carried away. One shouted "Dead Body!" and everyone met.;
+2026.02.28/https://www.nintendo.com/us/whatsnew/among-us-dev-recounts-
+how-the-game-took-flight/ : "Among Us was Marcus’ idea based on a combination of a Mafia-like game he played as a kid and the movie, “The Thing.” 
+In the original game, you would draw a role card and roam around a house aimlessly while “the mafia” person secretly “killed” players by drawing a finger 
+across someone’s neck".,
+"That core of creating and reporting dead bodies is still present in Among Us, but we wanted to alleviate the need for an interesting house layout and boring 
+wandering, so we changed the theme to space and added tasks" (I argue the 
+core of Among Us is sussing to random players and along with it, interactivity.);
+Looking at 2026.02.28/https://tcrf.net/File:AmongUs_EarliestScreenshot.jpg: 
+"Tasks: None" as imposter having no pressure nor need to fake tasks and 
+2026.02.28/https://tcrf.net/File:AmongUs_EarliestScreenshot.jpg has a crewmate having "Tasks: None" too. I am wondering why Innersloth's game architecture at least is so fixated with forbidding hosts to have 0 tasks to that point, where adding 134 short tasks, 90 long tasks,136 common tasks with vanilla "normalHostOptions" as CoQAAAEAZA8AAQAAAAAAAEAAAABCAACgQAAAAACEWoY///AAAQIAAAAAAQAAAAA8AAABAwAJBQAAAAMAAAEAAAIABWQCAAAeAAQAD2QDAAAeAAADAAAAAgAAAAAIAAVkAgAAAAAJAAAAAgAAAP8KAAVkAwAAHh4jDAAAAAEAAAASAANkAQAA/w== and without settings-editing 1 short task is preferable rather than having no tasks at all required to win. You could say the same to me with being fixated with 0 tasks, yet we both agree to increase host's game settings and options and at least my 0-tasks-options-wish allows other's to have tasks except myself, and paradoxically disallowing Innersloth to disallow hosts to have a 0-tasks-game."
+2026.03.30/https://github.com/ApeMV/AmongUsRevamped/issues/8: "To get 0.0 kill cooldown in "None"/"Standard" as gamemode: Use the program called "dnSpy v6.1.8 (64-bit, .NET)" -> go "AmongUsRevamped.dll" -> "AmongUsRevamped" -> left-click on "FixedUpdateInGamePatch" -> at their text "bool flag5 = Main.NormalOptions.KillCooldown <= " replace "0" with the "Edit IL Instructions..." after holding left-click to the targeted numbers: ("25", "0.01") between "= " and "f" & replace them with "0" right to"if (flag5)
+						{
+							Main.NormalOptions.KillCooldown = ", "bool flag6 = Main.NormalOptions.KillCooldown != " & "if (flag6)
+						{
+							Main.NormalOptions.KillCooldown = ".
+
+I found this out by having "repo:ApeMV/AmongUsRevamped kill" in my GitHub-search-bar, scrolling till I saw the correlating numbers with "25", "0.01", & "2.5", then I looked at the title of this named "Modules/FixedUpdate.cs" (https://github.com/ApeMV/AmongUsRevamped/blob/7da659af7b4e764a5fa3b0c4d62960ddbfccd255/Modules/FixedUpdate.cs#L76), then I found name that was inside AmongUsRevamped.dll and had "FixedUpdate" along the lines. If the kill cooldown meanwhile you seeing "0.0s" in "GAME SETTINGS" after closing with "X" and re-open it with "EDIT" is still not 0, then it isn't 0 kill-cooldown."
+
+2026.04.09: GMT 20:04: 0 tasks works on speedrun till pressing emergency meeting.;
+2026.04.26/NumberOption_Initialize @020000A6 changed IL_F4: to 0f.;
+2026.05.02/Whne 900s vent Cooldown and Venting Time in settings, then only 132s.
+Among Us Revamped-note:a
+
+Among Us-Research:v
+2026.02.28/https://www.innersloth.com/the-original-among-us-game/ : Victoria T.: "THE ORIGINAL AMONG US GAME. Also known as the real life game PuffballsUnited, Fortebass, and their friends used to play in college. This game, called Mafia (or Assassin), would ultimately be one of the biggest inspirations for Among Us!", "many variations/versions/house rules for Mafia, but this is the one they ended up playing": "10 people playing and 2 Jacks, then you’ll need to add 8" (2 Jacks being more common than 1 implies that 2 jacks/imposters are the norm.), "Jacks are Impostor, so put in 1-2", "Assign one room to be the designated meeting room.",
+Wander aimlessly until you die or find a dead body." Inspiration from Mafia. Dead body was carried away. One shouted "Dead Body!" and everyone met.;
+2026.02.28/https://bsky.app/profile/fortebass.bsky.social : "Reposted by it forest
+‪Eniko Fox‬
+ ‪@enikofox.com‬
+· 9d
+it's very easy to succeed as an indie gamedev all you gotta do is get tens of thousands of followers, significant numbers of true fans, and then ship at least one game a year (preferably more)";
+2026.02.28/https://tecnobits.com/en/what-is-the-original-among-us/ : "its origins are humble. It started out as a local party game for mobile devices, with gameplay that was inspired by games from real life as the murderer and the detectives. This strategic game requires players to have skills such as deception and lie detection to be successful." (Contradicts the mafia-origin from Victoria T. maybe.), "concept of Among Us has been reproduced many times, but the original always stands out. The game has seen tremendous growth and development since its initial release. It has added new maps and tasks, improved its graphics and expanded its capacity to accommodate more players. However, what makes it truly unique to Among Us It is the social interaction and intrigue that is generated between players, elements that keep their original essence intact despite the passage of time and updates.",
+"simple premise: a group of up to 10 players serve as crew members of a spaceship, where impostors hide among them with the aim of end the rest of the crew without being discovered. Players can communicate with each other only during meetings, when they can discuss and vote to kick suspects off the ship.
+
+During the development of the game, each character can perform various assigned tasks in different areas of the ship such as the reactor, electricity or navigation. These tasks range from repairs and information analysis, to cleaning and other simpler tasks. If all tasks are completed, the crew members win the game. However, impostors can sabotage these jobs and kill crew members, creating an atmosphere of constant suspicion.", "interactivity of the game is another key factor in its popularity. Among Us is a game that focuses intensely on the interaction between players.", "Among Us's popularity has also been fueled by extensive online communities and streaming.";
+2026.02.28/https://www.bing.com/search?pglt=515&q=first+among+us&cvid=4d94fb17db05427bb77891b35063b5a7&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyMTM1ajBqMagCALACAA&FORM=ANNTA1&PC=U531 : Meta-description: "yberpost.co
+https://cyberpost.co › who-first-played-among-us
+Who first played Among Us? - CyberPost
+Jul 3, 2025 · So, the burning question: who first played Among Us? The answer is straightforward: the friends and inner circle of the Innersloth development team." (It isn't that straightforward. I think the inner circle of Innersloth has access first.);
+2026.02.28/https://www.gamedeveloper.com/art/early-i-among-us-i-character-concepts-depict-the-birth-of-the-bean : Lime instead white face-mask. Star- and circle-shape was option among with the established in year 2018, the bean-shape. "1.5 million concurrent players at the start of September, has led to Innersloth canceling its planned sequel";
+2026.02.28/https://www.vintageisthenewold.com/faq/who-first-played-among-us : "2020 spike
+
+According to Willard, Twitch streamer Sodapoppin first popularized the game on Twitch in July 2020."-en.wikipedia.org
+Was Among Us made by one person?
+Hi, I'm Forest Willard, co-founder and programmer at Innersloth. We're a team of four, mainly based in Washington state, and includes" Forest Willard Marcus Bromander, Amy Liu, and Victoria Tran. "We made the game Among Us, which is a multiplayer game about teamwork and betrayal in space!" nintendo.com, "live party game Mafia, and the science fiction horror film The Thing."-en.wikipedia.org;
+2026.02.28/https://www.nintendo.com/us/whatsnew/among-us-dev-recounts-how-the-game-took-flight/ : "Among Us was Marcus’ idea based on a combination of a Mafia-like game he played as a kid and the movie, “The Thing.” In the original game, you would draw a role card and roam around a house aimlessly while “the mafia” person secretly “killed” players by drawing a finger across someone’s neck.
+
+That core of creating and reporting dead bodies is still present in Among Us, but we wanted to alleviate the need for an interesting house layout and boring wandering, so we changed the theme to space and added tasks. The tasks changed several times in early development. Originally, the ship was always in crisis while the crewmates attempted to hold it together and Impostors could do tasks wrong to hinder players. We found this was too stressful and didn’t leave much time for detective work and informed meeting conversations.",
+"Among Us was originally so much smaller, so it only took about seven months to make. We started in November 2017 and released to mobile with only the local mode in June 2018. We got enough feedback from people who wanted to play but couldn’t get together. I added online support which launched on PC in September the same year.
+
+Our oldest fans will know, but the game was horribly buggy—and had even worse server issues than players saw recently—for several months afterwards. It was a lot of work, even with just a few thousand players, but because I managed it myself, I coded systems and developed workflows that make it easier to manage big groups by myself.",
+"I personally love the crewmate pet. I always have it on. And I try to be Cyan when I can.
+
+Marcus mixes up his cosmetics a lot, Victoria usually enjoys having the sticky note as hers, and Amy’s go-to is Yellow with the egg hat and space doggy.";
+2026.02.28/https://www.innersloth.com/among-us-2/ : Promises like Among Us. "primary addition for Among Us 2 is more complexity than just Crewmate vs Impostor. This should add a lot more replayability"
+2026.02.28/https://www.innersloth.com/news/ : scrolling down to "Load More" as the oldest: "August 17, 2018
+PC and Online Released!", second oldest:"August 25, 2018
+Among Us 2018.8.24 released!";
+2026.02.28/https://www.bing.com/search?q=Among+Us+beta+first+release&FORM=AWRE : "Global web icon
+kidzania.com
+https://dev-cms.kidzania.com › among-us-initial-release-date
+Beware of Common Mistakes When Checking the Among Us Initial …
+Aug 27, 2025 · In the case of “Among Us,” some sources incorrectly cite the mobile release date as the game’s initial launch, not recognizing that the PC version predates mobile availability by several months.";
+2026.02.28/https://tcrf.net/Prerelease%3AAmong_Us : "November 2017", "once a time limit in place, which was removed later on.", "crewmates are all slightly wider, and are one whole color each. The differently colored crewmates also have their visors colored, unlike the final game.", "Impostor originally put the knife away, instead of leaving it in the crewmate's oxygen tank.",
+"YOU ARE AN IMPOSTOR" instead of simply "IMPOSTOR", as well as lacking a red backdrop. The music cue was also taken from The Legend of Zelda: Twilight Princess", "Instead of the sound cue from Twilight Princess, the cue was taken from Civilization V, though still used as just a placeholder.", "When the game was originally being developed in November 2017, The Skeld, the game's only map at the time, was planned to constantly be in crisis, with Impostors as well as Crewmates being able to do tasks. According to Willard, one of the playtesters of the game, this was changed due to feeling too stressful, and not leaving much time for actual detective work.";
+2026.02.28/https://tcrf.net/File:AmongUs_EarliestScreenshot.jpg : (2026.02.28/https://tcrf.net/Prerelease%3AAmong_Us : alt="Christmas Crewmate? In September?"): Task: None (That's the earliest.)
+2026.02.28/https://sites.marjon.ac.uk/doughnut/2020/10/03/from-memes-to-millions-the-success-story-of-among-us/ : "June of 2018, It was based off of popular games  Town of Salem and Gmod’s Trouble in Terrorist Town, where the aim of the game is to figure out who the culprit is by using deductive reasoning before the culprit can kill off the rest of the competition. In theory it should have been a hit from the get-go, but with such an over-saturated market of similar games in the genre, gamers glossed over it and assumed it was just another half-baked indie game wanting to make a quick cash in. Although it did manage to retain a small yet loyal player base of less than 100 players, the games chances of success in the future were looking slim.",
+"Inner sloth, the 3 man development team" (Contraticts that it's 4 developers and ignores the pre-release in November 2017.);
+2026.04.08/ non-released answer to https://github.com/Gurge44/EndlessHostRoles/issues/562 :
+Nah I understand that. Thx for reading my issue. As far as I read : https://www.reddit.com/r/AmongUs/comments/15p4yj7/bring_back_public_modded_lobbies/ : "TL;DR Not being able to go public is mostly intentional, as Innersloth doesn't want people accidentally joining modded lobbies.
+They would like to add filtering tools to make finding modded lobbies easier, but for now they encourage sharing codes within communities." 
+So going to other lobbies and post game-code is better alternative than adding a Host-Only-Mod-filter at our searches? Innersloth developer Victoria's reason doesn't justify excluding consensual non-modded players from modded lobbies, but hey, it's their game, which is why they want to add filtering tools, yet didn't do it as in 2026-04-08.
+https://www.reddit.com/r/AmongUs/comments/1r855g0/tf_is_this_lobby/ reasons : VirusTLNR: "The framework full modded lobbies use to detect if everyone is on a modded client suggests that vanilla has nothing in place to check if the hosts client is fully vanilla or not.
+So innersloth would have to add In something that forces a client to reveal.its "identity" like.modded lobbies have to do with each other.
+This identity would then be shared on creation of lobby so the lobby list could be filtered. Similar stuff could be done for 18+, etc.. I guess they would be called filters or tags.
+But yeah right now it's impossible.",
+I wish that some Innersloth-developer would publicly say like: "Nope. Not in near future because match-making, mod-detection with degrees and anti-cheat-system would be more messy and too expensive." instead of a redditor but it's a reasonable defense at least and maybe I research bad.
+2026.04.19/https://github.com/Gurge44/EndlessHostRoles/releases?page=8 : "Today, August 22, is my birthday!", Aug 8, 2024: "today is the BIRTHDAY of this mod"..."exactly one year ago"
+Among Us-Research:a
