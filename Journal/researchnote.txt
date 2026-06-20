@@ -74,6 +74,10 @@ Found by assumingly bad search engine:v
 2025.12.05/activesearchresults .com : "Dates des jours fris ftes civiles et religieuses en France. ... jours fries Ftes civiles Ftes Catholiques Ftes Juives Ftes Mulsulmanes Calendrier Interactif Accueil Dates des jours fris Dates des jours Fris en ...  https://www.calendrier-jours-feries.com"
 Found by assumingly bad search engine:a
 
+boitho-note:v
+2026.06.20/https://www.webmasterworld.com/robots_txt/633-3-10.htm : "8:08 pm on May 5, 2005 (gmt 0) 10+ Year Member "boitho.com-dc/0.75 ( http*//www.boitho.com/dcbot.html )" came from 129.241.104.168. It specifically targetted disallowed files from robots.txt, ignoring all other pages. The info page says it's a distributed crawler, so just like my policy for the cronic robots.txt violater Grub, I banned the user agent and the entire IP block associated with the offending IP."
+boitho-note:a
+
 Search engine-list:v
 Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .com/report/smartsearchdirect .com : Rating : 3.5 Stars; 2025.12.15/generaldirectory .biz/smart,search,direct,more-16883.htm ;
 2025.12.15/daduru .com/internet/internet-search/ : < daduru .com/azooscom-internet-search-engine-3943.html > 2025.12.15/azoos .com ;
@@ -100,6 +104,91 @@ Navigating with blocks-note:v
 2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test with Blockie-extension blocking every category at Microsoft Edge. Blockie.net and broken Google-pages like Google-api-pages, some broken pages and https://valerie-ai-detector.replit.app/ works still.;
 2026.06.20/view-source:https://www.wiby.me/?q=test
 Navigating with blocks-note:a
+
+Internet-note:v
+2026.06.20/https://www.webmasterworld.com/foo/5131255.htm : 7:05 am on May 1, 2026 (gmt 0) : 
+Quite quiet in here, anyone know why?: "graeme_p
+9:10 am on May 1, 2026 (gmt 0) 
+WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month
+Welcome back! The world has changed in a few says and the site reflects that.
+Apps have replaced much of the web. People in a local Facebook group were complaining that the county has dropped the app 
+they had for reporting issues (e.g. potholes and similar things that need fixing) so you have to use the website (its a PWA 
+so can be pinned to your home screen, BTW) because its more difficult to navigate to a website (i.e. they are not used to 
+it). Virgin Money have closed their website and you have to use the app or go back to just paper statements etc.
+The web has got more complex and fragmented. There are back end developers and front end developers and various complex 
+frameworks within that. Browsers have become an entire app development platform.
+Front end developers write a lot less HTML, CSS and vanilla JS and focus on particular frameworks such as react. Then there 
+are the alternatives such as Typescript and WASM.
+On the backend people use a wider range of technologies. It used to be dominated by PHP and Perl. Now we have Python, Ruby, 
+Go, Node JS, and many others. As with front end, people know specific frameworks. I am planning my first substantial 
+project in Elixir myself. People use different web servers: Nginx is now the most popular, and there are others such as 
+Caddy that are pretty popular. People use a wider range of databases. MySQL is still very popular, especially with 
+Wordpress, but Postgres, SQLite, and various No SQL DBs are also pretty popular. All this usually gets hosted on AWS or 
+similar instead of your own server/VPS or shared hosting.
+I could go on, but I think I have made my point. The role of webmaster has gone, and generalists have been replaced by 
+specialists. If you look at the list of forums they do not really reflect what is popular now but what people who have 
+stuck around use. The advantage of that is that there is a great deal of experience and expertise in a lot of things. If 
+you have a problem configuring Apache or fixing a PHP bug this is a great place to ask. It is also a great place for more 
+general discussions.
+Incidentally there is nothing intrinsically wrong with the technology that looks a bit old fashioned. PHP is easy to 
+deploy, and generating HTML on the backend gives you faster loading than big front end frameworks. A server or shared 
+hosting does not tie you to a particular provider the way the hyperscaler clouds do and is a lot cheaper. Simplicity is 
+good and a lot of frameworks are bloated and unnecessarily complex." 
+(It reminds me of Terence McKenna claiming that as 
+time progresses, so does entropy and with it, more complexity, that time moves faster, that more events are happening, the 
+outward spreading of the universe, yet that's just like him a rationalist-sided worldview 
+ignoring the other physical laws that counter entropy. Terence McKenna is also critized by YT-comments for ignoring his 
+aging subjectivity about time's speed and that time seems to move faster because more humans exist and better record-
+technologies does. Entropy-law is also just high probability according to popular YT-
+video. Early-18th-century Newtonists believe that the universe decreases inwards with gravity. Late-18th-century-
+Lagrangianists believe in the universe expanding outwards with eletromagnetism.) ,
+"explorador 5:17 pm on Jun 10, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month":
+"I'm aware some topics never took off, and lots of people nowadays just want AI prompt like experiences: saying they want 
+to build something but they don't, they only want to say magic words and things should get built automatically, I'm talking 
+about pre AI times, and now it's worse.",
+"Kendo 2:12 pm on Jun 11, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month Yes. 
+Apparently in the US 7 out of 10 students are using AI for advice and 1 in 10 people are having an affair with an AI model. 
+There are many online dating and introduction services now populating their userbase with AI models to create interest, and 
+there are many that are pure AI - and no-one can tell the difference.",
+"explorador 3:03 pm on Jun 11, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month The 
+conversation is starting to go around AI, I can understand the context, as many are using it more and more (young and old). 
+I'm seeing signs of loneliness and isolation, people who don't exactly interact with others, people with no real friends, 
+people with too many fears to dare exposing their ideas to human appreciation or critic, people fearful of hearing 
+something they don't want to hear, I mean... some can listen to someone and spot hidden motives, hidden fears, or things 
+they should change <- I see people avoiding this. Due to work with university students, I have seen quite stupid claims and 
+conclusions: - Some quote the source, and the source it's not an institution or study, it's a search link (Google search 
+result) - Some quote AI as a source, not the study, not the book, but what the AI said - Some have quoted concepts that 
+DON'T EXIST, my native language is spanish, and I have seen precise cases of concepts and words that don't exist in 
+spanish, but somehow (yes, I checked myself) the AI said the RAE said it, and when you check their quote, yes, the RAE is 
+included, but RAE said nothing about it, it just appears there, or... it states an english word with some artificial 
+translation I had an issue with one student who said WOOD ISN'T FLAMMABLE. Explaining was futile, she constantly argued 
+back due to bad reading and poor use of search engines and AI. Yes, wood IS flammable, but she insisted, after several 
+attempts I gave up, after all, I was helping with the editing, not the concepts, and it's not my responsibility the other 
+side, and she just refused to listen. We know one of the guys in charge of the final evaluation and he thought saying wood 
+isn't flammable was actually stupid, but, the others said it's ok "wood it's not flammable, it says here based on this 
+study here" <--- what the hell? and because of the system, they didn't need unanimity for the final word of passed or 
+failed. So, we have a local architect 200% convinced that wood isn't flammable and it's not combustible.",
+"graeme_p 3:46 pm on Jun 11, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month:
+@explorador wood is not 
+flammable is quite something! A complete lack of critical skills. I am guessing the study would be something like "large 
+pieces of hardwood are below a particular standard of flammability using this particular measure".",
+explorador 4:48 pm on Jun 11, 2026 (gmt 0):
+"It takes doing, testing and confirming, to know you know, it's not about just reading something and getting the "feeling" you got it. Most times, these people don't talk about the topic anymore, or if they do, they post more questions, it's people who constantly asks questions."...
+"This has been discussed around here too, write for people, not for bots or SE's, but in general, there are limits, the 
+same limits that apply to people here having different websites or forum and (wisely) not using the same design for 
+everything, because content and form are both important.
+Dev forums (in terms of webmaster) are almost gone, if not gone at all. Now it's all FB, fanpages, social media, tweaking 
+the system, etc., very little about brick and mortar.",
+"Mark_A 9:45 am on Jun 17, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month: Indeed, 
+pages that rank well in G won't necessarily get used by AI, it is a different game.",
+"RedBar 10:31 am on Jun 18, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month:
+Absolutely, it can be quite strange 
+from where it pulls its references which, quite often, are erroneous for my widgets.",
+"Kendo 1:16 pm on Jun 18, 2026 (gmt 0) WebmasterWorld Senior Member 10+ Year Member Top Contributors Of The Month Indeed, 
+pages that rank well in G won't necessarily get used by AI, it is a different game. Yes and no. While I do find that AI 
+cites our solutions, they are still ranking well, sometimes further down the page or on the second page. I think that the 
+reason that others appear in between is because they pay for ads."
+Internet-note:a
 
 Extension-note: 
 
