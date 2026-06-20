@@ -76,7 +76,8 @@ Found by assumingly bad search engine:a
 
 Search engine-list:v
 Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .com/report/smartsearchdirect .com : Rating : 3.5 Stars; 2025.12.15/generaldirectory .biz/smart,search,direct,more-16883.htm ;
-2025.12.15/daduru .com/internet/internet-search/ : < daduru .com/azooscom-internet-search-engine-3943.html > 2025.12.15/azoos .com : 
+2025.12.15/daduru .com/internet/internet-search/ : < daduru .com/azooscom-internet-search-engine-3943.html > 2025.12.15/azoos .com ;
+2026.06.20/https://uadetector.sourceforge.net/modules/uadetector-core/apidocs/net/sf/uadetector/UserAgentFamily.html#BECOMEBOT
 Search engine-list:a
 
 Blog-note:v
