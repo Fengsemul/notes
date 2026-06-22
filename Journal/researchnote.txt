@@ -203,7 +203,10 @@ searchthis.ch wasn't present.;
 Internet popularity-note:a
 
 Extension-note:v
-2026.06.21/E.: "Refined Search Results" only needs the domain and TLD-domain to block subdomains aswell.
+2026.06.21/E.: "Refined Search Results" only needs the domain and TLD-domain to block subdomains officially, yet doesn't work.
+2026.06.22/ 00:00? C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\kmhlpeknclnafdbjdbbbhelolcfnfabi : 
+"excludeList["reddit.com"]",00:02 ExcludeList after adding quora.com: "excludeList["reddit.com","quora.com"]", 00:04: It gets longer 
+with ""medium.com"" & assumingly all domains.
 Extension-note:a
 
 claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : Germany and Austria denies direct access more than US.; 2025.11.27/cebm.net/covid-19/covid-cases-in-england-arent-rising-heres-why/ : 2020-08-02: "The potential for false-positives (those people without the disease who test positive) to drive the increase in community (Pillar 2) cases is substantial, particularly because the accuracy of the test and the detection of viable viruses within a community setting is unclear."; 2025.11.27/cebm.net/2020/09/should-covid-19-travel-quarantine-policy-be-based-on-apparent-new-case-rates/ : "reported case rates have a particular limitation: they are a statistic strongly influenced by testing policy."; 2025.11.27/healthevidence.org/view-article.aspx?a=efficacy-sars-cov2-vaccines-preventing-sars-cov-2-infection-systematic-review-52347 : SARS SRAS mistypo in their side.; 
