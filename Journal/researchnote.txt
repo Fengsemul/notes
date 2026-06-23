@@ -51,6 +51,11 @@ elements—20% more page elements than the least popular 100,000 sites in the mi
 complexity.)
 Internet popularity-note:a
 
+Top Websites-list:v
+2026.06.23/https://github.com/zakird/crux-top-lists/blob/main/data/global/current.csv.gz ; 
+2026.06.23/https://github.com/PeterDaveHello/top-1m-domains
+Top Websites-list:a
+
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
 evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?
 keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe 
