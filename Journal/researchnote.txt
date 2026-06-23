@@ -29,13 +29,26 @@ Domain search:v
 Domain search:a
 
 Internet-note:v
-2026.06.14/https://spinland.life/ : "Your new web server is ready to use."; 2026.06.14/https://wheredobabiescomefrom.com/ : Free Complex Answer Generator;
+2026.06.14/https://spinland.life/ : "Your new web server is ready to use."; 2026.06.14/https://wheredobabiescomefrom.com/ 
+: Free Complex Answer Generator;
+https://www.internetlivestats.com/total-number-of-websites/ : "There are over 1.5 billion websites on the world wide web 
+today. Of these, less than 200 million are active. The milestone of 1 billion websites was first reached in September of 
+2014, as confirmed by NetCraft in its October 2014 Web Server Survey and first estimated and announced by Internet Live 
+Stats (see the tweet from the inventor of the World Wide Web, Tim Berners-Lee). The number had subsequently declined, 
+reverting back to a level below 1 billion (due to the monthly fluctuations in the count of inactive websites) before 
+reaching again and stabilizing above the 1 billion mark starting in March of 2016. During 2016, the total number of sites 
+has grown significantly, from 900 million in January 2016 to 1.7 billion in December 2016. From 2016 to 2018, the level 
+has hold pretty much unchanged."
 Internet-note:a
 
 Internet popularity-note:v
-2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page complexity continues to steadily increase. The average number of page elements increased to 1437 per home page in February 2026—a 22.5% increase in only one year!",
-"There was a correlation between page popularity and home page complexity. The most popular 100,000 pages averaged 1,584 elements—20% more page elements than the least popular 100,000 sites in the million page sample (1,318 elements)."
-(It could imply with the 2026.06.21/Webaster's comment above that the HTTPS-world-wide-wed gets less popular due higher complexity.)
+2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
+complexity continues to steadily increase. The average number of page elements increased to 1437 per home page in February 
+2026—a 22.5% increase in only one year!",
+"There was a correlation between page popularity and home page complexity. The most popular 100,000 pages averaged 1,584 
+elements—20% more page elements than the least popular 100,000 sites in the million page sample (1,318 elements)."
+(It could imply with the 2026.06.21/Webaster's comment above that the HTTPS-world-wide-wed gets less popular due higher 
+complexity.)
 Internet popularity-note:a
 
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
