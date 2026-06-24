@@ -24,6 +24,9 @@ Via Browser (WebView-based mobile browser)
 ";
 Browser-note:a
 
+Archive-note:v
+web.archive-org/for old browsers: wayback-classic.net/ ; megalodon.jp, archive-ph; arquivo.pt ; [Um: 2026.06.24/webarchive.io; webzguru.net/blog/digital-marketing/10-reliable-wayback-machine-alternatives-for-accessing-old-websites-in-2025.html]
+
 Domain search:v
 [2026.06.11: https://tld-list.com/; namehero.com; domaintyper.com; instantdomainsearch.com . "domain availability across 800+ extensions"]
 Domain search:a
