@@ -63,6 +63,8 @@ complexity continues to steadily increase. The average number of page elements i
 elements—20% more page elements than the least popular 100,000 sites in the million page sample (1,318 elements)."
 (It could imply with the 2026.06.21/Webaster's comment above that the HTTPS-world-wide-wed gets less popular due higher 
 complexity.);
+2026.06.25/https://www.reddit.com/r/hacking/comments/1slrz1a/anyone_know_a_hackedpirated_list_of_the_top : "No need to look for pirated lists. Check out the Tranco List (tranco-list.eu). It's a highly respected research 
+project that provides a ranking of the top 1 million websites for free. It's much more accurate than the old Alexa rankings anyway." 8 Upvotes.;
 2026.06.25/https://www.reddit.com/r/SEO/comments/1n135xq/is_alexa_rank_still_being_used/ : "easily manipulated Alexa Rank was back "in the day". All one had to do literally is set up some "creative" redirects and funnel 
 traffic to certain URLs. Since it was a 301, Alexa themselves wouldn't be able to see the referrer. But they would still count it as traffic in calculating a website's Alexa ranking.
 Not that I ever tested that theory, though.";
