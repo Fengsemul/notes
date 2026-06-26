@@ -88,7 +88,20 @@ Top Websites-list:v
 2026.06.23/https://builtwith.com/top-1m ; 2026.06.23/https://github.com/DhaeyerWolf/domaincheck for checking same domains; 2026.06.23/https://github.com/tb0hdan/domains/tree/master/data . "Sorry, we had to truncate this 
 directory to 1,000 files. 518 entries were omitted from the list. Latest commit info may be omitted."
 Top Websites-list:a
+Top Websites summerized -folderv
+crux202102global202605countriesraw : crux202102global202605countries : BuildinCloudfaremajesteticmilions202605csv20161122StatvooTop1millionsitesTrancoeu2023vysecurityDomainFrontingLists20200223Statvoo20200223s3amazon0c7573mil20100623s3amazon20161122Statvoo : https://storage.to/pzGpPArWa ; 
+BuildinCloudfaremajesteticmilions202605csv20161122StatvooTop1millionsitesTrancoeu2023vysecurityDomainFrontingLists : https://storage.to/NPp5THaxh ;
+Buildinrawdomains : https://storage.to/DZxT52lnN ;
+https://storage.to/aN7hPxZs4 : builtwith-top1m.zip ;
+cloudflare-radar_top-1000000000-domains_20260616-20260623.csv : https://storage.to/5zRi2vWbO
+10milionwebpagesrawlist - 3.txt : https://storage.to/9eGRB6LM6
+10milionwebpagesrawlist Tampermonkey.txt : https://storage.to/4FZ3hSJC6 ;
+10milionwebpagesrawlist.txt : https://storage.to/KoTf1ieBd ; 10milionwebpagesrawlistBuiltin.txt : https://storage.to/0RnrMTjuf ;
+majestic_million.csv : https://storage.to/ArXtNQ4Uc
 
+
+
+Top Websites summerized -foldera
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
 evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?
 keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe 
