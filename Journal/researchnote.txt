@@ -72,7 +72,8 @@ Not that I ever tested that theory, though.";
 2026.06.26/https://github.com/zakird/crux-top-lists/blob/main/data/country/er/202104.csv.gz has 4 links  : "https://accounts.google.com
 https://www.bbc.com
 https://www.google.com
-https://mail.google.com" meanwhile https://github.com/zakird/crux-top-lists/blob/main/data/country/er/202605.csv.gz has 69 global mainstream links. "er" is Eritrea.
+https://mail.google.com" meanwhile https://github.com/zakird/crux-top-lists/blob/main/data/country/er/202605.csv.gz has 69 global mainstream links. "er" is Eritrea.;
+2026.06.26/ gr to hy at https://github.com/zakird/crux-top-lists/tree/main/data/country repeats their list from 202104, which only some folders have to 202605
 Internet popularity-note:a
 
 Top Websites-list:v
