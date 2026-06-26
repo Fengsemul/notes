@@ -68,6 +68,7 @@ project that provides a ranking of the top 1 million websites for free. It's muc
 2026.06.25/https://www.reddit.com/r/SEO/comments/1n135xq/is_alexa_rank_still_being_used/ : "easily manipulated Alexa Rank was back "in the day". All one had to do literally is set up some "creative" redirects and funnel 
 traffic to certain URLs. Since it was a 301, Alexa themselves wouldn't be able to see the referrer. But they would still count it as traffic in calculating a website's Alexa ranking.
 Not that I ever tested that theory, though.";
+2026.06.26/https://github.com/zakird/crux-top-lists/blob/main/data/country/cx/202603.csv.gz noticed by their lack of Most Popular files of 3, Christmas Island has just google.com in the past 3 months and no other website else.;
 Internet popularity-note:a
 
 Top Websites-list:v
