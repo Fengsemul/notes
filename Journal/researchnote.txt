@@ -109,7 +109,7 @@ Command for splitting chunks for chrome-extention:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
 $in  = "C:\Users\PC\Downloads\TopMillion\100mcruxBCuB.txt"
 $out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
-$maxKB = 10000
+$maxKB = 24000
 
 Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
 New-Item -ItemType Directory -Force -Path $out | Out-Null
@@ -129,7 +129,7 @@ try {
     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
 
     if ($writer -eq $null) {
-      $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
+      $file = Join-Path $out ("chunk_{0:D6}.txt" -f $index)
       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
       $bytes = 0
     }
