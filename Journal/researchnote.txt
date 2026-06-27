@@ -105,49 +105,50 @@ majestic_million.csv : https://storage.to/ArXtNQ4Uc
 Top Websites summerized -foldera
 
 Command for splitting chunks for chrome-extention:
-Thx to duck.ai's GPT-5.4 nano: PowerSHell:
-"C:\Users\PC> $in  = "C:\Users\PC\Downloads\TopMillion\100mcruxBCuB.txt"
->> $out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
->> $maxKB = 50000
->>
->> Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
->> New-Item -ItemType Directory -Force -Path $out | Out-Null
->>
->> $encoding = [System.Text.UTF8Encoding]::new($false)
->> $reader = [System.IO.StreamReader]::new($in, $encoding)
->>
->> $writer = $null
->> $bytes = 0
->> $index = 1
->>
->> try {
->>   while (($line = $reader.ReadLine()) -ne $null) {
->>     $rule = $line.TrimEnd("`r","`n")
->>     if ([string]::IsNullOrWhiteSpace($rule)) { continue }
->>
->>     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
->>
->>     if ($writer -eq $null) {
->>       $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
->>       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
->>       $bytes = 0
->>     }
->>     elseif ($bytes + $b -gt ($maxKB * 1024)) {
->>       $writer.Dispose()
->>       $index++
->>       $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
->>       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
->>       $bytes = 0
->>     }
->>
->>     $writer.WriteLine($rule)
->>     $bytes += $b
->>   }
->> }
->> finally {
->>   if ($writer -ne $null) { $writer.Dispose() }
->>   $reader.Close()
->> }"
+Thx to duck.ai's GPT-5.4 nano: PowerShell:
+$in  = "C:\Users\PC\Downloads\TopMillion\100mcruxBCuB.txt"
+$out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
+$maxKB = 10000
+
+Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
+New-Item -ItemType Directory -Force -Path $out | Out-Null
+
+$encoding = [System.Text.UTF8Encoding]::new($false)
+$reader = [System.IO.StreamReader]::new($in, $encoding)
+
+$writer = $null
+$bytes = 0
+$index = 1
+
+try {
+  while (($line = $reader.ReadLine()) -ne $null) {
+    $rule = $line.TrimEnd("`r","`n")
+    if ([string]::IsNullOrWhiteSpace($rule)) { continue }
+
+    $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
+
+    if ($writer -eq $null) {
+      $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
+      $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
+      $bytes = 0
+    }
+    elseif ($bytes + $b -gt ($maxKB * 1024)) {
+      $writer.Dispose()
+      $index++
+      $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
+      $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
+      $bytes = 0
+    }
+
+    $writer.WriteLine($rule)
+    $bytes += $b
+  }
+}
+finally {
+  if ($writer -ne $null) { $writer.Dispose() }
+  $reader.Close()
+}
+
 Command for splitting chunks for chrome-extention:
 
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
