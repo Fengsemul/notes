@@ -129,7 +129,7 @@ try {
     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
 
     if ($writer -eq $null) {
-      $file = Join-Path $out ("chunk_{0:D6}.txt" -f $index)
+      $file = Join-Path $out ("chunk_{0:D9}.txt" -f $index)
       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
       $bytes = 0
     }
