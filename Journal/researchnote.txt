@@ -88,6 +88,7 @@ Top Websites-list:v
 2026.06.23/https://builtwith.com/top-1m ; 2026.06.23/https://github.com/DhaeyerWolf/domaincheck for checking same domains; 2026.06.23/https://github.com/tb0hdan/domains/tree/master/data . "Sorry, we had to truncate this 
 directory to 1,000 files. 518 entries were omitted from the list. Latest commit info may be omitted."
 Top Websites-list:a
+
 Top Websites summerized -folderv
 crux202102global202605countriesraw : crux202102global202605countries : BuildinCloudfaremajesteticmilions202605csv20161122StatvooTop1millionsitesTrancoeu2023vysecurityDomainFrontingLists20200223Statvoo20200223s3amazon0c7573mil20100623s3amazon20161122Statvoo : https://storage.to/pzGpPArWa ; 
 BuildinCloudfaremajesteticmilions202605csv20161122StatvooTop1millionsitesTrancoeu2023vysecurityDomainFrontingLists : https://storage.to/NPp5THaxh ;
@@ -102,6 +103,53 @@ majestic_million.csv : https://storage.to/ArXtNQ4Uc
 
 
 Top Websites summerized -foldera
+
+Command for splitting chunks for chrome-extention:
+Thx to duck.ai's GPT-5.4 nano: PowerSHell:
+"C:\Users\PC> $in  = "C:\Users\PC\Downloads\TopMillion\100mcruxBCuB.txt"
+>> $out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
+>> $maxKB = 50000
+>>
+>> Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
+>> New-Item -ItemType Directory -Force -Path $out | Out-Null
+>>
+>> $encoding = [System.Text.UTF8Encoding]::new($false)
+>> $reader = [System.IO.StreamReader]::new($in, $encoding)
+>>
+>> $writer = $null
+>> $bytes = 0
+>> $index = 1
+>>
+>> try {
+>>   while (($line = $reader.ReadLine()) -ne $null) {
+>>     $rule = $line.TrimEnd("`r","`n")
+>>     if ([string]::IsNullOrWhiteSpace($rule)) { continue }
+>>
+>>     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
+>>
+>>     if ($writer -eq $null) {
+>>       $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
+>>       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
+>>       $bytes = 0
+>>     }
+>>     elseif ($bytes + $b -gt ($maxKB * 1024)) {
+>>       $writer.Dispose()
+>>       $index++
+>>       $file = Join-Path $out ("chunk_{0:D4}.txt" -f $index)
+>>       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
+>>       $bytes = 0
+>>     }
+>>
+>>     $writer.WriteLine($rule)
+>>     $bytes += $b
+>>   }
+>> }
+>> finally {
+>>   if ($writer -ne $null) { $writer.Dispose() }
+>>   $reader.Close()
+>> }"
+Command for splitting chunks for chrome-extention:
+
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
 evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?
 keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe 
