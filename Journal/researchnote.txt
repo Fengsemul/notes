@@ -152,6 +152,13 @@ finally {
 
 Command for splitting chunks for chrome-extention:
 
+Failed archive-attempts:v
+https://web.archive.org/save/https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000019.txt
+https://web.archive.org/save/https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000021.txt
+https://web.archive.org/save/https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000022.txt
+https://web.archive.org/save/https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000022.txt
+Failed archive-attempts:a
+
 Evidence-rated search engine: pedro.org.au/english/resources/links/ : tripdatabase.com; otseeker.com/Search/BasicSearch.aspx; neurorehab-
 evidence.com/web/article/advanced_search_standalone/sort/rating/desc; speechbite.com/search-results/?
 keyword=keyword&authors&journal&from&to&access&targetArea&intervention&clientSubgroup&ageGroup&serviceDelivery&method&pedro&advanced-search-submit=Search ; maybe 
