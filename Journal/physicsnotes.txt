@@ -17,5 +17,11 @@ Your work is truly meaningful. If you could make a complete video of the entire 
 students or scholars with a deep interest in physics to gain an accessible and accessible understanding of the architecture of 
 modern physics."
 Impressive, impressive!
-02-09 · Beijing"
+02-09 · Beijing";
+2026.06.28/https://zhuanlan.zhihu.com/p/1993269648645432490 : "We expand the geometric perspective on 
+Newtonian physics development from Chapter 1 to the field of special relativity; and the differential geometry 
+tools developed in Chapter 1 for Newtonian physics (three-dimensional Euclidean space) have been expanded to 
+the special relativity stage (four-dimensional).Minkovsky Space-Time）。
+We begin in Section 2.2 by defining the inertial (Lorentz) reference frame, then introduce basic, geometric, 
+reference frame-independent concepts: events, four-dimensional vectors, and invariant intervals between events 。"
 Modern classical physics-note:a
