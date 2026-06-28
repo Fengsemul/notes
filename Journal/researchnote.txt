@@ -129,14 +129,14 @@ try {
     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
 
     if ($writer -eq $null) {
-      $file = Join-Path $out ("chunk_{0:D6}.txt" -f $index)
+      $file = Join-Path $out ("{0:D6}.txt" -f $index)
       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
       $bytes = 0
     }
     elseif ($bytes + $b -gt ($maxKB * 1024)) {
       $writer.Dispose()
       $index++
-      $file = Join-Path $out ("chunk_{0:D6}.txt" -f $index)
+      $file = Join-Path $out ("{0:D6}.txt" -f $index)
       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
       $bytes = 0
     }
