@@ -107,9 +107,9 @@ Top Websites summerized -foldera
 
 Command for splitting chunks for chrome-extention:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
-$in  = "C:\Users\PC\Downloads\TopMillion\TopMilionLinks\uBlacklist10million.txt"
+$in  = "C:\Users\PC\Downloads\crux202102global202605countriesuBlock.txt"
 $out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
-$maxKB = 24000
+$maxKB = 23500
 
 Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
 New-Item -ItemType Directory -Force -Path $out | Out-Null
@@ -129,7 +129,7 @@ try {
     $b = [System.Text.Encoding]::UTF8.GetByteCount($rule + "`n")
 
     if ($writer -eq $null) {
-      $file = Join-Path $out ("Top10mil_{0:D6}.txt" -f $index)
+      $file = Join-Path $out ("chunk_{0:D6}.txt" -f $index)
       $writer = [System.IO.StreamWriter]::new($file, $false, $encoding)
       $bytes = 0
     }
@@ -149,7 +149,8 @@ finally {
   if ($writer -ne $null) { $writer.Dispose() }
   $reader.Close()
 }
-(It automatically after the first chunk-file renames itself to the previous status quo of "chunk" and having 6-digits instead 9.
+
+(It automatically after the first chunk-file renames itself to the previous status quo of "chunk" and having 6-digits instead 9. It's because I only changed the first line of "chunk".)
 Command for splitting chunks for chrome-extention:
 
 Failed archive-attempts:v
