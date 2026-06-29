@@ -78,7 +78,11 @@ https://mail.google.com" meanwhile https://github.com/zakird/crux-top-lists/blob
 2026.06.26/https://github.com/zakird/crux-top-lists/tree/main/data/country/kp has consistently from 202505.csv.gz to 202605.csv.gz only one link, google.com in their link-list. kp = ISO 3166-1 alpha-2 country code for North Korea (Democratic People's Republic of Korea).;
 2026.06,26/https://github.com/zakird/crux-top-lists/blob/main/data/country/tv/202104.csv.gz has only 4 mainstream links: https://accounts.google.com
 https://mail.google.com, https://www.youtube.com, https://www.google.com, https://www.facebook.com .;
-2026.06.29/domainrank.io/
+2026.06.29/https://deepresearch.ninja/2026/05/The-TLD-Landscape-in-2026-Popularity-Business-Value-and-Strategic-Choice-Beyond-.com/ : "Tech/SaaS startups: .io (established credibility, developer appeal) and .ai (sector alignment, investor signaling) are the top choices, with .io used by 9.36% and .co by 6.95% of startups when exact .com matches are unavailable [5].
+E-commerce/retail: .shop, .store, and .market provide clear retail signals with growing adoption (.shop +3.6% YoY, .store +1.0% YoY, with some newer extensions like .space showing explosive but smaller-base growth of +404%) [5,13].
+Local/regional businesses: ccTLDs like .de, .uk, .fr, and .br deliver strong local trust and regional SEO advantages, though they may constrain global scalability.
+Professional services: Industry-specific TLDs (.law, .health, .finance) provide instant credibility through verification requirements, though availability is restricted.
+General business with budget constraints: .co remains the strongest .com alternative for broad commercial use, offering superior name availability and a modern brand image, though it carries some user confusion risk."
 Internet popularity-note:a
 
 Top Websites-list:v
@@ -88,7 +92,8 @@ Top Websites-list:v
 2026.06.23/https://www.quora.com/What-is-the-largest-publicly-available-index-of-the-web : www.seomoz.org/api ;
 2026.06.23/https://builtwith.com/top-1m ; 2026.06.23/https://github.com/DhaeyerWolf/domaincheck for checking same domains; 2026.06.23/https://github.com/tb0hdan/domains/tree/master/data . "Sorry, we had to truncate this 
 directory to 1,000 files. 518 entries were omitted from the list. Latest commit info may be omitted.";
-2026.06.27/https://ip.thc.org/docs/bulk-data-access
+2026.06.27/https://ip.thc.org/docs/bulk-data-access ;
+2026.06.29/domainrank.io/ with 1 milion;
 Top Websites-list:a
 
 Top Websites summerized -folderv
