@@ -524,7 +524,26 @@ Getting good grades:v
 2025.10.30/ 2024-01-20: Sam Findon: Intuition and Deduction Thesis Part 2: Philosophy A-level: 4:04 One if the biggest game-changers in getting the top marks like getting 23/25 in the exams themselves was reading proper philosophy texts, not just the textbooks. They going above and beyond.
 Getting good grades:a
 
-
+Common sense-AI:v
+2026.06.29/https://en.wikipedia.org/wiki/Cyc : "Cyc (pronounced /ˈsaɪk/ SYKE) is a long-term artificial 
+intelligence (AI) project that aims to assemble a comprehensive ontology and knowledge base that spans the 
+basic concepts and rules about how the world works. Hoping to capture common sense knowledge, Cyc focuses on 
+implicit knowledge. The project began in July 1984 at MCC and was developed later by the Cycorp company." (I 
+think that Wikipedia will disappear since they don't fir in this new LLM-era. " It's still created by people, 
+not machines" It's created by gatekeeping human administers at some and spam-bots on another Wiki-pages. 
+Polcompball-wiki is already down, along with an seemingly to my viewpoint and interpretation of increasing 
+shutdowns of wikis generally due in creasing maintanance costs and decreasing donation with decreasing 
+means to afford things in general. "we don't run ads" Except the donation-requests themsleves as ads. "or put 
+up paywalls" But paybricks or what the name is of a small to big textwall depending on IP-location, which 
+counts as collecting data kinda, which Wikipedia never explicitly refused that they will use simple geo-data 
+for their donation-request/ad. "fewer people are seeing our message this month" because there are more 
+opportunities to gain knowledge, which fracturalizes consumerbase more, making en-wikipedia-org less visited 
+and with LLMs giving the same information more confortable like AskJeeves promised they will do, and 
+increasing emergence of small, specialized SEO-optimized websites popping up on top of search results, with 
+major search engines trying less to resist them and major companies focusing on LLM-AIs more and less on major 
+search engines, less internet-users visited en-wikipedia-org, which evidently decreases when looking at public 
+visit metrics.)
+Common sense-AI:a
 
 Empiricism and rationalism in common: Kant's synthetic a priori.;
 2025.11.01/researchgate .net/profile/Birger-Hjorland/publication/235260919_Empiricism_rationalism_and_positivism_in_library_and_information_science/links/0c96052a75f485dea1000000/Empiricism-rationalism-and-positivism-in-library-and-information-science .pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ : Logical positivism., p.9: "Where Hume and other classical empiricists[7] were based on psychologism, LP tried to change the basis of science. “It is the method of logical analysis that essentially distinguishes recent empiricism and positivism from the earlier version that was more biological-psychological in its orientation”";
