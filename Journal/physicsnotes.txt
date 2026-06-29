@@ -5,7 +5,7 @@ physics
 
 
 Modern classical physics-note:v
-2026.06.28/https://zhuanlan.zhihu.com/p/2000842931704181052 : "grand system of modern classical physics. It is unified in a 
+2026.06.28/https://zhuanlan.zhihu.com/p/2000842931704181052 : ("zhuanlan.zhihu.com (Chinese mirror/repost)" is blocked under SearchWise.) "grand system of modern classical physics. It is unified in a 
 geometric perspectiveNewton's philosophyand the basics of relativity, detailing statistical physics, wave optics, elasticity, 
 and fluid mechanics (including turbulence and magnetofluidics). The final part explores this in depthGeneral relativityand its 
 applications in compact celestial bodies and cosmology.",
