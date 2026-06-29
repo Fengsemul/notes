@@ -75,7 +75,8 @@ about search engine-note:a
 
 uBlacklist compability-note:v
 2026.06.29: Google.com with 10mil-uBlacklist-list creashes even with https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=120&pws=0&udm=14 , meanwhile Bing and more DuckDuckGo works mostly fine. It seems nothing to do with memory about the difference between Bing.com and google.com handling 10mil-domains-request, since Bing takes more GB, yet being more stable than google.com.
-It works more smooth with startpage.com. www.startpage.com/sp/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=30&pws=0&udm=14 works but is still slow and shows more sponsored results.
+It works more smooth with startpage.com. www.startpage.com/sp/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=30&pws=0&udm=14 works but is still slow and shows more sponsored results.;
+2026.06.29/https://cse.google.com/cse?cx=partner-pub-0797552034660175:6970327462&ie=UTF-8&q=test worked smoothly with 10 million webpages after loading, yet only goes 10 pages.
 uBlacklist compability-note:a
 
 Internet popularity-note:v
