@@ -1,19 +1,20 @@
-name: Google CSE (partner)
+name: CSE partner-pub-0797552034660175:6970327462
 homepage: https://cse.google.com/
 lastModified: 2026-06-29T00:00:00Z
 
 pages:
-  - name: Web (default)
+  - name: Web (CSE)
     matches:
       - https://cse.google.com/cse?*
-    includeRegex: "[?&](cx=partner-pub-0797552034660175:6970327462)(&|$)"
+    includeRegex: "[?&]cx=partner-pub-0797552034660175:6970327462(&|$)"
     userAgent: desktop
     results:
       - name: Default
+        # Google CSE web results commonly use ".g" blocks and each result title is an <a>
         root: ".g"
         url: a
         props:
-          title: h3
+          title: "h3"
     commonProps:
-      $site: google
+      $site: cse.google
       $category: web
