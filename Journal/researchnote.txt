@@ -94,7 +94,7 @@ again). Google’s SERP often re-renders larger chunks than Bing/DDG/CSE, so the
 Selector matching cost: even if your SERPINFO works, broader/denser roots (or multiple result types mixed on 
 the page) can make the extension evaluate more elements before it finds the ones it can hide.";
 2026.06.29: https://www.google.com/search?q=test&udm=14 with infinite scroll by "Search Filter & Site Blocker - Clean Search Results" worked till a result was shown. It was smooth. An accidental discorvery by the alternative search-result-blockers. Many traffic-ownership and robot-questions followed. 5. or so? moving-forward-trial shows 118 domains being stopped, if auto-scrolled at all, Showing none. When google.com asks for reCAPTCHA, then it works. AT max 118 domains and it isn't guranteed to show that domain that was unblock for some reason. Either Google changes, the extensions, the webpage or a combination.
-With "SERP100 – 100 Google Results", 215 domains loaded and 214 blocked. "Auto Google Search 100 Results, SEO Rank and SERP Tool" can load 200 results.
+With "SERP100 – 100 Google Results", 215 domains loaded and 214 blocked. "Auto Google Search 100 Results, SEO Rank and SERP Tool" can load 200 results. "Google Search Option Advance" might contribute or not.
 
 uBlacklist compability-note:a
 
