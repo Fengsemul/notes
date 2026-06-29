@@ -78,11 +78,35 @@ https://mail.google.com" meanwhile https://github.com/zakird/crux-top-lists/blob
 2026.06.26/https://github.com/zakird/crux-top-lists/tree/main/data/country/kp has consistently from 202505.csv.gz to 202605.csv.gz only one link, google.com in their link-list. kp = ISO 3166-1 alpha-2 country code for North Korea (Democratic People's Republic of Korea).;
 2026.06,26/https://github.com/zakird/crux-top-lists/blob/main/data/country/tv/202104.csv.gz has only 4 mainstream links: https://accounts.google.com
 https://mail.google.com, https://www.youtube.com, https://www.google.com, https://www.facebook.com .;
-2026.06.29/https://deepresearch.ninja/2026/05/The-TLD-Landscape-in-2026-Popularity-Business-Value-and-Strategic-Choice-Beyond-.com/ : "Tech/SaaS startups: .io (established credibility, developer appeal) and .ai (sector alignment, investor signaling) are the top choices, with .io used by 9.36% and .co by 6.95% of startups when exact .com matches are unavailable [5].
-E-commerce/retail: .shop, .store, and .market provide clear retail signals with growing adoption (.shop +3.6% YoY, .store +1.0% YoY, with some newer extensions like .space showing explosive but smaller-base growth of +404%) [5,13].
-Local/regional businesses: ccTLDs like .de, .uk, .fr, and .br deliver strong local trust and regional SEO advantages, though they may constrain global scalability.
-Professional services: Industry-specific TLDs (.law, .health, .finance) provide instant credibility through verification requirements, though availability is restricted.
-General business with budget constraints: .co remains the strongest .com alternative for broad commercial use, offering superior name availability and a modern brand image, though it carries some user confusion risk."
+2026.06.29/https://deepresearch.ninja/2026/05/The-TLD-Landscape-in-2026-Popularity-Business-Value-and-
+Strategic-Choice-Beyond-.com/ : "Tech/SaaS startups: .io (established credibility, developer appeal) and .ai 
+(sector alignment, investor signaling) are the top choices, with .io used by 9.36% and .co by 6.95% of 
+startups when exact .com matches are unavailable [5].
+E-commerce/retail: .shop, .store, and .market provide clear retail signals with growing adoption (.shop +3.6% 
+YoY, .store +1.0% YoY, with some newer extensions like .space showing explosive but smaller-base growth of 
++404%) [5,13].
+Local/regional businesses: ccTLDs like .de, .uk, .fr, and .br deliver strong local trust and regional SEO 
+advantages, though they may constrain global scalability.
+Professional services: Industry-specific TLDs (.law, .health, .finance) provide instant credibility through 
+verification requirements, though availability is restricted.
+General business with budget constraints: .co remains the strongest .com alternative for broad commercial use, 
+offering superior name availability and a modern brand image, though it carries some user confusion risk.",
+"The domain landscape is undergoing a structural shift. With over 392 million registered domains and roughly 
+three new websites launched every second, the pool of available short, brandable .com names has become 
+extremely constrained; only 46% of venture-backed startups secured an exact-match .com as their primary domain 
+by mid-2025, compared to 85% availability for alternative extensions [1,3]. This scarcity is driving 
+innovation in naming strategy.
+Simultaneously, the rise of AI-driven search (with AI traffic projected to surpass traditional organic search 
+by 2028) and the proliferation of niche industry TLDs are creating new considerations for domain selection. 
+Businesses can no longer treat domain choice as a purely defensive move; it has become a strategic branding 
+decision that signals industry affiliation, geographic focus, and market positioning [13,16].
+The economic stakes are substantial. The global domain name market was valued at approximately $2.40 billion 
+in 2024 and is projected to reach $3.57 billion by 2033 (CAGR of 4.5%) [9], while premium domain sales alone 
+reached $185 million in 2024, a 32.8% increase from the previous year, covering 144,700 reported sales [81]. 
+The Anguilla government's .AI revenue has grown dramatically: EC$87M (≈$32M USD) in 2023 [63], EC$105.5M 
+(≈$39M USD) in 2024 representing ≈23% of total government revenue [88], EC$168M (≈$62M USD) in Q1–Q3 2025 
+alone [83], and a full-year 2025 total of EC$230M (≈$85.3M USD), which the government projects will supply 
+nearly half of its total budget [89]."
 Internet popularity-note:a
 
 Top Websites-list:v
