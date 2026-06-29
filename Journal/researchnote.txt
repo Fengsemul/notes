@@ -55,6 +55,23 @@ you have access to a website’s code/files. All you have to do it add the follo
 Sorry Omar. 147 views";
 Websites-note:a
 
+Google-note:v
+2026.06.29/https://brightdata.com/blog/web-data/google-search-url-parameters : "Google killed the num parameter in September 2025 with no warning. JavaScript rendering became mandatory, and AI Overviews rolled out to 200 countries and territories. If you’re scraping Google, your raw HTTP requests now return empty or degraded responses, num-based pagination is broken, and AI-generated content pushes organic results below the fold.",
+"Below is every parameter that matters, with tested code and practical examples. All code was run against the live Bright Data SERP API.
+
+    TL;DR: What you need to know for 2026:
+
+        Rank tracking: q=...&gl=us&hl=en&pws=0&udm=14&brd_json=1 (non-personalized, no AI Overviews)
+        Pagination: start=10, start=20, etc. (10 results per page). num no longer works
+        Time filters: tbs=qdr:d (past day), tbs=sbd:1 (sort by date), tbs=li:1 (verbatim)
+        New: udm extends tbm with modes like udm=14 (web-only, no AI). Both work today. Support both.
+        Required: JavaScript rendering. Raw requests.get() calls return empty results since Jan 2025
+
+"...
+"https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1";
+2026.06.29: Google.com with 10mil-uBlacklist-list creashes even with https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=100&udm=14 , meanwhile Bing and more DuckDuckGo works mostly fine.
+Google-note:a
+
 Internet popularity-note:v
 2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
 complexity continues to steadily increase. The average number of page elements increased to 1437 per home page in February 
