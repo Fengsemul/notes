@@ -1,12 +1,11 @@
-name: Google web (Wikipedia domain match)
+name: Google web (Wikipedia)
 homepage: https://www.google.com/
 lastModified: 2026-06-29T00:00:00Z
 
 pages:
-  - name: Web results (Google)
+  - name: Web results
     matches:
       - https://www.google.com/search?*
-      - https://www.google.*/*search?*
     userAgent: desktop
     results:
       - name: Default
