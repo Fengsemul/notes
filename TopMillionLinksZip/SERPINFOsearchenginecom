@@ -1,154 +1,19 @@
-name: SearchEngineCom
-homepage: https://github.com/ublacklist/builtin#readme
-lastModified: 2026-06-14T04:50:28Z
+name: Google CSE (partner)
+homepage: https://cse.google.com/
+lastModified: 2026-06-29T00:00:00Z
 
 pages:
-  - name: Web (desktop)
-    matches: &matches
-      - https://www.https://cse.google.com/cse?cx=partner-pub-0797552034660175:6970327462&ie=UTF-8/search?*
-    excludeRegex: "[?&](udm=(?!14|web(&|$))|tbm=(?!&|$))"
+  - name: Web (default)
+    matches:
+      - https://cse.google.com/cse?*
+    includeRegex: "[?&](cx=partner-pub-0797552034660175:6970327462)(&|$)"
     userAgent: desktop
     results:
       - name: Default
-        root: ".vt6azd:not(.g-blk), .Ww4FFb"
-        url: :is(.yuRUbf, .xe8e1b) a
-        props:
-          title: h3
-      - name: Images
-        root: .vCUuC
-        url: a
-        props:
-          title: .Yt787
-      - name: Videos
-        root: .sHEJob
-        url: a[href^="http"]
-        props:
-          title: .OSrXXb
-      - name: News
-        root: "[data-news-cluster-id]"
-        url: a
-        props:
-          title: '[role="heading"][aria-level="3"]'
-      - name: X
-        root: .eejeod
+        root: ".g"
         url: a
         props:
           title: h3
     commonProps:
       $site: google
       $category: web
-
-  - name: Images (desktop)
-    matches: *matches
-    includeRegex: "[?&]udm=2(&|$)"
-    userAgent: desktop
-    results:
-      - name: Images
-        root: .ivg-i:not(.my5z3d)
-        url: .EZAeBe
-        props:
-          title: .OSrXXb
-      - name: Related Images
-        root: [upward, 1, ".ivg-i.my5z3d"]
-        url: .LBcIee
-        props:
-          title: .ddBkwd
-    commonProps:
-      $site: google
-      $category: images
-
-  - name: Videos (desktop)
-    matches: *matches
-    includeRegex: "[?&]udm=7(&|$)"
-    userAgent: desktop
-    results:
-      - root: .vt6azd
-        url: .xe8e1b a
-        props:
-          title: h3
-    commonProps:
-      $site: google
-      $category: videos
-
-  - name: News (desktop)
-    matches: *matches
-    includeRegex: "[?&]tbm=nws(&|$)"
-    userAgent: desktop
-    results:
-      - root: "[data-news-cluster-id]"
-        url: a
-        props:
-          title: '[role="heading"][aria-level="3"]'
-    commonProps:
-      $site: google
-      $category: news
-
-  - name: Web (mobile)
-    matches: *matches
-    excludeRegex: "[?&](udm=(?!14|web(&|$))|tbm=(?!&|$))"
-    userAgent: mobile
-    results:
-      - name: Default
-        root: ".vt6azd, .Ww4FFb"
-        url: .UBFage, a[role="presentation"]
-        props:
-          title: '[role="heading"][aria-level="3"]'
-        button: [inset, { top: "16px", right: "32px" }]
-      - name: Images
-        root: .DyfMyc
-        url: a
-        props:
-          title: .Yt787
-        preserveSpace: true
-      - name: Videos
-        root: .sHEJob
-        url: a[href^="http"]
-        props:
-          title: .OSrXXb
-      - name: News
-        root: [upward, ".kno-fb-ctx", "[data-news-cluster-id]"]
-        url: a
-        props:
-          title: .pontCc
-    commonProps:
-      $site: google
-      $category: web
-
-  - name: Images (mobile)
-    matches: *matches
-    includeRegex: "[?&]udm=2(&|$)"
-    userAgent: mobile
-    results:
-      - root: [upward, 1, ".ivg-i"]
-        url: a
-        props:
-          title: .Q6A6Dc
-    commonProps:
-      $site: google
-      $category: images
-
-  - name: Videos (mobile)
-    matches: *matches
-    includeRegex: "[?&]udm=7(&|$)"
-    userAgent: mobile
-    results:
-      - root: .Ww4FFb
-        url: a[href^="http"]
-        props:
-          title: .J4ORzd
-    commonProps:
-      $site: google
-      $category: videos
-
-  - name: News (mobile)
-    matches: *matches
-    includeRegex: "[?&]tbm=nws(&|$)"
-    userAgent: mobile
-    results:
-      - root: "[data-news-cluster-id]"
-        url: a
-        props:
-          title: '[role="heading"][aria-level="3"]'
-    commonProps:
-      $site: google
-      $category: news
