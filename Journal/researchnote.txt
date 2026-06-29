@@ -55,6 +55,14 @@ you have access to a website’s code/files. All you have to do it add the follo
 Sorry Omar. 147 views";
 Websites-note:a
 
+Google-note:v
+2026.06.29/https://www.q-tech.org/blog/google-removes-option-to-show-more-than-10-results-per-page/ :
+"Why did Google make this change?
+Answer – The change is primarily due to the global adoption of continuous scrolling (infinite scroll), which 
+loads results automatically. The manual setting became redundant and was retired to simplify the search 
+experience and maintain performance consistency."
+Google-note:a
+
 about search engine-note:v
 2026.06.29/https://brightdata.com/blog/web-data/google-search-url-parameters : "Google killed the num parameter in September 2025 with no warning. JavaScript rendering became mandatory, and AI Overviews rolled out to 200 countries and territories. If you’re scraping Google, your raw HTTP requests now return empty or degraded responses, num-based pagination is broken, and AI-generated content pushes organic results below the fold.",
 "Below is every parameter that matters, with tested code and practical examples. All code was run against the live Bright Data SERP API.
