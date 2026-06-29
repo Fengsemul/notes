@@ -1,4 +1,4 @@
-name: Google web (Wikipedia)
+name: Google web (tighter root)
 homepage: https://www.google.com/
 lastModified: 2026-06-29T00:00:00Z
 
@@ -9,7 +9,9 @@ pages:
     userAgent: desktop
     results:
       - name: Default
+        # Limit DOM scan to the specific result title anchor wrapper shown in your snippet
         root: "a.zReHs"
+        # Destination is in the same <a href="..."> that already points to the real URL (not /url?sa=t...)
         url: "@href"
         props:
           title: "h3.LC20lb"
