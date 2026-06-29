@@ -69,8 +69,12 @@ Google-note:v
 
 "...
 "https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1";
-2026.06.29: Google.com with 10mil-uBlacklist-list creashes even with https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=120&pws=0&udm=14 , meanwhile Bing and more DuckDuckGo works mostly fine. It seems nothing to do with memory about the difference between Bing.com and google.com handling 10mil-domains-request, since Bing takes more GB, yet being more stable than google.ocm.
 Google-note:a
+
+uBlacklist compability-note:v
+2026.06.29: Google.com with 10mil-uBlacklist-list creashes even with https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=120&pws=0&udm=14 , meanwhile Bing and more DuckDuckGo works mostly fine. It seems nothing to do with memory about the difference between Bing.com and google.com handling 10mil-domains-request, since Bing takes more GB, yet being more stable than google.com.
+It works more smooth with startpage.com. www.startpage.com/sp/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1&start=30&pws=0&udm=14 works but is still slow.
+uBlacklist compability-note:a
 
 Internet popularity-note:v
 2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
