@@ -1,4 +1,4 @@
-name: CSE partner-pub-0797552034660175:6970327462
+name: CSE partner-pub-0797552034660175:6970327462 (Wikipedia fix)
 homepage: https://cse.google.com/
 lastModified: 2026-06-29T00:00:00Z
 
@@ -9,12 +9,12 @@ pages:
     includeRegex: "[?&]cx=partner-pub-0797552034660175:6970327462(&|$)"
     userAgent: desktop
     results:
-      - name: Default
-        # Google CSE web results commonly use ".g" blocks and each result title is an <a>
-        root: ".g"
-        url: a
+      - name: Web result block
+        # Your provided outerHTML shows the per-result wrapper is ".gsc-webResult.gsc-result"
+        root: "div.gsc-webResult.gsc-result"
+        url: "a.gs-title[href^='http']"
         props:
-          title: "h3"
+          title: "a.gs-title"
     commonProps:
       $site: cse.google
       $category: web
