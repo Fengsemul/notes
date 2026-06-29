@@ -1,0 +1,17 @@
+name: SearchEngineCom
+version: 1.0.0
+homepage: https://cse.google.com/cse?cx=partner-pub-0797552034660175:6970327462&ie=UTF-8/
+lastModified: 2026-09-01T00:00:00Z
+
+pages:
+  - name: SearchEngineCom
+    matches:
+      - https://cse.google.com/cse?cx=partner-pub-0797552034660175:6970327462&ie=UTF-8/*
+    results:
+      - root: .result-selector
+        url: a.link
+        props:
+          title: .title
+    commonProps:
+      $site: SearchEngineCom
+      $category: web
