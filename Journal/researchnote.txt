@@ -106,7 +106,19 @@ reached $185 million in 2024, a 32.8% increase from the previous year, covering 
 The Anguilla government's .AI revenue has grown dramatically: EC$87M (≈$32M USD) in 2023 [63], EC$105.5M 
 (≈$39M USD) in 2024 representing ≈23% of total government revenue [88], EC$168M (≈$62M USD) in Q1–Q3 2025 
 alone [83], and a full-year 2025 total of EC$230M (≈$85.3M USD), which the government projects will supply 
-nearly half of its total budget [89]."
+nearly half of its total budget [89].",
+"Asia-Pacific region represents the world’s largest digital economies but is notably underrepresented in 
+mainstream TLD analyses. .cn (China) leads with ≈19.7M–21M registrations and .ru (Russia, ≈5.9M) serves as the 
+largest Eastern European ccTLD [98]. .jp (Japan) holds ≈1.8M and .kr (South Korea) has ≈1.0M, each serving as 
+the primary online identity for businesses within massive domestic markets. .in (India, ≈3.4M) and .au 
+(Australia, ≈4.3M) represent rapidly expanding digital economies [98]. .fr (France, ≈4.4M), .it (Italy, 
+≈3.3M), and .es (Spain, ≈2.2M) represent major EU markets with strong local trust signals [98].
+For businesses targeting Asia-Pacific markets, ccTLDs carry particular importance: .jp domains require a local 
+presence verification through JPRS (Japan Registry Services) and are deeply trusted by Japanese consumers; .kr 
+domains serve South Korea’s highly digital population of 52M+; .in serves India’s rapidly growing internet 
+user base of 900M+; and .ru remains the dominant Russian-language domain despite geopolitical complications in 
+international registration. These ccTLDs signal geographic relevance to regional search algorithms, with .jp 
+and .kr especially boosting local organic CTR in their respective markets [5,7]."
 Internet popularity-note:a
 
 Top Websites-list:v
