@@ -3,7 +3,17 @@ homepage: https://www.dogpile.com/
 lastModified: 2026-06-30T00:00:00Z
 
 pages:
-
-name: Web (Dogpile SERP) matches:
-https://www.dogpile.com/search?* userAgent: desktop results:
-name: Web result block root: "a" url: "a[href^='http']" props: title: "a" commonProps: $site: dogpile $category: web delay: 400*
+  - name: Web (Dogpile SERP)
+    matches:
+      - https://www.dogpile.com/search?*
+    userAgent: desktop
+    results:
+      - name: Web result block
+        root: "a"
+        url: "a[href^='http']"
+        props:
+          title: "a"
+    commonProps:
+      $site: dogpile
+      $category: web
+    delay: 400
