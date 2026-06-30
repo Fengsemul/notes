@@ -1,17 +1,20 @@
-name: Dogpile
-homepage: https://www.dogpile.com/
-lastModified: 2026-06-30T00:00:00Z
+name: CSE partner-pub-0797552034660175:6970327462 (Wikipedia fix)
+homepage: https://cse.google.com/
+lastModified: 2026-06-29T00:00:00Z
+
 pages:
-  - name: Web
+  - name: Web (CSE)
     matches:
-      - https://www.dogpile.com/search?*
+      - https://cse.google.com/cse?*
+    includeRegex: "[?&]cx=partner-pub-0797552034660175:6970327462(&|$)"
+    userAgent: desktop
     results:
-      - name: Result
-        root: ".result"
-        url: "a[href^='http']"
+      - name: Web result block
+        # Your provided outerHTML shows the per-result wrapper is ".gsc-webResult.gsc-result"
+        root: "div.gsc-webResult.gsc-result"
+        url: "a.gs-title[href^='http']"
         props:
-          title: "a"
+          title: "a.gs-title"
     commonProps:
-      $site: dogpile
+      $site: cse.google
       $category: web
-    delay: 400
