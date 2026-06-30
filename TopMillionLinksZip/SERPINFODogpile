@@ -1,19 +1,9 @@
 name: Dogpile
-version: 1.0.0
 homepage: https://www.dogpile.com/
 lastModified: 2026-06-30T00:00:00Z
 
 pages:
-  - name: Web
-    matches:
-      - https://www.dogpile.com/search?q=*
-    includeRegex: "^https://www\\.dogpile\\.com/search\\?q=.*"
-    results:
-      - name: Result URL text
-        root: "p.font-inter.truncate.overflow-hidden.text-\\[15px\\].leading-\\[18px\\].text-ellipsis.whitespace-nowrap"
-        url: "."
-        props:
-          title: "."
-    commonProps:
-      $site: dogpile
-      $category: web
+
+name: Web (Dogpile SERP) matches:
+https://www.dogpile.com/search?* userAgent: desktop results:
+name: Web result block root: "a" url: "a[href^='http']" props: title: "a" commonProps: $site: dogpile $category: web delay: 400*
