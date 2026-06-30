@@ -1,15 +1,13 @@
 name: Dogpile
 homepage: https://www.dogpile.com/
 lastModified: 2026-06-30T00:00:00Z
-
 pages:
-  - name: Web (Dogpile SERP)
+  - name: Web
     matches:
       - https://www.dogpile.com/search?*
-    userAgent: desktop
     results:
-      - name: Web result block
-        root: "a"
+      - name: Result
+        root: ".result"
         url: "a[href^='http']"
         props:
           title: "a"
