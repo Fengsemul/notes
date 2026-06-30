@@ -1,0 +1,16 @@
+name: Dogpile
+homepage: https://www.dogpile.com/
+lastModified: 1970-01-01T00:00:00Z
+pages:
+- name: Default
+matches:
+- https://www.dogpile.com/search?*
+commonProps:
+$site: dogpile
+results:
+- name: Web
+root: p.font-inter.truncate.overflow-hidden.text-\[15px\].leading-\[18px\].text-ellipsis.whitespace-nowrap
+url: .
+props:
+title: .
+$category: [const, "web"]
