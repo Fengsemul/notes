@@ -8,6 +8,42 @@ pages:
       - https://www.dogpile.com/search?*
     userAgent: desktop
     results:
+      - name: Web result card
+        root: "article.web-result[data-testid^='web-result-']"
+        url: "article.web-result[data-testid^='web-result-'] a[data-serp-result-link='true'][href^='http']"
+        props:
+          title: "h3 span"
+    commonProps:
+      $site: dogpile
+      $category: web
+    delay: 400name: Dogpile
+homepage: https://www.dogpile.com/
+lastModified: 2026-06-30T00:00:00Z
+
+pages:
+  - name: SERP
+    matches:
+      - https://www.dogpile.com/search?*
+    userAgent: desktop
+    results:
+      - name: Web result card
+        root: "article.web-result[data-testid^='web-result-']"
+        url: "article.web-result[data-testid^='web-result-'] a[data-serp-result-link='true'][href^='http']"
+        props:
+          title: "h3 span"
+    commonProps:
+      $site: dogpile
+      $category: web
+    delay: 400name: Dogpile
+homepage: https://www.dogpile.com/
+lastModified: 2026-06-30T00:00:00Z
+
+pages:
+  - name: SERP
+    matches:
+      - https://www.dogpile.com/search?*
+    userAgent: desktop
+    results:
       - name: Web result card (YouTube/links)
         root: "a[data-serp-result-link='true']"
         url: "a[data-serp-result-link='true'][href^='http']"
