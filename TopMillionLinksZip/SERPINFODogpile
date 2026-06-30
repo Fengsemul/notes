@@ -3,16 +3,16 @@ homepage: https://www.dogpile.com/
 lastModified: 2026-06-30T00:00:00Z
 
 pages:
-  - name: Web
+  - name: SERP
     matches:
       - https://www.dogpile.com/search?*
     userAgent: desktop
     results:
-      - name: Result
-        root: ".result"
-        url: "a[href^='http']"
+      - name: Web result card (YouTube/links)
+        root: "a[data-serp-result-link='true']"
+        url: "a[data-serp-result-link='true'][href^='http']"
         props:
-          title: "a"
+          title: "span"
     commonProps:
       $site: dogpile
       $category: web
