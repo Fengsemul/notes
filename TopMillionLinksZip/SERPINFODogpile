@@ -1,16 +1,17 @@
-name: Dogpile
+name: Dogpile (search)
 homepage: https://www.dogpile.com/
 lastModified: 2026-06-30T00:00:00Z
+
 pages:
-  - name: Search
-    includeRegex: "/search(\\?|$)"
+  - name: Web
+    matches:
+      - https://www.dogpile.com/search?q=*
     results:
-      - root: p.font-inter
-        url: .
+      - name: Result URL
+        root: "p.font-inter.truncate.overflow-hidden.text-\\[15px\\].leading-\\[18px\\].text-ellipsis.whitespace-nowrap"
+        url: "."
         props:
-          title: .
-          $category: [const, "web"]
+          title: "."
     commonProps:
       $site: dogpile
-matches:
-  - https://www.dogpile.com/search?*
+      $category: web
