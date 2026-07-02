@@ -1,0 +1,15 @@
+name: Wiby
+lastModified: 2026-07-02T00:00:00Z
+
+pages:
+  - matchUrl: "https://wiby.org/?q=*"
+
+    results:
+      - selector: "blockquote"
+        linkSelector: "a.tlink"
+        titleSelector: "a.tlink"
+        urlSelector: "a.tlink@href"
+
+    pagination:
+      nextSelector: "a.more[href*='p=']"
+      nextUrlParam: "p"
