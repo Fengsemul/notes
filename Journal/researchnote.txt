@@ -182,6 +182,8 @@ Top Websites-list:v
 directory to 1,000 files. 518 entries were omitted from the list. Latest commit info may be omitted.";
 2026.06.27/https://ip.thc.org/docs/bulk-data-access ;
 2026.06.29/domainrank.io/ with 1 milion;
+https://domains-monitor.com/ ;
+https://newly-registered-domains.whoisxmlapi.com/ ;
 Top Websites-list:a
 
 Top Websites summerized -folderv
