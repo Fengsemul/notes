@@ -1,11 +1,11 @@
 name: Wiby
-homepage: https://wiby.org/
+homepage: wiby.org/
 lastModified: 2026-07-02T00:00:00Z
 
 pages:
   - name: Default
     matches:
-      - https://wiby.org/?q=*
+      - wiby.org/?*
     results:
       - name: Web results
         root: blockquote
