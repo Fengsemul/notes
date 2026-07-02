@@ -201,9 +201,9 @@ majestic_million.csv : https://storage.to/ArXtNQ4Uc
 
 Top Websites summerized -foldera
 
-Command for splitting chunks for chrome-extention:
+Command for splitting chunks for chrome-extension:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
-$in  = "C:\Users\PC\Downloads\crux202102global202605countriesuBlock.txt"
+$in  = "C:\Users\PC\Downloads\TopMillion\crux202102global202605countriesuBlacklisturl.txt"
 $out = "C:\Users\PC\Downloads\TopMillion\ublock_chunks"
 $maxKB = 23500
 
