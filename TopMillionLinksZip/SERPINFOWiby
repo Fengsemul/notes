@@ -5,15 +5,13 @@ lastModified: 2026-07-02T00:00:00Z
 pages:
   - name: Default
     matches:
-      - https://wiby.org/
-    includeRegex: "^/\\?q="
+      - https://wiby.org/?*
     results:
       - name: Web results
-        root: blockquote
+        root: blockquote a.tlink
         url: a.tlink@href
         props:
           title: a.tlink
-        button: a.tlink
     commonProps:
       $site: wiby
       $category: web
