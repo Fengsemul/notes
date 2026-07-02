@@ -5,7 +5,8 @@ lastModified: 2026-07-02T00:00:00Z
 pages:
   - name: Default
     matches:
-      - https://wiby.org/*
+      - https://wiby.org/
+    includeRegex: "^/\\?q="
     results:
       - name: Web results
         root: blockquote
