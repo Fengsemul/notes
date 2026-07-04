@@ -123,9 +123,9 @@ PiHole-note:v
 https://github.com/anthonytwh/pihole-blocklist-converter/tree/master & duck.ai : 
 git clone https://github.com/anthonytwh/pihole-blocklist-converter.git
 cd pihole-blocklist-converter
-python3 adlist_converter.py "https://github.com/Fengsemul/notes/raw/refs/heads/main/TopMillionLinksZip/closedBlocklists/Adblock%20Plus%202.0"
-head -n 9999999999 filters/AfricanLanguagesList.txt
-wc -l filters/AfricanLanguagesList.txt
+python3 adlist_converter.py "https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/main/TopMillionLinksZip/closedBlocklists/ABPVN%20List%20%2B%20EasyList"
+head -n 9999999999 ABPVN%20List%20%2B%20EasyList
+wc -l ABPVN%20List%20%2B%20EasyList
 PiHole-note:a
 
 PiHole optimizer-note:v
