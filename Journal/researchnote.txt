@@ -443,7 +443,14 @@ Extension-note:v
 "excludeList["reddit.com"]",00:02 ExcludeList after adding quora.com: "excludeList["reddit.com","quora.com"]", 00:04: It gets longer 
 with ""medium.com"" & assumingly all domains.;
 2026.06.23/Dev Search Filter -The Google search filter for engineers-;
+2026.07.04/Web.archive.org Auto-Archiver
+1.0.4 doesnt follow Google Standard practices meanwhile AutoSave to Wayback Machine
+2.1.0 does.
 Extension-note:a
+
+Experimental search engine-not:v
+from chrome-extension://oladmjdebphlnjjcnomfhhbfdldiimaf/pages/options/index.html#reddit : 2026.07.04/https://about.opnxng.com/blog/ : Google doesnt work on all instances. Degoog does but i dont know if its google.
+Experimental search engine-note:a
 
 #lpsn less popular internet search-note:v
 [2026.07.02/https://www.google.com/search?q=is+this+ai-generated+harmsen.nl  : Fediverse; "Google CSE which blindly serves a throttled version of mainstream Google" (more mainstream);
