@@ -121,7 +121,8 @@ PiHole-note:v
 PiHole-note:a
 
 PiHole optimizer-note:v
-2026.07.04/ optimizer uses:
+2026.07.04/written with use-ai's ChatGPT 5 to 5.4 largely
+optimizer uses:
 url|name|category[|flags]
 
 So config looks like: https://example.com/list.txt|ListName (But that's username.)|category
@@ -143,7 +144,14 @@ bash
 pihole-optimizer --config ~/blocklists.confcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g ",
 
 Force to re-download all lists to get de-duplicated and corrected amount of domains:
-pihole-optimizer --config ~/blocklists.conf --no-incrementalcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g
+pihole-optimizer --config ~/blocklists.conf --no-incrementalcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g. corrected by duck.ai:
+pihole-optimizer --config ~/blocklists.conf --no-incremental
+If you want to specify input/output files:
+pihole-optimizer --config ~/blocklists.conf --no-incremental \
+  ~/pihole_blocklists_prod/all_domains.txt \
+  /mnt/c/pihole/etc-pihole/optimized-all-domains.txt
+And then rebuild gravity:
+docker exec -it pihole /usr/local/bin/pihole -g
 
 Remove a blacklist from it:
 Open the optimizer config
