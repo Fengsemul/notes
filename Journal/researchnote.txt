@@ -123,8 +123,8 @@ PiHole-note:v
 https://github.com/anthonytwh/pihole-blocklist-converter/tree/master & duck.ai : 
 git clone https://github.com/anthonytwh/pihole-blocklist-converter.git
 cd pihole-blocklist-converter
-python3 adlist_converter.py "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AfricanLanguagesList.txt"
-head -n 30 filters/AfricanLanguagesList.txt
+python3 adlist_converter.py "https://github.com/Fengsemul/notes/raw/refs/heads/main/TopMillionLinksZip/closedBlocklists/Adblock%20Plus%202.0"
+head -n 9999999999 filters/AfricanLanguagesList.txt
 wc -l filters/AfricanLanguagesList.txt
 PiHole-note:a
 
@@ -196,11 +196,13 @@ Filter-note:v
 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate : "DNS blockers offer good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!Therefore, I additionally recommend the use of a browser content blocker such as AdGuard, uBlock Origin or Ghostery."
 
 Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker filter lists.;
-2026.07.04/At https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt surely, I started to look if this link seems to support PiHole.
+2026.07.04/At https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt surely, I started to look if this link seems to support PiHole.;
+2026.07.04: https://filterlists.com/lists/adguard-mobile-ads-hosts is in the first pages and in page 88.
 Filter-note:a
 
 Adding programs-note:v
-2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer
+2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer;
+
 Adding programs-note:a
 
 Internet popularity-note:v
