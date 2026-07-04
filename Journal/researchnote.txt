@@ -109,7 +109,7 @@ https://duckduckgo.com/settings : "Infinite Scroll Loads more results when scrol
 uBlacklist-note:a
 
 dns block-note:v
-2026.07.03/https://deepwiki.com/blocklistproject/Lists : Free & open-source: Pi-hole, DNSMasq;
+2026.07.03-04/bing.com/search?q=domain+blocklists+for+web+filtering+on+firewall : 2026.07.03/https://deepwiki.com/blocklistproject/Lists : Free & open-source: Pi-hole, DNSMasq;
 2026.07.03/https://getadblockofficial.com/pricing : Free forever — no credit card
 : "Custom filter lists, Per-site whitelist control, Works on Chrome, Firefox, Safari, Edge, Automatic filter list updates"
 2026.07.04/youtube.com/watch?v=JfFWUr7xDXE
