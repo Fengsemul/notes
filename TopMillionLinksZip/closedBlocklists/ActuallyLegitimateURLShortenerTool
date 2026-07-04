@@ -1,55 +1,55 @@
-! Title: ➕ Actually Legitimate URL Shortener Tool - Affiliate tag allowlist
-! Version: 20June2026v1-Alpha
-! Expires: 6 days
-! Description: Opt-in allowlist for users of «Actually Legitimate URL Shortener Tool», to at least attempt to re-allow monetary affiliate support tags.
-! Homepage: https://github.com/DandelionSprout/adfilt/discussions/163
-! Homepage for the repository: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#-english
+Title: ➕ Actually Legitimate URL Shortener Tool - Affiliate tag allowlist
+Version: 20June2026v1-Alpha
+Expires: 6 days
+Description: Opt-in allowlist for users of «Actually Legitimate URL Shortener Tool», to at least attempt to re-allow monetary affiliate support tags.
+Homepage: https://github.com/DandelionSprout/adfilt/discussions/163
+Homepage for the repository: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md #-english
 
-! No examples in particular
-@@$removeparam=afid
-@@$removeparam=aff
-! Videogame stores
-@@||store.steampowered.com^$removeparam=/^utm_/
-@@$removeparam=epic_affiliate
-@@||amazon.$removeparam=tag
-@@$removeparam=affiliate
-@@||humblebundle.com^$removeparam=partner
-@@||gamesplanet.com^$removeparam=ref
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-915582
-@@$removeparam=refcode
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-944078
-@@$removeparam=twitchToken
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1155198
-@@$removeparam=/^partnerid$/i
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-1263630
-@@$removeparam=transaction_id
-@@$removeparam=offer_id
-! https://www•comodo•com/home/browsers-toolbars/browser.php?af=14596
-@@$removeparam=af
-! https://github.com/AdguardTeam/AdguardFilters/issues/109372
-@@||brave.com^$removeparam=ref
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-3430497
-@@utm_medium=affiliate&$removeparam=utm_medium
-@@affiliate%26utm_term$removeparam=utm_term
-! https://www•lindex•com/fi?affiliate_source=adtraction
-@@$removeparam=affiliate_source
-! https://github.com/yokoffing/Betterfox/issues/266
-@@$removeparam=from,domain=nextdns.io
-! https://camel-estate•online/lp/08campaign?Tcsack=20240310_261913200 (shared by Yuki)
-@@$doc,removeparam=Tcsack
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-8955444
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-13554500
-@@||ebay.$removeparam=campid
-@@||ebay.$removeparam=customid
-@@||ebay.$removeparam=mkcid
-@@||ebay.$removeparam=mkevt
-@@||ebay.$removeparam=mkrid
-@@||ebay.$removeparam=toolid
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-9540370
-!#if env_firefox
-@@||www.google.*/search?$doc,removeparam=client
-!#endif
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-15880305
-@@$removeparam=curator_clanid,domain=store.steampowered.com|steamcommunity.com
-! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-17373952
-@@||lseg.com^$doc,removeparam=referredBy
+No examples in particular
+removeparam=afid
+removeparam=aff
+Videogame stores
+store.steampowered.com  #/^utm_/
+removeparam=epic_affiliate
+amazon.  #tag
+removeparam=affiliate
+humblebundle.com  #partner
+gamesplanet.com  #ref
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-915582
+removeparam=refcode
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-944078
+removeparam=twitchToken
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-1155198
+removeparam=/^partnerid$/i
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-1263630
+removeparam=transaction_id
+removeparam=offer_id
+https://www•comodo•com/home/browsers-toolbars/browser.php?af=14596
+removeparam=af
+https://github.com/AdguardTeam/AdguardFilters/issues/109372
+brave.com  #ref
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-3430497
+utm_medium=affiliate&  #utm_medium
+affiliate%26utm_term  #utm_term
+https://www•lindex•com/fi?affiliate_source=adtraction
+removeparam=affiliate_source
+https://github.com/yokoffing/Betterfox/issues/266
+removeparam=from,domain=nextdns.io
+https://camel-estate•online/lp/08campaign?Tcsack=20240310_261913200 (shared by Yuki)
+doc,removeparam=Tcsack
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-8955444
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-13554500
+ebay.  #campid
+ebay.  #customid
+ebay.  #mkcid
+ebay.  #mkevt
+ebay.  #mkrid
+ebay.  #toolid
+https://github.com/DandelionSprout/adfilt/discussions/163 #discussioncomment-9540370
+! #if env_firefox
+www.google.*/search?$doc,removeparam=client
+! #endif
+https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-15880305
+removeparam=curator_clanid,domain=store.steampowered.com|steamcommunity.com
+https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-17373952
+lseg.com^$doc,removeparam=referredBy
