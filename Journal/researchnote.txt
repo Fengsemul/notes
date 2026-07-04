@@ -120,6 +120,29 @@ PiHole-note:v
 2026.07.03/https://www.howtogeek.com/the-things-i-wish-i-knew-before-running-a-pi-hole/ ;
 PiHole-note:a
 
+PiHole optimizer-note:v
+2026.07.04/ optimizer uses:
+url|name|category[|flags]
+
+So config looks like: https://example.com/list.txt|ListName (But that's username.)|category
+Check: "
+cat -n ~/blocklists.conf"
+
+Use this exact copy/paste block in Ubuntu:
+bash: cat > ~/blocklists.conf <<'EOF'
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts|StevenBlack|comprehensive
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt|HageziPro|comprehensive
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt|HageziTIF|comprehensive
+EOF
+
+file:///etc/pihole/optimized-all-domains.txt 
+
+"Whenever you update your optimized list, do this sequence:
+bash
+
+pihole-optimizer --config ~/blocklists.confcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g "
+PiHole optimizer-note:a
+
 Adding programs-note:v
 2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer
 Adding programs-note:a
