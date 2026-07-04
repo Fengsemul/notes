@@ -188,7 +188,8 @@ PiHole optimizer-note:a
 Filter-note:v
 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate : "DNS blockers offer good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!Therefore, I additionally recommend the use of a browser content blocker such as AdGuard, uBlock Origin or Ghostery."
 
-Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker filter lists.
+Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker filter lists.;
+2026.07.04/At https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt surely, I started to look if this link seems to support PiHole.
 Filter-note:a
 
 Adding programs-note:v
