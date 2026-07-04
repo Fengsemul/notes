@@ -104,15 +104,16 @@ the page) can make the extension evaluate more elements before it finds the ones
 2026.06.29: https://www.google.com/search?q=test&udm=14 with infinite scroll by "Search Filter & Site Blocker - Clean Search Results" worked till a result was shown. It was smooth. An accidental discorvery by the alternative search-result-blockers. Many traffic-ownership and robot-questions followed. 5. or so? moving-forward-trial shows 118 domains being stopped, if auto-scrolled at all, Showing none. When google.com asks for reCAPTCHA, then it works. AT max 118 domains and it isn't guranteed to show that domain that was unblock for some reason. Either Google changes, the extensions, the webpage or a combination.
 With "SERP100 – 100 Google Results", 215 domains loaded and 214 blocked. "Auto Google Search 100 Results, SEO Rank and SERP Tool" can load 200 results. "Google Search Option Advance" might contribute or not.;
 https://duckduckgo.com/settings : "Infinite Scroll Loads more results when scrolling";
-2026.07.03: 15x 24.500-24.950 MB raw .txt-files can uBlacklist take before it breaks with the next even 53 MB ot so .txt-file. In another setup, it could take above 16x with https://ublacklist.github.io/rulesets/subscribe?url=, which doesn't work.
+2026.07.03: 15x 24.500-24.950 MB raw .txt-files can uBlacklist take before it breaks with the next even 53 MB ot so .txt-file. In another setup, it had over 16x with https://ublacklist.github.io/rulesets/subscribe?url=, which doesn't work.
 
 uBlacklist-note:a
 
-dns-note:v
+dns block-note:v
 2026.07.03/https://deepwiki.com/blocklistproject/Lists : Free & open-source: Pi-hole, DNSMasq;
 2026.07.03/https://getadblockofficial.com/pricing : Free forever — no credit card
 : "Custom filter lists, Per-site whitelist control, Works on Chrome, Firefox, Safari, Edge, Automatic filter list updates"
-dns-note:a
+2026.07.04/youtube.com/watch?v=JfFWUr7xDXE
+dns block-note:a
 
 Internet popularity-note:v
 2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
