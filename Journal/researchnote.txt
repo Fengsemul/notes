@@ -118,7 +118,8 @@ https://github.com/hagezi/dns-blocklists#ultimate : DNSCrypt with accepting raw 
 dns block-note:a
 
 PiHole-note:v
-2026.07.03/https://www.howtogeek.com/the-things-i-wish-i-knew-before-running-a-pi-hole/ ; 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate Downside: can't "🛡️ DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!" but only AdGuard, AdGuard Home can.
+2026.07.03/https://www.howtogeek.com/the-things-i-wish-i-knew-before-running-a-pi-hole/ ; 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate Downside: can't "🛡️ DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!" but only AdGuard, AdGuard Home can.;
+2026.07.04/github.com/deathbybandaid/piholeparser/ : "Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with Pi-hole(tm)"
 PiHole-note:a
 
 PiHole optimizer-note:v
