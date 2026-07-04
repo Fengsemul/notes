@@ -141,6 +141,10 @@ file:///etc/pihole/optimized-all-domains.txt
 bash
 
 pihole-optimizer --config ~/blocklists.confcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g ",
+
+Force to re-download all lists to get de-duplicated and corrected amount of domains:
+pihole-optimizer --config ~/blocklists.conf --no-incrementalcp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txtdocker exec -it pihole /usr/local/bin/pihole -g
+
 Remove a blacklist from it:
 Open the optimizer config
 Ubuntu:
@@ -163,10 +167,12 @@ nslookup doubleclick.net
 google.com -> normal IP addresses
 doubleclick.net -> 0.0.0.0 / ::
 One-command summary after editing
-After you remove the line from ~/blocklists.conf, run these as separate commands:
+Summary: After you remove the line from ~/blocklists.conf, run these as separate commands:
 pihole-optimizer --config ~/blocklists.conf --no-incremental
 cp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-all-domains.txt
 docker exec -it pihole /usr/local/bin/pihole -g
+
+
 Do not combine them into one line unless you use && between them. Safer for now: one command per line."
 PiHole optimizer-note:a
 
