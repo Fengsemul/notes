@@ -116,9 +116,13 @@ dns block-note:v
 2026.07.04: /admin/messages : "2026-07-04 12:54:38	RATE_LIMIT	Client 172.17.0.1 has been rate-limited for at least 0 seconds (current limit: 1000 queries per 60 seconds)"
 dns block-note:a
 
-PiHolenote:v
+PiHole-note:v
 2026.07.03/https://www.howtogeek.com/the-things-i-wish-i-knew-before-running-a-pi-hole/ ;
-PiHolenote:a
+PiHole-note:a
+
+Adding programs-note:v
+2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer
+Adding programs-note:a
 
 Internet popularity-note:v
 2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
