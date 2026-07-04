@@ -1,15 +1,15 @@
-!#include admaven-domains.txt
-!#include admeasures-domains.txt
-!#include adshield-domains.txt
-!#include bt-contentza-domains.txt
-!#include cdn-filter-list.txt
-!#include cryptomining-domains.txt
-!#include freecounterstat-domains.txt
-!#include getadmiral-domains.txt
-!#include hilltopads-domains.txt
-!#include istripper-domains.txt
-!#include kitty-domains.txt
-!#include macupload-domains.txt
-!#include popads-domains.txt
-!#include toradvertising-domains.txt
-!#include videoadex-domains.txt
+admaven-domains.txt
+admeasures-domains.txt
+adshield-domains.txt
+bt-contentza-domains.txt
+cdn-filter-list.txt
+cryptomining-domains.txt
+freecounterstat-domains.txt
+getadmiral-domains.txt
+hilltopads-domains.txt
+istripper-domains.txt
+kitty-domains.txt
+macupload-domains.txt
+popads-domains.txt
+toradvertising-domains.txt
+videoadex-domains.txt
