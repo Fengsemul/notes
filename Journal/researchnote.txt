@@ -120,12 +120,9 @@ dns block-note:a
 PiHole-note:v
 2026.07.03/https://www.howtogeek.com/the-things-i-wish-i-knew-before-running-a-pi-hole/ ; 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate Downside: can't "🛡️ DNS Rebind Protection - Prevents attackers from resolving domains to local IPs!" but only AdGuard, AdGuard Home can.;
 2026.07.04/github.com/deathbybandaid/piholeparser/ : "Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with Pi-hole(tm)";
-https://github.com/anthonytwh/pihole-blocklist-converter/tree/master & duck.ai : 
-git clone https://github.com/anthonytwh/pihole-blocklist-converter.git
-cd pihole-blocklist-converter
-python3 adlist_converter.py "https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/main/TopMillionLinksZip/closedBlocklists/ABPVN%20List%20%2B%20EasyList"
-head -n 9999999999 ABPVN%20List%20%2B%20EasyList
-wc -l ABPVN%20List%20%2B%20EasyList
+
+
+
 PiHole-note:a
 
 PiHole optimizer-note:v
@@ -191,6 +188,28 @@ docker exec -it pihole /usr/local/bin/pihole -g
 
 Do not combine them into one line unless you use && between them. Safer for now: one command per line."
 PiHole optimizer-note:a
+
+PiHole convert-note:v
+git clone https://github.com/anthonytwh/pihole-blocklist-converter.git
+cd pihole-blocklist-converter
+python3 adlist_converter.py "<ADBLOCK_LIST_URL_HERE>"
+
+# go to the repo
+cd ~/pihole-blocklist-converter
+
+# list what files exist (after you run the converter)
+ls -la
+
+# find any "filters" / ".list" / ".txt" files the script might create
+find . -maxdepth 3 -type f \( -name "*.txt" -o -name "*.list" -o -name "*filters*" \) -print
+
+# read a file (replace with the actual filename you see)
+cat path/to/OUTPUT_FILE.txt
+# or preview
+less path/to/OUTPUT_FILE.txt
+# or view the end (often where results are)
+tail -n 50 path/to/OUTPUT_FILE.txt
+PiHole convert-note:a
 
 Filter-note:v
 2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate : "DNS blockers offer good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!Therefore, I additionally recommend the use of a browser content blocker such as AdGuard, uBlock Origin or Ghostery."
