@@ -192,7 +192,7 @@ PiHole optimizer-note:a
 PiHole convert-note:v
 git clone https://github.com/anthonytwh/pihole-blocklist-converter.git
 cd pihole-blocklist-converter
-python3 adlist_converter.py "<ADBLOCK_LIST_URL_HERE>"
+python3 adlist_converter.py "https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/main/TopMillionLinksZip/closedBlocklists/ActuallyLegitimateURLShortenerTool"
 
 # go to the repo
 cd ~/pihole-blocklist-converter
@@ -216,7 +216,8 @@ Filter-note:v
 
 Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker filter lists.;
 2026.07.04/At https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt surely, I started to look if this link seems to support PiHole.;
-2026.07.04: https://filterlists.com/lists/adguard-mobile-ads-hosts is in the first pages and in page 88. It repeats also with https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-Korea.txt and other AdBlocks at page 88-92.
+2026.07.04: https://filterlists.com/lists/adguard-mobile-ads-hosts is in the first pages and in page 88. It repeats also with https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-Korea.txt and other AdBlocks at page 88-92. Loop stops at page 96 with seemingly "Ultimate Hosts Blacklist (Whitelist)" but probably slightly earlier than that, since my focus lays on PiHole compatible lists.;
+2026.07.05/https://divested.dev/hosts-domains : "#Created using Simple Hosts Merger"
 Filter-note:a
 
 Adding programs-note:v
