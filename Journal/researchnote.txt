@@ -331,7 +331,8 @@ Top Websites summerized -foldera
 Practical-note:v
 2026.07.05/https://github.com/elliotwutingfeng/singapore-tax-calculator : "The website to calculate Singapore income tax for the foreigner.";
 2026.07.05/https://github.com/elliotwutingfeng/control-records : "Records archive for the Federal Bureau of Control
-control-records.vercel.app"
+control-records.vercel.app", "This is a fan project inspired by Control, a most excellent game by Remedy Entertainment.
+The in-game documents don't look this good, but they're based on the official-looking documents distributed in the press kit edition (see here for an unboxing video that features them prominently.) Now you can make your own!"
 Practical-note:a
 
 Command for splitting chunks for chrome-extension:
