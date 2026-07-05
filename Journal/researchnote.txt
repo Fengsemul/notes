@@ -221,7 +221,8 @@ Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker 
 2026.07.05/https://web.archive.org/web/20210726203919/http://malwaredomains.lehigh.edu/files/immortal_domains.txt : #This is a list of long-lived, "immortal", malware domains (There's also an older, proclaimingly never changed list since 2003.);
 https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspiciousdomains_High.txt , Medium and Low: "DShield.org Suspicious Domain List
 #    (c) 1900 DShield.org
-#   some rights reserved."
+#   some rights reserved.";
+2026.07.05/https://filterlists.com/lists/facebook-zero-hosts-block-test-list : " Note this is an old version that seems to have a lots of offline domains but keep it for check with dead-hosts, or if you're not sure because most subdomains and CDNs of "Facebook Zero" seems to be accessed when you're using mobile data only.";
 Filter-note:a
 
 Adding programs-note:v
