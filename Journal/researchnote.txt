@@ -132,6 +132,7 @@ I DO NOT BLOCK fonts.gstatic.com. However, I do block gstaticadssl.l.google.com.
 See: #197, #136, and #213
 Xbox Live Achievements
 Turns out Xbox Live Achievements is using a common Microsoft tracking server. If you are using the Ads & Tracking list and want to continue getting Xbox Live Achievements, then you might need to whitelist a couple domains. Since I do not have an Xbox, I can't really help you with that, but please see #161 for details.";
+https://www.reddit.com/r/browsers/comments/1sy0j4v/whats_you_thought_on_ublockdns/ 
 dns block-note:a
 
 PiHole-note:v
