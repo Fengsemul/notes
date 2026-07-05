@@ -228,6 +228,8 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 2026.07.05/https://github.com/elliotwutingfeng/tldextract : "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.";
 2026.07.05/https://github.com/elliotwutingfeng/publicsuffix-ruby : "Domain name parser for Ruby based on the Public Suffix List." (Those coders with more respiratories like >320 are smarter and more innovative it seems.);
 2026.07.05/https://malsilo.gitlab.io/feeds/dumps/* : "Use these rules at your own risk";
+2026.07.05/https://filterlists.com/lists/maltrail-i2p gives option to redirect to https://github.com/stamparm/maltrail/blob/master/trails/static/suspicious/i2p.txt instead correctly and expectedly in https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/i2p.txt . ;
+
 Filter-note:a
 
 Adding programs-note:v
