@@ -131,8 +131,18 @@ Google Fonts
 I DO NOT BLOCK fonts.gstatic.com. However, I do block gstaticadssl.l.google.com. If you are using the Ads & Tracking list and are having issues with fonts.gstatic.com, then you might be using a blocker that blocks based on CNAME. Depending on your blocking tool, you might want to whitelist fonts.gstatic.com to prevent it from getting blocked by gstaticadssl.l.google.com CNAME.
 See: #197, #136, and #213
 Xbox Live Achievements
-Turns out Xbox Live Achievements is using a common Microsoft tracking server. If you are using the Ads & Tracking list and want to continue getting Xbox Live Achievements, then you might need to whitelist a couple domains. Since I do not have an Xbox, I can't really help you with that, but please see #161 for details.";
-https://www.reddit.com/r/browsers/comments/1sy0j4v/whats_you_thought_on_ublockdns/ : uBlockDNS being unsafe and focus on Hagaxa and few other filterlists. (uBlock dns has the most filterlists in FilterLists.com. Google Genimi says that PiHole is more customizable than uBlockDNS. PiHole has roughly 1500 filterlists in FilterLists.com and seems to be more customizable than uBlockDNS. It also has no subscription costs.)
+Turns out Xbox Live Achievements is using a common Microsoft tracking server. If you are using the Ads & Tracking list and 
+want to continue getting Xbox Live Achievements, then you might need to whitelist a couple domains. Since I do not have an 
+Xbox, I can't really help you with that, but please see #161 for details.";
+2026.07.05/https://www.reddit.com/r/browsers/comments/1sy0j4v/whats_you_thought_on_ublockdns/ : uBlockDNS being unsafe and 
+focus on Hagaxa and few other filterlists. (uBlock dns has the most filterlists in FilterLists.com. Google Genimi says that 
+PiHole is more customizable than uBlockDNS. PiHole has roughly 1033 filterlists in FilterLists.com and seems to be more 
+customizable than uBlockDNS. uBlockDNS .) https://megalodon.jp/2026-0706-0618-13/https://ublockdns.com:443/ compares itself 
+(uBlockDNS) with PiHole. But according to a redditor, HaGeZi blocked ublockdns.com. https://megalodon.jp/2026-0706-0618-
+13/https://ublockdns.com:443/ : "The filter lists that power DNS blocking (HaGeZi, OISD, and others) are open source. 
+They're maintained by volunteers and built specifically for domain-level filtering. But applying them usually means self-
+hosted hardware or a paid subscription. uBlockDNS applies those lists before your device connects." https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt ||ping.ublock.org^
+||data.ublock-browser.com^
 dns block-note:a
 
 PiHole-note:v
