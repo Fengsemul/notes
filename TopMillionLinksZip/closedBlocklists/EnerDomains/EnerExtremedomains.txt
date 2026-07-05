@@ -1,0 +1,140 @@
+# ----------------------------------------------------------------------------
+#         _____  _________  _____________  _______          
+#        / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \         
+#       / _//    / _// , _/ (_ // /  / /_/ _// // /         
+#      /___/_/|_/___/_/|_|\___/___/_/___/___/____/__  _  __ 
+#     / _ \/ _ \/ __ \/_  __/ __/ ___/_  __/  _/ __ \/ |/ / 
+#    / ___/ , _/ /_/ / / / / _// /__  / / _/ // /_/ /    /  
+#   /_/  /_/|_|\____/ /_/ /___/\___/ /_/ /___/\____/_/|_/   
+# 
+#   Let's make an annoyance-free better open internet. Altogether.
+# ----------------------------------------------------------------------------
+#   energized.pro | github.com/EnergizedProtection/block
+# ----------------------------------------------------------------------------
+# 
+# ----------------------------------------------------------------------------
+#   [⚡︎] P A C K  D E T A I L S
+# ----------------------------------------------------------------------------
+# Title:         Extreme (Ext.)
+# Description:   Enhanced privacy with aggressive filtering.
+# URL:           https://energized.pro/extreme/domains.txt
+# Author:        Ador <mail@ador.com.bd>
+# License:       MIT
+# Format:        domains
+# Entries:       72
+# Version:       0.100.a.25.208.00
+# Expires:       1 day (update frequency)
+# Releasae:      25.208.00
+# Last modified: 2025-07-27T00:10:26.493686 UTC
+# Source:        https://github/EnergizedProtection/block
+# Issue:         https://github/EnergizedProtection/block/issues
+# ----------------------------------------------------------------------------
+#   [⚡︎] F E A T U R E S
+# ----------------------------------------------------------------------------
+# _domain_based  : based on domains.
+# _any_device    : seamlessly compatible with all your devices.
+# _blockings     : strictly banishes all web annoyances.
+# _formats       : supports the most popular, user-friendly formats.
+# _speed         : reduces web content loading time.
+# _privacy       : increases privacy.
+# _saves_data    : decreases data consumption.
+# _clean         : no clutter. just a pure, streamlined experience.
+# ----------------------------------------------------------------------------
+#   [⚡︎] E N E R G I Z E D  P R O T E C T I O N  B E G I N S
+# ----------------------------------------------------------------------------
+api-device.mocaplatform.com
+api.giphy.com
+api.mocaplatform.com
+api.proximi.fi
+api.sec.intl.miui.com
+apps.facebook.com
+auditrecording-pa.googleapis.com
+b-graph.facebook.com
+cdn.gigya.com
+cdn.mocaplatform.com
+cdn.privacy-mgmt.com
+cdn1.gigya.com
+cdn2.gigya.com
+cdn2.mocaplatform.com
+cdn3.gigya.com
+cdns.us1.gigya.com
+click.discord.com
+cmp.qcc.qualcomm.com
+colocator.net
+connect.facebook.net
+csp.withgoogle.com
+david.gigya-cs.com
+digitalassetlinks.googleapis.com
+events.data.msn.com
+events.uber.com
+evt.tamoco.com
+feedback-pa.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
+fonts.googleapis.com
+footprints-pa.googleapis.com
+geo.privacymanager.io
+geolocation.onetrust.com
+gmscompliance-pa.googleapis.com
+graph-fallback.facebook.com
+graph.facebook.com
+graph.fb.gg
+graph.fbpigeon.com
+graph.instagram.com
+infinitedata-pa.googleapis.com
+jnn-pa.googleapis.com
+js.sentry-cdn.com
+loc.map.baidu.com
+mocaplatform.com
+nearbypresence-pa.googleapis.com
+nearbysharing-pa.googleapis.com
+newrelic.com
+notifications-pa.googleapis.com
+onelink.me
+optimizationguide-pa.googleapis.com
+playatoms-pa.googleapis.com
+pubsub.googleapis.com
+qcc.qualcomm.com
+s.click.aliexpress.com
+safebrowsing.googleapis.com
+sdk.gpshopper.com
+sdk.shopkick.com
+singlespot.com
+spot.im
+st.chatango.com
+tamoco.com
+tasks-pa.googleapis.com
+trk.klclick.com
+trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
+userlocation.googleapis.com
+va.tawk.to
+watchdog.energized.pro
+yinzcam.com
+zapr.in
+# ----------------------------------------------------------------------------
+#   [⚡︎] E N E R G I Z E D  P R O T E C T I O N  E N D S
+# ----------------------------------------------------------------------------
+# 
+# DISCLAIMER: The domains included in this block list are provided "as is"
+# and are for informational purposes only. By  utilizing  this block list,
+# you acknowledge that you are doing so at your own risk.
+#  
+# We are not liable for any issues that may arise from the use of this list. 
+# We highly recommend creating a backup of  your system and settings before
+# proceeding with any changes.
+# 
+# In case of any issues, please refer to the official issue tracker 
+# at: https://github/EnergizedProtection/block/issues
+# 
+# This list is intended solely for blocking unwanted domains and improving 
+# your browsing experience.   Any  misuse  or  unintended consequences are 
+# solely the responsibility of the user. 
+# We advise thorough testing and review before deployment.
+# 
+# Thank you for using Energized Protection. 
+# Your support helps create a safer, cleaner internet for all.
+# 
+# ----------------------------------------------------------------------------
