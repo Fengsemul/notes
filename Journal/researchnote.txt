@@ -335,6 +335,10 @@ control-records.vercel.app", "This is a fan project inspired by Control, a most 
 The in-game documents don't look this good, but they're based on the official-looking documents distributed in the press kit edition (see here for an unboxing video that features them prominently.) Now you can make your own!"
 Practical-note:a
 
+Questionable-note:v
+2026.07.05/https://github.com/elliotwutingfeng/faker
+Questionable-note:a
+
 Command for splitting chunks for chrome-extension:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
 $in  = "C:\Users\PC\Downloads\TopMillion\TopMilionLinks\uBlacklist10millionurl.txt"
