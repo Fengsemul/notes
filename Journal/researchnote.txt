@@ -291,7 +291,14 @@ The following blockers aren't fully supported, so they might work but they have 
  Adblock Browser - for Android and iOS devices only
 Brave Browser - (partial supported, request to add the list send)
  Opera Browser - (partial supported, request to add the list send)";
-< 2026.05.07/https://web.archive.org/web/20190402223306/https://github.com/CHEF-KOCH/CKs-FilterList : "Repository unavailable due to DMCA takedown." Last time his profile was active was in: https://web.archive.org/web/20190302002627/https://github.com/CHEF-KOCH/CKs-FilterList
+< 2026.05.07/https://web.archive.org/web/20190402223306/https://github.com/CHEF-KOCH/CKs-FilterList : "Repository unavailable due to DMCA takedown." Last time his profile was active was in: https://web.archive.org/web/20190302002627/https://github.com/CHEF-KOCH/CKs-FilterList ;
+2026.05.07/https://github.com/hagezi/dns-blocklists : "Recommendation
+As a network-wide DNS blocker, I recommend using Adguard Home, Pi-hole, TechnitiumDNS, Blocky (advanced users), adblock-lean (OpenWrt) or eBlocker.
+DNS blockers offer good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the 
+vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level! Therefore, I 
+additionally recommend the use of a browser content blocker such as AdGuard, uBlock Origin or Ghostery.
+
+Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker filter lists."
 Adding programs-note:a
 
 Internet popularity-note:v
