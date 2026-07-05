@@ -223,6 +223,9 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 #    (c) 1900 DShield.org
 #   some rights reserved.";
 2026.07.05/https://filterlists.com/lists/facebook-zero-hosts-block-test-list : " Note this is an old version that seems to have a lots of offline domains but keep it for check with dead-hosts, or if you're not sure because most subdomains and CDNs of "Facebook Zero" seems to be accessed when you're using mobile data only.";
+2026.07.05/https://filterlists.com/lists/i-hate-tracker : "Ads and Tracker which other lists may not found";
+
+
 Filter-note:a
 
 Adding programs-note:v
