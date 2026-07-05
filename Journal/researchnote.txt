@@ -107,6 +107,10 @@ https://duckduckgo.com/settings : "Infinite Scroll Loads more results when scrol
 2026.07.03: 15x 24.500-24.950 MB raw .txt-files can uBlacklist take before it breaks with the next even 53 MB ot so .txt-file. In another setup, it had over 16x with https://ublacklist.github.io/rulesets/subscribe?url=, which doesn't work.
 
 uBlacklist-note:a
+Blacklist-note:v
+2026.07.05/https://github.com/stamparm/maltrail/ : Blocklists
+Blacklist-note:a
+
 
 dns block-note:v
 2026.07.03-04/bing.com/search?q=domain+blocklists+for+web+filtering+on+firewall : 2026.07.03/https://deepwiki.com/blocklistproject/Lists : Free & open-source: Pi-hole, DNSMasq;
@@ -114,7 +118,20 @@ dns block-note:v
 : "Custom filter lists, Per-site whitelist control, Works on Chrome, Firefox, Safari, Edge, Automatic filter list updates"
 2026.07.04/youtube.com/watch?v=JfFWUr7xDXE ;
 2026.07.04: /admin/messages : "2026-07-04 12:54:38	RATE_LIMIT	Client 172.17.0.1 has been rate-limited for at least 0 seconds (current limit: 1000 queries per 60 seconds)";
-https://github.com/hagezi/dns-blocklists#ultimate : DNSCrypt with accepting raw TLDs. ;
+2026.07.04/https://github.com/hagezi/dns-blocklists#ultimate : DNSCrypt with accepting raw TLDs. ;
+2026.07.04/https://github.com/lightswitch05/hosts : "CNAME-based ad blockers
+If you are using these lists with an ad blocker that uses CNAME blocking, please read Common Issues / Google Fonts.
+Ad blockers/tools using CNAME blocking include:
+Blokada
+PiHole
+uBlock Origin
+This list is not exhaustive, feel free to make suggestions.
+Common Issues
+Google Fonts
+I DO NOT BLOCK fonts.gstatic.com. However, I do block gstaticadssl.l.google.com. If you are using the Ads & Tracking list and are having issues with fonts.gstatic.com, then you might be using a blocker that blocks based on CNAME. Depending on your blocking tool, you might want to whitelist fonts.gstatic.com to prevent it from getting blocked by gstaticadssl.l.google.com CNAME.
+See: #197, #136, and #213
+Xbox Live Achievements
+Turns out Xbox Live Achievements is using a common Microsoft tracking server. If you are using the Ads & Tracking list and want to continue getting Xbox Live Achievements, then you might need to whitelist a couple domains. Since I do not have an Xbox, I can't really help you with that, but please see #161 for details."
 dns block-note:a
 
 PiHole-note:v
@@ -228,13 +245,28 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 2026.07.05/https://github.com/elliotwutingfeng/tldextract : "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.";
 2026.07.05/https://github.com/elliotwutingfeng/publicsuffix-ruby : "Domain name parser for Ruby based on the Public Suffix List." (Those coders with more respiratories like >320 are smarter and more innovative it seems.);
 2026.07.05/https://malsilo.gitlab.io/feeds/dumps/* : "Use these rules at your own risk";
-2026.07.05/https://filterlists.com/lists/maltrail-i2p gives option to redirect to https://github.com/stamparm/maltrail/blob/master/trails/static/suspicious/i2p.txt instead correctly and expectedly in https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/i2p.txt . ;
-
+2026.07.05/https://filterlists.com/lists/maltrail-i2p gives option to redirect to https://github.com/stamparm/maltrail/blob/master/trails/static/suspicious/i2p.txt instead correctly and expectedly in https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/i2p.txt . Same pattern with 2026.07.05/https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/ipinfo.txt;
 Filter-note:a
 
 Adding programs-note:v
-2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer;
-
+2026.07.04/https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer; 
+https://web.archive.org/web/20191017091207/https://gitlab.com/CHEF-KOCH/cks-filterlist : "Make sure you have an ad-blocker installed in your desktop or mobile browsers that uses Adblock Plus filter syntax:
+ AdAway - for Android only (partial supported)
+ Blockada - for Android only
+ DNS66 - for Android only
+ uBlock Origin or Nano Adblocker - for Browsers as extension only
+ AdGuard - for All Platforms
+ pfSense with pfBlockerNG
+ Pi-hole - for PI devices
+ Gasmask - for OS X", "Partial supported
+The following blockers aren't fully supported, so they might work but they have some limitations and I personally can't recommend them. A more detailed explanation is given here.
+ AdBlock - for All Platforms
+ Adblock Plus - for Browsers as extension only
+ 1Blocker for iOS or MacOS devices only
+ Adblock Browser - for Android and iOS devices only
+Brave Browser - (partial supported, request to add the list send)
+ Opera Browser - (partial supported, request to add the list send)";
+< 2026.05.07/https://web.archive.org/web/20190402223306/https://github.com/CHEF-KOCH/CKs-FilterList : "Repository unavailable due to DMCA takedown." Last time his profile was active was in: https://web.archive.org/web/20190302002627/https://github.com/CHEF-KOCH/CKs-FilterList
 Adding programs-note:a
 
 Internet popularity-note:v
