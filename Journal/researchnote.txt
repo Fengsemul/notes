@@ -227,6 +227,7 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 2026.07.05/https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/ : 2026.07.05/https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator : "Generate malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole by scanning various public URL sources using the Safe Browsing API from Google and/or Yandex.";
 2026.07.05/https://github.com/elliotwutingfeng/tldextract : "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.";
 https://github.com/elliotwutingfeng/publicsuffix-ruby : "Domain name parser for Ruby based on the Public Suffix List.";
+https://malsilo.gitlab.io/feeds/dumps/malsilo-dns.rules : "Use these rules at your own risk";
 Filter-note:a
 
 Adding programs-note:v
