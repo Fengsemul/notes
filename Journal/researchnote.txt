@@ -270,7 +270,8 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 2026.07.05/https://github.com/elliotwutingfeng/publicsuffix-ruby : "Domain name parser for Ruby based on the Public Suffix List." (Those coders with more respiratories like >320 are smarter and more innovative it seems.);
 2026.07.05/https://malsilo.gitlab.io/feeds/dumps/* : "Use these rules at your own risk";
 2026.07.05/https://filterlists.com/lists/maltrail-i2p gives option to redirect to https://github.com/stamparm/maltrail/blob/master/trails/static/suspicious/i2p.txt instead correctly and expectedly in https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/i2p.txt . Same pattern with 2026.07.05/https://raw.githubusercontent.com/stamparm/maltrail/refs/heads/master/trails/static/suspicious/ipinfo.txt;
-2026.05.07/https://raw.githubusercontent.com/realodix/AdBlockID/refs/heads/main/dist/safesearch.txt : "filter that blocks spam, misleading, and malicious websites from appearing in search results"
+2026.05.07/https://raw.githubusercontent.com/realodix/AdBlockID/refs/heads/main/dist/safesearch.txt : "filter that blocks spam, misleading, and malicious websites from appearing in search results";
+2026.05.07 22:34 As I started 14 hours ago with https://filterlists.com/ with only PiHole filtered and on alphabet, there were 104 or so in numbers of pages in Chromite. Now 22:36 which was loaded at roughly 22:20, it shows 87 pages with PiHole. Maybe they deleted some, maybe they looked at the amount of web.archives that day (2026-07-05) or less likely, my notes complaining about one hyperlink-placement. The cause was probably something external to me. I don't know.
 Filter-note:a
 
 Adding programs-note:v
