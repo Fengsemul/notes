@@ -218,7 +218,7 @@ Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker 
 2026.07.04/At https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt surely, I started to look if this link seems to support PiHole.;
 2026.07.04: https://filterlists.com/lists/adguard-mobile-ads-hosts is in the first pages and in page 88. It repeats also with https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-Korea.txt and other AdBlocks at page 88-92. Loop stops at page 96 with seemingly "Ultimate Hosts Blacklist (Whitelist)" but probably slightly earlier than that, since my focus lays on PiHole compatible lists.;
 2026.07.05/https://divested.dev/hosts-domains : "#Created using Simple Hosts Merger";
-2026.07.05/https://web.archive.org/web/20210726203919/http://malwaredomains.lehigh.edu/files/immortal_domains.txt : #This is a list of long-lived, "immortal", malware domains (There's also an older, proclaimingly never changed list since 2003.);
+2026.07.05/https://web.archive.org/web/20210726203919/http://malwaredomains.lehigh.edu/files/immortal_domains.txt : #This is a list of long-lived, "immortal", malware domains (There's also Gorilla Studio Hosts Project, proclaimingly never changed list since 2003.);
 https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspiciousdomains_High.txt , Medium and Low: "DShield.org Suspicious Domain List
 #    (c) 1900 DShield.org
 #   some rights reserved.";
