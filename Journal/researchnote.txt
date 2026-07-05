@@ -136,13 +136,21 @@ want to continue getting Xbox Live Achievements, then you might need to whitelis
 Xbox, I can't really help you with that, but please see #161 for details.";
 2026.07.05/https://www.reddit.com/r/browsers/comments/1sy0j4v/whats_you_thought_on_ublockdns/ : uBlockDNS being unsafe and 
 focus on Hagaxa and few other filterlists. (uBlock dns has the most filterlists in FilterLists.com. Google Genimi says that 
-PiHole is more customizable than uBlockDNS. PiHole has roughly 1033 filterlists in FilterLists.com and seems to be more 
-customizable than uBlockDNS. uBlockDNS .) https://megalodon.jp/2026-0706-0618-13/https://ublockdns.com:443/ compares itself 
+PiHole is more customizable than uBlockDNS. "Numby_toe • 2mo ago
+UBlock team said to not trust it as much. Before they was okay with that site. But now that it host a 3rd party that uses Ublock name for a DNS service, they are less sure and inject scripts into those websites now to warn people it isn't related to the original github Ublock project. As it free, no limit and suspicious. Unlike other dns that has a payment method, limits or trial. With it also on the block lists for Oisd and Hagezi which are trusted sources for blocking ads and unsafe or malware sites that explicitly block this site.
+
+Best to avoid for sake of your privacy/data. As it doesn't require your account but the it is recording your data and there no real census or backend proof that it is storing it or not even after you delete it. 
+
+If you still not convinced. Then there are service problems with that DNS site using Ublock name, which is it goes down a Lot. So a lot of a time you can't access it.
+
+6"
+(PiHole has roughly 1033 filterlists in FilterLists.com and seems to be more 
+customizable than uBlockDNS.) https://megalodon.jp/2026-0706-0618-13/https://ublockdns.com:443/ compares itself 
 (uBlockDNS) with PiHole. But according to a redditor, HaGeZi blocked ublockdns.com. https://megalodon.jp/2026-0706-0618-
 13/https://ublockdns.com:443/ : "The filter lists that power DNS blocking (HaGeZi, OISD, and others) are open source. 
 They're maintained by volunteers and built specifically for domain-level filtering. But applying them usually means self-
-hosted hardware or a paid subscription. uBlockDNS applies those lists before your device connects." https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt ||ping.ublock.org^
-||data.ublock-browser.com^
+hosted hardware or a paid subscription. uBlockDNS applies those lists before your device connects." https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt > "||ping.ublock.org^
+||data.ublock-browser.com^" I couldnt
 dns block-note:a
 
 PiHole-note:v
