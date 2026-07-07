@@ -17,6 +17,11 @@ https://citizentruth.org/objective-journalism-media-bias-media-history/
 https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
 2023-10-21:a
 
+PiHole filter-note:v
+2026.06.07/https://discourse.pi-hole.net/t/blocklist-collection-10-million-in-one-file/48783 : "command from the Pi terminal to see how many unique domains were blocked by gravity over the duration of your long term database:
+sqlite3 /etc/pihole/pihole-FTL.db "select domain from queries where status in (1,9) group by domain order by domain" | wc -l"
+PiHole filter-note:a
+
 Browser-note:v
 2026.06.23/https://github.com/smed79/search-engine-result-filter : "Alternatively, you can use a web browser with built-in UserScript support like:
 Cromite Browser (Chromium-based fork)
@@ -296,7 +301,7 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 2026.07.06/https://github.com/funilrys/PyFunceble : "PyFunceble aims to provide an accurate availability check through the usage of multiple sources which are for example - to only list a few:
 the WHOIS record(s).
 the DNS record(s).
-the HTTP status code."
+the HTTP status code.";
 Filter-note:a
 
 Adding programs-note:v
