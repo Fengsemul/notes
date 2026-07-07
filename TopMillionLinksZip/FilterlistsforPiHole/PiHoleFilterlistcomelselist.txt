@@ -1522,3 +1522,11 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 https://web.archive.org/web/20231123215034/https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt|link|comprehensive
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ZeuS-Domain-Blocklist-Bad-Domains.txt|link|comprehensive
 https://web.archive.org/web/20230621100715/https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/all_domains.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/advertising.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/tracking.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/malicious.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/suspicious.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/comprehensive.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/nsfw.txt|link|comprehensive
+https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/nsfw_abp.txt|link|comprehensive
