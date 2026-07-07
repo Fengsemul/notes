@@ -201,7 +201,9 @@ nano ~/blocklists.conf
 example-list:https://raw.githubusercontent.com/example/userlist/main/blocklist.txt|MyListName|comprehensive
 nano, delete the line with:
 Ctrl+K
-Ctrl+O Enter Ctrl+X
+Ctrl+O to send save request
+Enter to accept save
+Ctrl+X to close
 Check the file
 cat -n ~/blocklists.conf
 Rebuild the optimized list
@@ -222,7 +224,25 @@ cp ~/pihole_blocklists_prod/all_domains.txt /mnt/c/pihole/etc-pihole/optimized-a
 docker exec -it pihole /usr/local/bin/pihole -g
 
 
-Do not combine them into one line unless you use && between them. Safer for now: one command per line."
+Do not combine them into one line unless you use && between them. Safer for now: one command per line.";
+2026.07.07/use.ai ChatGPT 5.4 nano:
+"Where to find the clean result
+You have two useful output locations:
+Purpose	Path
+Optimizer output in Ubuntu	/home/pc/pihole_blocklists_prod/all_domains.txt
+Copied file used by Pi-hole on Windows	C:\pihole\etc-pihole\optimized-all-domains.txt",
+Preferred DNS server	mine
+Alternate DNS server	leave blank
+"powershell
+ipconfig /flushdns
+nslookup google.com
+nslookup doubleclick.net",
+ Remove the invalid title lines from blocklists.conf
+Delete lines like:
+Advertising Lists|link|comprehensive
+Tracking & Telemetry Lists|link|comprehensive
+Malicious Lists|link|comprehensive
+Other Lists|link|comprehensive;
 PiHole optimizer-note:a
 
 PiHole convert-note:v
