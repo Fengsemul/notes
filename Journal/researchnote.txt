@@ -17,14 +17,6 @@ https://citizentruth.org/objective-journalism-media-bias-media-history/
 https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
 2023-10-21:a
 
-AdGuard-note:v
-https://www.reddit.com/r/selfhosted/comments/10wrisk/in_depth_comparison_pihole_vs_adguardhome_vs/ : "Someone at my work brought up the fact that AdGuard was a Russia based company before it moved to Cypress. And now it has me worried so this comparison is right on time.
-6 jogai-san
-• 3y ago
-Blocky is the newest entrant in the DNS filtration arena
-Its 3 years old now..."
-AdGuard-note:a
-
 PiHole filter-note:v
 2026.06.07/https://discourse.pi-hole.net/t/blocklist-collection-10-million-in-one-file/48783 : "command from the Pi terminal to see how many unique domains were blocked by gravity over the duration of your long term database:
 sqlite3 /etc/pihole/pihole-FTL.db "select domain from queries where status in (1,9) group by domain order by domain" | wc -l";
@@ -126,6 +118,37 @@ Blacklist-note:v
 https://github.com/TG-Twilight/HostlistsRegistry/tree/main/filters/ already includes most of the recommended blacklists for smaller pihole-list. Also AdGuard-filter-list seems to include them all.;
 Blacklist-note:a
 
+DNS comparasion-note:v
+https://www.reddit.com/r/selfhosted/comments/10wrisk/in_depth_comparison_pihole_vs_adguardhome_vs/ : "Someone at my work brought up the fact that AdGuard was a Russia based company before it moved to Cypress. And now it has me worried so this comparison is right on time.6 jogai-san• 3y ago
+Blocky is the newest entrant in the DNS filtration arena
+Its 3 years old now...";
+2026.07.09/https://www.reddit.com/r/selfhosted/comments/1bfil5w/what_do_you_use_pihole_or_adguard_home/ : "I use technitium dns",
+"Hmm looks like the next techy step from pihole.
+Does it handle DNS over HTTPS?3T3a_Rex
+•2y ago
+yes, it does
+4", "vember31•2y ago
+Another vote for blocky. Have used pihole and Adguard but blocky is more lightweight, has tons of features and is way better for a kubernetes deployment. I'm running it as a daemonset to provide high availability across several servers and it's effortless. Infrastructure as code is the way to go. 5",
+"vember31 • 2y ago Another vote for blocky. Have used pihole and Adguard but blocky is more lightweight, has tons of features and is way better for a kubernetes deployment. I'm running it as a daemonset to provide high availability across several servers and it's effortless. Infrastructure as code is the way to go. 5",
+"GigabitISDN • 2y ago I was using pi-hole until I switched over to NextDNS.
+Just remember that no matter what you choose, you must also block outbound DNS requests at your firewall. Many smart devices are hardcoded to use 8.8.8.8 no matter what DHCP says, mainly so they can bypass adblockers. If you don't block outbound DNS, or reroute it to your Pi-hole, it won't do anything to filter those requests. 46",
+"ABarge • 2y ago
+PiHole is pretty straight forward.
+Just in case you didn't know there is also Technitium. I was using PiHole but wanted to run 2 DNS servers so when I update one it rolls over all DNS requests to the other one. piHole would have required outside software and adjustments whereas 2x Technitium can be set up to handle this easily.
+It's similar to piHole and uses a URL block list as well. If you only plan on running one DNS server any will do. But if you want to up your DNS game then Technitium is worth taking a look at.
+5 BonzTM • 2y ago
+For those using one or the other for the specific case of encrypted DNS for "security" or "privacy", stop sending your DNS queries out to corporation-owned servers to begin with and start recursively resolving those queries yourself and getting results from trusted authoritative root nameservers. Unbound is a popular tool to do such thing.
+Oh yea, the OP's question. I've tried them all. Currently physically have some Pis that run pihole+unbound with my whole network being blocked on 53 outbound.
+13 u/zfa avatar zfa • 2y ago Thing is if your recurse to the roots your traffic is completely unencrypted upstream, so it becomes a matter of 'do you trust your ISP and the rest of the chain to not snoop on your unencrypted queries more than whatever encrypted upstream resolver you use'.
+If you actually care about privacy you should go for something like anonymised dnscrypt, oblivious DoH or double-hop queries etc.",
+"Shotokant 2y ago Edited 2y ago
+Over thge last 5 years, tried pihole on a synology docker. OK but had a failure and no DNS one day. Went to a real pi with pi hole. Then explored and set up adguard on docker. Ran that a while and the docker adguard became default. Reused the pi.
+Then the docker failed and all dns in the house failed. So I used adguard dns online and a local for redundancy and the free online version as splitting the requests kept me under the free limit.
+Then I got over the limit and thought wtf am I doing paying for this. So found two old pis. Loaded pihole on each. Set them as primary and secondary and put one on a ups. That's where I am today.
+Upvote5Finno_•2y agoWhat a wild ride. But you made it!
+Upvote3Angreek•2y ago
+I think the answer is pi-hole. Still uncertain"
+DNS comparasion-note:a
 
 dns block-note:v
 2026.07.03-04/bing.com/search?q=domain+blocklists+for+web+filtering+on+firewall : 2026.07.03/https://deepwiki.com/blocklistproject/Lists : Free & open-source: Pi-hole, DNSMasq;
