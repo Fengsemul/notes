@@ -118,6 +118,8 @@ uBlacklist-note:a
 Blacklist-note:v
 2026.07.05/Discovered by 2026.07.05/https://github.com/stamparm/maltrail/ ; 2026.07.05/https://github.com/stamparm/maltrail/ : Blocklists;
 https://github.com/TG-Twilight/HostlistsRegistry/tree/main/filters/ already includes most of the recommended blacklists for smaller pihole-list. Also AdGuard-filter-list seems to include them all.;
+2026.07.09/https://oisd.nl/ : "You shouldn't find any false positives!
+In fact, I dare you to report any ;)";
 Blacklist-note:a
 
 DNS comparasion-note:v
