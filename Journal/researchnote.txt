@@ -28,6 +28,8 @@ Browser-note:v
 Cromite Browser (Chromium-based fork)
 Via Browser (WebView-based mobile browser)
 ";
+2026.07.09/https://pgl.yoyo.org/adservers/ : "Mozilla's Cookie Filtering
+Pinder Johal detailed in his blogzilla how to use the list to block ads with Mozilla. to do this, download the list as a cookie permission file, and put it in "C:\Documents and Settings\User\Application Data\Mozilla\Profiles\user\*.slt" (this is the directory for Windows 2000/XP users, so it will probably differ on other platforms). have a look at his site for more info."
 Browser-note:a
 
 Archive-note:v
