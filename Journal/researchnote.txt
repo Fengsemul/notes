@@ -156,7 +156,8 @@ customizable than uBlockDNS.) https://megalodon.jp/2026-0706-0618-13/https://ubl
 13/https://ublockdns.com:443/ : "The filter lists that power DNS blocking (HaGeZi, OISD, and others) are open source. 
 They're maintained by volunteers and built specifically for domain-level filtering. But applying them usually means self-
 hosted hardware or a paid subscription. uBlockDNS applies those lists before your device connects." https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt > "||ping.ublock.org^
-||data.ublock-browser.com^" I couldnt
+||data.ublock-browser.com^" I couldnt find that claim at primary source.;
+2026.07.09: Blocky is simple, light-weight, free and has no demo-version.
 dns block-note:a
 
 PiHole-note:v
@@ -274,7 +275,11 @@ tail -n 50 path/to/OUTPUT_FILE.txt
 PiHole convert-note:a
 
 Large PiHole list-note:v
-2026.07.05/https://filterlists.com/lists/meinhimmel-hosts : "These are my own additional annoying domains. For use with StevenBlack, may break randomly."
+2026.07.05/https://filterlists.com/lists/meinhimmel-hosts : "These are my own additional annoying domains. For use with StevenBlack, may break randomly.";
+[2ß26.07.09: https://www.reddit.com/r/pihole/comments/mrn177/how_many_blocklist_is_enough/;
+https://discourse.pi-hole.net/t/amount-domains-to-be-handled-by-pi-hole/33642 : https://discourse.pi-hole.net/t/which-adlists-do-you-really-need-here-is-the-answer-script/32181 ;
+https://github.com/zachlagden/Pi-hole-Optimized-Blocklists ;
+https://github.com/stevejenkins/pi-hole-lists]
 Large PiHole list-note:a
 
 Filter-note:v
