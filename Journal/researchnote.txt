@@ -114,7 +114,8 @@ https://duckduckgo.com/settings : "Infinite Scroll Loads more results when scrol
 
 uBlacklist-note:a
 Blacklist-note:v
-2026.07.05/Discovered by 2026.07.05/https://github.com/stamparm/maltrail/ : 2026.07.05/https://github.com/stamparm/maltrail/ : Blocklists;
+2026.07.05/Discovered by 2026.07.05/https://github.com/stamparm/maltrail/ ; 2026.07.05/https://github.com/stamparm/maltrail/ : Blocklists;
+https://github.com/TG-Twilight/HostlistsRegistry/tree/main/filters/ already includes most of the recommended blacklists for smaller pihole-list.
 Blacklist-note:a
 
 
