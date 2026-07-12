@@ -516,7 +516,7 @@ Command for splitting chunks for chrome-extension:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
 $in  = "C:\Users\PC\Downloads\cleanurl\m\top100and1and10millions.txt"
 $out = "C:\Users\PC\Downloads\TopMillion\uBlacklist10millionurl"
-$maxKB = 180922
+$maxKB = 361844
 
 Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $out
 New-Item -ItemType Directory -Force -Path $out | Out-Null
