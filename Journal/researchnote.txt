@@ -120,7 +120,8 @@ Blacklist-note:v
 https://github.com/TG-Twilight/HostlistsRegistry/tree/main/filters/ already includes most of the recommended blacklists for smaller pihole-list. Also AdGuard-filter-list seems to include them all.;
 2026.07.09/https://oisd.nl/ : "You shouldn't find any false positives!
 In fact, I dare you to report any ;)";
-2026.07.09/https://github.com/MajkiIT/polish-ads-filter/blob/master/polish-pihole-filters/readme.md & https://github.com/MajkiIT/polish-ads-filter/blob/master/polish-pihole-malware-filters/readme.md has known blocklists for different extensions ones converted for PiHole.
+2026.07.09/https://github.com/MajkiIT/polish-ads-filter/blob/master/polish-pihole-filters/readme.md & https://github.com/MajkiIT/polish-ads-filter/blob/master/polish-pihole-malware-filters/readme.md has known blocklists for different extensions ones converted for PiHole.;
+https://web.archive.org/web/20220825130047/https://github.com/jmdugan/blocklists/tree/master/ad_servers
 Blacklist-note:a
 
 DNS comparasion-note:v
