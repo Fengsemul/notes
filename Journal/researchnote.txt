@@ -445,6 +445,8 @@ Top Websites-list:v
 2026.06.23/https://github.com/zakird/crux-top-lists/blob/main/data/global/current.csv.gz ; 
 2026.06.23/https://github.com/PeterDaveHello/top-1m-domains ; 
 2026.06.23/https://www.visualcapitalist.com/100-websites-rule-internet/ ;
+2026.07.12/https://github.com/rix4uni/top-1m-domains/blob/master/alldomains.txt.gz ;
+2026.07.12/https://www.covert.io/data-links/
 2026.06.23/https://www.quora.com/What-is-the-largest-publicly-available-index-of-the-web : www.seomoz.org/api ;
 2026.06.23/https://builtwith.com/top-1m ; 2026.06.23/https://github.com/DhaeyerWolf/domaincheck for checking same domains; 2026.06.23/https://github.com/tb0hdan/domains/tree/master/data . "Sorry, we had to truncate this 
 directory to 1,000 files. 518 entries were omitted from the list. Latest commit info may be omitted.";
@@ -452,6 +454,7 @@ directory to 1,000 files. 518 entries were omitted from the list. Latest commit 
 2026.06.29/domainrank.io/ with 1 milion;
 https://domains-monitor.com/ ;
 https://newly-registered-domains.whoisxmlapi.com/ ;
+2026.07.12/https://github.com/jmdugan/blocklists/tree/master : corporations
 Top Websites-list:a
 
 Top Websites summerized -folderv
