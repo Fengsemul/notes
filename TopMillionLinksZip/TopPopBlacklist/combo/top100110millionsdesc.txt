@@ -1,0 +1,16 @@
+-103wire.canva-apps.cn
+-12.canva-apps.cn
+-152.canva-apps.cn
+-157.canva-apps.cn
+-17.canva-apps.cn
+*.googleapis.com
+_udp.appspot.com
+_wildcard_.com.ph
+_wildcard_.mil.ph
+_wildcard_.net.ph
+_wildcard_.ngo.ph
+_wildcard_.org.ph
+_wildcard_.ph
+_wildcard_.ws
+_wildcard_.xn--fiqs8s
+_wildcard_.xn--fiqz9s
