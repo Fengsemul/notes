@@ -3,7 +3,8 @@ https://www.webbrowserdirectory.com/browsers/ : 541 more than https://github.com
 browser-list:a
 
 useful browsers:v
-2026.07.13/github.com/nerdyslacker/desktop-web-browsers : "Cloak Browser	Chromium	Windows, Linux, macOS	Stealth Chromium that passes every bot detection test"
+[2026.07.13/github.com/nerdyslacker/desktop-web-browsers : "Cloak Browser	Chromium	Windows, Linux, macOS	Stealth Chromium that passes every bot detection test";
+Light Browser	CefSharp	Windows	One-Tab-Browsing for low memory usage [Archived] ]
 useful browsers:a
 
 lightweighted browser-note:v
