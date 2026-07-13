@@ -1,7 +1,6 @@
 name: Wiby
 homepage: https://wiby.org/
 lastModified: 2026-07-13T00:00:00Z
-
 pages:
   - name: Default
     matches:
