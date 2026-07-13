@@ -750,7 +750,8 @@ Crx4Chrome (unofficial) Features archived versions of extensions", "Recommended 
 enhanced-h264ify
 Use fewer resources during YouTube playback by using H.264 instead of VP8/VP9
 uBlock Origin
-An efficient content blocker. Direct link to the official Git with all releases in unpacked form"
+An efficient content blocker. Direct link to the official Git with all releases in unpacked form";
+2026.07.13/"Search Booster: More Results & Country Search for Google" loads 200 results.;
 Extension-note:a
 
 Experimental search engine-not:v
