@@ -743,7 +743,10 @@ with ""medium.com"" & assumingly all domains.;
 2026.06.23/Dev Search Filter -The Google search filter for engineers-;
 2026.07.04/Web.archive.org Auto-Archiver
 1.0.4 doesnt follow Google Standard practices meanwhile AutoSave to Wayback Machine
-2.1.0 does.
+2.1.0 does.;
+2026.07.13/https://win32subsystem.live/supermium/extensions/ : "Chrome Web Store (official)
+The official Google Chrome Web Store
+Crx4Chrome (unofficial) Features archived versions of extensions"
 Extension-note:a
 
 Experimental search engine-not:v
