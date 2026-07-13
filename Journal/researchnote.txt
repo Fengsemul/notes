@@ -752,6 +752,9 @@ Use fewer resources during YouTube playback by using H.264 instead of VP8/VP9
 uBlock Origin
 An efficient content blocker. Direct link to the official Git with all releases in unpacked form";
 2026.07.13/"Search Booster: More Results & Country Search for Google" loads 200 results.;
+2026.07.13/https://www.reddit.com/r/MicrosoftEdge/comments/1cdmgap/comment/l1zoryz/?force-legacy-sct=1 : "
+TabletX•2y ago• Edited 2y ago
+I remember I discovered and switched to ViolentMonkey, due to some TamperMonkey controversy.    https://www.reddit.com/r/PrivacyGuides/s/IYDAJAE3B0   https://www.reddit.com/r/FirefoxAddons/s/ba1zO9h4EV"
 Extension-note:a
 
 Experimental search engine-not:v
