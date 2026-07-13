@@ -7,16 +7,16 @@ pages:
       - http://www.secretsearchenginelabs.com/find/*
       - http://www.secretsearchenginelabs.com/findmore/*
     results:
-      - name: Web results
+      - name: Web results (title)
         root: h3.result
         url: a[rel="nofollow"]
         props:
           title: a[rel="nofollow"]
-           - name: Snippet blocks
-        root: .url_link
-        url: a
+      - name: Web results (snippet)
+        root: [upward, 1, ".url_link"]
+        url: [property, "textContent", ".url_link a"]
         props:
-          title: a
+          title: [property, "textContent", ".url_link a"]
     commonProps:
       $site: secretsearchenginelabs
       $category: web
