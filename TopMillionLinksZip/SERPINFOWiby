@@ -6,12 +6,12 @@ pages:
   - name: Default
     matches:
       - https://wiby.org/?*
-    results:
-      - name: Web results
-        root: blockquote a.tlink
-        url: [attribute, "href"]          # href of the root <a>
-        props:
-          title: [property, "textContent"] # text of the root <a>
+results:
+  - name: Web results
+    root: blockquote
+    url: a.tlink            # auto-returns href of the <a> descendant
+    props:
+      title: a.tlink        # textContent of the <a> descendant
     commonProps:
       $site: wiby
       $category: web
