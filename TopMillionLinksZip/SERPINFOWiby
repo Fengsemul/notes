@@ -1,17 +1,17 @@
 name: Wiby
-homepage: (https://wiby.org/
+homepage: [wiby.org](https://wiby.org/)
 lastModified: 2026-07-13T00:00:00Z
 
 pages:
   - name: Default
     matches:
-      - https://wiby.org/?*
+      - [wiby.org](https://wiby.org/?*)
     results:
       - name: Web results
-        root: blockquote a.tlink
-        url: [attribute, "href"]
+        root: blockquote
+        url: a.tlink
         props:
-          title: [property, "textContent"]
+          title: a.tlink
     commonProps:
       $site: wiby
       $category: web
