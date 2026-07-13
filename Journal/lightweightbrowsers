@@ -4,7 +4,7 @@ browser-list:a
 
 useful browsers:v
 [2026.07.13/github.com/nerdyslacker/desktop-web-browsers : "Cloak Browser	Chromium	Windows, Linux, macOS	Stealth Chromium that passes every bot detection test";
-Light Browser	CefSharp	Windows	One-Tab-Browsing for low memory usage [Archived] ]
+"Light Browser	CefSharp	Windows	One-Tab-Browsing for low memory usage [Archived]", "Edgescape Navigator	EdgeWebView2	Windows	Just a web browser, no bloatware, no mess and no unnecessary features"]
 useful browsers:a
 
 lightweighted browser-note:v
