@@ -746,7 +746,11 @@ with ""medium.com"" & assumingly all domains.;
 2.1.0 does.;
 2026.07.13/https://win32subsystem.live/supermium/extensions/ : "Chrome Web Store (official)
 The official Google Chrome Web Store
-Crx4Chrome (unofficial) Features archived versions of extensions"
+Crx4Chrome (unofficial) Features archived versions of extensions", "Recommended Extensions
+enhanced-h264ify
+Use fewer resources during YouTube playback by using H.264 instead of VP8/VP9
+uBlock Origin
+An efficient content blocker. Direct link to the official Git with all releases in unpacked form"
 Extension-note:a
 
 Experimental search engine-not:v
