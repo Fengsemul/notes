@@ -358,4 +358,1611 @@ https://github.com/xyloblonk/lightweight-browser : " A Chromium based browser th
 A blazing-fast, super-light Chromium-based browser using under 300MB RAM (Over time it can get around 500MB due to cache but the browser its self uses under 300MB in pretty much every scenario, it's extremely difficult to push it over 300MB) built for low-end PCs....
 "..."Why I Made This  I got tired of browsers eating up all my resources, especially when gaming on low-end systems. So I built a no-bloat, privacy-minded browser that doesn’t sacrifice developer tools, localhost support, or modern features but still keeps your system snappy and secure. Why this browser?  If you’re tired of browsers that:      Devour your RAM and GPU resources      Fill your pages with ads, trackers, and bloat      Fail to run smoothly on integrated or older GPUs      Don’t respect your privacy or time  This browser is your no-nonsense, fast alternative that puts performance and privacy first with gaming-friendly resource management. Features Core      Chromium-based for wide compatibility and modern web standards      Under 300MB RAM usage even with multiple tabs open      Tabs supported with smooth switching via Electron BrowserViews      Dark mode injected into every webpage via custom CSS      Built-in AdBlocker & SponsorBlock integration using ghostery adblocker and custom SponsorBlock injection for YouTube videos      Smart URL input: navigates directly or searches via DuckDuckGo      LocalStorage-based form caching to keep you logged in across sessions (implemented on a per-site basis)      GPU optimizations: disables unnecessary GPU usage to boost FPS on iGPUs and low-end graphics hardware  Technical      Electron IPC architecture separating UI (renderer) and main browser logic      Dynamic tab management: create, switch, and navigate tabs seamlessly      SponsorBlock API integration skips sponsored segments on YouTube automatically      CSS injection for dark mode and reduced UI clutter on sites      Graceful fallback on adblocking failures silently logs errors without breaking pages  Installation & Usage  You need to download NodeJS from https://nodejs.org/en/download (You should see "Or get a prebuilt Node.js® for Windows running a x64 architecture.", just click download .msi and run it. NodeJS is safe and used by governments, schools, banks, even Google and Microsoft.) Once you've done that do the following:      Download this repo      Run in the root directory:  npm install  Wait until it finishes and run:  npm start  That’s it. Your lightweight, speedy browser launches ready to roll. Planned Features      Native installer and auto-updater      Enhanced UI and theming options      Extended custom blocklists and user script support      Better localStorage management for session persistence"
 
+2026.07.13/https://www.reddit.com/r/browsers/comments/1ffol4k/whats_the_best_lightweight_browser/ : " ThisCatLikesCrypto • 2y ago  Do you want lightweight, or fast? Honestly just ungoogled chromium is pretty good for low resource usage but there are faster browsers that consume more resources. 16 upvotes",
+"smirkjuice•2y ago
+Best thing, like ThisCatLikesCrypto said is to switch to some sort of Linux distro.
+If you do really need to stay on Windows, though, you can get Windows 10 IoT Enterprise LTSC through Massgrave, it's designed to run on low-end hardware.
+Also, if you got VS Code through the Microsoft download, it's got a whole bunch of bloat and telemetry, and is running on some shitty slow framework, so try VS Codium. Codium doesn't use the Microsoft marketplace, so you'll need to manually install extensions from .VSIX files if the Codium marketplace doesn't have an extension you need 4 upvotes",
+"Status_Shine6978 • 2y ago  Try the Min browser or DuckDuckGo for desktop. 7 u/Sensitive_Garden_815 avatar Sensitive_Garden_815 OP • 2y ago  Thanks I'm installing it! 2 u/Sudden-Tree-766 avatar Sudden-Tree-766 • 2y ago  use linux and you will free up about 4gb of ram without doing anything :-) 6 [deleted] • 2y ago  Second this, Fedora Linux even with GNOME desktop would be a landslide in performance over Windows. 2 XFCE4_enjoyer • 2y ago  I use linux but my chromiun takes %13 and 1300mb and firefox somehow %150 cpu 1 [deleted] • 2y ago  Imho Falkon Is better than most lightwight 4 RakinWoah • 2y ago  is it available for windows? 1 KlarDuCK • 2y ago  Edge is the best choice in this case. Very good resource management (even on MacOS), very fast in nearly every browserbenchmark and daily doings. Go for it, if you don't mind Microsoft collecting your browser history. 5 PortCityBlitz • 2y ago  I'm using Zen browser right now and while it's still early days in its development it is fantastic while being resource-light. 2 [deleted] • 2y ago  Browsers consume resources… they all do, difference is minimal when fully loaded. It all depends on your use case and what hardware you are running. To provide best experience, resources are needed… 2 shadowreflex10 • 2y ago  Thorium??? It's pretty good at memory and browsing speed. 2 [deleted] • 2y ago  Windows 10 is also the problem, it uses a lot of RAM. Firefox should be perfectly fine on this setup if it had Fedora Linux. 2 u/feelspeaceman avatar feelspeaceman • 2y ago  No lightweight browsers exist since 2012 or something, because Chrome changed everything, there's no multi-process & lightweight browsers exist at the same time, multi-process is heavy memory, no matter what you do.  Multi-process, or: the drawbacks nobody ever talks about.  Read this, you can disbelieve this post if you think you're better than a dev. Don't get tricked by those barebone browsers with only addressbar and searchbar if they use multi-process architecture, they're still heavy, use your knowledge to measure them, not their UI only.  Your best bet is: K-Meleon , Palemoon 4 u/ethomaz avatar ethomaz • 2y ago  That is not exactly true. The amount of memory for each new process is very small... so the difference between single-process or multi-process will be in few additional MBs.  But the advantages vastly overcome these small RAM use differences due the fact that the multi-process browser will try to use all cores of your CPU making everything way faster... like 100%, 200%, 400%, 800% faster based of how many cores your CPU has. While single process browser will be limited to use one single core. That is why Palemon takes 1 minute to open a set of sites that takes 10s or less in Chrome or Firefox.  Are you really worried about some MBs difference when you are web browsing 4x, 8x slower? The trade is not worth.  Plus process isolation in multi-process browser add way more security than any single-process browser can have... in a multi-process browser even if a hacker takes control of a page or extension process they can't do nothing to harm your computer... not even access the file system.  In single-process browser if they take control of that process they can do anything the browser can do... including the access to file system to read (confidential data) or write anything (virus and add to auto start). 1 BaudouinVH • 2y ago  Lynx is fast and lightweight. Lynx is also a not-showing-images, comand-line browser. 3 u/Sensitive_Garden_815 avatar Sensitive_Garden_815 OP • 2y ago  bro seriously you think it will it get my job done? 1 XFCE4_enjoyer • 2y ago  yes 1 firebreathingbunny • 2y ago  K-Meleon is the lightest you'll find 1 Cautious_Use_4571 • 2y ago  Ungoogled Chromium and don't forget to enable Memory saver 1 Rusteze-Mcqueen • 2y ago  Maybe try Notepad++ if you had change of mind... 1 [deleted] • 2y ago  “suckless’ surf” is what you want 1 Donieck • 2y ago  I think Palemoon and Basilisk is the best options 1 u/2049AD avatar 2049AD • 2y ago  Try Zen. Everyone else seems to be. -1 u/EnvironmentalMix8887 avatar EnvironmentalMix8887 • 2y ago  Google Chrome is best out of all of those other web browsers -7 [deleted] • 2y ago  No no no no no. Chrome is the devil in resource consumption. 1 u/EnvironmentalMix8887 avatar EnvironmentalMix8887 • 2y ago  How do you know? 0 [deleted] • 2y ago  Open htop, task manager or similar and you will find that half your RAM is used by Chrome. 1 upvote",
+https://indepthnotes.com/life_lessons/Should_I_Use_Suckless_Surf.html . "      Indepthnotes     Contact     Donate     Zetels     Life Lessons Blog  Should I Use or Install Suckless Surf?  Suckless tools and software are often not as accessible to the layman user. There are not many YouTube videos on the subject for example. This lack of hand holding is actually what attracts people to it, including me. I want to feel like I am part of a more exclusive group, where the average person I am talking to in the group is smarter than me.  I also love, and borderline crave, the feeling of being able to do something I always do, but with less dependencies, less people holding my hand, and less complication. A genius admires simplicity. What had started with me wanting to see what the suckless interpretation of a web browser would look like, and a desire to start off with a we browser without tabs for once, lead me to a journey of hand coding my own adblockers and distraction free css code. I also got more than I bargained for, and realised how addictive, fun but also possibly time wasting the endless pursuit of new and “better” tools were to my general productivity and more generally my focus, the very thing that I wanted to preserve with installing surf. Why did I want to install surf?  If you look at the page https://surf.suckless.org/ you will find these words describing surf. “I am now much less distracted and more focused when browsing the web.” - Simon Rozet. These are the words that separated the pre-surf Kab and the post-surf Kab. Pre-surf Kab accepted that the web is broken, and that this part of his life was never going to fit neatly into a box. In the place where YouTube drama, X f.k. Twitter “beefs” and Facebook Fake-news exists, there will never be focus. Or so pre-surf Kab thought.  Post-surf Kab, although a step above pre-surf Kab, has lost days and days of productive time to compiling, configuring, patching, editing the styles.css and script.js for the right surf experience. I currently feel a mix of accomplishment, excitement, optimism and somewhat shame from the lessons learnt (I ended up compiling webkit 3 times), the mistakes made and the doors opened.  There is also the general reason why I wanted to convert all my current tools to their suckless equivalent where possible. I want to learn C programming, and having tools that exclusively use C is very helpful. I can see how a large, well-designed project is made. Patches and changes to the program are things that I can read, and if they don’t work quite right, then I can adapt them to my needs.  Suckless tools are also just somewhat fun. It’s fun to see what you can do with them. I didn’t know exactly what surf was capable of until I started to use it. But this is what had drawn me into at least giving it a go. Compilation tips  suckless advises you to compile your own webkit, and I followed them. I tried to install surf on openbsd using the package managers webkit and YouTube videos did not work properly. You want to remove all possible points of failure when building webkit, so unlike the advice given in https://troubleshooters.com/linux/surf.htm I decided to compile my own webkit (However, the troubleshooters article on surf was very helpful, and a must read for anyone who wants to use surf). compile the right webkit (webkit2gtk or webkitgtk-2.42.5.tar.xz)  You want to compile webkit2gtk. At the time of writing, the link is this https://webkitgtk.org/reference/webkit2gtk/stable/ . You want the version that is described as “deprecated”. Do not compile the current stable version of webkit, which is webkit-6. You want something packaged like webkit2gtk-4.1 . The compilation process takes a really long time if you are using a fairly low-end laptop. I never considered my computer low-end, it has 8gb of ram and a cpu of 8 cores and 3.4ghz. Compilation was very long. You don’t want to realise you have the wrong webkit too late.  Go to https://webkitgtk.org/releases/ and find the compressed file with the version corresponding to the version described at said https://webkitgtk.org/reference/webkit2gtk/stable/ . At the time of writing the latest version of webkit2gtk is https://webkitgtk.org/releases/webkitgtk-2.42.5.tar.xz  Set aside some time where you can’t use your computer. If your specs are the same as mine, this will take at least 5 hours. webkit2gtk’s dependencies and the “configure” step  I initially got the wrong version of webkit, and had to install additional dependencies, so this list may have a few additional and unnecessary packages. The general gist is that you try to compile, you get an error, and then you try to install the program that's missing and recompile.  The wiki (https://trac.webkit.org/wiki/BuildingGtk) uses  cmake -DPORT=GTK -DCMAKE_BUILD_TYPE=RelWithDebInfo  -GNinja  But what worked for me was  cmake -DPORT=GTK -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_FLAGS="-Wl,--no-keep-memory -Wl,--reduce-memory-overheads -g0 -Os" -DCMAKE_CXX_FLAGS="-Wl,--no-keep-memory -Wl,--reduce-memory-overheads -g0 -Os" -DUSE_LD_GOLD=OFF -GNinja  credit: https://bugs.gentoo.org/641398      Here is a list of the webkit2gtk dependencies. YMMV. If you are compiling any of the dependencies of webkit from source, I would recommend having a applications directory, then a subdirectory called something like “surf_deps” so you can keep track of the dependencies a bit easier. I made a directory “~/applications/surf_deps/”:     LibGcrypt     Unifdef     libgtk-3-dev     libsoup 3     libmannette 0.2     libsecret-1     gi-docgen     enchant-2-dev     libjxl (run the git submodules for the recursive deps)         libc++-15-dev (symlink so.6 to so)         libatomic.so.1 to so         libhwy-dev     libhyphen-dev     libwoff-dev     libavif     libsystemd     liblcms2     libbacktrace (*)     libseccomp     libgstreamer1.0-dev     gcr-dev     libwpe     wpebackend-fdo  One of the libraries (possibly libbacktrace) gave me this prompt, just do what it says and you will be fine.  Libraries have been installed in:    /usr/local/lib  If you ever happen to want to link against installed libraries in a given directory, LIBDIR, you must either use libtool, and specify the full pathname of the library, or use the `-LLIBDIR' flag during linking and do at least one of the following:    - add LIBDIR to the `LD_LIBRARY_PATH' environment variable      during execution    - add LIBDIR to the `LD_RUN_PATH' environment variable      during linking    - use the `-Wl,-rpath -Wl,LIBDIR' linker flag    - have your system administrator add LIBDIR to `/etc/ld.so.conf'  See any operating system documentation about shared libraries for more information, such as the ld(1) and ld.so(8) manual pages.  The make step  Again, the article on building uses just  ninja  But I used  ninja -j1 -l1 -k0  The j flag is to limit the concurrent processes completely, and only do things in series (I tried even -j2 but it would not work)  The l flag means that ninja should not start new jobs if the load average is greater than 1. According to https://github.com/ninja-build/ninja/issues/630 . This means that if the equivalent of 1 core is at 100% capacity, do not start a new job.  The k flag means that even if something fails, don’t stop, just keep trying to compile what you can. This is there so that if I run the compilation overnight (which I do not recommend doing as I spent a lot of the night wanting to check if the compilation was complete) then ninja would compile as much as it could without regard to certain errors.  The hardest part of the process is waiting and not being able to use your computer for the hours it took to compile.  If on a low spec machine like mine, I would recommend having a swap file about the same size of your ram if you do not already, if it is not needed it can be turned off later, but on a limited ram spec like mine it made a huge difference.  If all goes well you can run  ninja install  as root and congratulations, you have compiled webkit2gtk from source. If you don’t feel good, honestly you should, because it might have been a long process. This is the heavy door that needs to be pushed open if you want the surf experience. It felt to me like a true rite of passage, much like I discussed earlier. Not many people would do what you have hopefully accomplished. change the config.mk file  Change the config.mk file to match the version of the software you installed. For me, the section of the diff file looks like  #change this -GTKINC = `pkg-config --cflags gtk+-3.0 gcr-3 webkit2gtk-4.0` -GTKLIB = `pkg-config --libs gtk+-3.0 gcr-3 webkit2gtk-4.0` -WEBEXTINC = `pkg-config --cflags webkit2gtk-4.0 webkit2gtk-web-extension-4.0 gio-2.0` -WEBEXTLIBS = `pkg-config --libs webkit2gtk-4.0 webkit2gtk-web-extension-4.0 gio-2.0`  #to this +GTKINC = `pkg-config --cflags gtk+-3.0 gcr-3 webkit2gtk-4.1` +GTKLIB = `pkg-config --libs gtk+-3.0 gcr-3 webkit2gtk-4.1` +WEBEXTINC = `pkg-config --cflags webkit2gtk-4.1 webkit2gtk-web-extension-4.1 gio-2.0` +WEBEXTLIBS = `pkg-config --libs webkit2gtk-4.1 webkit2gtk-web-extension-4.1 gio-2.0`  I also changed the defconfig array in config.h so that WebGl was 1, and enabled.  Then run  sudo make clean install  If all went well, you know have the basic installation of surf. Now for the really fun part experimental distraction free Youtube  This does not work perfectly, but you may want to add this to your script.js file. The location of the script.js file should be in the config.h of your surf source directory. Please consider buying youtube premium instead of trying to add the adblock code below. It supports creators better and is not against YouTube. This is mainly to show how you could implement adblock rather than using a plugin for it. It’s a bit of a hacky solution, as the ad video may play for up to 0.5 seconds, but it works for me, and the fact that Its adblock that I've coded in, I'll allow myself some leeway.  // script.js // if the youtube video is a youtube short convert it to a normal video // hide shorts tab and convert short videos into regular videos function blockShorts() {     if (/^https:\/\/www.youtube.com\/shorts\//.test(window.location.href)){ 	var url = window.location.href; 	url = url.replace("https://www.youtube.com/shorts/","https://www.youtube.com/watch?v="); 	// print(url); //debug 	window.location.replace(url);     }     // remove altogether     document.querySelectorAll('[aria-label=Shorts]').forEach(el => el.closest('ytd-mini-guide-entry-renderer').remove()) }  // https://github.com/theartist007/youtube-ad-blocker/issues/5 function hideAds() {     if(document.getElementsByClassName("ytp-ad-text").length > 0) { 	const video = document.getElementsByClassName("video-stream html5-main-video")[0]; 	video.play(); 	video.pause(); 	video.currentTime = video.duration; 	const video1 = document.getElementsByClassName("video-stream html5-main-video")[1]; 	video1.play(); 	video1.pause(); 	video1.currentTime = video1.duration;     }      if(document.getElementsByClassName("ytp-ad-overlay-close-button").length > 0) { 	document.getElementsByClassName("ytp-ad-overlay-close-button")[0].click(); 	document.getElementsByClassName("ytp-ad-overlay-close-button")[1].click();     } }  window.setInterval(hideAds, 500); window.setInterval(blockShorts, 500);  You may also want to disable certain css items so that Youtube is less distracting.  /* styles.css */ /* turn off sidebar recommended in youtube */ div#related.style-scope.ytd-watch-flexy {     display:none !important; }  /* turn off recommended in youtube homepage*/ /* div#primary.style-scope.ytd-two-column-browse-results-renderer { */ /*  display:none !important; */ /* } */ /* TODO turn on recommendations on channels */ div[page-subtype="channels"]#primary.style-scope.ytd-two-column-browse-results-renderer {     display:block !important; }       Ultimately, you may have to consider using invidious, ytfzf or another method entirely if you want a more focused youtube experience. distraction free stack overflow and web.whatsapp (can be extrapolated to other social media sites)  The main idea is to inspect element on the components of the web that you want hidden, and then use display:none to hide it. Here is what I came up with.  /* styles.css */ /* remove sidebar in stackoverflow */ div#sidebar.show-votes {     display:none !important; } div#hot-network-questions.module.tex2jax_ignore {     display:none !important; } div.left-sidebar--sticky-container.js-sticky-leftnav {     display:none !important; }  /* whatsapp web */ div._ak8n { /* profile picture on the left inbox list */     display:none !important; } div._ak8j { /* preview message on the left inbox list */     display:none !important; } .xh8yej3.x5yr21d.x14yjl9h.xudhj91.x18nykt9.xww2gxu { /* profile picture in the right chat */     display:none !important; }  I’ve also added easy link hints that can be found on the suckless surf websites under files but I don’t always use it. conclusion  I’m really glad I used surf. It has helped me to think “how do I implement a plugin” rather than “where do I find the install of a plugin”. I still need a better understanding of js and css, but surf will facilitate that. I don’t have to worry about a website listening to my microphone or having access to my camera, as it’s blocked in my config. I can’t stress this enough, it has been so much fun, and I haven’t felt like web browsing has been fun before.  I don’t think surf can completely replace your current browser. The times when I need an audio or camera for the site for example for zoom, it doesn’t seem to want to work. Netflix didn’t want to work. It's really funny to see a browser segfault-ing with certain websites. I used ranger for most of my needs, but still had a graphical file manager in the places where it was just convenient to have one. Surf seems like a similar thing. And for focus, I think it helps to have a slightly slow web browser, so I really think to myself "Is going to this site worth it". I hope this has been of help to you.";
+
+https://www.reddit.com/r/browsers/comments/1mug1x1/is_there_any_good_browsers_on_github/ : "Is there any good browsers on github? 4 · 13 Comments Section redamalo • 1y ago  List of browsers with many open source 6 u/ipsirc avatar ipsirc • 1y ago  https://github.com/ungoogled-software/ungoogled-chromium 4 itopires • 1y ago  Do you still update this one? 1 thafluu • 1y ago  Yes it still gets updates. 1 No_Soil_6935 • 1y ago  Cromite 3 goalasso • 1y ago  Zen 6 Grubbauer • 1y ago  Lots of them exist, I would recommend the following:      Waterfox      Librewolf      Qutebrowser  What I would NOT recommend:      Chromium      Firefox  -- grubbauer 1 [deleted] • 1y ago  a bunch of them yes.   I use one of them (Floorp).  0 u/Gemmaugr avatar Gemmaugr • 1y ago  I hope most of them move to Gitea or GitLab or Forgejo or CodeBerg, because GitHub is about to become much worse: https://arstechnica.com/gadgets/2025/08/github-will-be-folded-into-microsoft-proper-as-ceo-steps-down/ 0 upvotes"
+
+https://github.com/esdraslov/EBrowser : "Ebrowser is a minimal, keyboard-friendly, "suckless" web browser based on Chromium. It is designed to be lightweight, fast, and memory-efficient with Vim-style keymaps and command-line support directly from the address bar."
+2026.07.13/google.com Gemini-AI-summary:"Codeberg hosts several notable lightweight, open-source web browsers and clients geared toward privacy and minimal resource usage. The most popular options tailored for traditional web browsing include Snowcat, Tunnel, and Konform Browser.Here is a breakdown of these Codeberg-hosted browsers:Snowcat: A fast, privacy-focused open-source browser with a custom engine optimized for efficiency. It is primarily available for Windows and Linux users.Tunnel: An ultra-minimalist WebKit-based browser for Linux/macOS that is under half a megabyte in size. It launches quickly, features built-in ad blocking, and handles basic downloads without tracking your history.Konform Browser: A privacy-centric browser that provides prebuilt releases for Arch Linux (AUR) and runs comfortably in Docker or Podman containers.FOSS Browser: A minimalist Android application that utilizes the native Android WebView to provide a lightweight browsing alternative without heavy rendering engines.",
+2026.07.13/https://grafcube.codeberg.page/blog/2023/08/06/web-drm-api.html : "What browser do you use most of the time? Did you say Chrome? There’s a good chance you did. Statcounter says 63.55% of people use Chrome and it’s probably right.  But why do you use Chrome? Most of the people I asked didn’t really have much of a reason. The answers boiled down to “idk I didn’t really think about it” or “it was already there” or “who tf starts a conversation like that?”  I use LibreWolf. I’ve been using it for a few years. I used Waterfox, vanilla Firefox and Vivaldi before that. I even used Opera way back when it still used the Presto engine.  If you asked me why I use LibreWolf/Firefox, it’s because I like it, not because I dislike Chromium (although I do dislike Chromium).  With the decisions Google has been making and how it affects the entire Web, I decided to write this post. My goal is to convince the less tech savvy people I know to switch and to inform them on why this matters. So what are these decisions Google has been making?  Chromium is a browser engine. It’s what Chrome and many other browsers are based on, and it’s mainly developed by Google. It’s under an open source licence which means anyone can go and grab the code, make changes and redistribute it. Sounds great right? Well, we’ll get to that later.  Over the years, they’ve made some controversial decisions, like dropping JPEG-XL support despite a lot of interest (although they have recently reconsidered). Manifest v3  This is not the point of this post so I’m not going to go into too much detail. If you’re interested, you can learn more here.  A manifest file is used by browser extensions to tell your browser what it needs to run, what permissions it uses etc. Manifest v3 was an update that included a change that severely crippled ad and content blocking extensions. These extensions are important to protect the users’ privacy and make the web more usable.  Mozilla, of course, said that they would continue to support the original content blocking features so really, Firefox and its forks are the only browsers where uBlock Origin can be used to its fullest. You can read more about this if you’re interested but let’s get to the main topic, the thing that prompted me to write all of this. What is WEI?  Web Environment Integrity, or WEI, is basically DRM for the web. The way it’s meant to work is that it verifies that the browser is running in a “trusted” environment. Why do they say they want to do this?  Let’s look at the first paragraph.      Users often depend on websites trusting the client environment they run in. This trust may assume that the client environment is honest about certain aspects of itself, —  This is not the users’ problem, but the server’s. There’s no need to mess with the users’ environment.  There’s a common saying: “never trust client-side.” This just means that when you’re building an app, you can’t trust that the information you’re getting from the client is valid. Most of the time, this isn’t a big deal and a little server-side validation is sufficient. No need to have the user in a secure facility. If you do need the user in a secure facility then you have bigger concerns and this isn’t going to help you as much as you think it will, while also being overkill.      —keeps user data [secure] —  No it’s not going to help keep user data secure. If you’re talking about the connection between the browser and the server, the green padlock indicates that user data is secure. If you’re talking about the server itself, verifying the client isn’t going to do anything, at all, ever. The server is still going to collect all the information you gave them. Keep that in mind, we’ll get back to that later.      —and intellectual property secure, —  This is irrelevant to user data being secure. This just means DRM, aka, worsening the user experience because of the perceived threat of piracy, and some backwards logic that it will somehow increase profits.      —and is transparent about whether or not a human is using it.  Sure, CAPTCHAs are terrible especially for accessibiliy, but this is a terrible alternative.      This trust is the backbone of the open internet, critical for the safety of user data —  No, it’s not. Not even a little.      —and for the sustainability of the website’s business.  This is the actual reason. Well, not exactly but close. The actual reason was always just to control how you consume content on the internet so that it can be more heavily monetized. It never had anything to do with sustainability.  Here are some example scenarios listed.          Users like visiting websites that are expensive to create and maintain, but they often want or need to do it without paying directly. These websites fund themselves with ads, but the advertisers can only afford to pay for humans to see the ads, rather than robots. This creates a need for human users to prove to websites that they’re human, sometimes through tasks like challenges or logins.      See my previous points about how this isn’t the users’ problem. When it comes to monetization on the web, it’s true that the current state is not great without ads. But there are plenty of ad-free services that are able to operate just fine with other, more fair and less intrusive models.          Users want to know they are interacting with real people on social websites but bad actors often want to promote posts with fake engagement (for example, to promote products, or make a news story seem more important). Websites can only show users what content is popular with real people if websites are able to know the difference between a trusted and untrusted environment.      Sure, bad bots are everywhere. But the issue isn’t so bad that it warrants such an extreme response.          Users playing a game on a website want to know whether other players are using software that enforces the game’s rules.      Anti-cheat is the exact same thing, you’re letting the game servers snoop on your device. What makes it worse is that none of the big ones are open source, meaning you have no way of knowing what they’re doing on your device. And if you’re thinking that not knowing how they work is better, take a look at why Security by Obscurity is not secure at all.          Users sometimes get tricked into installing malicious software that imitates software like their banking apps, to steal from those users. The bank’s internet interface could protect those users if it could establish that the requests it’s getting actually come from the bank’s or other trustworthy software.      This is absurd. WEI isn’t going to be even a little helpful in combating phishing attacks, because the bank here isn’t even going to be involved at the time of the attack. The compromised client isn’t going to be connecting to the bank’s server but to the attacker’s, making this whole thing pointless.  So what’s this all for? DRM for the web. It’s that simple. They want really strong DRM for the web in the same way Android was locked down with SafetyNet. So does this mean that I can be tracked online?  The DRM system itself doesn’t send any identifiable data. Does that mean this is only a concern for the content you consume online?  No. Firstly, the software you will be forced to use to be considered “verified” will be packed with spyware, so that’s some indirect loss of privacy.  Secondly, any individual piece of information cannot be used to track you, but a combination of data points is a lot more valuable. Browser Fingerprinting  Using a lot of metadata, a profile can be built about a user. Things like your installed fonts, timezone, operating system version, browser version, screen size, whether you’re blocking any of this information from being sent and a lot more.  Individually, none of this information can be used to identify you online. But together, it can be used to ID you pretty accurately.  You can visit this site to see if you can be uniquely identified online.  Your browsing habits are a lot more valuable than you think, and you should be concerned about it being used maliciously. Don’t listen to anyone who says that privacy is dead or something similar. It’s not and it’s actually a lot easier to achieve that you may think. You can start by switching to a browser that actually respects your privacy and provides strong protection against fingerprinting. After that, maybe consider switching your operating system as well. Websites can deny access to platforms they don’t like or can’t control  There are poorly designed sites out there that block access to any browser other that Chrome or Internet Explorer (yes really) because apparently it doesn’t work. But if I just continue using Firefox and spoof my user agent to say “Oh yeah this is Chrome 100% trust me,” the website runs just fine. Normally I would just say “this site isn’t worth it,” but I think it’s safe to say you’ve figured out what kind of sites I’m talking about and why I can’t just not use them.  When designing websites, you should not care about what browser is being used because all of them are expected to follow the same web standards.  But user agent spoofing is easy, DRM is less so. It can be used to limit or deny access to users that the website deems are not using authorized software.  The way WEI is designed, your OS tells the browser who your attester is, which is then passed on to the site. The proposal uses “Google Play” as an example meaning this is likely to be tested on Android first, since it already has a similar API.  However, it’s up to the website to decide whether they trust any particular attester. This of course means that if your attester isn’t one of the big names, too bad for you.  But wait! WEI to the rescue! They have the perfect plan to stop this from happening. It’s called Holdback.      Providing a signal that is unique to the attester could be hazardous if websites decide to only support attesters where certain signals are available. If websites know exactly what browser is running, some may deny service to web browsers that they disfavor for any reason. Both of these go against the principles we aspire to for the open web.      […]      To protect against both risks, we are evaluating whether attestation signals must sometimes be held back for a meaningful number of requests over a significant amount of time (in other words, on a small percentage of (client, site) pairs, platforms would simulate clients that do not support this capability). Such a holdback would encourage web developers to use these signals for aggregate analysis and opportunistic reduction of friction, as opposed to a quasi-allowlist: A holdback would effectively prevent the attestation from being used for gating feature access in real time, because otherwise the website risks users in the holdback population being rejected.  Umm… so you’re saying, the genius idea to prevent sites from restricting access for dumb reasons, is to make attestation fail randomly? What?  Apparently, the system is supposed to randomly return a false negative some percentage of the time. This, supposedly, might force websites to take aggregate data instead of taking the risk of flat out denying access to a legitimate user.  Not that they actually intend to implement this. This is just a “suggestion” for a potential solution. They don’t actually mind excluding certain vendors and in fact, it’s just going to be good for them. So who gets to have attestation?  Say I decide to make my own browser, with all the coolest features you couldn’t even dream of. The greatest browser in the world 😎 Or you know, more likely an overambitious learning project that I’ll abandon after a little while. Doesn’t matter. I now have a browser ready to be used by everyone.  How do I get attestation?  If a significant chunk of the web is inaccessible without attestation, then my browser is useless until it’s approved by whatever body ends up in charge.  What if I decide to integrate adblock and privacy features into the browser (because obviously I would do that)? And there’s no way any browser that blocks ads and trackers is going to get the greenlight. Who in their right mind would trust a big tech company?  This will completely destroy any semblance of competition when it comes to browsers.  This proposal is already being integrated into Chromium. The correct process when proposing a new web standard is to follow the procedures outlined by the W3C and go through all the necessary verification and checking to decide whether it should be approved, amended or rejected.  Google is abusing their market share to circumvent any objections and push this through as soon as possible. This absolutely 100% cannot be allowed. What do others have to say about this? Mozilla  Mozilla, naturally, responded clearly and in no uncertain terms that they would oppose this proposal.  Source      Mozilla opposes this proposal because it contradicts our principles and vision for the Web.      Any browser, server, or publisher that implements common standards is automatically part of the Web:          Standards themselves aim to avoid assumptions about the underlying hardware or software that might restrict where they can be deployed. This means that no single party decides which form-factors, devices, operating systems, and browsers may access the Web. It gives people more choices, and thus more avenues to overcome personal obstacles to access. Choices in assistive technology, localization, form-factor, and price, combined with thoughtful design of the standards themselves, all permit a wildly diverse group of people to reach the same Web.      Mechanisms that attempt to restrict these choices are harmful to the openness of the Web ecosystem and are not good for users.      Additionally, the use cases listed depend on the ability to “detect non-human traffic” which as described would likely obstruct many existing uses of the Web such as assistive technologies, automatic testing, and archiving & search engine spiders. These depend on tools being able to receive content intended for humans, and then transform, test, index, and summarize that content for humans. The safeguards in the proposal (e.g., “holdback”, or randomly failing to produce an attestation) are unlikely to be effective, and are inadequate to address these concerns.      Detecting fraud and invalid traffic is a challenging problem that we’re interested in helping address. However this proposal does not explain how it will make practical progress on the listed use cases, and there are clear downsides to adopting it.  Brave  I’m not a fan of Brave browser. I don’t like the crypto features and they’ve been caught messing with links in the past. They also don’t block all ads, instead allowing what are deem “acceptable.” Ads don’t pay a lot if they aren’t targeted, so the only safe ad system is one that doesn’t exist. Ads were one of the worst things to happen to the internet. There’s also some other problems with Brave that are off-topic for this post, but you can take a look if you’re interested.  But what’s their stance on WEI? They won’t be shipping it in their builds of Chromium.  I would personally recommend not using any fork of Chromium at all, including Brave. The privacy protections on Chromium based browsers are just not as good as Firefox and it’s better to avoid anything to do with cryptocurrencies.      We are a fork, have been all along, the “reskinned” claim is complete nonsense. We won’t be shipping WEI support, just as we disable or otherwise nullify lots of other junk that Google puts into Chromium. [1] [2]  Vivaldi  Vivaldi is a pretty good browser even though I don’t use it anymore. They made an excellent post detailing how dangerous this proposal is. You should give it a read.      Can we just refuse to implement it?      Unfortunately, it’s not that simple this time. Any browser choosing not to implement this would not be trusted and any website choosing to use this API could therefore reject users from those browsers. Google also has ways to drive adoptions by websites themselves.      First, they can easily make all their properties depend on using these features, and not being able to use Google websites is a death sentence for most browsers already.      Furthermore, they could try to mandate that sites that use Google Ads use this API as well, which makes sense since the first goal is to prevent fake ad clicks. That would quickly ensure that any browser not supporting the API would be doomed.  The Electronic Frontier Foundation  The EFF has also made a great post about the consequences of letting WEI go through: Your Computer Should Say What You Tell It To Say.      Your computer belongs to you. You are the boss of it. It should do what you tell it to.  Microsoft and Apple  There has been no news on Edge or WebKit but it’s safe to assume that both will likely implement WEI if it happens. The importance of the open web  The internet is for everyone. You should be able to interact with it however you please. The worst case scenario is if a small handful of very powerful entities have complete control over how you interact with the internet, but that is exactly where all of this is heading. Remember, these companies do not have your best interests in mind. They don’t even care about you. All they care about is making a quick buck, repeatedly, forever, completely disregarding the consequences. They cannot be allowed to have such power, ever. What is FOSS really about  The core philosophy of free software is that you should be free to use software however you like, modify it, and redistribute it. The point is to collectively improve upon each others work and pay it forward so that more people may benefit.  There are many popular open source projects that are maintained by companies. This isn’t inherently bad but often has a bad effect. Most require you to sign a Contributor License Agreement (CLA) which means you sign away your copyright over your contribution. This allows the maintainers to suddenly relicense the project at any time, leaving contributors worse off.  Sure, Chromium is open source and you can modify the code and redistribute it. But if you want to send your changes to the main project so that more people may benefit from it, it is ultimately Google’s decision. This is the problem with projects that are not community-run. It happens all the time. Google is implementing WEI in Chromium despite so much backlash because they can. So if I stop using Chrome, everything will be fixed, right?  If only it were that simple. Unfortunately that just won’t be enough. The only way to stop this from happening and make sure nobody dares to try something like this again is with an Antitrust lawsuit. This needs to be killed before it goes any further.  Here are a couple of links for information on filing an antitrust lawsuit in India      https://www.cci.gov.in/antitrust     https://www.cci.gov.in/filing/atd  This is not the first time Google has been hit with a lawsuit. Back in 2019, there was a case where Google was accused of abusing its position to restrict Android phone manufacturers who wanted to pre-install Google apps. They lost. You can read more about the details here and here.  Tell everyone about this and help make sure the open internet stays open. They cannot be allowed to get away with this.";
+2026.07.13/https://github.com/nerdyslacker/desktop-web-browsers : "0-9 — Numerically Named Browsers
+
+Browsers with names starting with numbers, often representing company identifiers or version numbers.
+Browser Name 	Engine 	Operating System 	Description
+115 Browser 	Blink, WebKit 	Windows, macOS 	Developed by 115.com
+2345 Explorer 	Trident, WebKit, Blink 	Windows 	Developed by 2345.com
+360 AI Browser 	Blink, Trident 	Windows, Mac OS 	A web browser with integrated AI features
+360 Secure Browser 	Blink, Trident 	Windows, Mac OS 	Freeware browser by Qihu 360 Software
+360 Extreme Browser 	Blink, Trident 	Windows, macOS 	Another version from Qihu
+A — A Named Browsers
+
+A curated collection of the browsers named starting from A.
+Browser Name 	Engine 	Operating System 	Description
+Acent Browser (Osiris) 	Blink 	Windows, macOS, Linux 	Blockchain-only browser
+Adaware Safe Browser 	Chromium 	Windows, macOS 	Works with Adaware Protect
+Adblock Browser 	Gecko 	Windows, macOS 	Ads Under Control: Discover a Clean Internet
+Agregore Browser 	Electron 	Windows, Linux, macOS 	Minimal browser for distributed web
+Airy 	Chromium 	Windows, macOS 	Efficiency side browser tool
+Alloy Browser 	WebKit 	macOS 	Web browser for power users
+Aloha Browser 	WebKit, Blink 	Windows 	Fast, free, full-featured browser
+AMP Browser 	Chromium 	Windows, Ubuntu 	Open source, accelerates web browsing
+AOL Shield Pro Browser 	Chromium 	Windows 	Enhanced safety features help keep you protected from hackers, malware and scam websites.
+Arc Browser 	Blink, V8 	Windows, macOS 	Revolutionary, user-centric browser
+Arctic Fox Web Browser 	Goana, SpiderMonkey 	Mac OS X 10.6+, Linux, BSD, Windows XP 	Fork of Pale Moon 27.9.4
+Argus 	- 	macOS 	The AI-powered browser built for speed and privacy.
+ArtisBrowser 	Gecko 	Windows 	Standalone application
+Asobi 	WebKit 	macOS 	Minimalist navigation bar browser
+Atom Browser 	Blink 	Windows, macOS, Linux 	New browser from Mail.ru
+Avast Secure Browser 	Chromium 	Windows, macOS 	Free web browser for secure protection
+AVG Secure Browser 	Chromium 	Windows, macOS 	Secure browser for online privacy
+AWBfL 	Webkit2 	Linux 	Webkit2 browser coded in vala
+Axonium 	WebKit 	macOS 	Zero telemetry, built-in ad blocker, and an interface designed for productivity
+AXplorer 	Chromium 	Windows, macOS, Linux 	Use-to-earn, private, fast browser
+B — B Named Browsers
+
+A curated collection of the browsers named starting from B.
+Browser Name 	Engine 	Operating System 	Description
+BadWolf Browser 	WebKitGTK+ 	Linux, NetBSD, OpenBSD, FreeBSD 	Minimalist and privacy-oriented
+Basilisk Browser 	Goanna 	Windows, Linux, macOS, FreeBSD 	Free and Open Source XUL-based
+Beacon Browser 	Chromium 	Windows, macOS 	For decentralized internet
+Beaker Browser 	Blink 	Linux, Windows, macOS 	Experimental peer-to-peer Web browser [Archived]
+Beam 	Webkit 	macOS 	For healthy thinking on the internet
+Biscuit 	WebKit, Blink 	macOS, Windows, Linux 	Browser to organize your apps
+Blisk 	Chromium 	Windows, macOS, Linux 	Freemium Chromium-based for Web development
+Blue Hawk 	QtWebEngine 	Windows 	Engineered for the modern web
+Board Browser 	Chromium 	macOS, Windows, Linux 	An open-source browser focused on boards
+BonBon Browser 	Chromium 	Windows, macOS, Linux 	Lightweight and innovative
+Bonsai 	Electron 	macOS, Windows, Linux 	Web-browser for research [Archived]
+Borneo Browser 	QtWebEngine 	Windows, macOS, Linux 	Minimalist web browser [Discontinued]
+Brave Browser 	Blink, V8, (WebKit on iOS) 	Windows, macOS, Linux 	Fast, private and secure
+BriskBard 	Trident 	Windows 	Free web browser for windows
+BrowserBox 	Chromium 	Web 	Browse the whole web from a web page. Remote browser isolation.
+BrowserJet 	Chromium 	Windows, macOS 	Multiple sessions with built-in multiple IPs
+Browsh 	Gecko 	Linux, macOS, Windows 	Fully-modern text-based browser
+Bushido Broswer 	Chromium 	Windows 	Beautifully minimal, privacy-focused, & packed with features. [Coming Soon]
+C — C Named Browsers
+
+A collection of browsers named starting from C.
+Browser Name 	Engine 	Operating System 	Description
+Cachy Browser 	Gecko 	Linux 	Privacy-focused, based on LibreWolf
+Camino 	Gecko 	macOS 	Open-source for Mac OS X users [Discontinued]
+Carbon 	Blink 	Windows, macOS 	Free and open-source
+Carbonyl 	Chromium 	Linux, macOS, Windows 	Chromium running inside terminal
+Cargo 	Electron 	Windows, macOS 	A browser with almost no UI.
+Catalyst 	Electron 	Windows, Linux, macOS 	ElectronJS web browser
+Catsxp Browser 	Chromium 	Windows 	Chrome kernel enhanced browser
+CCleaner Browser 	Chromium 	Windows 	The fast, private and secure browser
+CentBrowser 	Chromium 	Windows 	Enhanced Chromium-based
+ChatGPT Atlas 	Chromium 	macOS 	An AI-powered web browser by ChatGPT.
+Chawan 	Custom 	Linux, BSD 	A web browser for your terminal
+Chedot 	Chromium 	Windows 	Built for speed, simplicity, and security
+Chromium 	V8, Blink 	Windows, Linux, macOS, BSD 	Open-source browser project
+Chromium-Gost 	V8, Blink 	Windows, Linux, macOS 	Open-source with GOST algorithm support
+Citrio Browser 	Chromium 	Windows, macOS 	Fast, polished browser (considered as malware)
+Click 	WebKit 	macOS 	The no-frills browser
+Cloak Browser 	Chromium 	Windows, Linux, macOS 	Stealth Chromium that passes every bot detection test
+Cốc Cốc Browser 	Blink 	macOS, Windows 	Full-fledged browser with intuitive search engine
+Colibri Browser 	Blink 	Windows, Linux, macOS 	Fast, efficient, and uncluttered
+Comet 	Chromium 	Windows, macOS 	A Browser for Agentic Search by Perplexity
+Comodo Dragon 	Blink 	Windows, macOS, Linux 	Faster, better than Chrome
+Comodo Icedragon 	Gecko 	Windows 	Faster, better than Firefox
+Companion 	Electron 	Windows, macOS, Linux 	A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video.
+Coowon 	Chromium 	Windows 	Google Chrome based browser
+Core Browser 	Chromium 	Windows, macOS 	Web browser from the future
+Cromite 	Chromium 	Windows, Linux, macOS 	Bromite fork with ad blocking
+Cruz 	WebKit 	macOS 	Web browser for Mac OS X
+CryptoTab Browser 	Chromium 	Windows, macOS 	Browser with mining features
+CyberGhost Browser 	Chromium 	Windows, macOS, Linux 	Free, fast & private app
+D — D Named Browsers
+
+A curated collection of browsers named starting from D.
+Browser Name 	Engine 	Operating System 	Description
+Dashob 	Electron 	Windows, macOS, Linux 	Create limitless boards with web pages
+dBrowser 	Electron 	Windows, macOS, Linux 	Web browser for Web3
+Decentr Browser 	WebKit, Blink 	Windows, macOS, Linux 	Web3 blockchain/metaverse browser
+Dezor 	Chromium 	Windows, Linux 	Browser including VPN & Adblocker
+Dia 	Chromium 	Windows, macOS, Linux 	AI won't exist as an app. Or a button. We believe it'll be an entirely new environment — built on top of a web browser. [Coming Soon]
+Dillo Browser 	Proprietary 	Linux, BSD, OS X, FreeDOS 	Multi-platform graphical web browser
+Dissenter Browser 	Chromium 	Windows, macOS, Linux 	Blocks Big Tech ads and trackers
+Dooble Browser 	Dooble 	FreeBSD, Linux, macOS, Windows 	Free and open-source web browser
+Dot Browser 	Gecko 	Windows, macOS, Linux 	Next-generation web browser [Coming Soon]
+DuckDuckGo Browser 	WebKit, EdgeWebView2 	Windows, macOS 	Free browsing app with privacy protection
+E — E Named Browsers
+
+A curated collection of browsers named starting from E.
+Browser Name 	Engine 	Operating System 	Description
+Ecosia Browser 	Chromium 	Windows 	The greenest browser on Earth
+Edgescape Navigator 	EdgeWebView2 	Windows 	Just a web browser, no bloatware, no mess and no unnecessary features.
+Elza Browser 	Electron 	Windows, Linux, macOS 	Private, fast and minimal
+Epic Browser 	Chromium 	Windows, macOS 	Private, secure web browser
+Epiphany 	WebKitGTK 	Linux 	Small browser for the web by Gnome
+F — F Named Browsers
+
+A curated collection of browsers named starting from F.
+Browser Name 	Engine 	Operating System 	Description
+Falkon Browser 	QtWebEngine 	Windows, Linux 	Free and open-source by KDE
+FastBack 	WebKit 	macOS 	Browser that doesn't reload when you go back
+Felida Browser 	Electron 	Windows, Linux 	A lightweight Chromium Browser using Electron.js!
+Fellou Agentic AI Browser 	Chromium 	Windows, Linux 	The world's first agentic AI browser that automates web and desktop-based tasks.
+Ferny 	Chromium 	Windows, macOS 	A privacy-focused, cross-platform, chromium-based web browser with a greatfull user experience, built on top of Electron, JS and styled-components.
+Fifo Browser 	Electron 	Windows, macOS, Linux 	Modern web browser built on Electron and React
+FireDragon Browser 	Gecko 	Linux 	Fork of LibreWolf with enhanced KDE integration
+FixBrowser 	Custom 	Windows, Linux, HaikuOS 	A truly lightweight web browser created from scratch
+Flash Browser 	Chromium 	Windows 	Small browser for embedded flash content
+Floorp Browser 	Gecko 	Windows, Linux, macOS 	Rapid release browser
+Flow Browser 	Chromium 	Windows, macOS, Linux 	A modern, privacy-focused browser with a minimalistic design that supports all your web-browsing needs.
+Flow Browser (ekioh) 	Proprietary 	Windows, macOS, Linux 	Browser with proprietary engine
+Free Adblock Browser 	- 	Windows 	Browse securely on a clean, incognito search engine
+G — G Named Browsers
+
+A curated collection of browsers named starting from G.
+Browser Name 	Engine 	Operating System 	Description
+Gener8 Browser 	Chromium 	Windows 	Earn from your browsing
+Genspark AI Browser 	Chromium 	Windows, macOS 	Lightning Fast, On-Device Free AI, Ad-Blocking, Full Agentic, Autopilot Mode, MCP Store, and Super Agent That Does Everything for You!
+Ghost Browser 	Chromium 	Windows, macOS 	Designed to boost productivity
+Ghostery Browser 	Gecko 	Windows, macOS, Linux 	Blocks ads, trackers & other pop-ups [Discontinued]
+Glide Browser 	Gecko 	Linux, Windows, macOS 	An extensible and keyboard-focused web browser
+Glow Browser 	WebKit 	macOS 	Light-weight web browser
+Google Chrome 	Blink (WebKit on iOS), V8 	Linux, Windows, macOS, ChromeOS 	Cross-platform web browser by Google
+GNU IceCat 	Gecko 	Linux, Windows, macOS 	GNU version of Firefox
+Guardian Browser 	Chromium 	Windows, macOS 	Secure internet browser for ProctorU
+H — H Named Browsers
+
+A curated collection of browsers named starting from H.
+Browser Name 	Engine 	Operating System 	Description
+Hayami Browser 	Electron 	Windows, macOS, Linux 	Tile-based mini browser/dashboard app
+Helium 	WebKit 	macOS 	Floating browser window
+Helium Browser 	Electron 	Windows, macOS, Linux 	Private, fast, and honest web browser
+Helix 	Gecko 	Windows, Linux, macOS 	Just another Gecko browser. [Experimental]
+Herond Browser 	Chromium 	Windows, macOS 	Embrace an uninterrupted, ad-free experience, and navigate effortlessly across all your devices with ease
+Hola Browser 	Blink 	Windows 	Browser for borderless experience
+Horse Browser 	Chromium 	Windows, macOS, Linux 	The browser built for professionals who demand focus and efficiency
+Huawei Browser 	Chromium 	Windows 	Built-in powerful privacy protection technology, including intelligent anti-tracking, malicious URL blocking, ad filtering
+I — I Named Browsers
+
+A curated collection of browsers named starting from I.
+Browser Name 	Engine 	Operating System 	Description
+Impervious 	Chromium 	Linux, Windows, macOS 	Peer-to-Peer tools suite
+InterWeb 	Gecko 	macOS 	Web browser based on Firefox-esr 52
+Iridium Browser 	Chromium 	Windows, macOS, Linux 	Open modification of Chromium
+J — J Named Browsers
+
+A curated collection of browsers named starting from J.
+Browser Name 	Engine 	Operating System 	Description
+jumanji 	WebKit 	Linux, BSD 	Highly customizable and functional
+Jupiter Browser 	Electron 	Windows 	An alternative to Default Browsers.
+K — K Named Browsers
+
+A curated collection of browsers named starting from K.
+Browser Name 	Engine 	Operating System 	Description
+Kaktus 	Electron 	Windows, macOS, Linux 	Minimalistic web browser [Archived]
+K-browser 	Trident 	Windows 	A simple lightweight browser
+Kingpin Browser 	Chromium 	Windows, macOS 	Full-featured browser with incognito mode
+kristall 	Custom 	Windows, macOS, Linux, BSD 	Browser without support for css/js/wasm
+Konform Browser 	Gecko 	Linux 	Taking privacy, security and freedom to the next level
+Konqueror 	KHTML, WebKit 	Linux, Unix-like 	KDE's Webbrowser and file manager
+Kosmik 	Electron 	Windows, macOS 	For visual inspiration and notes
+K-Meleon 	Goanna 	Windows 	Lightweight, customizable, open-source
+L — L Named Browsers
+
+A curated collection of browsers named starting from L.
+Browser Name 	Engine 	Operating System 	Description
+Ladybird 	LibWeb, LibJS 	Linux, macOS, SerenityOS 	Web browser from SerenityOS
+Lagrange 	Custom 	Windows, macOS, Linux 	Desktop GUI client for Geminispace
+LeechCraft 	WebKit, WebEngine 	Windows, macOS, Linux, FreeBSD 	Modular live environment including web browser (Poshuku), IM client, media player, BitTorrent client, document viewer, RSS reader and many other modules.
+LibreWolf 	Gecko 	Windows, macOS, Linux 	Custom version of Firefox
+Light Browser 	CefSharp 	Windows 	One-Tab-Browsing for low memory usage [Archived]
+Links 	Custom 	Windows, macOS, OS/2, Unix-like, OpenVMS, DOS 	Free software text and graphical web browser
+Liri Browser 	QtWebEngine 	Linux 	Cross-platform Material design web browser
+LoboEvolution 	Custom 	Windows, macOS, Linux 	Extensible all-Java web browser
+Local Browser 	Electron 	Windows 	Share your localhost in a unique way
+LT Browser 	Chromium 	Windows, macOS, Linux 	For building and testing mobile view
+Luakit 	WebKit 	Linux, BSD, Windows with WSL 	Highly configurable browser framework
+Lulumi-browser 	Electron 	Windows, macOS, Linux 	Lightweight browser with Vue.js 2 and Electron
+Lunascape Browser 	Trident, Gecko, WebKit 	Windows 	Supports three different web engines
+Lynx 	Custom 	Linux, Unix-like, Windows, macOS 	Text-based web browser
+M — M Named Browsers
+
+A curated collection of browsers named starting from M.
+Browser Name 	Engine 	Operating System 	Description
+Marble 	Gecko 	Windows, macOS, Linux 	Marble aims to restore the Photon style & layout for various platforms.
+Maxthon Browser 	Trident, WebKit, Blink 	Windows, macOS, Linux 	Browser with blockchain app support
+Mercury Browser 	Gecko 	Windows, Linux 	Fastest Firefox fork
+Microsoft Edge 	Blink, V8 	Windows, macOS, Linux 	Cross-platform web browser by Microsoft
+Midori Browser 	Electron 	Linux, Windows, macOS 	Fast and secure light web browser
+MilkShake 	Electron 	Windows, macOS, Linux 	Simple web browser with only one tab
+Min Browser 	Blink, Electron 	Windows, macOS, Linux 	Fast, minimal browser
+Minichrome Browser 	Blink (Based on Electron) 	Linux 	Minimalistic web browser
+Minum Browser 	WebKit 	MacOS 	Minimalistic web browser
+Mirror 	WebKit 	macOS 	From cluttered tabs to clean sessions, keep your tabs and your mind organized
+Mitra Browser 	Electron 	Windows, macOS, Linux 	Minimalist and open-source
+Mozilla Firefox 	Gecko 	Windows, MacOS, Linux 	Free and open-source by Mozilla Foundation
+Mullvad Browser 	Gecko 	Windows, macOS, Linux 	Privacy-focused web browser
+Multizen Browser 	Chromium 	Windows, macOS, Linux 	For managing multiple browsing sessions
+Mypal Browser 	Gecko 	Windows XP 	Maintained browser for Windows XP
+N — N Named Browsers
+
+A curated collection of browsers named starting from N.
+Browser Name 	Engine 	Operating System 	Description
+Nav0 	Electron 	Windows, macOS, Linux 	Minimal, privacy-focused web browser
+Naver Whale Browser 	Blink, WebKit (iOS) 	Windows, macOS, Linux 	Chromium-based web browser
+Neo 	Chromium 	Windows, macOS 	An AI browser made by Norton.
+Neriven 	Chromium 	Windows, macOS 	Smart browser with easy automation
+Netscape 	Chromium 	Windows 	Chromium-based browser with AOL search engine
+NetSurf 	own engine 	RISC OS, AmigaOS, Windows, Linux/Unix-like, BeOS/Haiku, Atari TOS, macOS 	Open-source web browser
+NetSurfer 	Edge WebView2 	Windows 	Fast and secure web browser
+Nexus Browser 	Electron 	Windows 	Private browser
+Ninetails 	Electron 	Windows, Linux, macOS 	Private, fast, and beautiful web browser
+Ninja Browser 	WebKit 	macOS 	A browser for ninjas?
+Nook Browser 	WebKit 	macOS 	The memory of web browsing being quick and easy lives with us all.
+Norton Private Browser 	Chromium 	Windows, macOS 	A free, more private browser that provides protection for your digital life.
+nOS 	Electron 	Windows, macOS 	Access the crypto-powered web
+Nyxt browser 	WebKit, QtWebEngine 	Windows, macOS, Linux 	Keyboard-driven web browser
+O — O Named Browsers
+
+A curated collection of browsers named starting from O.
+Browser Name 	Engine 	Operating System 	Description
+OhHai Browser 	Blink 	Windows 	Browser with left-panel tabs
+Opera 	Blink, V8 	Windows, macOS, Linux, FreeBSD, Nintendo 	Fast, efficient browser with built-in features
+Opera Air 	Blink, V8 	Windows 	Discover a focused, balanced, and stress-free web
+Opera GX 	Blink, V8 	Windows, macOS, Linux 	Browser built for gamers
+Opera Crypto Browser 	Blink, V8 	Windows, macOS 	Browser for Web3 experience [Discontinued]
+Orbitum Browser 	Chromium 	Windows 	Browser with social network features
+Orion Browser 	WebKit 	macOS 	Fast, private browser
+Ortix Browser 	WebKit 	macOS 	A fast, private, macOS native browser with on-device AI
+ōryōki 	Chromium 	macOS 	Experimental browser with thin interface
+Otter Browser 	Qt WebEngine, QtWebKit 	Unix-like, Windows, Haiku, RISC OS, OS/2 	Aims to recreate classic Opera features
+P — P Named Browsers
+
+A curated collection of browsers named starting from P.
+Browser Name 	Engine 	Operating System 	Description
+Pale Moon 	Goanna, SpiderMonkey 	Windows, macOS, Linux, FreeBSD 	Open-source with emphasis on customization
+PeerSky Browser 	Electron 	Windows, macOS, Linux 	A Peer-to-Peer, Local-First Browser Rebuilding the Web for Good.
+Pennywise 	Electron 	Windows, macOS, Linux 	Open website or media in a floating window
+Pissandshittium 	Chromium 	Windows, Linux 	The Browser that doesn't give a shit
+PlasmaFox Browser 	Gecko 	Linux 	Modified Firefox with KDE features [Archived]
+Pocket Browser 	Electron 	Windows, macOS, Linux 	Open-source browser for privacy
+Pola Browser 	WebKit 	macOS 	Designed for organized workflows, smart tab management, and distraction-free browsing
+Polarity Browser 	Chromium, Trident 	Windows 	Feature packed, fast, secure, stable
+PolyBrowser 	Electron 	Windows, macOS, Linux 	The "Panoramic" Web Browser
+Polypane 	Chromium 	Windows, macOS, Linux 	Browser for web developers and designers
+Power Browser 	Chromium 	Windows, Linux 	Designed for web3 aspirations
+PowerFox Browser 	Goanna 	macOS 	A secure, modern, and open-source web browser for Mac OS X 10.6, 10.5, and 10.4 for Intel and PowerPC
+Programmer Browser 	Electron 	Windows, Linux 	Fast-searching browser for programmers
+Puffin Browser 	Blink 	Windows, macOS TV, Linux 	Remote browser by CloudMosa
+Pulse Browser 	Gecko 	Windows, macOS, Linux 	Experimental Firefox fork
+Q — Q Named Browsers
+
+A curated collection of browsers named starting from Q.
+Browser Name 	Engine 	Operating System 	Description
+Qinghu Browser 	Chromium 	Windows, macOS 	New generation browser for e-commerce
+QQ Browser 	WebKit, Trident 	Windows, macOS 	Web browser by Tencent
+QtWeb Internet Browser 	WebKit 	Windows, macOS, Linux 	Lightweight, secure and portable [Discontinued]
+Quetta Browser 	Chromium 	Windows, macOS 	Your online privacy isn't an option, it's our foundation. [Coming Soon]
+qutebrowser 	WebKit/QtWebEngine 	Linux, Windows, macOS, FreeBSD, OpenBSD 	Keyboard-focused browser
+R — R Named Browsers
+
+A curated collection of browsers named starting from R.
+Browser Name 	Engine 	Operating System 	Description
+r3dfox 	Gecko 	Windows(XP, 7, 8) 	Modern Firefox based web browser
+Responsively 	Chromium 	Windows, macOS, Linux 	A must-have DevTool for all web developers that will make your job easier.
+Roccat Browser 	Webkit 	macOS 	Web browser for macOS and iOS
+S — S Named Browsers
+
+A curated collection of browsers named starting from S.
+Browser Name 	Engine 	Operating System 	Description
+Safari 	WebKit, Nitro 	macOS 	Apple's web browser
+Samsung Internet 	- 	Windows 	Enjoy easy, fast and secure web surfing
+Sanbrowser 	Chromium 	Windows, macOS 	Dual-core browser
+Sandcat Browser 	Edge WebView2/Chromium 	Windows 	Browser for pen-testers and web developers
+Santa Browser 	Chromium 	Windows, macOS 	The Browser That Keeps Giving
+SeaLion 	Gecko 	macOS 	Web browser for Mac OS X and Linux
+SeaMonkey Browser 	Gecko, SpiderMonkey 	Windows, macOS, Linux 	Free web browser suite
+SEOBrowse 	Chromium 	Windows, macOS 	Browse search results for any location
+Servo Tech Demo 	Servo 	Windows, macOS, Linux 	Browser based on Mozilla's Servo web rendering engine
+Seznam.cz 	Blink 	Windows, macOS 	Web browser by czech search engine
+SharpBrowser 	CefSharp 	Windows 	Full featured web-browser in C#
+Shift 	Electron 	Windows, macOS 	Desktop app for streamlining workflows
+Sidekick Browser 	Blink 	Windows, macOS, Linux 	Privacy browser for focus and time-saving [Discontinued]
+Sielo Browser 	Blink 	Windows, macOS, Linux 	Traditional web browser with tab spaces functionality. [Archived]
+Sigma AI Browser 	WebKit 	macOS 	AI-First Agentic Browser that works for you.
+SigmaOS Browser 	WebKit+ 	macOS 	Offers split screen for easy multitasking.
+Sizzy 	Chromium 	Windows, macOS, Linux 	Development-focused browser with modern CI/CD-like features.
+Skye 	Electron 	Windows, Linux, macOS 	Modern and feature-rich web browser.
+slashB 	Chromium 	Windows, Linux, macOS 	Allows testing responsive websites on multiple screens simultaneously.
+Sleipnir Browser 	Blink (earlier Gecko) 	Windows, macOS, Windows Phone 	Tabbed browser with customization features.
+SlimBrowser 	Trident 	Windows 	Fast browser with various features.
+Slimjet Browser 	Chromium 	Windows, macOS, Linux 	Claims to be the fastest browser with automatic ad blocking.
+Sogou Explorer 	Webkit, Trident 	Windows 	Web browser offered by Sogou.
+Sphere Browser 	Chromium 	Windows, macOS, Linux 	Anti-detection browser for managing multiple identities.
+Split Browser 	WebKit, WebKitGTK, Edge WebView2 	macOS, Linux, Windows 	Minimalistic browser with split screen view.
+Sputnik 	WebKit, Blink 	Windows, macOS, Linux, FreeBSD 	Aims to remove Google web service dependency.
+SRWare Iron Browser 	Blink, V8 	Windows, macOS, Linux 	Focuses on user security.
+Stack Browser 	Chromium 	Windows, macOS 	Spatial browser for mindful online living.
+Station 	Blink 	Windows, macOS, Linux 	Open-source smart browser for web applications.
+Supermium 	Chromium 	Windows (XP, 7, 8, 10, 11) 	Chrome replacement with privacy enhancements.
+surf 	WebKitGTK 	Unix-like 	Minimalist browser controlled via keyboard shortcuts.
+Surf (Deta) 	Chromium 	Windows, macOS, Linux 	It's a browser, file manager, and AI assistant — all in one. [Coming Soon]
+sushi-browser 	Chromium 	Windows, macOS, Linux 	Multi-panel browser for online casino gaming.
+Synth 	Chromium 	Windows, macOS 	AI-driven browser for research and work.
+T — T Named Browsers
+
+A curated collection of browsers named starting from T.
+Browser Name 	Engine 	Operating System 	Description
+Taktak 	Chromium 	Windows, macOS, Linux 	The only AI browser you need
+Tempest Browser 	Blink, V8 	Windows, macOS 	Fast, secure and private browser that puts you in control of your personal data online.
+Tesla Browser 	Blink 	Windows 	Quick, easy, and secure web browser.
+Torch Browser 	Chromium 	Windows, macOS 	Web browser with built-in media downloading and torrent support.
+The Classic Browser 	Chromium 	Windows 	Uses Chromium renderer for a faster, safer web browser with its own interface and number-crunching routines.
+theWeb 	QtWebEngine 	Windows, macOS, Linux 	A web browser.
+Thorium Browser 	Blink 	Linux, MacOS, Raspberry Pi, Windows 	Fastest Chromium fork, named after radioactive element No. 90.
+Tor Browser 	Gecko 	Windows, macOS, Linux, BSD (Onion Browser) 	Free and open-source software guaranteeing anonymity online and enhancing security and safety.
+Turbo 	Electron 	Windows, macOS, Linux 	The browser for developers [Archived]
+Tusk Browser 	Chromium 	Windows, macOS 	Freedom-First Web Browser and Search Engine developed for Patriots, allowing users to see all sides.
+Twinkstar Browser 	Chromium 	Windows, macOS 	A browser loved by college students, offers a range of distinctive features
+U — U Named Browsers
+
+A curated collection of browsers named starting from U.
+Browser Name 	Engine 	Operating System 	Description
+Ulaa Browser 	Blink 	Windows, macOS, Linux 	Respects privacy, protects personal data, and enhances online work efficiency.
+Ultimatum 	Blink 	Windows 	Chromium fork with anti-detect browser capabilities, web3.0 support.
+Undetectable Browser 	Blink 	Windows, macOS 	Anti-detect browser for easy multi-accounting in social networks.
+Ungoogled Chromium 	Blink, V8 	Windows, macOS, Linux, BSD 	Free and open-source Chromium variant without Google-specific web services.
+Unstoppable Blockchain Browser 	Electron 	Windows, macOS 	Web browser for browsing the decentralized web. [Archived]
+UC Browser 	Chromium 	Windows, macOS 	UC Browser is a fast and safe web browser for PC, Mac, and mobile.
+UR Browser 	Blink 	Windows 	Fast, free browser respecting user privacy. 100% European with built-in VPN and ad blocker.
+Uzbl Browser 	WebKit 	Unix-like (Linux, *BSD, Solaris, AIX, MacOS...) 	Free, open-source minimalist browser adhering to Unix philosophy. [Discontinued]
+V — V Named Browsers
+
+A curated collection of browsers named starting from V.
+Browser Name 	Engine 	Operating System 	Description
+Verso 	Servo 	Linux, macOS, Windows 	A web browser that plays old world blues to build new world hope.
+Viasat Browser 	Blink 	Windows, Linux, macOS 	A smarter way to browse the Internet.
+Vieb 	Electron 	Linux, macOS, Windows 	Vim Inspired Electron Browser.
+Vimb 	WebKit 	Linux 	Fast, lightweight, vim-like web browser with modal interface and keyboard-driven navigation.
+visurf 	based on NetSurf 	Linux, BSD 	Work-in-progress frontend for Netsurf.
+Vivaldi Browser 	Blink, V8 	Windows, macOS, Linux (Experimental) 	Powerful, personal, and private web browser packed with features.
+W — W Named Browsers
+
+A curated collection of browsers named starting from W.
+Browser Name 	Engine 	Operating System 	Description
+w3m 	Proprietary 	OS/2, Unix-like, Windows (Cygwin), macOS (Homebrew) 	Text-based web browser and pager.
+Waterfox 	Gecko, SpiderMonkey 	Windows, macOS, Linux 	Open-source Firefox fork developed by System1.
+Waterfox Classic 	Gecko 	Windows, macOS, Linux 	Legacy web browser for older systems and those that require use of XPCOM and XUL extensions. [Discontinued]
+Wave Browser 	Blink 	Windows, macOS (soon) 	Efficient, intuitive, and personal web browser.
+Wavebox Browser 	Blink 	Windows, macOS, Linux 	Secure, private Chromium browser for productive working across various web apps.
+WebBuddy 	WebKit 	macOS 	In-App Browser for Mac Apps.
+Webian Shell 	Gecko 	Windows, Linux 	Browser-based operating system UI for web use.
+WebNet Official 	Chromium 	Windows, macOS 	Fast, reliable Chromium Web Browser that doesn't track users.
+WebSM 	Microsoft WebView2, WebKit 	Windows, Linux 	Simple, minimalist Uno Platform based web browser.
+Wexond Browser 	Electron 	Windows, macOS, Linux 	Modern browser built with Electron and React. [Archived]
+X — X Named Browsers
+
+A curated collection of browsers named starting from X.
+Browser Name 	Engine 	Operating System 	Description
+Xvast Browser 	Blink 	Windows, macOS 	High-speed, secure DRM browser from Haihaisoft.
+Y — Y Named Browsers
+
+A curated collection of browsers named starting from Y.
+Browser Name 	Engine 	Operating System 	Description
+Y8 Browser 	Blink 	Windows, macOS, Linux 	Browser for playing all games, including Flash games.
+Yaeb Browser 	Electron 	Windows, macOS, Linux 	Minimalist Electron-based browser with API for webview manipulation.
+Yandex Browser 	Blink 	Windows, macOS, Linux 	Freeware browser by Yandex, based on Chromium.
+Z — Z Named Browsers
+
+A curated collection of browsers named starting from Z.
+Browser Name 	Engine 	Operating System 	Description
+Zen Browser 	Gecko 	Windows, macOS, Linux 	Privacy-focused browser for tranquil web browsing.
+
+0-9 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+Bonus Tools
+
+Additional utilities that enhance browser management and user experience.
+Tool Name 	Operating System 	Description
+Browser Tamer 	Windows 	Browser Tamer is a smart and powerful tool that acts as a browser proxy on your machine. It catches the links you click and redirects them to a browser or browser profile of your choice. You can set up rules based on the link’s domain, protocol, file extension and more.
+OneLaunch 	Windows 	The desktop integration that will upgrade your Windows 11 experience with all the features you’ve ever wanted and never had in your PC."
+
+2026.07.13/https://www.webbrowserdirectory.com/browsers/ : "
+Web Browser Directory
+
+    Big list of web browsers
+    Explore
+    Compare
+
+List of all browsers
+
+Updated at: Jul 12, 2026
+
+This is a big list of every web browser that has ever existed. Most people know about the big-name browsers: Chrome, Safari, Firefox, and Edge, but did you know that there are actually hundreds of other web browsers to choose from? Here's a list of the 541 web browsers I've been able to find, including really old discontinued browsers, experimental browsers, browsers made by a single person, and other types too, even the dangerous ones. You can use the filters to narrow down your search for a different web browser.
+
+Not every web browser here is intended for daily use. Some browsers are experimental, some are old, and some shouldn't necessarily be trusted. When you use a web browser, you are giving it a lot of trust, so make sure you have investigated it to ensure that it's good enough for you. Read more about safety. Warning!
+
+There are a lot of browsers in this listing, so you can use the browser filters to explore and narrow down what you're looking for. Also note that the tables shown in this section are sortable; simply click the headings of columns you wish to sort by.
+
+I have spent many, many hours searching, researching, and validating the information in this database and building this whole system. If anything is wrong or missing, please let me know.
+Browser Filters
+
+    Device Type
+        Desktop
+        Mobile
+        Game Console
+    Features
+        AI Tools
+        VPN
+        Extensions
+        Commercial
+        Sync
+        Retro OS
+        Code Repo
+        Native Adblocker
+    Operating System
+        Windows
+        macOS
+        Linux
+        Android
+        iOS
+        More...
+    Status
+        Active
+        Abandoned?
+        Discontinued
+    Rendering Engine
+        Chromium
+        Gecko
+        WebKit
+        Trident
+        LibWeb
+        Text Mode
+        QtWebEngine
+        Goanna
+        Electron
+        WebKitGTK
+        Tasman
+        Servo
+        Multiple
+        Custom
+        Unknown
+
+Browser Name 	Rendering Engine 	Timeline 	Device Type 	Operating Systems 	Status
+Chrome 	Chromium 	2008 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	Active
+Safari 	WebKit 	2003 → 	Desktop & Mobile 	iOS, macOS 	Active
+Firefox 	Gecko 	2004 → 	Desktop & Mobile 	Android, iOS, BSD, Linux, macOS, Windows 	Active
+Brave 	Chromium 	2016 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	Active
+Edge 	Chromium 	2015 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows, XBox 	Active
+Internet Explorer 	Trident 	1995 - 2022 	Desktop 	Windows 	Discontinued
+Vivaldi 	Chromium 	2015 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows, Symbian 	Active
+115 Browser 	Chromium 	2024 - ? 	Desktop 	Linux, macOS, Windows 	Idle
+1X 	Custom 	Unknown 	Desktop 	Windows 	
+2345 Browser 	Multiple 	2017 - 2023 	Desktop 	Windows 	Abandoned
+Abaco 	Custom 	2006 - ? 	Desktop 	Linux, Plan 9 	Discontinued
+Acent Browser
+Formerly Osiris Browser
+	Chromium 	2022 - 2025 	Desktop 	Linux, macOS, Windows 	Discontinued
+ActivatorDesk 	Unknown 	2000 - ? 	Desktop 	Windows 	Discontinued
+Adapt 	Unknown 	Unknown 	Desktop 	Windows 	
+AdBlock Browser 	Chromium 	2013 - 2025 	Desktop & Mobile 	Android, macOS, Windows 	Active
+Agora 	Text Mode 	1996 - 1997 	Desktop 	Unix-like 	Discontinued
+Agregore 	Electron 	2020 → 	Desktop 	Linux, macOS, Windows 	Active
+Air Browser 	WebKit 	2014 - 2019 	Mobile 	iOS 	Idle
+Air Mosaic 	Custom 	1994 - ? 	Desktop 	Windows 	Discontinued
+Airy 	Chromium 	2024 	Desktop 	macOS, Windows 	Idle
+Alloy 	WebKit 	2016 - ? 	Desktop 	OS X 	Discontinued
+Aloha Browser 	Chromium 	2016 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Active
+Amaya 	Custom 	1996 - 2012 	Desktop 	Unix-like, Windows, OS X, NeXTSTEP 	Discontinued
+Amazon Silk 	Chromium 	2011 → 	Mobile 	Misc Mobile OS 	Active
+Amelinium 	Custom 	2026 → 	Desktop 	Amiga OS 	Active
+AmiZilla 	Gecko 	2003 - 2009 	Desktop 	Amiga OS 	Discontinued
+AMosaic 	Custom 	1993 - ? 	Desktop 	Amiga OS 	Discontinued
+aMozillaX 	Gecko 	1999 	Desktop 	Amiga OS 	Discontinued
+AMP Browser 	Chromium 	2017 	Desktop 	Linux 	Discontinued
+AMSD Ariadna 	Custom 	1995 - 1996 	Desktop 	Windows 	Discontinued
+Angelfish 	QtWebEngine 	2011 → 	Mobile 	Misc Mobile OS 	Active
+AOL Explorer 	Trident 	2005 - 2006 	Desktop 	Windows 	Discontinued
+AOL Shield Pro Browser 	Chromium 	2023 → 	Desktop 	Windows 	Active
+AOLPress
+Formerly Navipress
+	Custom 	1994 - 1997 	Desktop 	Windows, Mac OS Classic 	Discontinued
+Aplix 	Custom 	1996 - ? 	Game Console 	Game Console 	Discontinued
+Arachne 	Custom 	1996 - 2021 	Desktop 	Linux, FreeDOS 	Idle
+Arc Browser 	Chromium 	2023 - 2025 	Desktop & Mobile 	iOS, macOS, Windows 	Discontinued
+Arctic Fox 	Gecko 	2018 → 	Desktop 	BSD, Linux, macOS, Windows 	Active
+ArcWeb 	Unknown 	2000 - ? 			Discontinued
+Arena Browser 	Custom 	1993 - 1998 	Desktop 	Unix-like, NeXTSTEP 	Discontinued
+Argo 	Custom 	1994 - 1997 	Desktop 	Unix-like 	Discontinued
+Argus Browser 	Unknown 	2026 → 	Desktop 	macOS 	
+Arora 	WebKit 	2008 - 2010 	Desktop 	BSD, Linux, macOS, Windows, OS2, Haiku, Genode, Misc Desktop OS 	Discontinued
+ArtisBrowser 	Unknown 	2011 - 2025 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Asobi 	WebKit 	2021 - 2023 	Mobile 	iOS 	Idle
+Atom Browser 	Chromium 	2019 - 2024 	Desktop & Mobile 	Android, macOS, Windows 	Discontinued
+Avant Browser 	Multiple 	1999 - 2020 	Desktop 	Windows 	Discontinued
+Avast Secure Browser 	Chromium 	2016 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+AVG Secure Browser 	Chromium 	2018 → 	Desktop & Mobile 	Android, macOS, Windows 	
+AWBfL 	WebKit 	2019 - ? 	Desktop 	Linux 	Idle
+AWeb 	Custom 	1996 - 2007 	Desktop 	Amiga OS 	Idle
+Axonium 	WebKit 	2026 → 	Desktop 	macOS 	
+AXplorer 	Chromium 	2021 - 2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+BadWolf 	WebkitGTK 	2019 - 2020 	Desktop 	BSD, Linux 	Idle
+Baidu Browser 	Multiple 	2011 → 	Desktop & Mobile 	Android, Windows 	
+Basilisk 	Goanna 	2017 → 	Desktop 	BSD, Linux, macOS, Windows 	Active
+Beacon Web Browser 	Chromium 	2021 → 	Desktop & Mobile 	iOS, macOS, Windows 	
+Beaker Browser 	Electron 	2017 - 2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+Beam 	WebKit 	2021 - 2025 	Desktop 	macOS 	Discontinued
+Beam Browser 	WebKit 	2025 → 	Mobile 	iOS 	Active
+Beonex Communicator 	Gecko 	2003 - 2004 	Desktop 	BSD, Linux, macOS, Windows 	Discontinued
+Bezilla 	Gecko 	1998 - 2007 	Desktop 	BeOS, Haiku 	Discontinued
+Biscuit 	Electron 	2021 - ? 	Desktop 	Linux, macOS, Windows 	Abandoned
+Blazer 	NetFront 	2000 - 2006 	Mobile 	Palm OS 	Discontinued
+Blue Hawk 	QtWebEngine 	2021 - ? 	Desktop 	Windows 	Abandoned
+Board Browser 	Electron 	2025 	Desktop 	Linux, macOS, Windows 	Idle
+Bolt 	WebKit 	2009 - 2011 	Mobile 	Misc Mobile OS 	Discontinued
+BonBon Browser 	Chromium 	2022 - 2024 	Desktop 	Linux, macOS, Windows 	Idle
+Bonsai Browser 	Electron 	2021 - 2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+Borneo 	QtWebEngine 	2013 	Desktop 	Linux 	Discontinued
+BriskBard 	Multiple 	2015 - 2026 	Desktop 	Windows 	Active
+Bromite 	Chromium 	2017 - 2022 	Mobile 	Android 	Discontinued
+Browse-It 	Unknown 	2000 - 2002 	Mobile 	Palm OS 	Discontinued
+Browser Monkey 	Electron 	2015 - 2019 	Desktop 	Linux, macOS, Windows 	Discontinued
+BrowserJet 	Chromium 	Unknown 	Desktop 	macOS, Windows 	
+BrowseX 	Custom 	2000 - 2001 	Desktop 	Windows 	Discontinued
+Browsh 	Gecko 	2018 - 2025 	Desktop 	BSD, Linux, macOS, Windows 	Idle
+Broz 	Electron 	2021 → 	Desktop 	Linux, macOS, Windows 	
+Bunjalloo 	Unknown 	2008 → 	Game Console 	Game Console 	Active
+CachyOS Browser 	Gecko 	2021 - 2025 	Desktop 	Linux 	Discontinued
+Cake Browser 	Unknown 	2017 - 2022 	Mobile 	Android, iOS 	Discontinued
+Camino
+Formerly Chimera
+	Gecko 	2002 - 2012 	Desktop 	OS X 	Discontinued
+Carbon 	Chromium 	2022 - 2025 	Desktop & Mobile 	Android, macOS, Windows 	Idle
+Carbonyl 	Chromium 	2022 - 2023 	Desktop 	Linux, macOS, Windows 	Abandoned
+Cargo 	Electron 	2018 - 2019 	Desktop 	Linux, macOS, Windows 	Abandoned
+Catalyst 	Electron 	2021 → 	Desktop 	Linux, macOS, Windows 	
+Catsxp 	Chromium 	2020 → 	Desktop 	Windows 	
+CCleaner Browser 	Chromium 	2019 → 	Desktop 	Windows 	Active
+Cello 	Custom 	1993 - 1994 	Desktop 	Windows, OS2 	Discontinued
+CentBrowser 	Chromium 	2015 → 	Desktop 	Windows 	
+Chameleon Browser 	Unknown 	? - 1999 	Desktop 	Windows 	Discontinued
+Charlotte 	Text Mode 	1994 - 1996 	Desktop 	Unix-like 	Abandoned
+Charon 	Custom 	2006 - 2024 	Desktop 	Plan 9 	Discontinued
+ChatGPT Atlas 	Chromium 	2025 → 	Desktop 	macOS, Windows 	Active
+Chawan 	Text Mode 	Unknown 	Desktop 	Linux 	
+Chedot 	Chromium 	2018 - 2024 	Desktop 	Windows 	Discontinued
+Cheetah 	Unknown 	2001 	Desktop 	Linux, Unix-like 	Discontinued
+Chimera 	Unknown 	1994 - 1998 	Desktop 	Unix-like 	Discontinued
+Chromium 	Chromium 	2008 → 	Desktop 	Linux, macOS, Windows 	Active
+Chromnius 	Chromium 	2022 - 2025 	Desktop 	Windows 	Discontinued
+Chronicler 	Electron 	2018 	Desktop 	macOS 	Discontinued
+Cineast 	Unknown 	Unknown 	Desktop 	Linux, Unix-like, Solaris, HP-UX 	Discontinued
+Citrio 	Chromium 	2013 - 2017 	Desktop 	macOS, Windows 	Abandoned
+Classilla 	Custom 	2009 - 2021 	Desktop 	Mac OS Classic 	Discontinued
+Click Browser 	WebKit 	2026 → 	Desktop 	macOS 	
+Cliqz 	Gecko 	2015 - 2021 	Desktop 	macOS, Windows 	Discontinued
+CoC CoC 	Chromium 	2013 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	
+Colibri 	Electron 	2016 - ? 	Desktop 	Linux, macOS, Windows 	Discontinued
+Comet Browser 	Chromium 	2025 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	Active
+Comodo Dragon 	Chromium 	2010 → 	Desktop 	Windows 	
+Comodo Ice Dragon 	Gecko 	2010 - 2019 	Desktop 	Windows 	Discontinued
+Companion 	Chromium 	2020 - ? 	Desktop 	Linux, macOS, Windows 	Abandoned
+Conkeror 	Gecko 	2008 - 2017 	Desktop 	Unix-like 	Discontinued
+Contiki 	Text Mode 	Unknown 	Desktop 	Atari, Misc Desktop OS 	Discontinued
+Coowon 	Chromium 	2012 - ? 	Desktop 	Windows 	Abandoned
+Core Browser 	Chromium 	2019 	Desktop 	macOS, Windows 	Discontinued
+Cromite 	Chromium 	2023 → 	Desktop & Mobile 	Android, Linux, Windows 	Active
+Cronos 	Unknown 	Unknown 	Desktop & Mobile 	iOS, Windows 	
+Cruz 	WebKit 	2011 - 2012 	Desktop 	macOS 	Discontinued
+CryptoTab Browser 	Chromium 	2018 - 2022 	Desktop & Mobile 	Android, macOS 	Discontinued
+Crystal Atari Browser 	Unknown 	1995 - 2006 	Desktop 	Atari 	Discontinued
+Cyberdog 	Custom 	1995 - 1997 	Desktop 	Mac OS Classic 	Discontinued
+CyberGhost 	Chromium 	2022 - 2024 	Desktop & Mobile 	iOS, macOS, Windows 	Discontinued
+Cyberjack 	Custom 	1995 - 1996 	Desktop 	Windows 	Discontinued
+Dactyloidae 	Goanna 	2026 - 2026 	Desktop 	BSD, Linux, macOS, Windows 	Active
+Dashob 	Chromium 	2019 - 2020 	Desktop 	Linux, macOS, Windows 	Idle
+dBrowser 	Electron 	2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+Decentr 	Chromium 	2021 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	
+Deepfish 	Unknown 	2007 - 2008 	Mobile 	Windows Mobile 	Discontinued
+Deepnet Explorer 	Trident 	2005 - 2006 	Desktop 	Windows 	Discontinued
+Defiant Browser 	Chromium 	2018 - 2020 	Desktop 	Linux, macOS, Windows 	Discontinued
+Dezor 	Chromium 	2022 → 	Desktop & Mobile 	Android, Linux, Windows, FireOS 	
+Dia 	Chromium 	2025 → 	Desktop 	macOS 	Active
+Dillo 	Custom 	1999 → 	Desktop 	BSD, Linux, macOS, Solaris, FreeDOS 	Active
+Dolphin 	Chromium 	2011 - ? 	Mobile 	Android, iOS 	Abandoned
+Dooble 	QtWebEngine 	2008 → 	Desktop 	BSD, Linux, macOS, Windows, OS2, Haiku 	Active
+Dot Browser 	Gecko 	2022 - 2024 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Abandoned
+DR-WebSpyder
+Also known as Embrowser, and also Embedix Browser
+	Custom 	1997 - 1999 	Desktop 	MS-DOS 	Discontinued
+DuckDuckGo Browser 	Chromium 	2018 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Active
+Ecosia 	Chromium 	2009 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Edgescape Navigator 	Chromium 	2025 → 	Desktop 	Windows 	
+EGBrowser 	Unknown 	Unknown 	Game Console 	Game Console 	Discontinued
+Elector 	Electron 	2015 → 	Desktop 	Linux, macOS, Windows 	
+ELinks 	Text Mode 	2002 → 	Desktop 	Linux, Windows, FreeDOS 	Active
+Elixir Browser 	Chromium 	2025 → 	Mobile 	Android 	Active
+Elza Browser 	Electron 	2020 - 2021 	Desktop 	Linux, macOS, Windows 	Discontinued
+Embedix Browser
+Formerly Embrowser
+	Custom 	1999 - ? 	Desktop 	Linux 	Discontinued
+Emissary 	Custom 	1995 - 1996 	Desktop 	Windows 	Discontinued
+Endorphin Browser 	WebKit 	2008 - 2023 	Desktop 	Linux 	Abandoned
+Eolas WebRouser 	Custom 	1995 - ? 	Desktop 	Unix-like 	Discontinued
+Epic Privacy Browser 	Chromium 	2013 - 2020 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Idle
+Erwise 	Custom 	1992 - 1994 	Desktop 	Unix-like 	Discontinued
+EudoraWeb 	Unknown 	Unknown 	Mobile 	Palm OS 	Discontinued
+eWorld Browser 	Unknown 	1994 - 1996 	Desktop 	Mac OS Classic 	Discontinued
+Eww browser 	Text Mode 	2013 → 	Desktop 	Linux, Unix-like 	Active
+Falkon
+Formerly QupZilla
+	QtWebEngine 	2010 → 	Desktop 	BSD, Linux, Windows 	Active
+Fastback Browser 	WebKit 	2020 - 2020 	Desktop & Mobile 	iOS, macOS 	Idle
+Felida Browser 	Electron 	2021 - 2025 	Desktop 	Linux, macOS, Windows 	Discontinued
+Fellou 	Unknown 	2024 → 	Desktop 	macOS, Windows 	Active
+Fennec 	Gecko 	2008 → 	Mobile 	Android 	Active
+Ferdium 	Electron 	2022 → 	Desktop 	Linux, macOS, Windows 	Active
+Ferny 	Electron 	2019 	Desktop 	Linux, Windows 	Discontinued
+FIFO Browser 	Electron 	2021 - 2023 	Desktop 	Linux, macOS, Windows 	Abandoned
+Fifth Browser 	WebKit 	2013 - 2020 	Desktop 	Linux 	Discontinued
+FireDragon 	Gecko 	2024 → 	Desktop 	Linux 	Active
+Firefox Developer Edition 	Gecko 	2017 → 	Desktop 	Linux, macOS, Windows 	Active
+Firefox Focus 	Gecko 	2015 → 	Mobile 	Android, iOS 	Active
+Firefox Lite
+Formerly Firefox Rocket
+	Unknown 	2017 - 2019 			
+FixBrowser 	Custom 	2025 - ? 	Desktop 	Linux, Windows, Haiku 	Idle
+Fizzilla 	Unknown 	1999 - 2002 	Desktop 	OS X 	Discontinued
+Flock 	Chromium 	2005 - 2011 	Desktop 	Linux, macOS, Windows 	Discontinued
+Floorp 	Gecko 	2021 → 	Desktop 	Linux, macOS, Windows 	Active
+Flow 	Electron 	2025 → 	Desktop 	Linux, macOS, Windows 	
+Flow Browser 	Custom 	Unknown 	Desktop & Mobile 	Android, Linux, macOS, Windows, Raspberry Pi 	
+Fluid 	WebKit 	2007 - ? 	Desktop 	macOS 	Idle
+Freedom 	Unknown 	Unknown 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Fresco 	Custom 	1994 - 2004 	Desktop 	Linux, Windows 	Discontinued
+Fulguris 	Android WebView 	2013 → 	Mobile 	Android 	Active
+Galeon 	Gecko 	2000 - 2008 	Desktop 	Unix-like 	Discontinued
+Galio 	Custom 	2004 - 2010 	Desktop 	Linux, Windows 	Discontinued
+Gazelle 	Custom 	2009 	Desktop 	Windows 	Discontinued
+Gener8 Browser 	Unknown 	2021 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Active
+Genspark AI Browser 	Unknown 	2023 → 	Desktop 	macOS, Windows 	
+Ghost Browser 	Unknown 	Unknown 	Desktop 	Linux, macOS, Windows 	
+Ghostery Browser 	Unknown 	2023 - 2025 	Desktop 	Windows 	Discontinued
+Ghostzilla 	Gecko 	2002 	Desktop 	Windows 	Discontinued
+GLICER Browser 	Electron 	2016 	Desktop 	Linux, macOS, Windows 	Discontinued
+Glide 	Gecko 	2025 → 	Desktop 	Linux 	Active
+GlobeHopper 	Custom 	Unknown 	Desktop 	Misc Desktop OS 	Discontinued
+Glow Browser 	WebKit 	2020 	Desktop & Mobile 	iOS, macOS 	Discontinued
+gngr 	Custom 	2014 - 2025 	Desktop 	Java Platform 	Idle
+GNOME Web
+Also known as Epiphany
+	WebkitGTK 	2002 → 	Desktop 	Linux 	Active
+Grail 	Custom 	1995 - 1999 	Desktop 	Unix-like 	Discontinued
+Green Browser 	Trident 	2009 - 2016 	Desktop 	Windows 	Discontinued
+Guardian Browser 	Unknown 	Unknown 	Desktop 	macOS, Windows 	
+Gzilla 	Gecko 	1998 - 1999 	Desktop 	Linux 	Discontinued
+Hack Browser 	Electron 	2015 - 2019 	Desktop 	Linux, macOS, Windows 	Discontinued
+Hayami Browser 	Electron 	2023 - 2025 	Desktop 	Windows 	Discontinued
+Helium 	WebKit 	2015 - 2022 	Desktop 	OS X 	Discontinued
+Helium 3 	WebKit 	2017 - 2020 	Desktop 	OS X 	Abandoned
+Helium Computer Browser 	Chromium 	2025 → 	Desktop 	Linux, macOS, Windows 	Active
+Helix 	Gecko 	2023 - 2024 	Desktop 	Linux 	Abandoned
+Hermit 	Chromium 	2022 → 	Mobile 	Android 	
+Herond 	Chromium 	2023 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Highwire 	Custom 	2001 - 2005 	Desktop 	Atari 	Discontinued
+Hola browser 	Chromium 	Unknown 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Horse Browser 	Unknown 	2022 → 	Desktop 	Linux, macOS, Windows 	Active
+HotJava 	Unknown 	1997 - 2004 	Desktop 	Linux, Windows, Mac OS Classic 	Discontinued
+Huawei Browser 	Unknown 	Unknown 	Desktop 	Windows 	Active
+Hv3 	Tkhtml 	1995 - 2006 	Desktop 	Linux, Unix-like 	Discontinued
+Hydra 	Goanna 	2018 → 	Desktop 	Windows 	Active
+IBM Home Page Reader 	Custom 	1998 - 2005 	Desktop 	Windows 	Discontinued
+IBM WebExplorer 	Custom 	1994 - 1998 	Desktop 	OS2 	Discontinued
+IBrowse 	Custom 	1996 - 2023 	Desktop 	Amiga OS 	Idle
+iCab 	WebKit 	1999 → 	Desktop & Mobile 	iOS, macOS, Mac OS Classic 	Active
+IceCat
+Also known as GNU IceCat
+Formerly IceWeasel
+	Gecko 	2005 - 2025 	Desktop 	Linux, macOS, Windows 	Idle
+Iceraven 	Gecko 	2021 → 	Mobile 	Android 	Active
+Iceweasel 	Gecko 	2006 - 2016 	Desktop 	Linux 	Discontinued
+Impervious 	Chromium 	2022 - 2022 	Desktop 	Linux, macOS, Windows 	Abandoned
+InBrowser 	Unknown 	? - 2023 	Mobile 	Android, iOS 	Abandoned
+Insight Browser 	WebKit 	2021 - 2023 	Mobile 	iOS 	Discontinued
+Internet Channel 	Presto 	2006 - 2011 	Game Console 	Game Console 	Discontinued
+Internet Explorer for Mac 	Tasman 	1996 - 2003 	Desktop 	OS X, Mac OS Classic 	Discontinued
+Internet Explorer for UNIX 	Trident 	2001 - 2002 	Desktop 	Solaris, HP-UX 	Discontinued
+Internet Explorer Mobile 	Trident 	1997 - 2014 	Mobile 	Windows Phone 8.1, Windows CE 	Discontinued
+InternetWorks 	Unknown 	1994 - ? 	Desktop 	Windows 	Discontinued
+InterWebSnow 	Gecko 	2021 - 2022 	Desktop 	OS X 	Abandoned
+iPanel Microbrowser 	Unknown 	Unknown 			Discontinued
+Iridium Browser 	Chromium 	2019 - 2024 	Desktop 	Linux, macOS, Windows 	Abandoned
+Iris Browser 	WebKit 	2008 - 2009 	Mobile 	Windows Mobile, Windows CE 	Discontinued
+Ironfox 	Gecko 	2025 → 	Mobile 	Android 	Active
+Jazilla 	Unknown 	1999 - 2000 	Desktop 	Java Platform 	Discontinued
+JioSphere 	Chromium 	Unknown 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	
+JosBrowser
+Formerly JoZilla
+	Unknown 	1998 - 2001 	Desktop 	Java Platform 	Discontinued
+Jumanji Browser 	WebkitGTK 	2010 - 2024 	Desktop 	Linux 	Discontinued
+Junior 	Trident 	1999 - 2001 			Discontinued
+K Browser 	Trident 	2014 - 2022 	Desktop 	Windows 	Abandoned
+K-Meleon 	Goanna 	2000 - 2022 	Desktop 	Windows 	Idle
+Ka Ko'okele 	Unknown 	1998 - 2006 	Desktop 	Mac OS Classic 	Discontinued
+Kaktus 	Electron 	2016 - 2024 	Desktop 	Linux, macOS, Windows 	Discontinued
+Kazehakase 	Multiple 	2003 - 2009 	Desktop 	Unix-like 	Discontinued
+KidZui 	Unknown 	2006 - 2014 	Desktop & Mobile 	iOS, macOS, Windows 	Discontinued
+Kingpin Browser 	Unknown 	2019 - ? 	Desktop 	macOS, Windows 	Discontinued
+Kirin 	Goanna 	2025 → 	Desktop 	Windows 	Active
+Kiwi Browser 	Chromium 	2021 - 2025 	Mobile 	Android 	Discontinued
+Konqueror 	QtWebEngine 	2000 → 	Desktop 	BSD, Linux 	
+Kristall Small-Internet Browser 	Custom 	2020 - 2024 	Desktop 	BSD, Linux, Windows, OS X, Haiku 	
+Kylo 	Gecko 	2010 - 2019 	Desktop 	Windows, OS X 	Discontinued
+LadyBird 	LibWeb 	2024 → 	Desktop 	Linux, macOS, SerenityOS 	Active
+Lemur 	Chromium 	2022 - 2024 	Mobile 	Android, iOS 	
+LibreWolf 	Gecko 	2020 → 	Desktop 	Linux, macOS, Windows 	Active
+Light Browser 	CefSharp 	2020 	Desktop 	Windows 	Discontinued
+Line Mode Browser 	Text Mode 	1991 - 2017 	Desktop 	BSD, Linux, Unix-like, macOS, Windows, Solaris, Mac OS Classic, MS-DOS, NeXTSTEP 	Idle
+Linken Sphere 	Unknown 	2017 → 	Desktop 	macOS, Windows 	
+Links 	Text Mode 	1999 - 2024 	Desktop 	BSD, Linux 	Active
+Links (Atari) 	Unknown 	Unknown 	Desktop 	Atari 	Discontinued
+Liri Browser 	Chromium 	2016 - 2023 	Desktop 	Linux 	Abandoned
+Lobo Evolution 	Custom 	2019 → 	Desktop 	Misc Desktop OS 	
+Local Browser 	Electron 	2017 - 2017 	Desktop 	Linux, macOS, Windows 	Abandoned
+LT Browser 	Unknown 	2020 → 	Desktop 	Linux, macOS, Windows 	
+Luakit 	WebkitGTK 	2010 - 2025 	Desktop 	BSD, Linux, Solaris, Hurd, Windows with WSL 	Idle
+Lulumi Browser 	Electron 	2017 - 2021 	Desktop 	Linux, macOS, Windows 	Abandoned
+Lun3r 	Goanna 	2018 → 	Desktop 	Windows 	Active
+Lunascape 	Multiple 	2001 - 2024 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+LunaSuite 	Unknown 	2001 - 2002 	Mobile 	Apple Newton 	Discontinued
+Lynx 	Text Mode 	1992 → 	Desktop 	BSD, Linux, Windows, NeXTSTEP 	Active
+MacLynx 	Text Mode 	1997 - ? 	Desktop 	Mac OS Classic 	Idle
+MacSurf 	Custom 	2026 → 	Desktop 	Mac OS Classic 	Active
+MacWeb 	Custom 	1994 - 1996 	Desktop 	Mac OS Classic 	Discontinued
+MacWWW
+Also known as Samba
+	Custom 	1992 - 1994 	Desktop 	Mac OS Classic 	Discontinued
+Marble Browser 	Gecko 	2025 → 	Desktop 	Linux, macOS, Windows 	Active
+Maxthon 	Chromium 	2002 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	
+Mercury 	Unknown 	2012 - 2015 	Mobile 	Android, iOS 	Discontinued
+Mercury Browser 	Gecko 	2022 - 2024 	Desktop 	Linux, macOS, Windows 	Abandoned
+Mi Browser Pro 	Chromium 	Unknown 	Mobile 	Android 	
+MicroB 	Gecko 	2007 - 2008 	Desktop 	Misc Desktop OS 	Discontinued
+MidasWWW 	Custom 	1992 	Desktop 	Unix-like 	Discontinued
+Midori 	Gecko 	2007 → 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Active
+Min 	Electron 	2015 → 	Desktop 	Linux, macOS, Windows 	Active
+Minichrome 	Chromium 	2018 - 2019 	Desktop 	Linux 	Abandoned
+Minimo 	Gecko 	2004 - 2007 	Mobile 	Windows CE 	Discontinued
+Minuet 	Custom 	1994 - 1996 	Desktop 	MS-DOS 	Discontinued
+Minum 	Electron 	2015 - 2018 	Desktop 	Linux, macOS, Windows 	Discontinued
+Mirror 	WebKit 	2022 → 	Desktop 	macOS 	
+Mises 	Chromium 	2023 - ? 	Mobile 	Android, iOS 	Idle
+Mist 	Electron 	2015 - 2019 	Desktop 	Linux, macOS, Windows 	Discontinued
+Mitra 	QtWebEngine 	2021 	Desktop 	Linux 	Discontinued
+MMM 	Unknown 	1997 - 1998 	Desktop 	Unix-like 	Discontinued
+Mothra 	Custom 	1995 - 2011 	Desktop 	Plan 9 	Discontinued
+MSN Explorer 	Trident 	2001 - ? 	Desktop 	Windows 	Discontinued
+Muffon 	Electron 	2020 → 	Desktop 	Linux, macOS, Windows 	
+Mulch 	Chromium 	2021 → 	Mobile 	Android 	
+Mull-Fenix 	Gecko 	2017 - 2024 	Mobile 	Android 	Discontinued
+Mullvad 	Gecko 	2009 → 	Desktop 	Linux, macOS, Windows 	Active
+MultiTorg Opera 	Custom 	1994 - 1996 			Discontinued
+Multiweb 	Unknown 	2000 	Desktop 	Windows 	Discontinued
+MultiZen 	Electron 	2023 → 	Desktop 	Linux, macOS, Windows 	
+Mycel 	Custom 	Unknown 	Desktop 	Unix-like, macOS, Plan 9 	Idle
+Mypal 	Gecko 	2022 → 	Desktop 	Windows 	Active
+Myriad 	WebKit 	? - 2008 			
+Naked Browser Pro 	Unknown 	2012 - 2016 	Mobile 	Android 	Abandoned
+Naver Whale 	Chromium 	Unknown 	Desktop & Mobile 	Android, iOS, Windows 	
+NCSA Mosaic 	Custom 	1993 - 1997 	Desktop 	Unix-like, Windows, OS2, Misc Desktop OS 	Discontinued
+NeoPlanet 	Trident 	1997 - 2001 	Desktop 	Windows 	Discontinued
+Net-Tamer 	Unknown 	Unknown 	Desktop & Mobile 	Windows, Misc Mobile OS 	Discontinued
+NetCaptor 	Trident 	1997 - 2005 	Desktop 	Windows 	Discontinued
+NetClue 	Unknown 	Unknown 	Desktop 	Java Platform 	
+Netcomber 	Unknown 	1995 	Desktop 	OS2 	Discontinued
+NetCruiser 	Unknown 	1995 - 1998 	Desktop 	Windows 	Discontinued
+NetFront 	Unknown 	1995 → 	Mobile 	Misc Mobile OS 	
+NetHopper 	Custom 	1996 - 1998 	Mobile 	Apple Newton 	Discontinued
+NetLink Custom Web Browser 	Custom 	1996 - 1997 	Game Console 	Game Console 	Discontinued
+Netomat 	Unknown 	1999 - 2001 	Desktop 	Linux, Windows 	Discontinued
+NetPositive 	Custom 	Unknown 	Desktop 	BeOS 	Discontinued
+Netrik 	Text Mode 	Unknown 			
+Netscape 	Gecko 	1994 - 2008 	Desktop 	Linux, macOS, Windows, HP-UX 	Discontinued
+NetShark 	Unknown 	1995 - 2000 	Desktop 	Mac OS Classic 	Discontinued
+NetSurf 	Custom 	2007 - 2023 	Desktop 	BSD, Linux, macOS, Haiku, RISC OS, Amiga OS, Plan 9 	Active
+NetSurfer 	WebView2 	Unknown 	Desktop 	Windows 	Idle
+NetSurfer (NeXTSTEP) 	Custom 	Unknown 	Desktop 	NeXTSTEP 	Discontinued
+NewtScape 	Unknown 	1997 - 2001 	Mobile 	Apple Newton 	Discontinued
+Nexus
+Formerly WorldWideWeb
+	Custom 	1990 - 1992 	Desktop 	NeXTSTEP 	Discontinued
+Nexus Browser 	Trident 	2020 	Desktop 	Windows 	Discontinued
+Ninetails 	Electron 	2021 - 2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+Ninja Browser 	Electron 	Unknown 	Desktop 	macOS 	Discontinued
+Nintendo 3DS Browser 	Unknown 	2011 - 2020 	Game Console 	Game Console 	Discontinued
+Nintendo DS Browser 	Presto 	2006 - ? 	Game Console 	Game Console 	Discontinued
+Nintendo Wii Browser 	Presto 	2006 - 2013 	Game Console 	Game Console 	Discontinued
+Nintendo Wii U Browser 	Unknown 	2012 - 2017 	Game Console 	Game Console 	Discontinued
+Nocturne 	Gecko 	2015 → 	Desktop 	Windows 	Active
+Nokia Browser for Symbian
+Formerly Web Browser for S60
+	WebKit 	2002 - ? 	Mobile 	Symbian 	Discontinued
+Nokia Xpress 	Custom 	2012 - 2015 	Mobile 	Nokia X 	Discontinued
+Nook 	WebKit 	2025 → 	Desktop 	macOS 	Active
+Norton Neo 	Unknown 	2025 → 	Desktop 	macOS, Windows 	Active
+Norton Private Browser 	Chromium 	Unknown 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+nOS 	Electron 	Unknown 	Desktop 	macOS, Windows 	Abandoned
+Nyxt Browser 	Multiple 	2017 - 2025 	Desktop 	Linux 	Idle
+Off By One 	Custom 	2001 - 2004 	Desktop 	Windows 	Discontinued
+OhHai Browser 	Electron 	2020 - 2020 	Desktop 	Windows 	Abandoned
+OmniWeb 	WebKit 	1995 - 2012 	Desktop 	OS X, NeXTSTEP 	Discontinued
+Onion Browser 	WebKit 	2012 → 	Mobile 	iOS 	
+OpenWave
+Formerly UP.Browser
+	Unknown 	2002 - 2009 	Mobile 	Misc Mobile OS 	Discontinued
+Opera 	Chromium 	1995 → 	Desktop & Mobile 	Android, iOS, BSD, Linux, macOS, Windows 	Active
+Opera Air 	Chromium 	2025 → 	Desktop 	macOS, Windows 	
+Opera Coast 	Unknown 	2013 - 2017 	Mobile 	iOS 	Discontinued
+Opera Crypto Browser 	Chromium 	Unknown 	Desktop 	Linux, macOS, Windows 	Discontinued
+Opera GX 	Chromium 	2019 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	
+Opera Mini 	Chromium 	2005 → 	Mobile 	Android, Windows Phone 8.1, Windows 10 Mobile, BlackBerry OS, Nokia X 	Active
+Opera Neon 	Chromium 	2017 - ? 	Desktop 	macOS, Windows 	Discontinued
+Oracle PowerBrowser 	Custom 	1996 			Discontinued
+Orbitum 	Chromium 	2012 - 2020 	Desktop & Mobile 	Android, macOS, Windows 	Abandoned
+Oregan 	Unknown 	Unknown 	Game Console 	Game Console 	
+Oregano 	Custom 	2000 - 2007 	Desktop 	RISC OS 	Discontinued
+Origyn 	Custom 	? - 2014 	Desktop 	Amiga OS, Misc Desktop OS 	Discontinued
+Orion 	WebKit 	2021 → 	Desktop & Mobile 	iOS, macOS 	Active
+Orions Browser
+Formerly Monument Browser
+	Unknown 	Unknown 	Desktop 	Windows 	Discontinued
+Ortix 	Unknown 	2025 → 	Desktop 	macOS 	Active
+Osiris Browser 	Unknown 	Unknown 	Desktop 	Windows 	Discontinued
+Otter Browser 	QtWebEngine 	2014 → 	Desktop 	BSD, Linux, macOS, Windows, Haiku, Misc Desktop OS 	Active
+Pale Moon 	Goanna 	2009 - 2026 	Desktop 	BSD, Linux, macOS, Windows 	Active
+Palmscape 	Unknown 	2002 - 2005 	Mobile 	Palm OS 	Discontinued
+Pathworks Mosaic 	Unknown 	? - 1994 	Desktop 	Unix-like, Windows 	Discontinued
+Peacock 	Electron 	2019 - 2020 	Desktop 	Linux, macOS, Windows 	Discontinued
+PeerSky Browser 	Electron 	2023 → 	Desktop 	Linux, macOS, Windows 	
+Pennywise 	Electron 	2018 - ? 	Desktop 	macOS 	Discontinued
+Peruse 	Electron 	2015 - 2018 	Desktop 	Linux, macOS, Windows 	Discontinued
+Phoenix 	Unknown 	1993 - 1995 	Desktop 	Linux, Windows, MS-DOS 	Discontinued
+Phoenix TkWWW 	Custom 	1993 - 1995 	Desktop 	Linux, Windows, MS-DOS 	Discontinued
+Pissandshittium 	Chromium 	2023 - ? 	Desktop 	Windows 	Idle
+PlanetWeb 	Custom 	1999 - 2001 	Game Console 	Game Console 	Discontinued
+PlasmaFox 	Gecko 	2019 - 2021 	Desktop 	Linux 	Discontinued
+PlayStation 2 NetFront 	NetFront 	Unknown 	Game Console 	Game Console 	Discontinued
+PlayStation 3 Browser 	NetFront 	2006 - 2016 	Game Console 	Game Console 	Discontinued
+PlayStation 4 Browser 	NetFront 	2013 - 2024 	Game Console 	Game Console 	Discontinued
+PlayStation Portable 	Unknown 	2004 - 2015 	Game Console 	Game Console 	Discontinued
+PlayStation Vita Browser 	Unknown 	Unknown 	Game Console 	Game Console 	
+Pocket Browser 	Electron 	2021 - 2023 	Desktop 	Linux 	Abandoned
+PocketWeb
+Formerly NewtonWWW
+	Unknown 	Unknown 	Mobile 	Apple Newton 	
+Polaris 	WebKit 	2002 - 2009 	Mobile 	Misc Mobile OS 	Discontinued
+Polarity 	Unknown 	2011 - ? 	Desktop & Mobile 	Android, Windows 	Abandoned
+Poly Browser 	Electron 	2014 - 2016 	Desktop 	Linux, macOS, Windows 	Discontinued
+Polypane 	Electron 	Unknown 	Desktop 	macOS, Windows 	Active
+Poshuku 	Multiple 	Unknown 	Desktop 	BSD, Linux 	
+Power Browser 	Unknown 	Unknown 	Desktop & Mobile 	Android, macOS, Windows 	Discontinued
+PowerFox 	Gecko 	2026 → 	Desktop 	OS X 	Active
+Privacy Browser 	Unknown 	Unknown 	Desktop & Mobile 	Android, Linux 	Idle
+Procomm Plus Web Zeppelin 	Custom 	1996 - 2002 	Desktop 	Windows 	Discontinued
+Programmer Browser 	Electron 	2022 - 2023 	Desktop 	Linux, macOS, Windows 	Idle
+ProxiWeb 	Unknown 	? - 2000 	Mobile 	Windows CE, Palm OS 	Discontinued
+PS2 Browser 	Custom 	2025 → 	Game Console 	Game Console 	Active
+Puffin Browser 	Chromium 	2010 - 2021 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Idle
+Puffin Cloud Browser 	WebKit 	2010 - 2021 	Mobile 	iOS 	
+Pulse Browser 	Gecko 	2021 - 2024 	Desktop 	Linux 	Discontinued
+Puma Browser 	Unknown 	Unknown 	Mobile 	Android, iOS 	
+QQ Browser 	Chromium 	2021 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+QtWeb 	WebKit 	2008 - 2013 	Desktop 	Linux, macOS, Windows 	Discontinued
+QuarterDeck Mosaic 	Custom 	1995 - 1998 	Desktop 	Windows 	Discontinued
+Quetta 	Chromium 	2024 → 	Mobile 	Android, iOS 	
+Quiche Browser 	WebKit 	2023 → 	Mobile 	iOS 	Active
+qutebrowser 	Multiple 	2014 → 	Desktop 	Linux, macOS, Windows 	Active
+r3dfox 	Gecko 	2024 → 	Desktop 	Windows 	Active
+Redcore 	Chromium 	2018 	Desktop & Mobile 	Android, iOS, Linux, Windows 	Discontinued
+rekonq 	WebKit 	2008 - 2018 	Desktop 	Linux 	Discontinued
+ReqwirelessWeb WebViewer 	ReqwirelessWeb 	Unknown 	Mobile 	Java Platform, Micro Edition 	
+Responsively 	Electron 	2019 → 	Desktop 	Linux, macOS, Windows 	
+retawq 	Text Mode 	2001 - 2006 	Desktop 	Linux, Unix-like 	Discontinued
+Roccat 	WebKit 	2004 → 	Desktop & Mobile 	iOS, macOS 	
+Rockmelt 	Chromium 	2010 - 2013 	Desktop & Mobile 	Android, iOS, Windows 	Discontinued
+Rose 	WebKit 	2022 - 2023 	Desktop 	Linux, macOS 	Discontinued
+SalamWeb 	Chromium 	2019 - 2021 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Discontinued
+Samsung Internet 	Chromium 	2013 → 	Desktop 	Windows 	
+Sanbrowser 	Multiple 	2019 - 2021 	Desktop 	Windows 	Discontinued
+Sandcat 	Chromium 	2014 - 2023 	Desktop 	Windows 	
+Santa 	Chromium 	2022 → 	Desktop & Mobile 	Android, macOS, Windows 	
+SeaLion 	Gecko 	2023 → 	Desktop 	Linux, macOS 	Active
+SeaMonkey
+Formerly Iceape
+	Gecko 	2005 → 	Desktop 	Linux, macOS, Windows 	Active
+SEOBrowse 	Electron 	Unknown 	Desktop 	macOS, Windows 	Discontinued
+Servo Tech Demo 	Servo 	2012 → 	Desktop & Mobile 	Android, Linux, macOS, Windows, Misc Desktop OS 	Active
+Seznam 	Electron 	Unknown 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Sharp Browser 	CefSharp 	2016 → 	Desktop 	Windows 	
+Shift Browser 	Unknown 	Unknown 	Desktop 	macOS, Windows 	
+Shiira 	WebKit 	2004 - 2009 	Desktop 	macOS 	Discontinued
+Sidekick 	Unknown 	2020 - 2024 	Desktop 	Linux, macOS, Windows 	Discontinued
+sielo 	Unknown 	2016 - 2019 	Desktop 	Linux, macOS, Windows 	
+Sigma Browser 	Chromium 	2024 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+SigmaOS 	WebKit 	2021 → 	Desktop 	macOS 	
+Sizzy 	Electron 	Unknown 	Desktop 	macOS 	
+Skweezer 	Unknown 	2003 - 2008 	Mobile 	Misc Mobile OS 	Discontinued
+Skye Browser 	Electron 	2017 - 2022 	Desktop 	Linux, macOS, Windows 	Abandoned
+Skyfire 	Gecko 	2008 - 2014 	Mobile 	Android, iOS, Symbian, Windows Mobile 	Discontinued
+SlashB 	Unknown 	2020 - ? 	Desktop 	Linux, macOS, Windows 	Discontinued
+SLBr 	Multiple 	2022 → 	Desktop 	Windows 	Active
+Sleipnir 	Chromium 	2004 - 2025 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Slim Browser 	Gecko 	2010 - 2023 	Desktop 	Windows 	Discontinued
+SlimJet 	Chromium 	2010 - 2023 	Desktop 	Linux, macOS, Windows 	
+SlipKnot 	Custom 	1994 - 1998 	Desktop 	Windows 	Discontinued
+SnowHaze 	WebKit 	2016 - 2025 	Mobile 	iOS 	Active
+Sogou Explorer 	Unknown 	Unknown 	Desktop 	Windows 	
+Soul Browser 	Chromium 	Unknown 	Mobile 	Android 	
+SpaceTime 	Trident 	2007 - 2010 	Desktop 	Windows 	Discontinued
+SpiderWoman 	Custom 	Unknown 	Desktop 	NeXTSTEP 	
+Split Browser 	WebKit 	2022 - 2024 	Desktop 	Linux, macOS, Windows 	Abandoned
+SPRY Mosaic 	Unknown 	Unknown 			Discontinued
+Spyglass Mosaic 	Unknown 	Unknown 			
+SRWare Iron 	Chromium 	2008 → 	Desktop 	Linux, macOS, Windows 	
+Stack Browser 	Chromium 	2019 → 	Desktop 	macOS, Windows 	
+Steel 	WebKit 	2008 - 2009 	Mobile 	Android 	Discontinued
+Strawberry 	Electron 	2025 → 	Desktop 	macOS, Windows 	Active
+Sunbird 	Gecko 	2003 - 2010 	Desktop 	Linux, macOS, Windows, Solaris 	Discontinued
+Supermium 	Chromium 	2023 → 	Desktop 	Windows 	Active
+Suprow 	Electron 	2026 → 	Desktop 	Linux, macOS, Windows 	Active
+Surf Browser 	WebkitGTK 	2009 - 2021 	Desktop 	Unix-like 	Abandoned
+Sushi Browser 	Electron 	2018 - 2020 	Desktop 	Windows 	Abandoned
+Swiftfox 	Gecko 	2005 - 2017 	Desktop 	Linux 	Discontinued
+Swiftweasel 	Gecko 	2007 - 2009 	Desktop 	Linux 	Discontinued
+Synth 	Chromium 	2021 - 2025 	Desktop 	macOS, Windows 	Discontinued
+Taktak 	Chromium 	2025 → 	Desktop 	Linux, macOS, Windows 	Active
+Tango 	Unknown 	1995 - 1999 			Discontinued
+TeaShark 	Unknown 	2007 - 2009 	Mobile 	Misc Mobile OS 	Discontinued
+Tempest 	Chromium 	Unknown 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Abandoned
+TenFourFox 	Gecko 	2010 - 2020 	Desktop 	OS X 	Discontinued
+Tesla Browser 	Chromium 	2022 → 	Desktop 	Windows 	Active
+The Light of Adamas 	Unknown 	? - 2001 	Desktop 	Atari 	Discontinued
+The Web Stalker 	Unknown 	1997 - 1998 	Desktop 	macOS, Windows 	Discontinued
+theWeb 	Chromium 	2019 - 2021 	Desktop 	Linux, macOS, Windows 	Discontinued
+Thorium 	Chromium 	2014 → 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Active
+ThunderHawk 	Custom 	2001 - 2008 	Mobile 	Misc Mobile OS 	Discontinued
+Tiber 	Unknown 	1995 - ? 	Desktop 	Windows, Mac OS Classic 	Discontinued
+Tilectron 	Electron 	2015 	Desktop 	Linux, macOS, Windows 	Discontinued
+Timberwolf 	Gecko 	2010 - 2012 	Desktop 	Amiga OS 	Discontinued
+Tiny Browser 	Unknown 	Unknown 	Mobile 	Android 	
+Tkhtml 	Text Mode 	1994 - ? 	Desktop 	Unix-like 	Discontinued
+TkWWW 	Custom 	1992 - 1995 	Desktop 	Unix-like 	Discontinued
+Tor Browser 	Gecko 	2008 → 	Desktop & Mobile 	Android, BSD, Linux, macOS, Windows 	Active
+Torch 	Unknown 	2012 - ? 	Desktop 	macOS, Windows 	Discontinued
+Torch Browser 	Unknown 	2019 - ? 	Desktop 	macOS, Windows 	Discontinued
+Trivalent 	Chromium 	2024 → 	Desktop 	Linux 	Active
+Turbo Browser 	Electron 	2021 	Desktop 	Linux, macOS, Windows 	Discontinued
+Tusk Browser 	Chromium 	2021 - 2024 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Idle
+Twinkstar Browser 	Unknown 	Unknown 	Desktop & Mobile 	Android, macOS, Windows 	
+UC Browser 	Unknown 	Unknown 	Desktop & Mobile 	Android, iOS, Windows, Symbian 	
+UdiWWW 	Custom 	1995 - 1996 	Desktop 	Windows 	Discontinued
+Ulaa 	Chromium 	2019 → 	Desktop & Mobile 	Android, iOS, BSD, Linux, macOS, Windows 	Active
+Ultimatum Browser 	Chromium 	2021 → 	Mobile 	Android 	
+Ultralight WebBrowser 	Ultralight 	2025 → 	Desktop 	Linux, macOS, Windows 	
+Undetectable 	Unknown 	Unknown 	Desktop 	macOS, Windows 	
+Ungoogled Chromium 	Chromium 	2015 → 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Active
+Unstoppable Blockchain Browser 	Electron 	2019 - 2020 	Desktop 	macOS, Windows 	Discontinued
+UR 	Chromium 	2016 → 	Desktop 	macOS, Windows 	
+Uzbl 	WebKit 	2009 - 2016 	Desktop 	Unix-like 	Discontinued
+Vanadium 	Chromium 	2019 → 	Desktop 	Misc Desktop OS 	
+Verso 	Servo 	2025 - ? 	Desktop 	Linux, macOS, Windows 	Discontinued
+Via 	Unknown 	2015 → 	Mobile 	Android, iOS 	Active
+Viasat 	Unknown 	2019 - ? 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Abandoned
+Vieb 	Electron 	2019 → 	Desktop 	Linux 	Active
+ViewML 	Custom 	Unknown 	Desktop 	Linux 	Discontinued
+Vimb 	Unknown 	2012 → 	Desktop 	Linux 	
+ViolaWWW 	Custom 	1992 - 1995 	Desktop 	Unix-like 	Discontinued
+Vision Mobile Browser
+Formerly nWeb
+	Unknown 	2002 - 2009 	Mobile 	Misc Mobile OS 	
+visurf 	Unknown 	Unknown 	Desktop 	BSD, Linux 	
+Voyager (Amiga) 	Custom 	1999 - 2002 	Desktop 	Amiga OS 	
+Voyager (QNX) 	Custom 	Unknown 	Desktop 	Misc Desktop OS 	Idle
+w3m 	Text Mode 	1995 - ? 	Desktop 	BSD, Linux, Unix-like, Solaris, OS2 	Idle
+WannaBe 	Text Mode 	2001 - 2005 	Desktop 	Mac OS Classic 	Discontinued
+Waterfox 	Gecko 	2011 → 	Desktop & Mobile 	Android, Linux, macOS, Windows 	Active
+Waterfox Classic 	Gecko 	1998 - 2022 	Desktop 	Linux, macOS, Windows 	Discontinued
+Wave Browser 	Chromium 	2015 - 2025 	Desktop & Mobile 	Android, iOS, macOS, Windows 	Discontinued
+Wavebox 	Chromium 	2017 → 	Desktop 	Linux, macOS, Windows 	
+Wayfarer 	WebKitGTK 	2020 → 	Desktop 	Misc Desktop OS 	Active
+Web Prowler 	Unknown 	1999 - ? 	Desktop 	Windows 	Discontinued
+WebBoy 	Unknown 	1997 - ? 	Desktop 	MS-DOS 	Discontinued
+WebBuddy 	Unknown 	2019 - 2025 	Mobile 	iOS 	Idle
+WebDiscover 	Chromium 	2019 - ? 	Desktop 	Windows 	Discontinued
+Webian 	Unknown 	2011 - 2021 	Desktop 	Linux 	Discontinued
+WebLibre 	Gecko 	2024 → 	Mobile 	Android 	Active
+WebNav 	Unknown 	? - 1998 	Desktop 	OS2 	Discontinued
+WebPositive 	WebKit 	Unknown 	Desktop 	Haiku 	Active
+WebSM 	WebView2 	2022 → 	Desktop 	Linux, Windows 	
+WebsterXL 	Unknown 	Unknown 	Desktop 	Amiga OS 	
+Wen Suite III 	Unknown 	? - 2004 	Desktop 	Atari 	
+Wexond 	Electron 	2017 - 2023 	Desktop 	Linux, macOS, Windows 	Discontinued
+windowed 	Electron 	2017 - 2022 	Desktop 	macOS, Windows 	Discontinued
+Wingman 	Unknown 	? - 1997 	Mobile 	Palm OS 	Discontinued
+WinWAP 	Custom 	1999 - 2008 	Mobile 	Windows CE 	Discontinued
+WinWeb 	Unknown 	Unknown 	Desktop 	Windows 	
+WWW-LX 	Unknown 	1998 - 1999 	Mobile 	Palm OS 	Discontinued
+xB Browser
+Formerly TorPark and Xerobank browser
+	Gecko 	2006 - 2009 	Desktop 	Windows 	Discontinued
+XBox 360 Browser 	Trident 	2005 - 2016 	Game Console 	Game Console 	Discontinued
+XBox One Browser 	Trident 	2014 - 2020 	Game Console 	Game Console 	Discontinued
+XDP Dreams 	Unknown 	Unknown 	Game Console 	Game Console 	
+Xiino 	Unknown 	Unknown 	Mobile 	Palm OS 	
+Xombrero
+Formerly xxxterm
+	WebKit 	2012 - 2015 	Desktop 	Unix-like, Windows 	Discontinued
+Xvast 	Chromium 	2004 → 	Desktop & Mobile 	Android, iOS, macOS, Windows 	
+Y8 	Unknown 	Unknown 	Desktop 	Linux, macOS, Windows 	
+Yaeb 	Electron 	Unknown 	Desktop 	Linux, macOS, Windows 	Discontinued
+Yandex Browser 	Chromium 	2012 → 	Desktop & Mobile 	Android, iOS, Linux, macOS, Windows 	Active
+ZAC Browser 	Trident 	2006 - 2009 	Desktop 	Windows 	Discontinued
+Zen 	Gecko 	2024 → 	Desktop 	Linux, macOS, Windows 	Active
+Zen (2000s browser) 	Unknown 	? - 2000 	Desktop 	Linux, Solaris 	Discontinued
+360 Extreme Browser 	Chromium 	Unknown 	Desktop 	macOS, Windows 	
+360 Secure Browser
+Also known as 360 Safe Browser
+	Chromium 	Unknown 	Desktop 	macOS, Windows 	
+Web Browsers: 541
+A note on the safety of trying new web browsers
+
+When you use any web browser, you are giving it a lot of trust. Anything you type into a web browser, any page you visit, and the contents of any page you visit, could theoretically be secretly intercepted, tampered with, and/or stolen by the browser makers, with no indication to you that it's even happening. Now, for most web browsers, this isn't the case. Most web browsers seem to be made by reputable people & organisations, and are trustworthy - but - it's important that before you just download any random web browser and start typing your passwords, banking details, and generally start using it, that you understand a bit about who made the browser and how much trust you should give them.
+We haven't verified the safety or quality of any of these browsers
+
+Just because a web browser is included in this list doesn't mean we recommend it or have tested that it is safe and works properly.
+
+    We have not verified that any browser, download, or link here is safe
+    This list is informational only; we aren't suggesting using using any of these browsers. Do your own research and make your own decisions.
+    This list is meant to be as complete as possible, that means including the "bad" web browsers. However when we can, we include a warning about browsers we've heard that have problems, and we don't provide any download links for it. If you see the warning sign, be extra careful.
+
+We have done our best to mark all the web browsers that have had reports about their safety; when you click on any of the links above - if we've found some questionable practices we'll include a big warning and try to link to any corroborating reports or forum posts and questions to help you make your own decision about the browser.
+How to be more certain about the safety of a new browser
+
+Some browsers come with extra ads or bad security practices, so before trusting a new browser you should know a bit more about it.
+
+Warning Icon
+
+    Search the internet for things like "browser name safety", "browser name adware", and so on. Make sure to ignore any pages that are hosted by the company itself as most companies will put out their own pages claiming to be safe - you want to find independant reviews or comments written by actual users
+    Does the browser have a Wikipedia page? A browser with a Wikipedia page gives an indication that it's not necessarily a fly-by-night scam; and that it might be reputable. But you should still read the wikipedia page, some pages will list past (or current) issues with the browser.
+    Does the browser page and/or manufacturer page look reputable? If their information pages are broken or out of date then why would you trust the software they release?
+    How hard is it to find reputable information about the manufacturer? Do they have a Corporate site? Is it a project with a "Team" page? Do they look reputable? Are the team images AI generated? Even little things like spelling mistakes can give away the fact that there might not be a lot of attention to detail.
+    When was the last update released? Unless it's a specialised browser, if the last update wasn't done recently, the project might not be well maintained.
+    Has there been any instances of poor data management from the browser manufacturer in the past? On some browsers wikipedia pages, you'll see that there are historical notes about poor data handling (sending private information unencrypted, storing incognito data, etc). Even if those problems are fixed now, its the sort of thing that can decrease confidence in the software...
+
+Notes on the data
+
+We've spent a lot of time collecting and trying to verify all this data, but if there's something missing or incorrect please use the form below to let us know.
+Status
+
+The status column is our best attempt to show the status of the browser. For some browsers this is easy to do - when the project shuts down: the Developers post an announcement that the browser has been discontinued. But it's not as easy to be certain for other browsers, so the information here is a best guess.
+
+You'll see it for yourself; when you click through to some browsers pages on the App Store, you'll see that there hasn't been an update in three years and people are leaving comments that it's broken and unsupported, so while it's still downloadable, we'll probably mark it as "Abandoned". If you are the developer of a browser we've marked as Abandoned, get in touch and let us know the status of the project.
+
+Some browsers are known to be in constant, active development, so they are marked as such here. Some browsers are a bit unclear, so they're not marked either way.
+Some information is missing
+
+It wasn't possible to find every bit of information about every browser; for example, the start/launch year of some browsers, or the rendering engine they use is still unknown for some browsers. If you know any of this info for a browser, please use the form below to let us know.
+Corrections or additions
+
+Is there a web browser we haven't included in our list? Do you know the rendering engine, year started, or something else that's missing for a web browser on this list? Please let us know by using this form.
+
+Let us know if something here is wrong, missing, or if you know something that we've marked as Unknown. Please provide any links or references if you can.
+
+This form is NOT for tech support; either for this website or for any web browser.
+
+We will read your suggestions and feedback but can't reply to you here. If you need a reply, use our contact form.
+
+Compare web browsers
+
+Unhappy with your current web browser, or just want to see what else is available?
+Rendering engines
+
+    Chromium
+    WebKit
+    Gecko
+
+Our Network
+
+    WhatIsMyBrowser.com
+    About Us
+
+Copyright 2025 - 2026 © webbrowserdirectory.com
+", 
+2026.07.13/https://en.wikipedia.org/wiki/List_of_web_browsers : "
+
+Wikipedia The Free Encyclopedia
+
+    Donate
+    Create account
+    Log in
+
+List of web browsers
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+From Wikipedia, the free encyclopedia
+
+    As of June 2025
+
+Timeline representing the history of various web browsers
+
+The following is a list of notable web browsers.
+Layout engines
+
+    Gecko is developed by the Mozilla Foundation.
+        Goanna is a fork of Gecko developed by Moonchild Productions.
+    Servo is an experimental web browser layout engine being developed cooperatively by Mozilla and Samsung. In 2020 the engine's development was transferred to the Linux Foundation.
+    Presto was developed by Opera Software for use in Opera. Development stopped as Opera transitioned to Blink.
+    Trident is developed by Microsoft for use in the Windows versions of Internet Explorer 4 to Internet Explorer 11.
+        EdgeHTML is the engine developed by Microsoft for Edge [Legacy]. It is a largely rewritten fork of Trident with all legacy code removed.
+    Tasman was developed by Microsoft for use in Internet Explorer 5 for Macintosh.
+    KHTML was developed by the KDE project but has since been discontinued.
+        WebKit is a fork of KHTML by Apple Inc. used in Apple Safari, and formerly in Chromium and Google Chrome.
+            Blink is a 2013 fork of WebKit's WebCore component by Google used in Chromium, Google Chrome, Microsoft Edge, Opera, and Vivaldi.[1]
+
+Graphical
+Trident shells
+
+Other software publishers have built browsers and other products around Microsoft's Trident engine. The following browsers are all based on that rendering engine:
+
+    360 Secure Browser
+    AOL Explorer
+    Deepnet Explorer
+    GreenBrowser
+    Internet Explorer
+    MediaBrowser
+    MSN Explorer
+    NeoPlanet
+    NetCaptor
+    QQ Browser
+    Yahoo! Browser (or partnership browsers e.g. "AT&T Yahoo! Browser"; "Verizon Yahoo! Browser"; "BT Yahoo! Browser", etc.)
+
+Gecko-based
+
+    Camino for macOS (formerly Chimera)[2]
+    Conkeror, (keyboard-driven browser)
+    Galeon, (GNOME's old default browser)
+    K-Meleon (Windows)
+        K-MeleonCCF ME (for Windows based on K-Meleon core, written mostly in Lua)
+        K-Ninja (for Windows based on K-Meleon)
+    MicroB (for Maemo)
+    Minimo (for mobile)
+    Mozilla Firefox (formerly Firebird and Phoenix, developed by the Mozilla Foundation)
+        AT&T Pogo (based on Firefox)
+        Cliqz (Firefox fork)
+        Comodo IceDragon (Firefox-based web browser for Windows with privacy and performance enhancements, developed by Xcitium formerly Comodo Security Solutions)
+        Flock (was based on Firefox until version 2.6.1, and then based on Chromium)
+        Floorp (based on Firefox with more customizing options)
+        Iceweasel (Debian's Firefox rebrand)
+        GNU IceCat (GNU's fork of Firefox)
+        LibreWolf
+        Netscape Browser 8 to Netscape Navigator 9 (discontinued)
+        TenFourFox (Firefox port to PowerPC versions of Mac OS X)
+        Timberwolf (AmigaOS' Firefox rebrand)
+        Tor Browser (privacy focused browser)
+            Mullvad Browser (based on Tor Browser)
+        Swiftfox (processor-optimised builds based on Firefox)
+        Waterfox (Firefox-based web browser for Windows, macOS, and Linux)
+        xB Browser (formerly XeroBank Browser and Torpark), portable browser for anonymous browsing, originally based on Firefox
+        Zen Browser
+    Firefox for Android (codenamed Fenix)
+    Mozilla Application Suite
+        Beonex Communicator (separate branch, based on Mozilla Application Suite)
+        Classilla (an updated fork of the Suite to Mac OS 9)
+        Gnuzilla (GNU's fork)
+        Netscape (Netscape 6 to 7, based on Mozilla)
+        SeaMonkey (successor to Mozilla Application Suite)
+            Iceape (Debian's Seamonkey rebrand)
+    Skyfire (for mobile)
+    SlimBrowser
+
+Goanna-based
+
+    Basilisk – similar to Pale Moon, but with the interface of Firefox 29–56 and a few other differences
+    K-Meleon – starting from version 77 (2019)
+    Pale Moon – a fork of Firefox that maintains support for XUL/XPCOM extensions and retains the user interface of the Firefox 4–28 era
+
+Gecko- and Trident-based
+
+Browsers that use both Trident and Gecko include:
+
+    K-Meleon with the IE Tab extension
+    Mozilla Firefox with the IE Tab extension
+    Netscape Browser 8
+
+Webkit- and Trident-based
+
+    GNOME Web
+    Maxthon (up until version 4.2)
+    QQ browser
+
+Blink- and Trident-based
+
+    Baidu Browser
+    Maxthon (since version 4.2)
+    Microsoft Edge
+
+Gecko-, Trident-, and Blink-based
+
+Browsers that can use Trident, Gecko and Blink include:
+
+    Lunascape[3]
+
+KHTML-based
+
+    Konqueror
+    Konqueror Embedded
+
+Presto-based
+
+    Internet Channel (for Wii console, Opera-based)
+    Nintendo DS Browser (Opera-based)
+    Opera (for releases up until 12.18[4][5])
+
+WebKit-based
+
+    Safari
+    Arora
+    Bolt
+    Dolphin Browser
+    DuckDuckGo browser for macOS[6]
+    Flock since version 3.0
+    iCab since version 4
+    GNOME Web
+    Iris Browser
+    Konqueror (version 4 can use WebKit as an alternative to its native KHTML)[7]
+    Maxthon from version 3.0 to 5.0
+    Midori before acquisition by Astian Foundation
+    NetFront
+    OmniWeb
+    Orion
+    Otter Browser
+    Origyn Web Browser
+    QtWeb
+    qutebrowser
+    PhantomJS
+    Shiira
+    SlimBrowser since version 10.0
+    Steel
+    surf
+    Uzbl
+    Nokia Browser for Symbian
+    WebPositive
+    xombrero
+
+Blink-based
+
+    Chromium
+        Amazon Silk
+        Arc
+        Avast Secure Browser
+        Beaker
+        Brave
+        ChatGPT Atlas
+        Cốc Cốc
+        Comodo Dragon[8]
+        Epic
+        Google Chrome (based on Blink since Chrome v. 28)
+        JioPages
+        Microsoft Edge[9]
+        NAVER Whale
+        DuckDuckGo for Android and Windows
+        Opera[10]
+        Opera GX
+        Puffin Browser
+        Qt WebEngine
+            Dooble (from Version 2.2)
+            Falkon
+        qutebrowser (Blink backend mostly stable)
+        Redcore
+        Rockmelt
+        SalamWeb
+        Sleipnir
+        SRWare Iron
+        Torch
+        Ungoogled-chromium
+        Vivaldi
+        Yandex Browser
+
+EdgeHTML-based
+
+    Microsoft Edge [Legacy][11]
+
+For Java platform
+
+    BOLT Browser
+    HotJava
+    Opera Mini (only the Android version is actively developed as of 2022)
+    ThunderHawk
+
+Specialty browsers
+See also: Augmented browsing, List of augmented browsing software, and Site-specific browser
+
+Browsers created for enhancements of specific browsing activities.
+Current
+
+    ZAC Browser (for children with autism, autism spectrum disorders such as Asperger syndrome, pervasive developmental disorders (PDD), and PDD-NOS)
+
+Discontinued
+
+    Flock (to enhance social networking, blogging, photo-sharing, and RSS news-reading)
+    Ghostzilla (blends into the GUI to hide activity)
+    Gollum browser (created specially for browsing Wikipedia)
+    Kirix Strata (designed for data analytics)
+    Miro (a media browser that integrates a BitTorrent addon)
+    Nightingale (open source audio player and web browser based on the Songbird (see below) media player source code)
+    Prodigy Classic (executable only within the application)
+    Rockmelt (designed to combine web browsing, and social activities such as Facebook and Twitter into a unified one window experience)
+    Songbird (browser with advanced audio streaming features and built-in media player with library)
+    SpaceTime (search the web in 3D)
+
+Mosaic-based
+
+Mosaic was the first widely used web browser. The National Center for Supercomputing Applications (NCSA) licensed the technology and many companies built their own web browser on Mosaic. The best known are the first versions of Internet Explorer and Netscape.
+
+    AMosaic
+    IBM WebExplorer
+    Internet Explorer 1.x
+    Internet in a Box
+    Mosaic-CK
+    Netscape
+    Spyglass Mosaic
+    VMS Mosaic
+
+Others
+
+    Abaco (for Plan 9 from Bell Labs and Linux[12])
+    Amaya
+    Arachne (for DOS and Linux)
+    Arena
+    Ariadna (AMSD Ariadna) (first Russian web browser)
+    AWeb (AmigaOS)
+    Baidu Mobile Browser
+    Dillo (for lower-end computers)
+    DR-WebSpyder (for DOS)
+    Embrowser (for DOS)
+    Flow browser
+    Gazelle (from Microsoft Research, OS-like)
+    IBrowse (for AmigaOS)
+    Ladybird (from SerenityOS)
+    Mothra (for Plan 9 from Bell Labs)
+    NetPositive (for BeOS)
+    NetSurf (an open source web browser originally for RISC OS and GTK, e.g. Linux, Windows and more platforms, written in C)
+    Phoenix, a browser based on tkWWW
+    Qihoo 360 mobile browsers
+    tkWWW, based on Tcl
+    Voyager (for AmigaOS)
+
+Mobile browsers
+Main article: Mobile browser
+
+    Amazon Silk
+    Apple Safari
+    Arc
+    Brave
+    Dolphin browser
+    Firefox Focus
+    Google Chrome
+    Microsoft Edge
+    Mozilla Firefox
+    Opera Mobile
+    Puffin Browser
+    QQ browser
+    Samsung Browser
+    UC Browser
+    Vivaldi
+
+Text-based
+Main article: Text-based web browser
+
+    Emacs/W3
+    EWW
+    Line Mode Browser
+    Links
+        ELinks
+    Lynx
+    w3m
+
+See also
+
+    History of the web browser
+    Timeline of web browsers
+    Comparison of web browsers
+    Comparison of browser engines
+    List of search engines
+    List of web browsers for Unix and Unix-like operating systems
+    Usage share of web browsers
+    Browser wars
+
+References
+
+    "Google going its own way, forking WebKit rendering engine". Ars Technica. April 3, 2013. Retrieved April 4, 2013.
+    https://caminobrowser.org Camino reaches its end
+    "Have it all: Lunascape, the browser with three engines". CNET News. November 24, 2008. Archived from the original on October 25, 2012. Retrieved May 20, 2010.
+    "300 million users and move to WebKit". Opera Developer News.
+    "Surprise: Opera 12.18 has been released – gHacks Tech News". gHacks Technology News. February 16, 2016. Retrieved November 3, 2017.
+    "Introducing DuckDuckGo for Mac: A Private, Fast, and Secure Browsing App". April 12, 2022.
+    "Projects/WebKit/Part — KDE TechBase". KDE TechBase. Retrieved March 30, 2010.
+    JoWa (May 2, 2014). "Blink, since v. 28". Comodo Group, Inc. Archived from the original on March 17, 2016. Retrieved April 21, 2017.
+    "Microsoft Edge: Making the web better through more open source collaboration". Microsoft Windows Blog. Microsoft. December 6, 2018. Retrieved December 7, 2018.
+    "A first peek at Opera 15 for Computers". Opera. Archived from the original on June 7, 2013. Retrieved June 24, 2013.
+    "The new Microsoft Edge is now mandatory in Windows 10 20H2". News, Reviews and Technical Support. BleepingComputer. October 20, 2020. Retrieved October 28, 2020.
+    "abaco-20080209-1-i686.pkg.tar". Archived from the original on May 6, 2016. Retrieved February 23, 2017.
+
+External links
+
+    Adrian Roselli, evolt.org Browser Archive (2004). List and archive of many current and obsolete web browsers.
+    Daniel R. Tobias, Brand-X Browsers (2002).
+    Michael Bernadi, DOS Applications for Internet Use (2006).
+
+    vte
+
+Timeline of web browsers
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+    vte
+
+Web browsers
+	
+
+	
+
+	
+
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Categories:
+
+    Web browsersLists of software
+
+    This page was last edited on 7 July 2026, at 03:10 (UTC). Page was rendered with Parsoid.
+    Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Legal & safety contacts
+    Code of Conduct
+    Developers
+    Statistics
+    Cookie statement
+    Mobile view
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
+"; 2026.07.13/https://www.google.com/search?q=browser+with+a+native+SERP+filter+engine Google Gemini : "While mainstream browsers rely on default search engines for SERP filtering, true "native" SERP filters—built directly into the browser's core architecture to give you independent control over search results and layouts—are primarily found in privacy-first and specialized browsers.The top options with native SERP filtering engines include:Brave Browser: Features the Brave Search Engine natively. It includes built-in video and image search filters and the unique Goggles feature. Goggles allows users to replace the default ranking algorithm with custom-built or community-generated filters to remove SEO spam, prioritize specific domains, or filter out specific content.Orion Browser: Developed by Kagi, Orion is built upon a zero-telemetry WebKit engine and integrates Kagi's premium, ad-free search experience natively into the desktop app. Kagi Search includes deep customization controls to block specific domains, boost others, and toggle complex SERP modules.SERP Lens: A Chromium-based desktop browser specifically engineered for SEO professionals. It features an embedded toolset that parses, previews, and filters SERP variants and rich snippets natively inside the desktop application.";
+2026.07.13/https://serplens.com/blog/introducing-serp-lens : "Download  Company Update Introducing SERP Lens: The Web Browser for SEO Pros SERP Lens TeamSERP Lens TeamLast updated Apr 4, 2026  Welcome to SERP Lens. Today, we are launching our very own Chromium-based web browser built for SEO professionals. Make sure to watch our product launch video and review our documentation for a full rundown of the primary tools our browser has on offer.  SERP Lens has an extensive set of embedded features and tools under the same UX to help optimise your SEO workflows. Here is a sample of 10 core features of our browser that have been specifically designed and built within the desktop application.  Note: not all features will be available within SERP Lens for the initial public beta release this week. If there are features in this article that are currently unavailable, we will be releasing them over time with our in-app notifications for our paid users alongside updates within our changelog.  See our changelog to stay updated on releases or sign up for our newsletter. We will be launching initially on macOS, so make sure to join our waitlist to show your interest for a Windows and Linux release. 1. Search Result View  Description:  As you're browsing through search results, core insights are extracted related to the number of results within Google's index, SERP features on the current page (including how many there are), your recent searches that are clickable, the ability to track and highlight URLs from specific domains, and much more.  Benefit:  The SERP features integration makes search results interactive and engaging when completing your day-to-day client searches. This view is especially useful when presenting to clients, providing insights when testing out queries to provide talking points and on-the-fly analysis that previously wasn't possible with other applications. 2. Website View  Description:  Each time you move from search results to a website, the toolset within the application changes automatically. Users have the ability to choose among the default 'on-page' tools, alongside tools for indexing, internal links, images, structured data, social media tags, site speed, and the 'crawling' tool, which is especially useful for finding out if a domain is blocking LLMs at the firewall level.  Benefit:  Each of the tools within Website View defaults to content found within the DOM, with the ability to compare against data found within the HTML. The benefit of this toolset is quite far-reaching, enabling users to do lightning-fast SEO analysis of a web page, with easy accessibility to technical aspects such as the robots.txt file alongside the XML sitemap index and a breakdown of individual XML sitemaps. 3. LLM Crawling Insights  Description:  The LLMs Crawling Insights tool within Website View deserves its own highlighted section due to its usefulness. The tool instantly extracts information from the robots.txt file for a domain or sub-domain, breaking down the summary of bots that are blocked or allowed for standard bots such as Bingbot, with a separate section for specific LLMs such as GPTBot. A firewall blocking check is then run in the background for the domain, providing a deeper look at whether an important bot is being blocked that could be limiting your visibility.  Benefit:  Being used for internal use for some time now by the SERP Lens team, we have received considerable value out of this tool alone. For example, a large client of mine suddenly had their homepage drop out from search results for both branded and non-branded queries. It was a mess. When using the LLM Crawling Insights tool, I was able to quickly discover that it wasn't related to a noindex meta tag or a crawl block via robots.txt. It was instead related to a 403 response at the firewall level, which we were then able to swiftly address. 4. Client Projects  Description:  Setting up client projects is a core aspect of the toolset to make full use of the browser. When setting up a project, you can choose between setting your project name, the domain (added as the root domain), the project image (upload your own or use the 'fetch favicon' button), any relevant goals for the project, and finally, your competitor domains. Once you've created a project, you're then prompted to upload any relevant keywords that you would like to track, with the ability to add tags, the location and language, the refresh interval (either daily, weekly, or monthly), and then finally whether you would like to track on desktop, mobile, or both.  Benefit:  There are a lot of benefits to getting your client projects in place, related to both tracking and utilising the SERP Compare tool within the side panel. You're also then able to select the star icon for your projects, which allows them appear within the left side panel for quick access, with the logo of the fetched favicon appearing as the icon. Within client meetings, when you want to share your SERP Lens browser screen to provide a live walkthrough, you can then easily select the 'hide projects' toggle within the panel with the three horizontal dots. 5. Tracking & SERP Compare  Description:  Within individual projects, you're able to toggle between the Keywords and Screenshots tabs that are related to the client. Within the tracking setup, you're able to see graphs over time for the ranking distribution, average rank, SERP features, and a volatility report. For each individual keyword that is being tracked, the table shows the country (with the flag included), the language, the current position and change from the previous period, the device type, and when the keyword was last updated. All of this data can then be visualised within the SERP Compare tool, where you're able to see a host of additional insights.  Benefit:  Setting up tracking reports is an important aspect of being able to use the toolset to the fullest extent. The SERP Compare dashboard has been a user favourite for the closed beta that we have been running, where you're able to see various insights related to the SERP similarity, the number of unique URLs for a comparison period on the 1st page, along with snippet-related aspects such as the average title length. The report also shows separate sections for SERP feature changes across the comparison period and the top movers, which highlight the domains that either increased or decreased the most over the comparison period. 6. VPN  Description:  Within the VPN integration, all paid users (including 7 day trial users under the 'Lite' plan) are able to access the list of "free" VPN locations that we have provided within the application for users to test out this add-on. In order to gain access to a far greater list of countries and cities, these are only accessible under the 'premium' VPN access method, which is an optional add-on for $15 per month. Within the list of locations provided within the VPN extension, you're able to then 'star' your favourite locations so they appear at the top of the list.  Benefit:  There is considerable benefit to using the SERP Lens VPN integration. If you work with individual websites or have a portfolio of clients where they service and operate within different countries, the VPN add-on is for you. Because our VPN is constrained to the application itself, it doesn't disrupt the connection on your machine more broadly. This means that emulating aspects such as automatic localised redirects and local search results has never been easier on calls with clients and in a live setting. Having the VPN combined with effectively all tools within the dashboard makes for a powerful SEO analysis suite. 7. Annotate Screenshots  Description:  Using the camera icon in the right-hand panel, you're able to expand the screenshots panel. There are various screenshot options available, including capturing the browser viewport, capturing a specific area within the browser, scrolling capture for a specific section of the page, capturing the app window, capturing the entire desktop screen, or even capturing the full web page. Once a screenshot has been taken with the preferred method, you're then met with an editing panel which allows you to add text, draw arrows, crop the image, insert shapes, and more. Once your screenshot editing is complete, you're then able to either copy the file to be pasted externally, save the image to a project, or download directly to your machine.  Benefit:  SEOs love taking screenshots of their SERP findings, so it makes a ton of sense to have this as a tool that is integrated into the browser to the fullest extent. By combining the various screenshot functions that apply to both search results and websites, this makes it much easier to markup the screenshots more effectively to be able to store them for safekeeping in your project or send them using the various methods that are available. 8. Right-Click Functions + Shortcuts  Description:  When you're on a website, there is the ability to use the right-click function that is unique to SERP Lens in order to perform various actions that are embedded within the browser. Aside from the standard functions Chrome-related functions such as 'view page source' and 'inspect element', you're also able to complete SEO-related functions such as opening the canonical, hreflang, sitemap URLs, and robots.txt. Taking it a step further, you're also able to generate highlights for internal and external links and specific content, alongside the various 'advanced copy' functions such as meta data and headings. There are also in-browser shortcuts that you can use to access specific tools and reports.   Benefit:  The embedding or right-click functions and shortcuts within the browser make for a meaningful advantage over other SEO tools. Learning to navigate SERP Lens quickly is a skill and something that you can become an expert in over time, allowing our users to impress their clients through having your own customised browser and solve SEO issues faster. 9. Prompt Analysis  Description:  With the changing tides in the SEO industry, it is important that SERP Lens evolves with user behaviour changes. SEOs are now including terms like "GEO" and "AI SEO" in their job titles, which means that our toolset requires focus in this area. Our tool direction is that we have chosen not to go down the path of prompt tracking in the same way that most other SEO tools have done. A core reason for this is related to studies such as the one from SparkToro by Rand Fishkin, where it was discovered that LLMS rarely give the same list of brands or recommendations twice (<1 in 100 times, no matter the prompt). With this in mind, our integration can be thought of as a "live preview" tool that allows you to analyse results on the fly, which is especially helpful while completing test prompts for clients in a live setting. At the moment, we primarily have tool support for Google's AI Mode, Claude, and ChatGPT.   Benefit:  Because of the smart switching display within the browser, whenever you visit popular LLMs or Google's AI Mode, the toolset panel shifts completely to prioritise the AI analysis tools, which are different to the traditional set of Google-related features. This type of adaptability within the browser is again highly useful to streamline processes and gain insights from your prompts as you search. Each session allows you to quickly see insights related 'query fan-out', the top sources being referenced from a citation share perspective, the top domains, and more. 10. Agentic Mode  Description:  SERP Lens should be considered in direct competition to new browsers such as ChatGPT Atlas, and Perplexity's Comet browser, which are all also based on the Chromium open-source model from Google. We started working on SERP Lens before both Atlas and Comet were ever announced, and we feel like we are ahead of them in some areas with how our toolset has been integrated. We are currently trialling out our open version of Agentic Mode from an SEO analysis standpoint within our closed beta group, which allows the browser to communicate with the various tools that we have developed and to gain insights and perform actions as a result.  Benefit:  Agentic browsers are the way of the future. Chrome has even started to implement its own version of agentic browsing with Gemini. The major difference between SERP Lens and other browsers from an agentic perspective is that we are heavily focused on providing insights that are directly related to improving SEO performance, rather than many of the standard agentic functions completed by others for general productivity improvements.  Now that we are finally live with our first public beta for macOS, make sure to download the application now and create an account. For a limited time only, we are allowing our public beta users to access a free 7 day trial under the 'Lite' plan without credit card details being required. This won't last for long, so make sure to take SERP Lens for a spin now.  Built for SEO Pro‘s by SEO Pro‘s  Get notified! New features & updates Q&A with Brodie Clark, Co-Founder of SERP Lens Privacy at SERP Lens: What we collect, what we don't, and why About the authors SERP Lens Team SERP Lens Team  SERP Lens is the web browser built for SEO professionals, managed by a small team of highly experienced SEO consultants. You may also like See all Q&A with Brodie Clark, Co-Founder of SERP Lens Q&A with Brodie Clark, Co-Founder of SERP Lens SERP Lens TeamSERP Lens TeamApr 1, 2026 Q&A with Sam Underwood, Co-Founder of SERP Lens Q&A with Sam Underwood, Co-Founder of SERP Lens SERP Lens TeamSERP Lens TeamMar 31, 2026 SERP Lens animated background  The web browser built for SEO pros.  All Systems Operational support@serplens.com About      Pricing     Features     Team     FAQ  Resources      Blog     Changelog     Docs  Company      Contact     Privacy Policy     Terms  Get notified about new features and updates  Copyright ©2026 SERP Lens Ltd., All rights reserved."
+2026.07.13/https://news.ycombinator.com/item?id=44023144 : "	Hacker Newsnew | past | comments | ask | show | jobs | submit	login 	 	Show HN: Vaev – A browser engine built from scratch (It renders google.com) (github.com/skift-org) 	233 points by monax on May 18, 2025 | hide | past | favorite | 142 comments 	 We’ve been working on Vaev, a minimal web browser engine built from scratch. It supports HTML/XHTML, the CSS cascade, @page rules for pagination, and print-to-PDF rendering. It even handles calc(), var(), and percentage units—and yes, it renders Google.com (mostly).  This is an experimental project focused on learning and exploration. Networking is basic (http:// and file:// only), and grid layouts aren’t supported yet, but we’re making progress fast.  We’d love your thoughts and feedback.  	 	 mirsadm on May 19, 2025 | next [–]  Well done, this is really cool. It is nice to see more modern C++ in use. The codebase is really easy to read and understand.  People here need to get over the fact that it's not Rust. I use C++ for my own projects because I enjoy writing in C++. I just wouldn't write them if I forced myself to use Rust or whatever else.  	 	 throwaway2037 on May 19, 2025 | prev | next [–]  This C++ code is wildly modern. Very impressive. Using only the GitHub web interface, I could not find the definition for Gc::Ref. Where can I find it?  	 	 Lockal on May 19, 2025 | parent | next [–]  Probably this - https://github.com/skift-org/karm/blob/main/src/libs/karm-gc...  And this is not a garbage collector in the traditional sense, more like arena with smart pointers.  	 	 monax on May 19, 2025 | root | parent | next [–]  It's just a placeholder implementation, we will have a proper GC when we get to it  	 	 lodovic on May 19, 2025 | parent | prev | next [–]  I had the same reading the source code - it's an interesting mix of traditional c++, while some of the projects use the latest c++20 features with modules. The GC::Ref seems to come form the karm-gc library. (according to copilot)  	 	 abhisek on May 18, 2025 | prev | next [–]  What’s the long term goal of this project beyond learning? Building a browser to support the modern web is a humongous work IMHO.  	 	 monax on May 18, 2025 | parent | next [–]  The main goal is great support for static documents rendering as it's being used at the core of the paper-muncher [1] PDF rendering engine, meant to replace wkhtmltopdf at odoo. But we don't exclude general web browsing and JavaScript support at some point.  [1] https://github.com/odoo/paper-muncher  	 	 dmkolobov on May 18, 2025 | root | parent | next [–]  Ooh blast from the past!  At a previous company we moved off of wkhtmltopdf to a nodejs service which received static html and rendered it to pdf using phantomjs. These days you probably use puppeteer.  The trick was keeping the page context open to avoid chrome startup costs and recreating `page`. The node service would initialize a page object once with a script inside which would communicate with the server via a named Linux pipe. Then, for each request:  1. node service sends the static html to the page over the pipe  2. the page script receives the html from the pipe, inserts it into the DOM, and sends an “ack” back over the pipe  3. the node service receives the “ack” and calls the pdf rendering method on the page.  I don’t remember why we chose the pipe method: I’m sure there’s a better way to pass data to headless contexts these days.  The whole thing was super fast(~20ms) compared to WK, which took at least 30 seconds for us, and would more often than not just time out.  	 	 sshine on May 18, 2025 | root | parent | next [–]  Sounds like fun considering how real the problem is.  	 	 dmkolobov on May 18, 2025 | root | parent | next [–]  It was!  I remember the afternoon I had the idea: it was beer Friday -and it took a few hours to write up a basic prototype that rendered a PDF in a few hundred milliseconds. That was the first time I’d written a 100x speed improvement. Felt like a real rush.  	 	 mherrmann on May 19, 2025 | root | parent | next [–]  Congratulations. Doesn't make this approach make so much more sense than writing a browser engine from scratch?  	 	 dmkolobov on May 19, 2025 | root | parent | next [–]  Maybe? I'd say it depends on what you're rendering. We rendered HTML that we created ourselves, filled in with data that we parsed and validated. Styles across the documents generated were also largely the same.  If your job is to render arbitrary user HTML, this could get much more hairy. First of all, print rendering at the time(and probably now) was notoriously finicky. Things like adjusting colors, improper rendering of SVGs, pagination were difficult. It took a lot of effort to get right.  Furthermore, if you're sending arbitrary HTML, you now have a much larger security exploit surface. If someone figures out how to call `addEventListener` within the page context, they can snoop on every PDF generated by that page.  	 	 giovannibonetti on May 18, 2025 | root | parent | prev | next [–]  At work we recently switched from Wkhtmltopdf to Typst, which is a breath of fresh air. It is very fast and generates PDFs from scratch without needing to involve HTML or a browser engine. It is implemented in Rust and distributed as a self-contained binary.  This blog post convinced us that the switch was worth it: https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/  	 	 stevage on May 18, 2025 | root | parent | next [–]  Oh interesting. I use their "old stack" for a couple of much smaller projects and it works fine, but it does seem a bit ridiculous to be starting up a whole chrome instance just to convert one file format to another.  	 	 karteum on May 19, 2025 | root | parent | prev | next [–]  I also love Typst and use it regularly. But just to note it : there is also https://weasyprint.org that takes HTML as input  	 	 Teever on May 18, 2025 | root | parent | prev | next [–]  So cool to see Odoo mentioned on HN. I've worked with it before and like it a lot.  I've made posts about it on HN before but they've never gained traction. I hope that this takes off.  You guys make neat software.  	 	 kabes on May 19, 2025 | root | parent | prev | next [–]  Does it support page margin boxes?  	 	 monax on May 19, 2025 | root | parent | next [–]  Yes !  	 	 pierrelf on May 18, 2025 | parent | prev | next [–]  Looks like skift is a hobby os like Serenity OS which Ladybird is spun out from. Maybe they intend to follow the same path?  	 	 monax on May 18, 2025 | root | parent | next [–]  I intend to keep Skift and Vaev together for as long as possible since everything is meant to be cross-platform. I don’t see any architectural conflict that would motivate such a change.  	 	 Koshima on May 19, 2025 | prev | next [–]  This is really cool! Building a browser engine from scratch is no small feat, especially when handling complex CSS features like calc(), var(), and percentage units. It’s a great way to learn the inner workings of the web.  Curious about your approach to the networking stack. Are you planning to support more protocols like HTTPS or WebSockets in the future, or is the focus more on keeping this lightweight and minimal for now?  	 	 firefoxd on May 19, 2025 | prev | next [–]  Ha! Only a few days ago, I was making the argument that the browser is the new mouse. As in no one person can build a computer mouse. You need experts in metal, plastic, transistors, lasers, etc. (Seth Godin?) The same way a web browser, which is the gateway to any connected device, requires experts in countless fields to build.  So kudos for building it this far. Now let me see if it runs webgl before I eat my hat.  	 	 munchler on May 19, 2025 | parent | next [–]  There are four people working on this project, not one.  	 	 khimaros on May 18, 2025 | prev | next [–]  i find myself requesting this whenever i see a new minimalist browser pop up:  it would be great to standardize alternative browsers on a consistent subset of web standards and document them so that "smolweb" enthusiasts can target that when building their websites and alternative browsers makers can target something useful without boiling the ocean  i personally prefer this approach to brand new protocols like Gemini, because it retains backward compatibility with popular browsers while offering an off ramp.  	 	 idle_zealot on May 18, 2025 | parent | next [–]  > standardize alternative browsers on a consistent subset of web standards and document them so that "smolweb" enthusiasts can target that  Could such a standard be based on the subset of HTML/CSS acceptable in emails? Maybe with a few extra things for interactivity.  	 	 43920 on May 19, 2025 | root | parent | next [–]  AFAIK, "email HTML" isn't standardized either; most organizations that make nice-looking HTML emails have to do a ton of testing across different clients and come up with workarounds to make everything look consistent.  	 	 WorldMaker on May 19, 2025 | root | parent | next [–]  It's fascinating how much "email HTML" is trapped in about HTML ~2.5, with limited CSS support and still a ton of FONT tags and TABLE layouts.  HTML 2 might be an interesting subset of HTML to "focus on" for smolweb, but it would be a big retro throwback, and not feel at all modern.  If you were starting today, might be more interesting to start with the most modern stuff and work backwards. HTML 2 TABLE could be implemented as a specialization of CSS Grid, for instance.  	 	 notpushkin on May 19, 2025 | root | parent | prev | next [–]  Could we standardize email HTML?  	 	 jeroenhd on May 19, 2025 | root | parent | next [–]  If you can convince Apple, Google, and Microsoft to implement your standard: sure. Attempts have been made with varying success.  Your standard still needs to render in Outlook on Windows, though, which means you need to support the weird Office version of IE11 as an upper limit.  	 	 WorldMaker on May 19, 2025 | root | parent | next [–]  Google has recently been pivoting AMP which nearly broke the web towards email. It might actually be a better use of AMP than the web, but I'm still skeptical about some of its privacy stance and ad-injection focus: https://amp.dev/about/email  	 	 notpushkin on May 19, 2025 | root | parent | prev | next [–]  Does the email client on Windows still use IE11? (Some older versions might still have significant market share, but I’m not sure it would be for much longer?)  	 	 WorldMaker on May 19, 2025 | root | parent | next [–]  "Outlook (New)" (aka "One Outlook") is React Native with a full Chromium webview, and the transition from out-of-the-box Windows-provided "Outlook Mobile" (Windows 8-10) to "Outlook (New)" has mostly completed, but the transition from Outlook (Classic) (aka "Bloated Corporate Outlook") seems somewhat stalled because a few big corporations have extensive plugins and cranky IT admins. (Also Outlook Mobile had a better than IE11 support and also has been Chromium on most platforms, it is "Outlook (Classic)" that continues to haunt us all with its ancient Word-based micro-browser fork of IE.)  	 	 notpushkin on May 19, 2025 | root | parent | next [–]  Sometimes I really wish MSFT broke backwards compatibility in the places that matter, not places their corporate customers don’t care about.  	 	 OptionX on May 19, 2025 | root | parent | prev | next [–]  You could write a standard.  If it actually gets mainstream adoption or goes into the standards pile it another question entirely.  	 	 OJFord on May 19, 2025 | root | parent | prev | next [–]  A few extra things like.. JavaScript?  	 	 fshafique on May 19, 2025 | root | parent | next [–]  No interactivity! The email must be printable as-is. Not even CSS code to change styles when you hover over links. That's what I would for a minimum HTML for emails standard that's widely supported.  	 	 notpushkin on May 19, 2025 | root | parent | next [–]  It’s actually a bummer: you can’t use a <style> tag because some email clients don’t like them. Instead, you have to inline your styles in every element. the lack of :hover is just a side effect of that I think (although it plays out nicely here).  (While on it, can we also ban loading images from third-party servers?)  	 	 MrLeap on May 19, 2025 | root | parent | next [–]  you sure can if we resolve to make a text editor instead of a web browser!  	 	 notpushkin on May 19, 2025 | root | parent | next [–]  Hmm, that might not be a bad idea! We could ban CSS altogether: just leave some markup tags, maybe whatever you can do in Markdown + tables. No colors, no small print, no images. (We could even use something like gemtext as the format instead of HTML, but that wouldn’t be backward compatible with clients.)  But I don’t see any email clients with somewhat significant market share going through with this :(  	 	 OJFord on May 19, 2025 | root | parent | prev | next [–]  I'm confused, we're talking about browsers, and comment I replied to suggested 'email + interactivity' as a standard for minimal browsers. I wasn't suggesting adding JS execution to emails. (I don't even allow remote images personally.)  	 	 avmich on May 19, 2025 | root | parent | prev | next [–]  A total PL would be nice...  	 	 graypegg on May 18, 2025 | parent | prev | next [–]  I think that would be really neat for small scale web publishing, but making it a subset of browser standards could be a really difficult sell to the people making browsers. While it's easier to build a browser to a subset of such a massive set of specs, the subset will drift towards a "similar but slightly incompatible standard" pretty soon after it's decided on. Following the development of Ladybird has given me an appreciation for just how often the "spec" for the web changes. (in small ways, daily.) That locks new browser implementations into a diverging standards track that would be very difficult to get off of.  I think something like a reference implementation (Ladybird, Servo or even Vaev maybe?) getting picked up as the small-web living standard feels like the best bet for me since that still lets browser projects get the big-time funding for making the big-web work in their browser too. "It's got to look good in Ladybird/Vaev/etc".  An idea: a web authoring tool built around libweb from Ladybird! (Or any other new web implementation that's easily embeddable) The implied standard-ness of whatever goes in that slot would just come for free. (Given enough people are using it!)  	 	 userbinator on May 18, 2025 | root | parent | next [–]  small-web living standard  The phrase "living standard" is an oxymoron, invented by the incumbents who want to pretend they're supporting standards while weaponising constant change to keep themselves incumbent.  	 	 shiomiru on May 18, 2025 | root | parent | prev | next [–]  > I think something like a reference implementation (Ladybird, Servo or even Vaev maybe?) getting picked up as the small-web living standard feels like the best bet for me since that still lets browser projects get the big-time funding for making the big-web work in their browser too.  A "standard" should mean there is a clear goal to work towards to for authors and browser vendors. For example, if a browser implements CSS 2.1 (the last sanely defined CSS version), its vendor can say "we support CSS 2.1", authors who care enough can check their CSS using a validator, and users can report if a CSS 2.1 feature is implemented incorrectly.  With a living standard (e.g. HTML5), all you get is a closed circle of implementations which must add a feature before it is specified. Restricting the number of implementations to one and omitting the descriptive prose sounds even worse than the status quo.  	 	 userbinator on May 18, 2025 | parent | prev | next [–]  The subset could just be an older version of the spec, e.g. HTML 4.01 and CSS 2.1.  (My opinion as another one who has been slowly working on my own browser engine.)  	 	 robocat on May 18, 2025 | root | parent | next [–]  Pick a subset aimed directly at accessibility.  The least-needed features are often accessibility nightmares (e.g. animation - although usually not semantic).  The accessible subset could then be government standardized and used as a legal hammer against over-complex HTML sites.  For a while search engines helped because they encouraged sites to focus on being more informative (html DOCUMENTS).  I think web applications are a huge improvement over Windows applications, however dynamic HTML is a nightmare. Old school forms were usable.  (edited to improve) Disclosure: wrote a js framework and SPA mid 00's (so I've been more on the problem side than the solution side).  	 	 GoblinSlayer on May 19, 2025 | root | parent | next [–]  Styles can be provided as client-side dependencies instead of free form CSS:     <meta name="dependencies" content="mathjax/1.1 highlightjs/2.0 navbar/5.1"/>  then browser decides how to resolve them.  	 	 poisonborz on May 18, 2025 | root | parent | prev | next [–]  That's easy to specify but contains a lot of bloat and unused features. A slimmer but more modern set would be useful.  	 	 ghayes on May 18, 2025 | root | parent | prev | next [–]  I feel like some of the newer standards like CSS Grid instead of tables might be the best way to go. Many HTML/CSS improvements were not just bloat but actually better standards to build on.  	 	 edoceo on May 18, 2025 | root | parent | next [–]  Right! Crazy fonts or cursors, not on smolweb (as another use put it) but Flex and Grid are almost necessary. There are loads of things that could be dropped (it feels like).  I just want one of these browsers to give me a proper ComboBox (text, search and drop-down thing)  	 	 shakna on May 19, 2025 | root | parent | prev | next [–]  From accessibility background: Please stop using CSS for table data. It does not translate to my screenreader.  	 	 notpushkin on May 19, 2025 | root | parent | next [–]  Yes, but grids are everywhere in the UIs, not just the tables. In 2000-s, the problem was the opposite of what we have now: every interface was a table full of tables, because there was no other way to position things reliably.  But now we have best of both worlds: use <table> for the actual tables, and CSS grid for UI layouts.  	 	 userbinator on May 18, 2025 | root | parent | prev | next [–]  You still need to have tables.  	 	 dmd on May 18, 2025 | root | parent | next [–]  And <marquee>, of course.  	 	 WorldMaker on May 19, 2025 | root | parent | prev | next [–]  But the rendering engine might be easier to build with TABLE as a specialization of CSS Grid layout rendering rather than the slow real world work of CSS Grid being a generalization of TABLE rendering.  	 	 Inviz on May 19, 2025 | root | parent | prev | next [–]  Cat is out of the bag. nobody wants their CSS without flexbox anymore. It has to include that.  	 	 WorldMaker on May 19, 2025 | root | parent | next [–]  Everything flexbox can do, CSS Grid can do, with easier/better/cleaner support for the second axis. At this point, I'd be interested in dropping flexbox entirely for CSS Grid.  ("I don't need to worry about the second axis" seems to be a "not thinking fourth dimensionally enough" excuse to me today. You haven't considered enough responsive breakpoints or you haven't considered future features or future expanded data or future localizations, yet.)  	 	 nulld3v on May 19, 2025 | root | parent | prev | next [–]  Sounds kinda like DOM levels: https://en.wikipedia.org/wiki/Document_Object_Model#Standard...  Well, until everybody just gave up and declared it a "Living Standard".  I think we do still need something like this, but I worry that basing it on versions of the spec is just repeating the same DOM levels mistake.  	 	 stevage on May 18, 2025 | root | parent | prev | next [–]  But older versions contain lots of crap we don't need (eg <blink> tags) and miss out on useful stuff (grid layout).  	 	 sn0n on May 19, 2025 | root | parent | prev | next [–]  Why not start with what is required for markdown formatting? Then build out from there.  	 	 5- on May 18, 2025 | root | parent | prev | next [–]  > slowly working on my own browser engine  care to tell us more?  	 	 GoblinSlayer on May 19, 2025 | root | parent | prev | next [–]  Sites often get that wrong. I'd say support motherfuckingwebsite.com subset: <p>, <a>, <h*>, <img>, <ruby> (i.e. markdown/gemini++) and do everything else with webcompat/fixbrowser way.  	 	 ksec on May 20, 2025 | parent | prev | next [–]  I wish for the same as well and have been asking for it for so long. Or a new Standard that could compile to a consistent subset of web standard with test spec available.  	 	 pkphilip on May 20, 2025 | parent | prev | next [–]  I am all for this. A completely simplified version of HTML without all the quirks and edge cases which have been added in over years + Javascript.  	 	 codedokode on May 19, 2025 | parent | prev | next [–]  In this case it is better to make a new standard because HTML/CSS have so many legacy things and quirks that better be got rid of (like <hr> tag for example, table cell not inheriting font size etc).  	 	 brettermeier on May 19, 2025 | root | parent | next [–]  What you have against <hr>?  	 	 enos_feedler on May 18, 2025 | parent | prev | next [–]  You mean AMP without the BS  	 	 danpalmer on May 19, 2025 | prev | next [–]  I'm interested in why C++ was chosen for this? Browsers are notoriously hard to secure, they're effectively mean to be RCE vulnerabilities! Securing C++ binaries is hard and has in recent years been called out by numerous organisations and companies as being the root cause of many classes of security vulnerability. With languages like (but not limited to) Rust, we now have better options.  	 	 const_cast on May 19, 2025 | parent | next [–]  > I'm interested in why C++ was chosen for this?  For the same reason C++ is chosen for a lot of projects. Probably the authors have a lot of experience in C++.  For an exceedingly complex and large project, you really want to choose a language you're very proficient in. Like, years and years of experience proficient in. If you don't have the experience in Rust then you don't have it. And, Rust is really the only other language that can be considered here. Swift, C#, whatever, are just a tad too high-level to write an engine in. At least, ergonomically.  I looked at the source code briefly and it's very high-quality code. Writing good C++ is hard, harder than pretty much any other language. It's modern, it's consistent, it's readable, and it's typed well.  	 	 zarzavat on May 19, 2025 | parent | prev | next [–]  There already is a Rust web engine, it's called Servo, and it's currently being overtaken by the C++ Ladybird project.  Rust is a bad language to write an open source browser in because the hardest problem of building a browser is not security but the number of people you can convince to work on it.  C++ programmers are a dime a dozen, there's a huge number of people who write C++ for 8 hours a day. The Rust community is mostly dabblers like myself.  	 	 WD-42 on May 19, 2025 | root | parent | next [–]  But ladybird is ditching c++ for swift?  	 	 zarzavat on May 19, 2025 | root | parent | next [–]  AFAIU they are not ditching C++, they are exploring writing some parts of the engine in Swift using the new C++ interop features in Swift. But a wholesale switch to Swift doesn't seem realistic.  	 	 norman784 on May 19, 2025 | root | parent | prev | next [–]  I remember Andreas saying something along those lines in some interview, but seeing their repo[0] doesn't looks like  C++ 64.6%  HTML 22.4%  JavaScript 11.0%  CMake 0.7%  Objective-C++ 0.5%  Swift 0.3%  Other 0.5%  [0] https://github.com/LadybirdBrowser/ladybird  	 	 WD-42 on May 20, 2025 | root | parent | next [–]  It did seem like an odd decision maybe they thought better of it.  	 	 01HNNWZ0MV43FF on May 19, 2025 | root | parent | prev | next [–]  I guess it's just me but after more than 10 years of C++ 8 hours a day I'm happy to never touch it for free  	 	 dtech on May 19, 2025 | root | parent | prev | next [–]  > it's currently being overtaken by the C++ Ladybird project.  Saying a mature engine that you can use today for ~all of the web is being "overtaken" by unreleased pre-alpha software is a strange definition of overtaking.  	 	 zarzavat on May 19, 2025 | root | parent | next [–]  Ladybird overtook Servo in WPT a few months ago and the gap is only increasing. Servo cannot match the development pace of Ladybird and Ladybird's access to the huge pool of C++ devs is everything to do with that.  	 	 norman784 on May 19, 2025 | parent | prev | next [–]  AFAIK Rust isn't a great language for writing browsers, because the pattern that HTML/DOM needs isn't something that Rust supports out of the box, you need a lot of pointers here and there, IIRC Andreas Kling (Ladybird dev) said something like that, where Swift was better suited than Rust for the job, or at least more pleasant to work with after the team evaluated a few languages, including Rust.  	 	 landr0id on May 19, 2025 | parent | prev | next [–]  I had the same thought. The project's description:  >secure HTML/CSS engine  No offense to these folks, but I see no evidence of any fuzzing which makes it hard to believe there aren't some exploitable bugs in the codebase. Google has world-class browser devs and tooling, yet they still write exploitable bugs :p (and sorry Apple / Mozilla, you guys have world-class browser devs but I don't know enough about your tooling. Microsoft was purposefully omitted)  Yeah, very few of those bugs are in the renderer, but they still happen!  	 	 userbinator on May 19, 2025 | parent | prev | next [5 more]  	 	 postalrat on May 19, 2025 | parent | prev | next [–]  You're right. The reason why we don't have many browsers is because nobody is doing it in rust.  	 	 danpalmer on May 19, 2025 | root | parent | next [–]  The reason why we don't have many secure browsers, is because everybody is doing it in C++. I'm just looking for a little variety and approach to security.  	 	 whitten on May 19, 2025 | root | parent | prev | next [–]  Do you think it is attainable ? Could someone like you break the task up into small enough pieces to let each piece be coded by a group of rust newbies ?  	 	 DarkmSparks on May 19, 2025 | prev | next [–]  I know its a tangent, but the idea that maybe ripping out android webview into a standalone cross platform project in its own right pops into my head everytime this problem arises. Keep meaning to check if anyones actually done it already.  	 	 exikyut on May 19, 2025 | parent | next [–]  Google themselves actually have gone vaguely in the direction you're thinking, kind of, in the form of Cobalt: a stripped-down copy of Chromium that has specific, deliberate "quirks" that minimize memory allocation/ballooning in long-running applications.  Google uses it to power YouTube TV.  Unfortunately, while I'm sure I downloaded a Linux X11 binary a while back to play with, I can't find anything of the like available anymore. The release packages just contain a shared library, and the containers in the registry are just full of compiler toolchains (I installed ncdu in them and checked).  The whole system is mired/buried in layers of hardware integration fluff (because Cobalt is meant to be embedded in set-top boxes) and there is very little in the way of batteries-included demos, potentially to keep the product from gaining cottage-industry traction on older systems. Which does make sense, given that there are specific CSS rules that Cobalt doesn't follow the spec on, and I'm not sure where where its JS support is at.  https://developers.google.com/youtube/cobalt  The compilation docs are about as dense as Chromium's are -.-  https://developers.google.com/youtube/cobalt/docs/developmen...  	 	 flexagoon on May 19, 2025 | parent | prev | next [–]  What do you mean by that? WebView is just Chrome embedded inside of an Android app. Same thing already exists on Windows (Edge WebView2), macOS (WKWebView) and Linux (WebKitGTK). There's also a library that wraps all of them into a single interface:  https://github.com/webview/webview  The entire point of WebView is that it's a browser embedded inside of a different application, how do you expect it to be a "standalone project"?  	 	 throwaway2037 on May 19, 2025 | root | parent | next [–]  Add one more: QtWebEngine -> https://wiki.qt.io/QtWebEngine  	 	 DarkmSparks on May 19, 2025 | root | parent | prev | next [–]  The idea is it would be lightweight (so just a few megabytes of libraries) and give the same functionality you get with an android webview (so send it html to load and javascript to run and get json results back).  I know there are quite a few options that try and do something similar. But they are all so incredibly bloated when all you want to do is use html5 for a native application UI.  	 	 flexagoon on May 20, 2025 | root | parent | next [–]  All the options I mentioned are fully native and require no extra libraries.  	 	 Aeyxen on May 19, 2025 | prev | next [–]  Bravo to the Vaev team for championing unrestrained technological exploration!  The choice of C++ is bold.  Despite the security concerns often highlighted, modern C++ with smart pointers, and RAII patterns can be just as safe as Rust when done right. Vaev’s security model should focus on process isolation, sandboxing techniques, and leveraging modern C++ features to minimize vulnerabilities.  Super excited to see such raw innovation and courage in tackling a colossal task often monopolized by juggernauts like Chromium.  	 	 TApplencourt on May 19, 2025 | parent | next [–]  ... Thanks, LLM, for your input!  	 	 mingodad on May 19, 2025 | prev | next [–]  There is also https://sciter.com/ that the author tried to find finance to make it opensource but couldn't find enough supporters.  	 	 mathverse on May 19, 2025 | parent | next [–]  It's not a browser.  	 	 potato-peeler on May 19, 2025 | prev | next [–]  Hoping you will expand the documentation. That tldraw file is almost unusable, no online service exists to view the file. Only thing I got was a vscode extension. Unless I have reason to ditch sublime, there is not much choices left to view your architecture documented in an obscure format.  	 	 madmod on May 19, 2025 | prev | next [–]  Does anyone know what the japanese in the logo means? As I read it ジブト (jibuto) means nothing to me.  	 	 quibono on May 18, 2025 | prev | next [–]  Are you open to contributions? I would love if there was a non-chromium alternative to wkhtmltopdf!  	 	 flexagoon on May 19, 2025 | parent | next [–]  wkhtmltopdf is not chromium though? "Wk" literally stands for WebKit.  There's also https://weasyprint.org/ which doesn't use any browser engine, but rather a custom renderer.  And both of those (and Prince) can be used as a backend by Pandoc (https://pandoc.org/)  	 	 quibono on May 21, 2025 | root | parent | next [–]  You're right, I think merged a few things together when writing the comment. What I meant is that (if you ignore PrinceXML and focus on FOSS) you're down to 3 options: - wkhtmltopdf - weasyprint - (headless) chromium with puppeteer et al.  The first one I found to be unreliable, the second one is super slow and the third can be annoying to work with.  	 	 5- on May 18, 2025 | parent | prev | next [–]  like https://www.princexml.com/ ?  	 	 edoceo on May 18, 2025 | root | parent | next [–]  Yea, Prince is awesome. Not FOSS tho. I make some GPL or MIT licensed software and wish there was something as good a Prince with more open license.  	 	 guywithahat on May 19, 2025 | prev | next [–]  I don't mean this as a slight against you but it's incredible how much code it takes to write a browser that barely works. I've always thought it would be fun to write a browser in erlang/elixir due to its fault tolerance (a memory from the early days when browsers would constantly crash), but browsers are so outrageously complex with such intense performance requirements the thought of even creating a repo sickens me. I mean it looks like you guys have 100+ files, with half of the files being ~500+ lines of code.  Incredible work and dedication  	 	 norman784 on May 19, 2025 | parent | next [–]  Browsers might be the second most complex project you could build, the first one is an OS, also browsers can be categorized as an OS actually.  	 	 est on May 19, 2025 | prev | next [–]  oh the irony. I remember decades ago when google.com was branded as example of minimal html design, to save bandwidth as much as possible, they don't even enclose html tags.  Now google.com is loads of js crap. The SERP refuse to render without full blown js, css and cookie.  	 	 ivanjermakov on May 19, 2025 | prev | next [–]  > A lightning-fast, lightweight, and secure  Let me guess, it's lightning-fast because it lacks many features and secure because it's a thousand times less code than the alternatives?  I don't want to discourage, but such description is misleading.  	 	 lorikmor on May 20, 2025 | prev | next [–]  interesting, seeing such things be built from scratch  	 	 sudhar172 on May 19, 2025 | prev | next [–]  nice  	 	 busymom0 on May 18, 2025 | prev | next [–]  I wish one of these projects would make a browser which only renders text (so texts and links) and no additional support for media (images, videos, audio etc).  I know there is Lynx but having a non-terminal based browser which could do it would be cool.  	 	 Telemakhos on May 18, 2025 | parent | next [–]  You might be interested in Richard Stallman's method of browsing the web:  > I generally do not connect to web sites from my own machine, aside from a few sites I have some special relationship with. I usually fetch web pages from other sites by sending mail to a program (see https://git.savannah.gnu.org/git/womb/hacks.git) that fetches them, much like wget, and then mails them back to me. Then I look at them using a web browser, unless it is easy to see the text in the HTML page directly. I usually try lynx first, then a graphical browser if the page needs it. [0]  I know you wanted something other than lynx, but you could do this with EWW (Emacs web browser or any graphical browser, provided that your proxy wget dropped the images.  [0] https://www.stallman.org/stallman-computing.html  	 	 stevage on May 18, 2025 | root | parent | next [–]  Wow. At a certain level, I'm glad that people so peculiar exist.  	 	 tos1 on May 18, 2025 | parent | prev | next [–]  Something like Dillo? (You can disable image rendering in Dillo).  	 	 monax on May 18, 2025 | parent | prev | next [–]  For distraction-free reading?  	 	 dymk on May 18, 2025 | parent | prev | next [–]  Something like Reader View in safari / firefox?  	 	 saagarjha on May 19, 2025 | root | parent | next [–]  Those show media.  	 	 revskill on May 18, 2025 | parent | prev | next [–]  Then google will use text to show ads.  	 	 pndy on May 19, 2025 | root | parent | next [–]  Isn't Ubuntu doing that for at least 3 years or so in terminal during system update?  	 	 busymom0 on May 18, 2025 | root | parent | prev | next [–]  Text based ads would be less distracting.  	 	 jdironman on May 19, 2025 | root | parent | next [–]  Not if they're inline and you've read an ad before you realized it. Like a YouTube sponsor segment. lol  	 	 busymom0 on May 19, 2025 | root | parent | next [–]  Fair. However, text based ads are also very easy to filter out using some sort of extension no?  	 	 saagarjha on May 19, 2025 | root | parent | next [–]  Yeah, I actually use NordVPN (this comment’s sponsor) for this.  	 	 II2II on May 18, 2025 | root | parent | prev | next [–]  Remembering when Google only served text based ads.  	 	 Hashex129542 on May 18, 2025 | parent | prev | next [–]  Cool idea!  	 	 mdaniel on May 18, 2025 | prev | next [10 more]  	 	 sylware on May 19, 2025 | prev | next [–]  dudes... c++... definitive nono. Please, move to plain and simple C99+.  	 	 mherrmann on May 19, 2025 [flagged] | prev [8 more]     Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact  Search:",
+2026.07.13/github.com/skift-org/vaev : " Skip to content Navigation Menu Sign in  skift-org / vaev Public      Code     Issues 2     Pull requests     Actions     Projects     Security and quality     Insights  skift-org/vaev Name	Last commit message 	Last commit date sleepy-monax sleepy-monax meta: Update from upstream. e25c9d9  ·  3 weeks ago doc 	 meta: Update readme. 	 last year src 	 meta: Update from upstream. 	 3 weeks ago .gitattributes 	 meta: Uploaded project files. 	 last year .gitignore 	 meta: Uploaded project files. 	 last year license.txt 	 meta: Pushed missing license.txt 	 last year project.json 	 meta: Update from upstream. 	 3 weeks ago readme.md 	 Update authors in README 	 last month Repository files navigation      README     Code of conduct     LGPL-3.0 license     An experimental web browser engine  Features  Vaev currently supports a subset of web standards, including:      Most display types (excluding grid)     Standard CSS cascade behavior     Pagination using @page rules     Print-to-PDF output     All CSS units, including percentages, var(), and calc()     Loading of HTML and XHTML documents     Very basic networking, only http:// and file:// is supported  For detailed compatibility and feature tracking, see our WPT status page Trying It Out  You can try out Vaev by running the following command:  pacman -S base-devel git ninja sdl2 nasm gcc-multilib liburing clang libseccomp lld llvm jq  git clone https://codeberg.org/skift/vaev.git  cd vaev  pip install git+https://codeberg.org/cute-engineering/cutekit  python -m cutekit run --release hideo-browser -- file.html  Architecture  An architecture diagram is available next to this file. It's in the tldraw format. Authors      Lou !     Lucien Fiorini     LuneMercier     Paulo Medeiros     Sleepy Monax  About  🌊 A lightning-fast, lightweight, and secure HTML/CSS engine (mirror) codeberg.org/skift/vaev Resources Readme License LGPL-3.0 license Code of conduct Code of conduct Activity Custom properties Stars 308 stars Watchers 3 watching Forks 11 forks Report repository Sponsor this project @sleepy-monax sleepy-monax Sleepy Monax Learn more about GitHub Sponsors Contributors 5      @sleepy-monax     @axsaucedo     @stasoid     @DomHudson     @ananas-dev  Languages      C++ 96.5%     HTML 3.0%     Other 0.5%   Footer © 2026 GitHub, Inc. Footer navigation      Terms     Privacy     Security     Status     Community     Docs     Contact";
+
+2026.07.13/https://deepai.org/chat#3590d740-b17d-4910-84fd-9c110bd52061 : "1. Brave Browser  Pros: Built on Chromium, with an active development community; focuses on privacy and security. Cons: Similar extension ecosystem to Chromium; not inherently more powerful for custom filtering but compatible with existing tools. Use case: If you prefer Chromium-based, Brave offers additional privacy features but doesn't inherently add advanced filtering capabilities beyond Chromium.   2. Iridium Browser  Pros: Chromium-based, with a focus on privacy and minimal telemetry. Cons: Similar capabilities to Chromium in terms of extensions. Use case: Good for privacy-focused filtering but not necessarily more powerful in filtering features.   3. Waterfox or Pale Moon  Pros: Forks of Firefox with extended support for older extensions, potentially more customizable. Cons: Less active development, and extension support may be limited for newer extensions. Use case: If your filtering relies heavily on custom scripts/extensions compatible with Firefox architecture.   4. Custom Browser Built on Chromium or Firefox with Specialized Features  Approach: Develop or customize a browser with integrated filtering engines, possibly embedding tools like Pi-hole, AdGuard Home, or custom filtering engines. Pros: Full control over filtering rules, rewriting, and resilience. Cons: Requires significant development effort."
+2026.07.13/https://ublock-browser.com/;
+2026.07.13/https://news.ycombinator.com/item?id=42647960 : "	 	 tempest_tech on Jan 9, 2025 | parent | context | favorite | on: Show HN: A browser designed to support uBlock Orig...  Hey everyone. We just built a chromium-based browser called uBlock Browser to keep uBlock Origin running without Manifest V3 restrictions. It’s lightweight and privacy-friendly. We’d love to hear your feedback!  	 	 sudohackthenews on Jan 9, 2025 | next [–]  I think the disclaimer that you’re not affiliated with the uBlock Origin project is too low down on the page. It really just looks like an official project until you scroll, and even then the text is easy to miss.  I would move the disclaimer up higher and maybe remove some of the uBlock branding to make it more obvious that it’s not affiliated. Plus, it seems the browser could be used by more extensions that would be affected by MV3, so maybe it would be better to do a rebrand anyways.  Anyways, that’s just my two cents. Good look with the project, looks like you have a great start!  	 	 tempest_tech on Jan 9, 2025 | parent | next [–]  Thanks for the feedback! You’re absolutely right — many extensions have been affected, and we’re open to helping out. We focused on uBO specifically because many of us have used it and felt like something meaningful was being pushed aside by Google, with little that could be done to prevent it from within Chrome itself. That’s how we came up with the idea to build something dedicated that still feels familiar to users.  	 	 dgrin91 on Jan 9, 2025 | prev | next [–]  Beyond the fact that there are some pretty clear license violations here that will get you shut down instantly, doesn't the idea of an entire browser centered around a single plugin just seem bad?  I get it, modern internet without an adblocker sucks, I use UBO as well. But you want to build an maintain a browser just for UBO? Why not use firefox in that case?  	 	 tempest_tech on Jan 9, 2025 | parent | next [–]  We didn’t create the browser with commercial success in mind — there’s no monetisation associated with it. Our goal is to address a practical problem faced by uBO Chrome users in a way we can. If it gains sufficient traction among them, and not only, we’d consider it a successful initiative.  Of course, using Firefox is a choice we fully respect. This project was created in the spirit of offering users users with more options.  	 	 dgrin91 on Jan 9, 2025 | root | parent | next [–]  Thats not how licensing works.... You are using UBO's likeness without their permission. Commercial success does not affecting licensing requirements.  Also it seems like your company makes custom browsers, and you put your company name on it, so this is effectively an ad for you, which means success of this browser will be commercially beneficial to you.  	 	 ranger_danger on Jan 10, 2025 | root | parent | prev | next [–]  > We didn’t create the browser with commercial success in mind  Then where's the source? And why are you making white-label browsers?  	 	 ranger_danger on Jan 9, 2025 | prev [–]  Taking bets on how long until Chromium becomes proprietary now.  	 	 michaelt on Jan 9, 2025 | parent | next [–]  I doubt they need to, really.  The browser market is essentially:  64% Chrome. Installed by default on Android, also popular on desktop.  22% Safari. Installed by default and impossible to change on iOS  5% Edge. Installed by default on Windows, and pushed aggressively.  3% Samsung. Installed by default on Samsung devices.  2% Firefox  3% Other  Opera, Brave and suchlike don't appear to be threatening Chrome's market dominance. Why cut them off, when they're helping keep competition law regulators asleep?  	 	 Bancakes on Jan 9, 2025 | root | parent | next [–]  You can change away from safari on iOS for a while now.  	 	 mattl on Jan 9, 2025 | parent | prev | next [–]  https://www.linuxfoundation.org/press/linux-foundation-annou...  	 	 fmajid on Jan 9, 2025 | root | parent | next [–]  At some point Google is going to remove Manifest V2 code from Chromium, and few browser packagers will be able to maintain a fork preserving MV2 availability. Will the Linux Foundation work to address this? The announcement is light on details as to what actual projects they plan on supporting.  	 	 rc_mob on Jan 9, 2025 | parent | prev [–]  Yeah I view the usage of chromium as a negative not a positive  	 	 fmajid on Jan 9, 2025 | root | parent [–]  Firefox/Gecko is sadly no better now (see their despicable stance on Private Click Measurement). The only alternatives on the horizon are Ladybird and Servo, and they are both at least 2 years from prime time.";
+2026.07.13/https://adlock.com/blog/adguard-vs-ublock-origin/ : "Manifest V3: The Fault Line That Changed Everything  Google’s Manifest V3 (MV3) transition (completed in Chrome by mid-2025) replaced the dynamic webRequest API with a declarative NetRequest API. For uBlock Origin, this was a severe architectural constraint: the dynamic filtering matrix, per-site rule overrides, and many advanced scriptlets that depended on programmatic request interception are simply not possible under MV3’s declarative model.  Raymond Hill released uBlock Origin Lite as an MV3-compatible variant, but it is explicitly described as a feature-reduced version. The full uBlock Origin continues to work in Firefox (which has not adopted MV3’s restrictive interpretation), making Firefox the only browser where uBlock Origin retains its full capability set in 2026.  AdGuard’s browser extensions face the same MV3 constraints as any other Chromium extension — this is important to understand. AdGuard’s desktop applications, however, are completely unaffected because they operate outside the browser. This architectural independence is arguably AdGuard’s strongest competitive advantage in the post-MV3 era. So, which is better — AdGuard or uBlock Origin?  Choose AdGuard if:      You need system-wide blocking across apps and devices     Parental controls or malware protection are priorities     You’re willing to pay for premium features like DNS filtering  Choose uBlock Origin if:      You’re focused on browser-only use and low resource impact     Customization via filter lists is key     Free, open-source software aligns with your preferences  The Best Alternative: Why Choose AdLock?  If AdGuard’s cost or uBlock’s browser limits don’t fit, AdLock ad blocker combines the best of both — system-wide blocking like AdGuard with lightweight efficiency closer to uBlock. It filters ads, trackers, and malware across apps/browsers without heavy RAM use, plus evades detection.  Key advantages:      Network-level protection for all devices (Android, iOS, PC)     Supports custom rules     No-log privacy, with 99% block rate per tests     Affordable premium ($3.50/month) after free trial  AdLock bridges gaps, offering robust, user-friendly defense. See screenshots of its clean interface for easy setup:";
+2026.07.13/https://adguard.com/de/adguard-windows/overview.html ;
+
+
 lightweighted browser-note:a
+
+potential SERP blacklist filters:v
+https://www.google.com/search?q=best+%22SERP+blacklist+engine%22 : Google Gemini : "For end-users wanting to block or exclude specific domains (like Pinterest or spam sites) from search results, the most effective engines prioritize privacy and customizable results. The most popular tools include:Kagi Search: A premium, ad-free search engine that allows users to permanently downrank or block specific websites globally or on a per-query basis. It also features custom CSS for adjusting SERP appearance.SearXNG: A free, open-source, and self-hosted meta-search engine. It enables users to easily toggle off specific search engines, filter results, and natively block unwanted domains from appearing in their queries.Brave Search: Built-in "Goggles" functionality allows users to apply custom filters, create domain blacklists, and share exclusion rules with community-curated lists."
+
+potential SERP blacklist filters:a
+
+Internet-note:v
+2026.07.13/https://ladybird.org/ : "github.com/LadybirdBrowser/ladybird The web is the most important platform in computing, yet only a small number of browser engines power the entire thing, each controlled by a company with its own agenda.  Ladybird is building something new: an independent engine, driven by web standards, and free from conflicts of interest.  Our first Alpha release for Linux and macOS is coming in 2026."
+Internet-note:a
