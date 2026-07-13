@@ -1,0 +1,22 @@
+name: SecretSearchEngineLabs
+homepage: http://www.secretsearchenginelabs.com
+lastModified: 2026-07-13T00:00:00Z
+pages:
+  - name: Default
+    matches:
+      - http://www.secretsearchenginelabs.com/find/*
+      - http://www.secretsearchenginelabs.com/findmore/*
+    results:
+      - name: Web results
+        root: h3.result
+        url: a[rel="nofollow"]
+        props:
+          title: a[rel="nofollow"]
+      - name: Snippet blocks
+        root: p:has(.url_link)
+        url: .url_link a
+        props:
+          title: .url_link a
+    commonProps:
+      $site: secretsearchenginelabs
+      $category: web
