@@ -12,11 +12,11 @@ pages:
         url: a[rel="nofollow"]
         props:
           title: a[rel="nofollow"]
-      - name: Snippet blocks
-        root: p:has(.url_link)
-        url: .url_link a
+           - name: Snippet blocks
+        root: .url_link
+        url: a
         props:
-          title: .url_link a
+          title: a
     commonProps:
       $site: secretsearchenginelabs
       $category: web
