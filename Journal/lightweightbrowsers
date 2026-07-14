@@ -7,6 +7,8 @@ useful browsers:v
 "Light Browser	CefSharp	Windows	One-Tab-Browsing for low memory usage [Archived]", "Edgescape Navigator	EdgeWebView2	Windows	Just a web browser, no bloatware, no mess and no unnecessary features"]
 useful browsers:a
 
+
+
 lightweighted browser-note:v
 2026.07.12/www.reddit.com/r/browsers/comments/1s9iynk/what_is_the_lightest_and_most_secure_browser/ :
 "jazei_2021 • 3mo ago
@@ -1972,8 +1974,27 @@ https://forum.mxlinux.org/viewtopic.php?t=82280 ;
 https://www.youtube.com/watch?v=7QJV3fjtV7c : https://github.com/yuzu-krs/yuzu-browser ; https://github.com/SLT-World/SLBr : "A lightweight WPF C# browser for a faster web. Fast, lightweight browsing with a clean interface."
 https://github.com/SLT-World/SLBr VS https://github.com/yuzu-krs/yuzu-browser VS https://github.com/560320534/lightweight-browser VS https://github.com/xyloblonk/lightweight-browser - Who eats less RAM?
 https://catoscatos.github.io/CatsuBrowser/ ;
+https://github.com/560320534/lightweight-browser/commits/main/README.md : Looking at "Commits on Jul 1, 2025", "560320534/lightweight-browser" is basically old "xyloblonk/lightweight-browser". Their png and similar program-structure suggest that. XyloBlonk contributed to this lightweighted browser.
+560320534 is a Newbie, coding mainly README.md. It needs Linux. There's no "Releases section." nor a specific Windows-version, just the zip-download-link. I presume that it uses RAM the same way as xyloblonk. It doesnt have extensions-option. 
+https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-browsers-low-ram-cpu-2fc7cd
 
 lightweighted browser-note:a
+
+xyloblonk-note:v
+Found with Bing:
+2026.07.14/https://builtbybit.com/members/xyloblonk.502759/ : "xyloblonk  Member · 21 · From United States Joined May 8, 2024 Last seen Oct 24, 2025 Posts 15 Purchases 2 Resources 2 Reactions 1 Feedback score 0 Medals 0  ";
+2026.07.14/https://hypixel.net/members/xyloblonk.6778738/ : "XyloBlonk Member · From California, USA Joined Apr 29, 2024 Last seen Jul 15, 2025 Messages 39 Reaction score 22 Reactions 34  12 Points ";
+2026.07.14/https://www.youtube.com/channel/UCUpvmufiJ1xDFaXhjpdcckg : "XyloBlonk  Description Join the Xylo Community!  Hi, my name's Xylo! I'm a 20-year-old gamer. I do all sorts of gameplay for Minecraft. I also do some occasional programming and 3d animation!  Subscribe so you never miss some of my dope content. Links  My Website xyloblonk.xyz  Discord discord.gg/279fFYpQxW More info Sign in to see email address www.youtube.com/@xyloblonk Joined May 16, 2021 12 subscribers 3 videos 1,469 views";
+2026.07.14/https://www.youtube.com/watch?v=B049f-wticA : "611 views  Aug 27, 2025";
+2026.07.14/https://www.youtube.com/watch?v=k65wQMhqWOI : "858 views  May 11, 2025";
+https://www.youtube.com/watch?v=bVLNYSf2hLQ : "ItzXylo Live Stream"
+2026.07.14/https://discord.com/invite/279fFYpQxW : Invite Invalid;
+2026.07.14/https://www.youtube.com/@xyloblonk/playlists : "Trapping Updated 2 days ago View full playlist  4 videos Drinking 🍻 Updated 5 days ago";
+2026.07.14/https://www.youtube.com/post/UgkxgZFzBOaJUSURBbkgOkq_R0ASEambzdI8 : "1 year ago";
+2026.07.14/https://plancke.io/hypixel/player/stats/ba460a8309c749c582538f20dcfda919 : "Player not found Invalid Username/UUID!"
+2026.07.14/xyloblonk.xyz : https://forsale.godaddy.com/forsale/xyloblonk.xyz;
+2026.07.14/https://top.gg/user/571432397301026816 : https://top.gg/discord/servers/732571286572699648 : "ayogamingtv • 10 months ago This server is honestly such a chill place to hang out. With 250+ members, there’s always someone to talk to, whether you’re into gaming, anime, music, or just want to vibe. The community is super welcoming and open to anyone 18+, so it feels like a safe space to just be yourself.  There are tons of fun channels—food, pets, art, everyday chats—and the gaming hubs are active with Valorant, Minecraft, Wuthering Waves, and even some minigames. The custom bot is also a big plus, with cool features like profiles, confessions, and fun little interactions (hugs, kisses, slaps, etc.) that make things more lively.  They do anime watch parties, movie nights, and music sessions too, which makes it easy to meet people and join in. It’s also nice that they’ve got couples-only VCs for anyone who wants a cozy spot, plus it’s 420/alcohol-friendly, so the vibe is super relaxed and no one’s uptight.  The server is run by XyloBlonk, a content creator with over 1K followers, so there’s also a creator corner if you’re into streaming, videos, or sharing your own stuff.  Overall, it’s just a really fun and friendly place to make friends, game, or just chill out after a long day. Definitely recommend checking it out if you’re 18+ and looking for a cool community.   2 likes";
+xyloblonk-note:a
 
 potential SERP blacklist filters:v
 https://www.google.com/search?q=best+%22SERP+blacklist+engine%22 : Google Gemini : "For end-users wanting to block or exclude specific domains (like Pinterest or spam sites) from search results, the most effective engines prioritize privacy and customizable results. The most popular tools include:Kagi Search: A premium, ad-free search engine that allows users to permanently downrank or block specific websites globally or on a per-query basis. It also features custom CSS for adjusting SERP appearance.SearXNG: A free, open-source, and self-hosted meta-search engine. It enables users to easily toggle off specific search engines, filter results, and natively block unwanted domains from appearing in their queries.Brave Search: Built-in "Goggles" functionality allows users to apply custom filters, create domain blacklists, and share exclusion rules with community-curated lists."
