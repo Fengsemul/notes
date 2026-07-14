@@ -504,7 +504,7 @@ Forked from TheByteAttic/AgonORIGINS
 A stand-alone, BASIC-programmable microcontroller and microcomputer in one! The fastest, cheapest, most hackable 8-bit computer ever.";
 2026.07.05/https://github.com/elliotwutingfeng/public_suffix : "A domain parser for dart based on the Public Suffix List";
 2026.07.05/https://github.com/elliotwutingfeng/idun ; 2026.07.05/https://github.com/elliotwutingfeng/hover-paywalls-browser-extension ;
-
+2026.07.14/https://cash.app/
 
 Practical-note:a
 
