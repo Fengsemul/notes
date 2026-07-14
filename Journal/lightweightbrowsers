@@ -1974,11 +1974,14 @@ https://forum.mxlinux.org/viewtopic.php?t=82280 ;
 https://www.youtube.com/watch?v=7QJV3fjtV7c : https://github.com/yuzu-krs/yuzu-browser ; https://github.com/SLT-World/SLBr : "A lightweight WPF C# browser for a faster web. Fast, lightweight browsing with a clean interface."
 https://github.com/SLT-World/SLBr VS https://github.com/yuzu-krs/yuzu-browser VS https://github.com/560320534/lightweight-browser VS https://github.com/xyloblonk/lightweight-browser - Who eats less RAM?
 https://catoscatos.github.io/CatsuBrowser/ ;
-https://github.com/560320534/lightweight-browser/commits/main/README.md : Looking at "Commits on Jul 1, 2025", "560320534/lightweight-browser" is basically old "xyloblonk/lightweight-browser". Their png and similar program-structure suggest that. XyloBlonk contributed to this lightweighted browser.
-560320534 is a Newbie, coding mainly README.md. It needs Linux. There's no "Releases section." nor a specific Windows-version, just the zip-download-link. I presume that it uses RAM the same way as xyloblonk. It doesnt have extensions-option. 
-https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-browsers-low-ram-cpu-2fc7cd
 
 lightweighted browser-note:a
+
+560320534-note:v
+https://github.com/560320534/lightweight-browser/commits/main/README.md : Looking at "Commits on Jul 1, 2025", "560320534/lightweight-browser" is basically old "xyloblonk/lightweight-browser". Their png and similar program-structure suggest that. XyloBlonk contributed to this lightweighted browser. The difference is:"linux Update README.md 5 months ago".
+560320534 is a Newbie, coding mainly README.md. It needs Linux. There's no "Releases section." nor a specific Windows-version, just the zip-download-link. I presume that it uses RAM the same way as xyloblonk. It doesnt have extensions-option. 
+https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-browsers-low-ram-cpu-2fc7cd
+560320534.note:a
 
 xyloblonk-note:v
 Found with Bing:
