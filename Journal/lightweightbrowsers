@@ -1974,6 +1974,11 @@ https://forum.mxlinux.org/viewtopic.php?t=82280 ;
 https://www.youtube.com/watch?v=7QJV3fjtV7c : https://github.com/yuzu-krs/yuzu-browser ; https://github.com/SLT-World/SLBr : "A lightweight WPF C# browser for a faster web. Fast, lightweight browsing with a clean interface."
 https://github.com/SLT-World/SLBr VS https://github.com/yuzu-krs/yuzu-browser VS https://github.com/560320534/lightweight-browser VS https://github.com/xyloblonk/lightweight-browser - Who eats less RAM?
 https://catoscatos.github.io/CatsuBrowser/ ;
+https://www.youtube.com/watch?v=R4Az0OZKTMs : "RAM & CPU & Speed ​​[Test]
+Hello. In this video, we tested the speed and memory usage of two browsers. The test results for these browsers, called Slimjet and Slimbrowser, are as follows:
+-+Slimjet = Half the speed of Slimbrowser, RAM usage is 3 times lower than Slimbrowser.
++-Slimbrowser = 2 times faster than Slimjet, RAM usage is 3 times higher than Slimjet. If you are undecided between the two, my recommendation is: SlimBrowser
+Browser I used: Brave"
 
 lightweighted browser-note:a
 
