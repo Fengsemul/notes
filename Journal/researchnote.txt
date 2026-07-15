@@ -763,7 +763,8 @@ Experimental search engine-note:a
 
 #lpsn less popular internet search-note:v
 [2026.07.02/https://www.google.com/search?q=is+this+ai-generated+harmsen.nl  : Fediverse; "Google CSE which blindly serves a throttled version of mainstream Google" (more mainstream);
-search.brave.com/goggles/create ; wiby.me ; https://old-search.marginalia.nu/search?query=wikipedia&js=&adtech=&searchTitle=&profile=&recent=&sst= (is the only one that shows Wikipedia.)] ; secretsearchenginelabs.com/findmore/test?start=10 ; 2026.07.02/https://semai.ai/blogs/best-search-engines-without-ai-summaries-classic-links/ : "completely filter out SEO spam and ads, Kagi offers a premium, ad-free index worth paying for.", "Paid search engines with independent indexes perform best at filtering out spam. Because they rely on subscription revenue rather than ad clicks, they prioritize authoritative forums and academic sites over highly optimized affiliate blogs."
+search.brave.com/goggles/create ; wiby.me ; https://old-search.marginalia.nu/search?query=wikipedia&js=&adtech=&searchTitle=&profile=&recent=&sst= (is the only one that shows Wikipedia.)] ; secretsearchenginelabs.com/findmore/test?start=10 ; 2026.07.02/https://semai.ai/blogs/best-search-engines-without-ai-summaries-classic-links/ : "completely filter out SEO spam and ads, Kagi offers a premium, ad-free index worth paying for.", "Paid search engines with independent indexes perform best at filtering out spam. Because they rely on subscription revenue rather than ad clicks, they prioritize authoritative forums and academic sites over highly optimized affiliate blogs."; 2026.07.15/https://rawweb.org/?q= ; https://slsearch.eu.org/
+
 #lpsn less popular internet search-note:a
 
 Internet history-note:v
