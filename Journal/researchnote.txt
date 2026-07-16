@@ -72,7 +72,7 @@ experience and maintain performance consistency."
 Google-note:a
 
 about search engine-note:v
-2026.06.29/https://brightdata.com/blog/web-data/google-search-url-parameters : "Google killed the num parameter in September 2025 with no warning. JavaScript rendering became mandatory, and AI Overviews rolled out to 200 countries and territories. If you’re scraping Google, your raw HTTP requests now return empty or degraded responses, num-based pagination is broken, and AI-generated content pushes organic results below the fold.",
+useful note 2: 2026.06.29/https://brightdata.com/blog/web-data/google-search-url-parameters : "Google killed the num parameter in September 2025 with no warning. JavaScript rendering became mandatory, and AI Overviews rolled out to 200 countries and territories. If you’re scraping Google, your raw HTTP requests now return empty or degraded responses, num-based pagination is broken, and AI-generated content pushes organic results below the fold.",
 "Below is every parameter that matters, with tested code and practical examples. All code was run against the live Bright Data SERP API.
 
     TL;DR: What you need to know for 2026:
@@ -84,7 +84,8 @@ about search engine-note:v
         Required: JavaScript rendering. Raw requests.get() calls return empty results since Jan 2025
 
 "...
-"https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1";
+"https://www.google.com/search?q=web+scraping+tools&gl=us&hl=en&brd_json=1"
+https://www.google.com/search?q=&start=20&gl=us&hl=en&pws=0&udm=14&brd_json=1;
 2026.06.29/https://www.seroundtable.com/bing-google-trick-38688.html : "tons of publications are now saying this is Microsoft's way of tricking Bing users to thinking they are using Google Search.", "I can imagine a ton of people 
 searching in Bing are typing in Google to find Google Search. The same on Google, I've seen so many people go to Google and search for Google." (One of reasons why "google" is most popular search-query, even if on Jan 7, 2025.
 about search engine-note:a
