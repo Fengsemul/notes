@@ -518,7 +518,8 @@ https://www.chatday.ai/chat : 1024 letetrs limited;
 https://chat.aichatapp.ai/es/landing-chat?utm_source=bing&utm_medium=cpc&utm_campaign=487140664&utm_term=ChatGPT&utm_adgroup=1234752834318169&utm_network=o&utm_device=c&utm_matchtype=e&utm_loc_physical_ms=146488&model=gpt-5-nano auto-limits large texts into 10000;
 https://use.ai/?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw ;
 https://use.ai/is/deep-research : GPT 5.5 and https://use.ai/sl/deep-research : GPT 5.5 changes sometimes.;
-https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw
+https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw : doesnt work.;
+https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d
 AI chat avability-note:a
 
 Command for splitting chunks for chrome-extension:
