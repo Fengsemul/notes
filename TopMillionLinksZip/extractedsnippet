@@ -1,0 +1,37 @@
+pages:
+  - name: Web
+    matches:
+      - "[google.com](https://www.google.com/search?*)"
+      - "[google.com](https://google.com/search?*)"
+      - "https://www.google.*/search?*"
+    results:
+      - root: "#search div.MjjYud"
+        url: "a[href]:has(h3)"
+        props:
+          title: "h3"
+    commonProps:
+      $site: "google"
+      $category: web
+    delay: true
+
+# Extracted snippets:
+  - title: "Best web scraping tools I've tried (and what I learned from ..."
+    url: "https://www.reddit.com/r/automation/comments/1ncuv8k/best_web_scraping_tools_ive_tried_and_what_i/"
+  - title: "17 Best Web Scraping Tools Tested & Ranked For 2026"
+    url: "https://www.scrapingbee.com/blog/web-scraping-tools/"
+  - title: "Web Scraper - The #1 web scraping extension"
+    url: "https://webscraper.io/"
+  - title: "5 Best Web Scraping Tools (Ranked By Performance, ..."
+    url: "https://www.scrapingdog.com/blog/best-web-scraping-tools/"
+  - title: "Octoparse: Web Scraping Tool & Free Web Crawlers"
+    url: "https://www.octoparse.com/"
+  - title: "Best Web Scraping Tools: 11 Picks That Actually Scale"
+    url: "https://www.olostep.com/blog/best-web-scraping-tools"
+  - title: "Scrapy — open source web scraping framework for Python"
+    url: "https://scrapy.org/"
+  - title: "16 Best Web Scraping Tools In 2026 (Pros, Cons, Pricing)"
+    url: "https://www.scraperapi.com/web-scraping/tools/"
+  - title: "Best Web Scraping Tools — What I Actually Use (Free & ..."
+    url: "https://www.youtube.com/watch?v=ZwC9dbI5Cj4&vl=en-US"
+  - title: "Browse AI: Scrape and Monitor Data from Any Website with ..."
+    url: "https://www.browse.ai/"
