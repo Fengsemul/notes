@@ -1,0 +1,75 @@
+2026.07.18: 22:01 or so:
+Use:
+text
+
+a
+b
+0-173
+google
+wikipedia
+
+Do not use:
+text
+
+.a..b.*://*.a/*://:
+
+The importer removes surrounding dots, so .a. becomes a, but plain a is cleaner.
+Exact matching behavior
+
+The extension lowercases everything, so A and a are identical.
+
+For each search-result hostname, it splits the hostname at dots and checks complete labels:
+Indexed label	Result hostname	Hidden
+a	a.com	Yes
+a	www.a.com	Yes
+a	shop.a.net	Yes
+a	data.com	No
+b	b.org	Yes
+b	www.b.org	Yes
+0-173	shop.0-173.net	Yes
+0-173	shop.example0-173.net	No
+You do not need separate rules for www, http, https, or paths. The extension reads the hostname from the result URL and ignores its scheme and path.
+
+Firefox suspending the background script while idle is normal MV3 behavior.
+---
+pasted-text.txt
+
+TXT
+
+MV3 is the better choice for filtering, while MV2 could make long imports easier. The manifest version itself will not materially change the speed of IndexedDB label lookups or DOM-result hiding.
+Concern	MV3	MV2
+Idle CPU and memory	Better: background can stop while idle	Worse: persistent background page may remain loaded
+SERP filtering speed	Essentially the same	Essentially the same
+Long imports	Requires careful resumable design	Easier with a persistent background page
+Future compatibility	Better	Legacy and increasingly unsupported
+Recommended here	Yes	No
+
+Your architecture is appropriate for MV3 because:
+
+    The options page streams source files sequentially.
+    The background performs short IndexedDB operations.
+    Completed sources can be resumed after interruption.
+    Content scripts process only supported search pages.
+    The large label collection is never loaded into every SERP tab.
+
+A persistent MV2 background page might avoid suspension, but it would not solve the major resource costs: storing 17.6 million records, importing them, and performing exact disk lookups. It could also keep more memory resident unnecessarily.
+
+Keep MV3. The highest-impact optimizations are fixing the Pause button, reducing metadata writes, batching lookups, adding cleanup for abandoned generation databases, and handling public-suffix labels safely. Changing to MV2 would provide little filtering benefit and create a legacy-extension dependency.
+Deep research is initiating
+Sources
+
+No sources found
+2026.07.18 22:01: "Start new full import builds a replacement index while the current index remains active.
+Resume import becomes enabled only after an interrupted or paused build exists.
+Pause import becomes enabled only while an import is actively running.
+Delete active index removes the active index and disables effective filtering until another import completes."
+You do not need to start another full import merely to test Pause. Your completed index is usable now. The next time you intentionally rebuild it:
+
+    Click Start new full import.
+    Once downloading begins, Pause import should be enabled.
+    Clicking it should stop the current download while preserving completed source files.
+    After pausing, Resume import should become enabled and the other button should change to Discard unfinished build.
+Your completed active index remains available during a replacement import and after pausing one. Do not click Delete active index unless you deliberately want filtering to stop.
+2026.07.18 22:17: "Do not click Delete active index. The IndexedDB data is stored in the Firefox profile, not in this source-folder backup."
+2026.07.18 22:32:"Removing a temporary extension does not modify the six source files. Its IndexedDB storage may persist, but the revised version should use a new database namespace so it cannot damage the working index.",
+"Match any complete hostname label except the final top-level label."

@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+  <title>SERP Domain Index</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main>
+    <h1>SERP Domain Index</h1>
+
+    <p class="introduction">
+      This extension builds an exact, disk-backed hostname-label
+      index. For example, a stored label of
+      <code>0-173</code> matches
+      <code>shop.0-173.net</code>, but not
+      <code>shop.example0-173.net</code>.
+    </p>
+
+    <section aria-labelledby="status-heading">
+      <h2 id="status-heading">Index status</h2>
+
+      <dl class="status-grid">
+        <dt>Status</dt>
+        <dd id="index-status">Loading...</dd>
+
+        <dt>Exact labels</dt>
+        <dd id="domain-count">-</dd>
+
+        <dt>Generation</dt>
+        <dd id="generation">-</dd>
+
+        <dt>Imported</dt>
+        <dd id="imported-at">-</dd>
+
+        <dt>Source files</dt>
+        <dd id="source-count">17</dd>
+      </dl>
+    </section>
+
+    <section aria-labelledby="filtering-heading">
+      <h2 id="filtering-heading">Filtering</h2>
+
+      <label class="checkbox-row">
+        <input id="enabled" type="checkbox">
+        <span>Enable search-result filtering</span>
+      </label>
+
+      <label class="checkbox-row">
+        <input
+          id="include-subdomains"
+          type="checkbox"
+          checked
+          disabled
+        >
+        <span>
+          Check each complete hostname label
+        </span>
+      </label>
+
+      <p class="explanation">
+        Matching is exact by label. A rule for
+        <code>a</code> matches <code>a.example.com</code>,
+        but does not match <code>data.example.com</code>.
+        The final hostname label, such as
+        <code>com</code>, is not checked.
+      </p>
+    </section>
+
+    <section aria-labelledby="import-heading">
+      <h2 id="import-heading">Import</h2>
+
+      <p>
+        Source files are downloaded sequentially. If Firefox,
+        Windows, or this tab closes, completed source files are
+        preserved. Resume the build later; only the interrupted
+        source restarts.
+      </p>
+
+      <div class="actions">
+        <button id="start-import" type="button">
+          Start new full import
+        </button>
+
+        <button
+          id="resume-import"
+          type="button"
+          class="secondary"
+          disabled
+        >
+          Resume import
+        </button>
+
+        <button
+          id="abandon-import"
+          type="button"
+          class="secondary"
+          disabled
+        >
+          Pause import
+        </button>
+
+        <button
+          id="clear-data"
+          type="button"
+          class="danger"
+        >
+          Delete active index
+        </button>
+      </div>
+
+      <progress
+        id="progress"
+        max="17"
+        value="0"
+        hidden
+      ></progress>
+
+      <output
+        id="progress-text"
+        aria-live="polite"
+      ></output>
+    </section>
+
+    <section aria-labelledby="sources-heading">
+      <h2 id="sources-heading">Sources</h2>
+
+      <p>
+        The full import uses <code>1.txt</code> through
+        <code>9.txt</code>, <code>a.txt</code> through
+        <code>g.txt</code>, and <code>cdn</code>. The
+        <code>cdn</code> source intentionally has no
+        <code>.txt</code> extension.
+      </p>
+    </section>
+
+    <noscript>
+      JavaScript must be enabled to manage this extension.
+    </noscript>
+  </main>
+
+  <script src="options.js"></script>
+</body>
+</html>
