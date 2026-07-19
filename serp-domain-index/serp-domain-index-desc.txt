@@ -76,3 +76,13 @@ Your completed active index remains available during a replacement import and af
 SERP Domain Index v2: 2026.07.19 02:15: "If you pause during 1.txt, it will restart 1.txt. If you pause after 1.txt is complete and while 2.txt is running, only 2.txt should restart.
 
 Keep the options tab open during active importing. Do not run the original extension and v2 filtering simultaneously, since both content scripts would process the same results."
+2026.07.19 02:24: "Current import precautions
+
+While this import continues:
+
+    Keep the v2 options tab open.
+    Do not edit v2 files or click Reload.
+    Keep Windows from sleeping.
+    Avoid running the original extension or uBlacklist simultaneously.
+    Do not click Clean unused databases during import.
+    Use Pause import before intentionally closing Firefox."
