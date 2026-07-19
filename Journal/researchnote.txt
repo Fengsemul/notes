@@ -347,6 +347,31 @@ https://web.archive.org/web/20101214231859/http://www.dshield.org/feeds/suspicio
 the WHOIS record(s).
 the DNS record(s).
 the HTTP status code.";
+2026.07.19/https://news.ycombinator.com/item?id=29546690 : "or a quick and dirty DIY solution, add something like this to your uBlock filter list:
+ google.*##.g:has(a[href*="thetopsites.com"])
+  duckduckgo.*##.results > div:has(a[href*="thetopsites.com"])
+Block Medium's cookie notification on any domain:
+  *##body>div:has(div:has-text(/To make Medium work.*Privacy Policy.*Cookie Policy/i))
+Or apply it to search engine results:
+  google.*##.g:has(*:has-text(/word combination to block/i))
+  duckduckgo.*##.results > div:has(*:has-text(/word combination to block/i))",
+"You can even block based on the result's text, see my other post: https://news.ycombinator.com/item?id=29550393
+One less extension equals one less security/privacy liability too!",
+"i tried pinterest and did not work for me
+google.##.g:has(a[href="pinterest.com"])
+google.##.g:has(a[href="*.pinterest.com"])
+dunno. i primarily use duck which apparently does not show that many pinterest results and even that one didn't work. i would have to investigate
+dredmorbius on Dec 14, 2021 | parent | next [–]
+If you're typing strings which include the * character, you must either escape it with a \ (\*) or write it in a code block.
+I STRONGLY recommend the latter.
+I think what you're trying to write is:
+  google.*##.g:has(a[href=*"pinterest.com"])
+(I'm inferring that based on the italic/roman text in your pattern line. I'm probably inferring wrong.)
+HN's markup interpreter will style any line indented by two or more spaces as code, and not interpret special symbols. The lines will wrap, however (wrapping is a relatively new feature).
+BloodOath on Dec 14, 2021 | parent | prev | next [–]
+try this:
+google.##.g:has(a[href="pinterest.com"])";
+2026.07.19/https://github.com/smed79/search-engine-result-filter
 Filter-note:a
 
 Adding programs-note:v
