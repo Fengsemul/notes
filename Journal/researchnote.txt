@@ -403,7 +403,7 @@ Check out Yokoffing's Recommended Filters for uBlock Origin for content blocker 
 Adding programs-note:a
 
 AI-note:v
-2026.07.23/llm-stats.com/
+2026.07.23/llm-stats.com/ : worst reasoning AI: 2026.07.23/overchat.ai/models/ernie/ernie-4-5
 AI-note:a
 
 
