@@ -617,7 +617,7 @@ It’s capabilities were limited by the technology used to make it. It was built
 Connections between modems used telephone and telegraph lines, which later became France Télécom and then Orange.
 We can consider the modem to be the ancestor of today's internet box.";
 https://zoryglaser.com/wp-content/uploads/2020/05/A-REPORT-ON-ELECTROMAGNETIC-RADIATION-SURVEYS-OF-VIDEO-DISPLAY-TERMINALS-2.pdf p.15: Wavelength (nm): 300: 0.09 meanwhile Harris 1500A: 0.01 and Telco 40: 0; 
-
+2026.07.23/Genimi: "The first Incoterm SPD 10/20 was produced in 1970 by Incoterm Corporation, a company founded by former Raytheon engineers."
 First PC:a
 
 AI chat avability-note:v
