@@ -551,6 +551,10 @@ Questionable-note:v
 2026.07.05/https://github.com/elliotwutingfeng/faker ; 2026.07.05/ 23:40 https://filterlists.com/lists/pokemon-no-go-zone : "Are you desperate to get some quality time with your brother or dad, who is so much into Pokémon GO that they play it to this day while hacking around from the couch? Here's how to get that quality time back… unless they just switch to 4G instead, in which case you're screwed. May also work against 'Harry Potter: Wizards Unite' and 'Ingress Prime'" (But the son, at some cognitive point, should decide themselves. Otherwise, it isn't your son anymore. Kant was against using people solely as a means for themselves.)
 Questionable-note:a
 
+First PC:v
+2026.07.23/https://www.kenbak.com/ : " Kenbak-1 has often been considered "the first personal computer."  It was designed, built, and marketed by John V. Blankenbaker in 1971, and was made before microprocessors were available.  In spite of it not being commercially successful (only about 52 were made) it had a lasting impact, taught scores of students, and inspired many with the idea they could own a computer.  It was named the "first personal computer" by a group of computer industry experts after a search by Boston's "The Computer Museum" in 1986.  It has been called the first personal computer by the Computer History Museum in Mountain View, CA, the Computer Museum of America in Roswell Georgia, the Deutsches Museum in Munich Germany, and other major computer museums." (How to do more reliable research: by askimg museums.=
+First PC:a
+
 AI chat avability-note:v
 https://www.app.lorka.ai/l/chat/04?model=gpt-5.6&utm_source=bing&utm_medium=cpc&utm_campaign=571029709&utm_term=chatgpt%20app&utm_content=&utm_adgroup=1186375198032877&utm_network=o&utm_device=c&utm_devicemodel=&utm_matchtype=b&utm_loc_physical_ms=146488 ;
 https://www.chatday.ai/chat : 1024 letetrs limited;
