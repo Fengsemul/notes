@@ -404,7 +404,7 @@ Adding programs-note:a
 
 AI-note:v
 2026.07.23/llm-stats.com/ ;
-2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ;
+[2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ; https://www.layer3labs.io/ai-model-pricing ]
 AI-note:a
 
 worst AI:v
