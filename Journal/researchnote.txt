@@ -410,7 +410,7 @@ AI-note:a
 worst AI:v
 2026.07.23/https://openrouter.ai/models?context=1000000&order=intelligence-high-to-low : Auto Router ;
 2026.07.23/llm-stats.com/ : worst reasoning AI: 2026.07.23/overchat.ai/models/ernie/ernie-4-5 and few other metrics the lowest, 2. worst MiniMax-01
-after reducing Coding Index and Agentic Index so that 1 result stays: Meta: Llama 4 Scout ;
+after reducing Coding Index and Agentic Index so that 1 result stays: Meta: Llama 4 Scout : https://llama.online/chat;
 2026.07.23/https://en.wikipedia.org/wiki/List_of_large_language_models : complicated.: Kimi K2.5 has lowest params: 1T, Falcon has lowest Corpus size: 1T tokens, GPT-1 has lowest training cost;
 2026.07.23/https://www.layer3labs.io/ai-model-pricing : "Nova MicroAWS Bedrock on-demand	Amazon	$0.035	$0.14 Nova LiteAWS Bedrock on-demand	Amazon	$0.06	$0.24 DeepSeek V4 FlashCache-hit input $0.003 / 1M	DeepSeek	$0.14	$0.28 Mistral Small 4	Mistral	$0.15	$0.6 Llama 4 ScoutHosted on AWS Bedrock	Meta	$0.17	$0.66 DeepSeek V4 ProCache-hit input $0.004 / 1M	DeepSeek	$0.435	$0.87 CodestralCode model	Mistral	$0.3	$0.9 Llama 4 MaverickHosted on AWS Bedrock	Meta	$0.24	$0.97 Sonar+ search fee $5–12 / 1k requests	Perplexity	$1	$1 Gemini 3.1 Flash-LiteText/image/video rate	Google	$0.25	$1.50 Mistral Large 3Flagship	Mistral	$0.5	$1.50 Command R	Cohere	$0.5	$1.50 Grok BuildCoding model; 256k context	xAI	$1	$2 Gemini 2.5 FlashText/image/video rate	Google	$0.3	$2.50 Grok 4.3Flagship; 1M context	xAI	$1.25	$2.50 Nova ProAWS Bedrock on-demand	Amazon	$0.8	$3.20 Claude Haiku 4.5Fastest, cheapest Claude	Anthropic	$1	$5 Magistral MediumReasoning	Mistral	$2	$5 GPT-5.6 LunaLowest-cost tier; generally available in the API	OpenAI	$1	$6"
 worst AI:a
