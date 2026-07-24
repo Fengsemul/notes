@@ -585,6 +585,7 @@ This will go a bit off course from the normal game talk, but we will run into a 
    [35]Datapoint 2200 and the Incoterm [36]SPD 10/20.",
 "[35] https://archive.org/details/sim_computerworld_1970-06-10_4_23/page/28/mode/2up
      [36] https://archive.org/details/sim_computerworld_1970-07-22_4_29/page/12/mode/2up";
+2026.07.23/https://commons.wikimedia.org/wiki/File:Incoterm_SPD_10-20_1970.png;
 2026.07.23/historyofinformation.com/detail.php?id=3277 : "1971 Phil Ray and Gus Roche of Computer Terminal Corporation of San Antonio, Texas, later known as Datapoint Corporation, began shipping the Datapoint 2200"..."Thus, CTC's engineers may be said to have fathered the world's most commonly used and emulated instruction set architecture from the mid-1980s to date" (Wikipedia article on Datapoint 2200, accessed 09-12-2012).";
 2026.07.23/https://www.techpowerup.com/forums/threads/intel-celebrates-50th-anniversary-of-the-intel-4004-processor.288987/ : "Whether Intel was the first to create the microprocessor is still open for debate. At least two highly integrated circuits were implemented prior to 1971. The Four-Phase Systems Model IV/70 utilized three AL1 8-bit CPUs, and the Garrett AiResearch CADC ran the MP944 CPU.
 Two other microprocessors were released in the same year as the 4004, the Pico Electronics/General Instrument PICO1/GI250 and the Texas Instruments TMS 1802NC.";
@@ -617,7 +618,8 @@ It’s capabilities were limited by the technology used to make it. It was built
 Connections between modems used telephone and telegraph lines, which later became France Télécom and then Orange.
 We can consider the modem to be the ancestor of today's internet box.";
 https://zoryglaser.com/wp-content/uploads/2020/05/A-REPORT-ON-ELECTROMAGNETIC-RADIATION-SURVEYS-OF-VIDEO-DISPLAY-TERMINALS-2.pdf p.15: Wavelength (nm): 300: 0.09 meanwhile Harris 1500A: 0.01 and Telco 40: 0; 
-2026.07.23/Genimi: "The first Incoterm SPD 10/20 was produced in 1970 by Incoterm Corporation, a company founded by former Raytheon engineers."
+2026.07.23/Genimi: "The first Incoterm SPD 10/20 was produced in 1970 by Incoterm Corporation, a company founded by former Raytheon engineers.";
+
 First PC:a
 
 AI chat avability-note:v
