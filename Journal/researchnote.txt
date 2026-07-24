@@ -619,7 +619,7 @@ Connections between modems used telephone and telegraph lines, which later becam
 We can consider the modem to be the ancestor of today's internet box.";
 https://zoryglaser.com/wp-content/uploads/2020/05/A-REPORT-ON-ELECTROMAGNETIC-RADIATION-SURVEYS-OF-VIDEO-DISPLAY-TERMINALS-2.pdf p.15: Wavelength (nm): 300: 0.09 meanwhile Harris 1500A: 0.01 and Telco 40: 0; 
 2026.07.23/Genimi: "The first Incoterm SPD 10/20 was produced in 1970 by Incoterm Corporation, a company founded by former Raytheon engineers.";
-bitsavers.informatik.uni-stuttgart.de › pdf › incoterm › Datapro_C21_Incoterm.pdf : 
+duckduckgo.com: "Incoterm SPD 10/20 1970": bitsavers.informatik.uni-stuttgart.de › pdf › incoterm › Datapro_C21_Incoterm.pdf : 
 "Incoterm SPO Family of Intelligent Terminals
 Incoterm was one of the early vendors of intelligent terminals and was probably the first to merge minicomputer, communications interface, CRT display, and keyboard into a single programmable unit. Deliveries began on its initial product, the SPD 10/20-one of the most significant of the early entran"
 First PC:a
