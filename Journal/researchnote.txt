@@ -631,8 +631,17 @@ https://chat.aichatapp.ai/es/landing-chat?utm_source=bing&utm_medium=cpc&utm_cam
 https://use.ai/?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw ;
 https://use.ai/is/deep-research : GPT 5.5 and https://use.ai/sl/deep-research : GPT 5.5 changes sometimes.;
 https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw : doesnt work.;
-https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d
+2026.07.25/https://use.ai/de/chat-lp?model=gpt-5.5&utm_source=google&utm_medium=cpc&utm_campaign=AI_AT_DE_Chat_ALL_SEA_LLM_ChatGPT&utm_campaign_id=24015113917&utm_adgroup=AI_AT_DE_ChatGPT_Discovery&utm_adgroup_id=198237341717&utm_term=open+ai&utm_match_type=b&utm_content=816011942063&utm_content_id=816011942063&utm_device=c&utm_funnel=chat_funnel&partner=WM&id=Z29vZ2xlfGNwY3x7X2NhbXBhaWdufHtrZXl3b3JkfXx7Y3JlYXRpdmV9fHx7YWRncm91cGlkfXx7X2FkZ3JvdXB9fHtjcmVhdGl2ZX0%3D&url=https%3A%2F%2Fuse.ai%2Fde%2Fchat-lp%3Fmodel%3Dgpt-5.5&gad_source=1&gad_campaignid=24015113917 ;
+https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
+https://notegpt.io/ai-chat
 AI chat avability-note:a
+
+Bypass upload GPT:v
+2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
+DocShareAI generated link to ChatGPT and other models might not always work, and may stop working after a few link 
+uploads. In such a case, waiting for some time will make it work."
+
+Bypass upload GPT:a
 
 Command for splitting chunks for chrome-extension:
 Thx to duck.ai's GPT-5.4 nano: PowerShell:
