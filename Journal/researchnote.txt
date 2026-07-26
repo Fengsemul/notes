@@ -908,7 +908,10 @@ So then I tried to load it temporarily in firefox from this website: about:debug
 jscher2000
 •
 2y ago
-Unsigned add-ons cannot be permanently installed in the regular release of Firefox, but can be installed in the Developer Edition or Extended Support Release. https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox#w_what-are-my-options-if-i-want-to-use-an-unsigned-add-on-advanced-users"
+Unsigned add-ons cannot be permanently installed in the regular release of Firefox, but can be installed in the Developer Edition or Extended Support Release. https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox#w_what-are-my-options-if-i-want-to-use-an-unsigned-add-on-advanced-users";
+2026.07.26/https://www.reddit.com/r/ublock/comments/3mt3er/i_heard_that_ublock_origin_can_block_scripts_like/?rdt=53911 :
+"Snapiter • 11y ago
+Since version 1.2.0 you can block [inline scripts] (https://github.com/gorhill/uBlock/wiki/Inline-script-tag-filtering) but only in Firefox. You can also use [dynamic URL filtering] (https://github.com/gorhill/uBlock/wiki/Dynamic-URL-filtering)." 1 upvote;
 Firefox-note:a
 
 Experimental search engine-not:v
