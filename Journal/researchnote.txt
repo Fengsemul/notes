@@ -888,6 +888,29 @@ TabletX•2y ago• Edited 2y ago
 I remember I discovered and switched to ViolentMonkey, due to some TamperMonkey controversy.    https://www.reddit.com/r/PrivacyGuides/s/IYDAJAE3B0   https://www.reddit.com/r/FirefoxAddons/s/ba1zO9h4EV"
 Extension-note:a
 
+Firefox-note:v
+https://www.google.com/search?client=firefox-b-d&channel=entpr&q=about%3Adebugging%23%2Fruntime%2Fthis-firefox "about:debugging — Firefox Source Docs documentation
+Firefox Source Docs
+https://firefox-source-docs.mozilla.org › ...
+·
+"..."
+The about:debugging page provides a single place from which you can attach the Firefox Developer Tools to a number of debugging targets.
+Debugging
+Firefox Extension Workshop
+https://extensionworkshop.com › ...
+·
+"..."
+24.01.2020 — Master the tools and techniques for debugging and testing your Firefox extension. Resolve issues quickly using the Developer Tools window.
+How to import broken addon anyway (works from about: ...
+Reddit · r/firefox
+1 comment · before 2 years
+So then I tried to load it temporarily in firefox from this website: about:debugging#/runtime/this-firefox. After some googling I changed 2 ..." : https://www.reddit.com/r/firefox/comments/1d0cr9q/how_to_import_broken_addon_anyway_works_from/ : "
+jscher2000
+•
+2y ago
+Unsigned add-ons cannot be permanently installed in the regular release of Firefox, but can be installed in the Developer Edition or Extended Support Release. https://support.mozilla.org/en-US/kb/add-on-signing-in-firefox#w_what-are-my-options-if-i-want-to-use-an-unsigned-add-on-advanced-users"
+Firefox-note:a
+
 Experimental search engine-not:v
 from chrome-extension://oladmjdebphlnjjcnomfhhbfdldiimaf/pages/options/index.html#reddit : 2026.07.04/https://about.opnxng.com/blog/ : Google doesnt work on all instances. Degoog does but i dont know if its google.
 Experimental search engine-note:a
