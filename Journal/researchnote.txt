@@ -639,7 +639,9 @@ AI chat avability-note:a
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
 DocShareAI generated link to ChatGPT and other models might not always work, and may stop working after a few link 
-uploads. In such a case, waiting for some time will make it work."
+uploads. In such a case, waiting for some time will make it work.";
+2026.07.27/chromewebstore.google.com/detail/memoryplugin-long-term-me/iaelpdacgkkhecjoojjgkhiengnbjacd/reviews ;
+2026.07.27/chromewebstore.google.com/detail/memoryplugin-long-term-me/iaelpdacgkkhecjoojjgkhiengnbjacd/reviews
 
 Bypass upload GPT:a
 
@@ -913,6 +915,10 @@ Unsigned add-ons cannot be permanently installed in the regular release of Firef
 "Snapiter • 11y ago
 Since version 1.2.0 you can block [inline scripts] (https://github.com/gorhill/uBlock/wiki/Inline-script-tag-filtering) but only in Firefox. You can also use [dynamic URL filtering] (https://github.com/gorhill/uBlock/wiki/Dynamic-URL-filtering)." 1 upvote;
 Firefox-note:a
+
+Chrome to Firefox:v
+2026.07.27/https://github.com/OtsoBear/chrome2moz : Live Demo: https://otsobear.github.io/chrome2moz/
+Chrome to Firefox:a
 
 Experimental search engine-not:v
 from chrome-extension://oladmjdebphlnjjcnomfhhbfdldiimaf/pages/options/index.html#reddit : 2026.07.04/https://about.opnxng.com/blog/ : Google doesnt work on all instances. Degoog does but i dont know if its google.
