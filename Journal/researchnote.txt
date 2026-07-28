@@ -29,7 +29,36 @@ Cromite Browser (Chromium-based fork)
 Via Browser (WebView-based mobile browser)
 ";
 2026.07.09/https://pgl.yoyo.org/adservers/ : "Mozilla's Cookie Filtering
-Pinder Johal detailed in his blogzilla how to use the list to block ads with Mozilla. to do this, download the list as a cookie permission file, and put it in "C:\Documents and Settings\User\Application Data\Mozilla\Profiles\user\*.slt" (this is the directory for Windows 2000/XP users, so it will probably differ on other platforms). have a look at his site for more info."
+Pinder Johal detailed in his blogzilla how to use the list to block ads with Mozilla. to do this, download the list as a cookie permission file, and put it in "C:\Documents and Settings\User\Application Data\Mozilla\Profiles\user\*.slt" (this is the directory for Windows 2000/XP users, so it will probably differ on other platforms). have a look at his site for more info.";
+2026.07.26/https://www.theregister.com/software/2026/01/19/just-the-browser-claims-to-tame-the-bloat-without-forking/4815532 : "The concept is simple and appealing. Enough people want de-enshittified browsers that there are multiple forks of the big names. For Firefox, there are Waterfox and Zen as well as LibreWolf and Floorp, and projects based off much older versions of the codebase such as Pale Moon. Most people, though, tend to use Chrome and there are lots of browsers based on its Chromium upstream too, including Microsoft Edge, the Chinese-owned Opera, and from some of the people behind the original Norwegian Opera browser, Vivaldi.
+
+Another fairly prominent Chrome-based browser is also the reason why Davenport's name might be familiar. Back in 2023, he wrote an elegant list of reasons to stop using Brave Browser – an article that The Reg FOSS desk has previously cited. Those with long memories may have encountered Davenport's work nearly a decade earlier, though. Way back in 2014, The Register described him as an enfant terrible for running Windows 95 on a smartwatch.
+
+We are regular users of some of these alternative browsers ourselves, but maintaining such a fork is a big job. Modern browsers are vast. Chromium weighs in at about 48.5 million lines of code and Mozilla Firefox isn't much smaller at 44.75 million.
+
+Just disabling the unwanted features does seem like a much easier route – and because these policies are intended for human managers, they are quite readable. The entirety of the Firefox changes that Just the Browser makes is:
+
+{
+  "policies": {
+    "DisableFirefoxStudies": true,
+    "DisableTelemetry": true,
+    "DontCheckDefaultBrowser": true,
+    "FirefoxHome": {
+      "SponsoredStories": false,
+      "SponsoredTopSites": false,
+      "Stories": false
+    },
+    "GenerativeAI": {
+      "Enabled": false
+    },
+    "SearchEngines": {
+      "Remove": [
+        "Perplexity"
+      ]
+    }
+  }
+}
+"
 Browser-note:a
 
 Archive-note:v
