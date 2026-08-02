@@ -897,7 +897,32 @@ Internet popularity-note:v
 2026.06.21/https://www.domcop.com/top-10-million-websites : "151,718	slzii.com	4.34/10	com 157,070	www.slzii.com	4.34/10	
 com",
 searchthis.ch wasn't present.;
-Internet popularity-note:a
+Internet popularity-note:a+
+
+Similar to LeanSERP-Filter:v
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/websites-hider/ : inside extension: "Blocked Websites
+    amazon
+    temu
+    aliexpress
+Add a Website
+When adding a new website to the list of exclusion, enter the base name (e.g., "amazon" or "example") and all variations like www.amazon.com, .co.uk, or .fr will be hidden." ; 2026.07.2?-2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/host-block/ : "
+List
+    Ultimate
+Updated
+    31 Jul, 00:11
+Version
+    2026.0730.0748.45
+Domains
+    637,522
+
+Auto-update failed: Download failed: HTTP 404
+Block list
+
+Auto-updates daily. Mini = top 1/10M domains. Safari supports about 150k domains.
+
+Downloading…
+" At LeanSERP-Filter-versions, the data is already downloaded and tied to the folder's name as identity.
+Similar to LeanSERP-Filter:a
 
 Extension-note:v
 2026.06.21/E.: "Refined Search Results" only needs the domain and TLD-domain to block subdomains officially, yet doesn't work.
