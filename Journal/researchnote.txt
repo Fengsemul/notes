@@ -996,7 +996,13 @@ Experimental
 Available on Firefox for Android™Available on Firefox for Android™
 0 (0 reviews)
 2 Users" (I am the second user I guess. I don't see the extension's effects since they aren't obvious at least.);
-2026.08.02/addons.mozilla.org/en-US/firefox/addon/low-web-extension/ : "low—web by lowweb.tech  Reduce energy consumption and carbon footprint of your internet browsing. Blocks useless content and optimizes what can be done. 4.3 (9 reviews)4.3 (9 reviews) 63 Users63 Users"
+2026.08.02/addons.mozilla.org/en-US/firefox/addon/low-web-extension/ : "low—web by lowweb.tech  Reduce energy consumption and carbon footprint of your internet browsing. Blocks useless content and optimizes what can be done. 4.3 (9 reviews)4.3 (9 reviews) 63 Users63 Users";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/scribd-bypasser-made-by-coin-3/ : "Scribd Bypasser made by Coin <3 (disabled)
+Simple Scribd Bypasser Script
+This script uses https://scribd.vdownloaders.com/ to bypass scribd but it bypasses the annoying captcha and cooldown u gotta do before getting ur download! Awesome, right?
+!!!!! It will add a red button on scribd documents
+!!!!! On ilidie.info u will see the button easily
+!!!!!! They all load after 2s"
 Extension-note:a
 
 Firefox-note:v
