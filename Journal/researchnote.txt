@@ -989,7 +989,13 @@ ExperimentalExperimental
 - Wealth extraction — CEO pay ratio relative to median workers, stock buyback activity, and aggressive tax avoidace
 - Playing by the rules — regulatory violations, penalties, and government subsidy dependence";
 2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/therian-otherkin-captcha/ : "Therian/Otherkin Captcha by Yokarion Addons  Replace "I'm a human" "I'm not a robot" with something more Therian/Otherkin-friendly. Covers reCAPTCHA, hCaptcha, Cloudflare Turnstile, Microsoft CAPTCHA, Friendly Captcha, and ALTCHA.",";
-2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/cms-wordpress-detector/ : "Detecta WordPress, plugins, temas, page builders (Elementor, Divi), versiones, jQuery, Cloudflare, WooCommerce, sitemap y vulnerabilidades de seguridad conocidas." I didnt know how it worked with the claim of 5-starts-reviewer as far as I remember. Click on extension-icon when being in a webpage as subject to be analyzed by cms-wordpress-detector-extension.
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/cms-wordpress-detector/ : "Detecta WordPress, plugins, temas, page builders (Elementor, Divi), versiones, jQuery, Cloudflare, WooCommerce, sitemap y vulnerabilidades de seguridad conocidas." I didnt know how it worked with the claim of 5-starts-reviewer as far as I remember. Click on extension-icon when being in a webpage as subject to be analyzed by cms-wordpress-detector-extension.;
+Website Directory sync by AmigaINC
+Synchronisation d'annuaire de sites Web. Trouvez tout sur Internet sans utiliser de moteur de recherche !
+Experimental
+Available on Firefox for Android™Available on Firefox for Android™
+0 (0 reviews)
+2 Users" (I am the second user I guess.)
 Extension-note:a
 
 Firefox-note:v
