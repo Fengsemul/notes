@@ -989,7 +989,7 @@ ExperimentalExperimental
 - Wealth extraction — CEO pay ratio relative to median workers, stock buyback activity, and aggressive tax avoidace
 - Playing by the rules — regulatory violations, penalties, and government subsidy dependence";
 2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/therian-otherkin-captcha/ : "Therian/Otherkin Captcha by Yokarion Addons  Replace "I'm a human" "I'm not a robot" with something more Therian/Otherkin-friendly. Covers reCAPTCHA, hCaptcha, Cloudflare Turnstile, Microsoft CAPTCHA, Friendly Captcha, and ALTCHA.",";
-2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/cms-wordpress-detector/ : "Detecta WordPress, plugins, temas, page builders (Elementor, Divi), versiones, jQuery, Cloudflare, WooCommerce, sitemap y vulnerabilidades de seguridad conocidas." That didnt worked despite claim of 5-starts-reviewer as far as I remember.
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/cms-wordpress-detector/ : "Detecta WordPress, plugins, temas, page builders (Elementor, Divi), versiones, jQuery, Cloudflare, WooCommerce, sitemap y vulnerabilidades de seguridad conocidas." I didnt know how it worked with the claim of 5-starts-reviewer as far as I remember. Click on extension-icon when being in a webpage as subject to be analyzed by cms-wordpress-detector-extension.
 Extension-note:a
 
 Firefox-note:v
