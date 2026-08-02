@@ -921,7 +921,8 @@ Block list
 Auto-updates daily. Mini = top 1/10M domains. Safari supports about 150k domains.
 
 Downloading…
-" At LeanSERP-Filter-versions, the data is already downloaded and tied to the folder's name as identity.
+" At LeanSERP-Filter-versions, the data is already downloaded and tied to the folder's name as identity.;
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/searchng/ ;
 Similar to LeanSERP-Filter:a
 
 Extension-note:v
@@ -950,7 +951,45 @@ ExperimentalExperimental
 Available on Firefox for Android™Available on Firefox for Android™
 4.5 (6 reviews)4.5 (6 reviews)
 747 Users747 Users";
-2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/ : "Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare."
+2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/ : "Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare.";
+https://addons.mozilla.org/en-US/firefox/addon/ignore-google/ : "Scripts from these URLs are ignored:
+
+    apis.google.com/*
+    www.google.com/*
+    adservice.google.com/*
+    translate.google.com/*
+    *.gstatic.com/*
+    *.googlecode.com/*
+    *.googlesyndication.com/*
+    *.google-analytics.com/*
+    and more as they are found.
+
+Requests to load content from Google's CDN (ajax.googleapis.com) will be routed to Cloudflare's CDN (cdnjs.cloudflare.com)."; < in combination with Cloudflare-blocker like https://addons.mozilla.org/en-US/firefox/addon/cloudflare-blocker/, I practically block Cloudflare- and Google-hosted sites, I think.;
+2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/lockflare/ : "LockFlare by Nirose  Use CloudFlare and WordPress? Lock your WordPress login page `wp-login.php` with CloudFlare WAF that only unlocks with a secret keyword.";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/js-extractor/ : 5 stars by 1 review, 37 Users, "Extension for extracting secrets, endpoints, and custom regex matches from JavaScript sources on any web page.";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/nativ-google-results-indicator/ :
+Shows allowed/blocked indicator on Google search results using Nativ filtering API.;
+2026.08.02/addons.mozilla.org/en-US/firefox/addon/low-radical/ : "Low—radical is an open source browser extension that shuts down GAFAM.":Google, Amazon, Facebook, Apple, Microsoft.;
+2026.08.02/addons.mozilla.org/en-US/firefox/addon/gafam-firewall/ : "GAFAM = Google, Amazon, Facebook, Apple &amp; Microsoft; the tech oligopolies. Get more control on your Digital Life while using GAFAM sites and CDNs.";
+2026.02.08/addons.mozilla.org/en-US/firefox/addon/ublacklist-kd/ : "uBlacklist 旧バージョン 自分用 テスト Blocks sites you supecify from appearing in Google search results";
+2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/du-vlocker-max/ : "du vlocker max by Shaanto  Zero-lag semantic blocking for custom keywords, News, and Social Media. Made for fun by Pickko.", "Take back control of your social media feeds and search results. The Dhaka University Content Blocker is a highly aggressive, enterprise-grade extension designed to completely eradicate any content, posts, or network requests related to Dhaka University (DU) across the web.
+Unlike standard keyword blockers that fail on modern Single Page Applications (SPAs) like Facebook, Twitter, or Google Search grids, this extension utilizes hardware-efficient caching and deep DOM tree traversal to obliterate content without leaking memory or causing lag.";
+2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/reliance-jio-container/ : "Jio Container isolates your Jio activity from the rest of your web activity in order to prevent Jio from tracking you outside of the Jio website via third party cookies.";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/googless/ : "Experimental", "Do you feel like you have no power over what happens to your tracking data after you visit a website? By installing Googless, you can easily identify all Google tracking services, even those you don't know exist! Googless will spot them for you, explain how they work, and block the website.. Come experience the internet without enabling huge monopolies every step of the way. Curious? So are we!
+This is a BETA version — bug fixes coming soon.";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/origin-enforcer/ : "Preview of Origin Enforcer Origin Enforcer by sje  Restores the control to the user and provides a security sandbox for cross domain and third party calls from websites. Websites now need your permission to make background cross domain calls, protecting you from malware and mass surveillance. ExperimentalExperimental 3.6 (5 reviews)3.6 (5 reviews) 1 User1 User": "Rated 1 out of 5
+by SedUz, 2 years ago
+Totally rubbish, malicious extension. Brakes GMail attachment download. IMPOSSIBLE to know that this crappy extension brakes that - because no informative icon. I wasted 1 hour of my time debugging extensions and disabling 100 of good security extensions, which actually worked fine. I advise to stay away of this extension, it can't be used and brakes websites.";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/noligarchy/ : "NOligarchy by Noligarchy
+See a retailer's political influence score while you shop. NOligarchy scores Amazon, Walmart, and Target based on disclosed federal lobbying, PAC spending, and executive donations — right on the product page.
+ExperimentalExperimental
+0 (0 reviews)0 (0 reviews)
+1 User1 User", "Each score measures three things:
+- Political access — federal lobbying spend, PAC contributions, and executive donations across election cycles
+- Wealth extraction — CEO pay ratio relative to median workers, stock buyback activity, and aggressive tax avoidace
+- Playing by the rules — regulatory violations, penalties, and government subsidy dependence";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/therian-otherkin-captcha/ : "Therian/Otherkin Captcha by Yokarion Addons  Replace "I'm a human" "I'm not a robot" with something more Therian/Otherkin-friendly. Covers reCAPTCHA, hCaptcha, Cloudflare Turnstile, Microsoft CAPTCHA, Friendly Captcha, and ALTCHA.",";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/cms-wordpress-detector/ : "Detecta WordPress, plugins, temas, page builders (Elementor, Divi), versiones, jQuery, Cloudflare, WooCommerce, sitemap y vulnerabilidades de seguridad conocidas." That didnt worked despite claim of 5-starts-reviewer as far as I remember.
 Extension-note:a
 
 Firefox-note:v
@@ -1035,7 +1074,9 @@ search results to Excite in perpetuity.";
 Internet history-note:a
 
 Alternative to search engine-note:v
-2026.07.02/webiano.digital/seo-was-never-born-at-google/ : "No index meant no discovery except through direct address, human recommendation, mailing list mention, or a manually maintained directory."
+2026.07.02/webiano.digital/seo-was-never-born-at-google/ : "No index meant no discovery except through direct address, human recommendation, mailing list mention, or a manually maintained directory.";
+2026.08.02/Searche.org - Search Engine by Searche
+Searche is a new and improved search, with a nice user interface. Searche is an anti-monopoly search engine that empowers users. This extension Sets Firefox's default search engine to searche.org
 Alternative to search engine-note:a
 
 World order-note:v
