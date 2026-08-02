@@ -918,7 +918,13 @@ An efficient content blocker. Direct link to the official Git with all releases 
 2026.07.13/"Search Booster: More Results & Country Search for Google" loads 200 results.;
 2026.07.13/https://www.reddit.com/r/MicrosoftEdge/comments/1cdmgap/comment/l1zoryz/?force-legacy-sct=1 : "
 TabletX•2y ago• Edited 2y ago
-I remember I discovered and switched to ViolentMonkey, due to some TamperMonkey controversy.    https://www.reddit.com/r/PrivacyGuides/s/IYDAJAE3B0   https://www.reddit.com/r/FirefoxAddons/s/ba1zO9h4EV"
+I remember I discovered and switched to ViolentMonkey, due to some TamperMonkey controversy.    https://www.reddit.com/r/PrivacyGuides/s/IYDAJAE3B0   https://www.reddit.com/r/FirefoxAddons/s/ba1zO9h4EV";
+2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/googleunlocked/ "GoogleUnlocked by choluckyhexsexyqueen
+unlocks hidden google search results.
+ExperimentalExperimental
+Available on Firefox for Android™Available on Firefox for Android™
+4.5 (6 reviews)4.5 (6 reviews)
+747 Users747 Users";
 Extension-note:a
 
 Firefox-note:v
