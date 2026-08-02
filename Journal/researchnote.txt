@@ -925,6 +925,7 @@ ExperimentalExperimental
 Available on Firefox for Android™Available on Firefox for Android™
 4.5 (6 reviews)4.5 (6 reviews)
 747 Users747 Users";
+2026.02.08/https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/ : "Block connections to pages and web resources hosted in major cloud services if the user wishes to do so. Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare."
 Extension-note:a
 
 Firefox-note:v
