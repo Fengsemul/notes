@@ -1048,7 +1048,7 @@ search.brave.com/goggles/create ; wiby.me ; https://old-search.marginalia.nu/sea
 #lpsn less popular internet search-note:a
 
 less popular search-note:v
-not hosted by GAFAM nor at Top 18 million hostlabels: 2026.08.03/startpage.com : "physical laws" filetype:html -"wp-" -"fonts" -"reddit" -"youtube" -"quora" -"wikipedia" -"stackexchange" lead to page 8: https://onbeyonddarwin.com/the-book/information-content-of-laws.html by using less popular and more specific queries like "physical laws" instead "physics". filetype:html and filetype:txt reduces psychological demand for font-enhancing-services like those belonging at the rich GAFAM like Google Fonts.;
+not hosted by GAFAM nor Cloudflare nor at the roughly Top 18 million hostlabels: 2026.08.03/startpage.com : "physical laws" filetype:html -"wp-" -"fonts" -"reddit" -"youtube" -"quora" -"wikipedia" -"stackexchange" lead to page 8: https://onbeyonddarwin.com/the-book/information-content-of-laws.html by using less popular and more specific queries like "physical laws" instead "physics". filetype:html and filetype:txt reduces psychological demand for font-enhancing-services like those belonging at the rich GAFAM like Google Fonts.;
 2026.08.03/startpage.com : "Trump's" filetype:txt -"wp-" -"fonts" -"reddit" -"youtube" -"quora" -"wikipedia" -"stackexchange" lead to https://3456alliance.org/ by using less popular and more specific queries like "Trump's" instead "Trump".;
 less popular search-note:a
 
