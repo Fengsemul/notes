@@ -10,11 +10,12 @@ Yahoo!	DuckDuckGo	Baidu	Naver	CocCoc	Haosou	Ecosia	Seznam	Qwant	Sogou	AOL	Petal 
 
 Potentially lowest Market share in search engines-note:a
 
-2023-10-21: http://philsci-archive.pitt.edu/18326/1/may-bias-in-science.pdf
-
-https://citizentruth.org/objective-journalism-media-bias-media-history/
-
-https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents
+Media-note:v
+[2023-10-21: http://philsci-archive.pitt.edu/18326/1/may-bias-in-science.pdf;
+https://citizentruth.org/objective-journalism-media-bias-media-history/;
+https://www.jstor.org/stable/j.ctt19qgf0x.7?seq=2#metadata_info_tab_contents];
+2026.08.03/https://3456alliance.org/book/part%201%20==%20children%20of%20the%20Moon%20==/9.%20the%203-4-5-6%20alliance.txt : "I, the author, am not a historian.  I do know that, for one thing, "history", like statistics, is a damn lie.  What happened in your neighbors’ houses today?  Yesterday?  Last year?  In the end, it’s all hearsay.  Did "enemies" attack a U.S. vessel to start the Vietnam War?  People believed so for quite a few years … too many years … then another "truth" came to be "history".  What should I believe?  I just read corporate-produced books, watch commercial corporate-produced T.V., listen to commercial corporate-produced radio (yes, NPR and Fox News are both just different faces of the same beast) … … …  I see the "truth" as it changes … I remember the introduction of the U.S. Patriot Missile in Kosovo in the 1990s.  Live news people were reporting that it was failing to work in most cases - a waste of tax dollars.  Government officials were denying that.  Within a week or so, the news people (both NPR and Fox!) were saying the opposite.  And within a month or so, there simply was no public talk about the efficiency of these defense weapons.  So I’m just floating along through life trying to figure things out on my own.  I don’t follow internet conspiracy theories.  I present here a small piece of my perspective.  I know it is not a complete picture, and may very well be nothing more than shadow knowledge or even an intentional misguidance away from the truth (maybe Aliens from the far side of the Galaxy are grooming us to have our Qi consumed by their Overlords, as Clarke imagined… and was the plot of an early "Star Trek" T.V. episode…)" (CNN's Breaking news tends to be more biased according to Media Bias/fact Check and the 3456alliance.org-author said that after a week, reporters change to the government's official's opinion, so I guess at mid- to late-week, the media is the relatively least bias in this combined narrative.
+Media-note:a
 2023-10-21:a
 
 PiHole filter-note:v
@@ -1045,6 +1046,11 @@ Experimental search engine-note:a
 search.brave.com/goggles/create ; wiby.me ; https://old-search.marginalia.nu/search?query=wikipedia&js=&adtech=&searchTitle=&profile=&recent=&sst= (is the only one that shows Wikipedia.)] ; secretsearchenginelabs.com/findmore/test?start=10 ; 2026.07.02/https://semai.ai/blogs/best-search-engines-without-ai-summaries-classic-links/ : "completely filter out SEO spam and ads, Kagi offers a premium, ad-free index worth paying for.", "Paid search engines with independent indexes perform best at filtering out spam. Because they rely on subscription revenue rather than ad clicks, they prioritize authoritative forums and academic sites over highly optimized affiliate blogs."; 2026.07.15/https://rawweb.org/?q= ; https://slsearch.eu.org/
 
 #lpsn less popular internet search-note:a
+
+less popular search-note:v
+not hosted by GAFAM nor at Top 18 million hostlabels: 2026.08.03/startpage.com : "physical laws" filetype:html -"wp-" -"fonts" -"reddit" -"youtube" -"quora" -"wikipedia" -"stackexchange" lead to page 8: https://onbeyonddarwin.com/the-book/information-content-of-laws.html by using less popular and more specific queries like "physical laws" instead "physics". filetype:html and filetype:txt reduces psychological demand for font-enhancing-services like those belonging at the rich GAFAM like Google Fonts.;
+2026.08.03/startpage.com : "Trump's" filetype:txt -"wp-" -"fonts" -"reddit" -"youtube" -"quora" -"wikipedia" -"stackexchange" lead to https://3456alliance.org/ by using less popular and more specific queries like "Trump's" instead "Trump".;
+less popular search-note:a
 
 Internet history-note:v
 2026.07.02/webiano.digital/seo-was-never-born-at-google/ : "Archie had SEO in the modern marketing sense. It did not. The point is that search visibility began with index inclusion. If a resource was not exposed in a way an index could collect, it remained functionally invisible to most users. Early web search later made this problem more public because web pages were easier for nontechnical people and businesses to publish than FTP archives. When publishing became easier, the visibility gap widened.", "CERN’s short history explains that the web was created for automated information-sharing among scientists. Once that system spread beyond its original scientific environment, people needed ways to locate resources outside their own institutional or social circles. W3C’s history of the web shows a rapid shift from experimental hypertext to a public network of documents, protocols, servers, browsers, and references.",
