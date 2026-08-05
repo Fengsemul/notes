@@ -1118,8 +1118,26 @@ claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : 
 2025.11.27/openpublichealthjournal.com/VOLUME/18/ELOCATOR/e18749445367433/ : "Non-pharmacological interventions (NPIs), also known as public health and social measures, have played a critical role in mitigating the spread of infectious diseases, particularly during the COVID-19 pandemic [6, 8]. These interventions include measures such as mask-wearing, hand disinfection, physical distancing, screening and isolating infected individuals, and improving ventilation systems in buildings to reduce airborne transmission [3, 9, 10]."
 
 About enlightenment-note:v
-[2026.08.03: https://www.american-buddha.com/mythofenlightenment.htm ; https://rictornorton.co.uk/though21.htm : Marquis de Sade being the most enlightened/progressive in their definition, person.]
+[2026.08.03: https://www.american-buddha.com/mythofenlightenment.htm ; https://rictornorton.co.uk/though21.htm : Marquis de Sade being the most enlightened/progressive in their definition, person.];
+2026.08.05/https://dc20011.blogspot.com/2026/03/not-in-post-modern-era.html : "If by "modernism" is meant the period of systematic rationality and intelligence that began with the Renaissance and reached a high point of self-conscious articulation in the European Enlightenment, then we are not in a post-modern era. On the contrary, modernism has just begun. We are, however, I believe, in a post-skeptical or post-epistemic era. You will not understand what is happening in our intellectual life if you do not see the exponential growth of knowledge as the central intellectual fact. There is something absurd about the post-modern thinker who buys an airplane ticket on the internet, gets on an airplane, works on his laptop computer in the course of the airline flight, gets off of the airplane at his destination, takes a taxicab to a lecture hall, and then gives a lecture claiming that somehow or other there is no certain knowledge, that objectivity is in question, and that all claims to truth and knowledge are really only disguised power grabs.";
+2026.08.05/https://andrewconner.com/folk-knowledge/
 About enlightenment-note:a
+
+Old devices-note:v
+2026.08.05/https://www.masswerk.at/nowgobang/2021/pdp1-spotting : "However, this also posed a new riddle, as at least two sources referred to this machine as a PDP-1B. Namely, the history page of the UMass Amherst CS program’ website,", "This history leaves no apparent room for a PDP-1B at Amherst. So is this an error in these attributions, maybe referring to a common source as a single point of failure, or is there more to this?",
+"The prototype PDP-1A as presented at the Eastern Joint Computer Conference in Boston, in December 1959, went directly to BBN.
+Much of the original system software originated at BBN. (Not to be confused to the software produced at MIT, which was mostly ported from the TX-0. However, Spacewar! would still rely on BBN’s subroutines for multiplication and division.)",
+"So it’s really the BBN PDP-1B!"..."However, there are still some loose ends, namely, how did this PDP-1B acquire a production-type paper-tape unit, and what’s more, how did this PDP-1 installation and the model railroad layout come to to share a room, so that the former could control the trains on the latter?",
+"BTW, according to Steve Russell, these early PDP-1s weren’t exactly white. In his memory
+    the “Prototype PDP-1” cabinets that were in the CHM Visible Storage were a very light cream color with a dark speckle.
+    (Steve Russell, PDP-1 Team mailing list, March 5, 2021)
+And, regarding form factors, there are apparently still some amazing things to be discovered in the archives:
+    When the CHM was inventorying their DEC archive, I saw several pictures of PDP-1 prototype like computers with different detached consoles that I had never seen before. I believe that these were mock-ups done for PDP-1C design studies. The legend of the “chief console designer” memo would explain why the attached console was used in the PDP-1C and all succeeding DEC computers.
+    (Steve Russell, ibidem)
+❇
+If you know anything about this or any further details, please contact me.
+Otherwise, stay tuned."
+Old devices-note:a
 
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
 
