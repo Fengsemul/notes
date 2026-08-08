@@ -1206,8 +1206,12 @@ If you know anything about this or any further details, please contact me.
 Otherwise, stay tuned.";
 Old devices-note:a
 
+Browser-test:v
+{Opera 7 Winx86: 2026.08.08/web.archive.org/*insert website* ; 2026.08-08/https://www.reddit.com/r/vintagecomputing/comments/g3lrtm/90s_websites_that_are_still_up_and_rendering/ : http://theoldnet.com/lite ; 2026.08.08/www.textfiles.com : https://discmaster.textfiles.com/search) }
+Browser-test:a
+
 long lasting devices-note:v
-2026.08.08/https://worldbuilding.stackexchange.com/questions/28505/computer-that-lasts-for-centuries : "(Linux) computers that ran off optical disks and RAM only (no hard drive).", "Norsam disk is supposed to be good for a minimum of 1000 years (cite: https://en.wikipedia.org/wiki/HD-Rosetta). If you're looking into a computer system, you'd want a bootstrapped system where it could build itself.",
+2026.08.08/https://worldbuilding.stackexchange.com/questions/28505/computer-that-lasts-for-centuries : "(Linux) computers that ran off optical disks and RAM only (no hard drive).", "Norsam disk is supposed to be good for a minimum of 1000 years (cite: https://en.wikipedia.org/wiki/HD-Rosetta). If you're looking into a computer system, you'd want a bootstrapped system where it could build itself."
 "
 More fundamentally I am trying to suggest that it should easily be feasible to create a purpose built computer which will have a much, much longer "half-life" than the mentioned 5 years. There are plenty of real world, consumer examples of computers still being in perfect working condition after 10, 15, 20 years - and those systems have not been purpose built for long survivability. – 
 fgysin
