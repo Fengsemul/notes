@@ -1188,7 +1188,7 @@ Change
 	Knowledge is recorded	Knowledge is shared	Knowledge is available / aggregated	Knowledge is synthesized / produced
 Mental improvement	Sequential thinking	Additive thinking (onto others’ knowledge)	Breadth of thinking	Higher-order thinking / planning
 Mental decline	Memory	Passive thinking	Attention span / focus	Production / critical thinking"
-Postmidern-note:a
+Postmodern-note:a
 
 Old devices-note:v
 2026.08.05/https://www.masswerk.at/nowgobang/2021/pdp1-spotting : "However, this also posed a new riddle, as at least two sources referred to this machine as a PDP-1B. Namely, the history page of the UMass Amherst CS program’ website,", "This history leaves no apparent room for a PDP-1B at Amherst. So is this an error in these attributions, maybe referring to a common source as a single point of failure, or is there more to this?",
@@ -1203,8 +1203,52 @@ And, regarding form factors, there are apparently still some amazing things to b
     (Steve Russell, ibidem)
 ❇
 If you know anything about this or any further details, please contact me.
-Otherwise, stay tuned."
+Otherwise, stay tuned.";
 Old devices-note:a
+
+long lasting devices-note:v
+2026.08.08/https://worldbuilding.stackexchange.com/questions/28505/computer-that-lasts-for-centuries : "(Linux) computers that ran off optical disks and RAM only (no hard drive).", "Norsam disk is supposed to be good for a minimum of 1000 years (cite: https://en.wikipedia.org/wiki/HD-Rosetta). If you're looking into a computer system, you'd want a bootstrapped system where it could build itself.",
+"
+More fundamentally I am trying to suggest that it should easily be feasible to create a purpose built computer which will have a much, much longer "half-life" than the mentioned 5 years. There are plenty of real world, consumer examples of computers still being in perfect working condition after 10, 15, 20 years - and those systems have not been purpose built for long survivability. – 
+fgysin
+Commented Dec 3, 2015 at 9:53
+@fgysin Absolutely, but it isn't really relevant. The failure still follows the same mathematical pattern, the added robustness simply adds redundancy, ie a robust system can fail more before any actual effect. For older systems or, as you say, purpose built systems the level of redundancy can be very large. It can realistically take decades before anything breaks. But eventually the math will catch up. This is why the actual failure rate increases over time. Usually you could "just add robustness", but in computers it actually makes them less efficient. – 
+Ville Niemi
+Commented Dec 3, 2015 at 15:33
+@fgysin Sorry, for being bad at explaining, but since it has been few months, I am pretty much trying to rebuild the logic behind the answer. The fact that it is my thinking does help, but certain vagueness is unavoidable. – 
+Ville Niemi
+Commented Dec 3, 2015 at 15:34
+I get what you are saying. Still, some hundred years should be feasible though. ;) – 
+fgysin
+Commented Dec 3, 2015 at 15:36",
+"
+Perhaps long-lived computers will be created for use in space probes. Just as Galileo operated for years in transit and then the harsh radiation environment near Jupiter, an interstellar probe would need to be built to last.
+Even if only meant for (say) 50 years, if left in a calm environment rather than the radiation of space, it may last much longer.
+So, it is conceivable that such a computer will be built and available for use in such a lab.
+",
+" Easily (mostly)  If we build for that purpose only and not to maximize cost efficiency, speed, size, or any of the 
+"normal" criteria.  Instead of making each semiconductor junction a few dozen atoms wide, make them 100000 atoms in size. 
+Think microprocessors built using today's technology, but on 1970's scale of miniaturization. With each transistor being 
+1000^3 = 1 billion times as large, your computer will be 1/1000th the speed. SO WHAT! It will also be 1 billion times more 
+resistant to damage from radioactive events, crystal deformation, and oxidizing factors.  Build the hard drive with 
+stonking huge overpowered motors. With physically separate magnetic domains, not tiny little deviations in a smooth 
+magnetic plain like we normally do. Built your driver with RAID-plaid. (That's raid mirroring taken past ludicrous level). 
+Build every device, every data channel with quadruple or better redundancy.  Get rid of all components that have a built-
+in lifespan limitation of less than millenia. This especially means to get rid of all electrolytic capacitors. Yes, this 
+is very inconvenient, and will cause the engineers to have fits. But it can be done.  Pay attention to what materials you 
+build it from. For example, do NOT use aluminium and gold junctions. Because, over time, they rot. For that matter, do not 
+use aluminium in its construction at al. That stuff just loves to oxydize. Ditto for copper. And don't even think about 
+using steel as construction material, that stuff is useless!  All of this we can do. Easily. Not cheaply! And good grief 
+the resultant computer will be SLOW, and will consume a mountain of power compared to the task it performs. But we can do 
+it.  And, as long as it is protected from physical damage, and shielded from extremes of environment, it will remain 
+functional for a long, long, looong time.  Unsolved problems. I'm not sure what to do about display. Both CRT screens and 
+LCD are not suitable for multi-century storage, and cannot easily be made so. Can a crt be made without a vacuum inside, 
+but with inert gas? I don't think so. Not can i visualize any way to keep a vacuum component retain its vacuum over 
+centuries. Even many cm-thick glass leaks air eventually. Glass is porous, you know. slightly You might even have to 
+revert to glowing-filament-in-inert-gas tubes for display?  Almost any mechanical switch or relay will become 
+untrustworthy after a few centuries. Possibly if made out of inert material such as gold, and kept in a neutral gas to 
+prevent surface deposits?"
+long lasting devices-note:a
 
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
 
