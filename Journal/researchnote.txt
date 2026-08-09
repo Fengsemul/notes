@@ -1005,7 +1005,9 @@ This script uses https://scribd.vdownloaders.com/ to bypass scribd but it bypass
 !!!!! It will add a red button on scribd documents
 !!!!! On ilidie.info u will see the button easily
 !!!!!! They all load after 2s";
-2026.08.02 23:59: Cloudflare Blocker blocked a site in which Cloud Firewall missed, showing slightly different databases between them.
+2026.08.02 23:59: Cloudflare Blocker blocked a site in which Cloud Firewall missed, showing slightly different databases between them.;
+2026.08.09/https://addons.mozilla.org/en-US/firefox/addon/whatruns-detector-v2/ ;
+2026.08.09/https://addons.mozilla.org/en-US/firefox/addon/who-hosts-this-site/
 Extension-note:a
 
 Firefox-note:v
