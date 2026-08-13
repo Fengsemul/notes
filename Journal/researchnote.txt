@@ -651,7 +651,24 @@ https://zoryglaser.com/wp-content/uploads/2020/05/A-REPORT-ON-ELECTROMAGNETIC-RA
 2026.07.23/Genimi: "The first Incoterm SPD 10/20 was produced in 1970 by Incoterm Corporation, a company founded by former Raytheon engineers.";
 duckduckgo.com: "Incoterm SPD 10/20 1970": bitsavers.informatik.uni-stuttgart.de › pdf › incoterm › Datapro_C21_Incoterm.pdf : 
 "Incoterm SPO Family of Intelligent Terminals
-Incoterm was one of the early vendors of intelligent terminals and was probably the first to merge minicomputer, communications interface, CRT display, and keyboard into a single programmable unit. Deliveries began on its initial product, the SPD 10/20-one of the most significant of the early entran"
+Incoterm was one of the early vendors of intelligent terminals and was probably the first to merge minicomputer, communications interface, CRT display, and keyboard into a single programmable unit. Deliveries began on its initial product, the SPD 10/20-one of the most significant of the early entran";
+2026.08.13/https://www.thefirstpc.com/ : " The direct contact and many conversations make me feel very connected to John. It was a twist of fate that he was ahead of his time. He even planned a successor with a CPU. But since the computer was only advertised in Scientific American, the commercial success was low. Who knows, maybe otherwise we would have been working with a 'Kenbak-X'?", "John wrote to me on March 4, 2022, "Yes you may have the content. I used a .net designation. Perhaps you might want to convert to a .com or a .info designation."",
+"John looked at the first microprocessor, but it could not improve the design.
+The idea to build the Kenbak-1 was born in fall of 1970. By spring 1971 John Blankenbaker had built the prototype all by himself, from scratch. The computer is very educational and John wanted to sell the Kenbak-1 mainly to schools.
+Judged the "first commercially available personal computer" in 1986 by a panel at the Boston Computer Museum (later the Computer History Museum San Jose) that included Apple co-founder Steve Wozniak. Published in the Computer Museum Report, Volume 17, Fall 1986.
+This makes the prototype Kenbak-1 the first of the first personal computers. A very emotional discussion goes on about the question of the first personal computer. The problem is that ‘personal computer’ is not exactly defined. And many other computers were nominated by different people to be the first personal computer.
+The Kenbak-1 is considered by the American Computer Museum to be the world’s "first personal computer”.
+But anyway, it was the Kenbak-1 that was chosen by experts including Steve Wozniak. It was a remarkable step towards the computer revolution. The real computer revolution was not beginning with mainframes etc. used for business. The private use of computers started it all.
+", "John advertised the computer only in the Scientific American magazine from September 1971 for two or three issues. Probably focusing on private individuals and advertising in the Popular Electronics magazine would have resulted in a much bigger success. Like it was for the Altair 8800 in 1975.
+Today, only a few original Kenbak-1 still exist. Only 14 machines are believed to exist worldwide. Revision A and B boards exist. And only one prototype was ever built. If the Kenbak-1 is considered the first commercially available personal computer, then the prototype is the very first ever.
+Technical data
+256-byte serial memory (two MOS shift registers, each 1,024 bits) and 1 MHz clock speed, 132 ICs. Programming is done in machine language.",
+"Remarkably John's design had only a few errors and just a few additional wires and other minor changes were required.
+Only the prototype has a red enter button. This was changed for the production units and an additional switch was installed to protect against changing the program status. The production units have a slot in the front for a possible punched card reader which was never available. The legends below the switches were relocated for better reading.
+Just a few changes in the design of the motherboard for the production units were necessary. The prototype has some hand-soldered additional components.
+The case was colored by John Blankenbaker himself. He gave a sample of the color to the company that produced the production unit cases. For this reason, the color on the prototype is not consistent and scratches are more common.
+The prototype has no serial number or labels. The production units started with serial number 167. John lived 12167 Leven Lane, Los Angeles.",
+"Unfortunately, he had given it to an auction house just some weeks before I called him."
 First PC:a
 
 AI chat avability-note:v
