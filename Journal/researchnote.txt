@@ -1230,7 +1230,8 @@ Otherwise, stay tuned.";
 Old devices-note:a
 
 Browser-test:v
-{Opera 7 Winx86: 2026.08.08/web.archive.org/*insert website* ; 2026.08-08/https://www.reddit.com/r/vintagecomputing/comments/g3lrtm/90s_websites_that_are_still_up_and_rendering/ : http://theoldnet.com/lite ; 2026.08.08/www.textfiles.com : https://discmaster.textfiles.com/search) }
+{Opera 7 Winx86: 2026.08.08/web.archive.org/*insert website* ; 2026.08-08/https://www.reddit.com/r/vintagecomputing/comments/g3lrtm/90s_websites_that_are_still_up_and_rendering/ : http://theoldnet.com/lite ; 2026.08.08/www.textfiles.com : https://discmaster.textfiles.com/search) };
+2026.08.14/http://xenoncserver.duckdns.org/videos/bufferedvideo.html worked although bugged at beginning on Opera7.
 Browser-test:a
 
 long lasting devices-note:v
