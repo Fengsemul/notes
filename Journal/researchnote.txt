@@ -806,6 +806,32 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 2026.06.20/https://uadetector.sourceforge.net/modules/uadetector-core/apidocs/net/sf/uadetector/UserAgentFamily.html#BECOMEBOT
 Search engine-list:a
 
+Search engines/directories who dont use GAFAMC:v
+[2026.08.16: I assume that http://www.amidalla.de/ despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
+cautions-and-warnings/, is a popular directory from the old 
+days and therefore too popular like ExactSeek. I might be not consistent.
+Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : illumirate.com , which 
+uses https://whatcms.org/c/Adobe-Dreamweaver. , http://info-listings.com/ which doesnt found Wikipedia by https://whatcms.org/c/PHP-Link-Directory and 
+https://www.who-hosts-this.com/Hosts/97-Hawk-Host-Inc and "WhatRuns Detector
+CMS: PHP Link Directory 3.4.0", https://www.sonicrun.com/ by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and "WhatRuns Detector
+Library: jQuery" and WhatCMS failed., anoox.com by https://www.who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC and 
+WhatRuns Detector failed and WhatCMS failed.; https://www.loudtechie.com/free-600-directory-submission-sites-list-for-
+quality-backlinks/ : https://www.goguides.com with "Trust Profile
+History
+AI Rank: 81/100 Grade: A Relevance: 100/100
+Save
+Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
+incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed
+]
+Search engines/directories who dont use GAFAMC:a
+
+Gray area:v
+[2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
+https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia ., https://viesearch.com/ uses Cloudflare only at search and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed.;
+https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being recieved by uBlock Origin as running scripts.,
+]
+Gray area:a
+
 Blog-note:v
 2025.11.02/http://stallman.org/articles/dont-watch-covid-tv.html : "TV news coverage of a crisis struggles to fill 24 hours a day with "information", notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat."
 Blog-note:a
