@@ -817,7 +817,8 @@ CMS: PHP Link Directory 3.4.0", https://www.sonicrun.com/ by https://www.who-hos
 "WhatRuns Detector Library: jQuery" and WhatCMS failed., 
 anoox.com by https://www.who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC and 
 WhatRuns Detector failed and WhatCMS failed.; https://www.loudtechie.com/free-600-directory-submission-sites-list-for-
-quality-backlinks/ : https://www.goguides.com with "Trust Profile
+quality-backlinks/ : 
+https://www.goguides.com with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
