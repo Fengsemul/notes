@@ -824,6 +824,17 @@ sonicrun.com/ by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and
 "WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon.;
 mojeek.com > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
 Library: jquery.com/ > Cloudflare.;
+2026.08.16/www.freewebsubmission.com/ : https://wiby.me > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS,
+https://www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare,
+txtlinks.com/ > Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com",
+http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
+2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
+https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
+livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.,
+
+;
+
+
 2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 
 https://www.goguides.com with "Trust Profile
@@ -1283,7 +1294,8 @@ Old devices-note:a
 
 Browser-test:v
 {Opera 7 Winx86: 2026.08.08/web.archive.org/*insert website* ; 2026.08-08/https://www.reddit.com/r/vintagecomputing/comments/g3lrtm/90s_websites_that_are_still_up_and_rendering/ : http://theoldnet.com/lite ; 2026.08.08/www.textfiles.com : https://discmaster.textfiles.com/search) };
-2026.08.14/http://xenoncserver.duckdns.org/videos/bufferedvideo.html worked although bugged at beginning on Opera7.
+2026.08.14/http://xenoncserver.duckdns.org/videos/bufferedvideo.html worked although bugged at beginning on Opera7.,
+amidalla.de-search works and loads except https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js at Opera7. Maybe some web directories too.
 Browser-test:a
 
 long lasting devices-note:v
