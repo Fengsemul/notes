@@ -821,7 +821,11 @@ History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
 Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
-incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed
+incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
+directoryfind.net 0 wikipedia. NameCheap Inc.,
+directorytop.com 0 wikipedia. NameCheap Inc.,
+directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0
+
 ]
 Search engines/directories who dont use GAFAMC:a
 
