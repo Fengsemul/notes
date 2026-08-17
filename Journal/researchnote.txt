@@ -810,14 +810,23 @@ Search engines/directories who dont use GAFAMC:v
 [2026.08.16: I assume that http://www.amidalla.de/ despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
 cautions-and-warnings/, is a popular directory from the old 
 days and therefore too popular like ExactSeek. I might be not consistent.
-Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : illumirate.com , which 
-uses https://whatcms.org/c/Adobe-Dreamweaver. , http://info-listings.com/ which doesnt found Wikipedia by https://
+Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
+anoox.com by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
+exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
+illumirate.com 1 wikipedia 2 others , which 
+uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.,
+http://info-listings.com/ which doesnt found Wikipedia by https://
 whatcms.org/c/PHP-Link-Directory and  https://www.who-hosts-this.com/Hosts/97-Hawk-Host-Inc and "WhatRuns Detector
-CMS: PHP Link Directory 3.4.0", https://www.sonicrun.com/ by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
-"WhatRuns Detector Library: jQuery" and WhatCMS failed., 
-anoox.com by https://www.who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC and 
-WhatRuns Detector failed and WhatCMS failed.; https://www.loudtechie.com/free-600-directory-submission-sites-list-for-
-quality-backlinks/ : 
+CMS: PHP Link Directory 3.4.0" with hawkhost.com using cloudflare and googletagmanager.com and phplinkdirectory.com using google and wordpress.,
+technically https://infotiger.com/ hosted by https://www.who-hosts-this.com/Hosts/3445-Hofmeir-Media-GmbH > premium-datacenter.de/ with idk CMS has none but its broken. https://www.ipaddress.com/website/infotiger.com/ : Server Header:   nginx,
+lookseek.com hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
+sonicrun.com/ by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
+"WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon., 
+
+
+;
+2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
+
 https://www.goguides.com with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
@@ -840,7 +849,7 @@ Search engines/directories who dont use GAFAMC:a
 
 Gray area:v
 [2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia ., https://viesearch.com/ uses Cloudflare only at search and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed.;
+https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
 https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being recieved by uBlock Origin as running scripts.,
 apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 uses kamaiedge.net, cdn.livechatinc.com, getclicky.com,
 https://kingbloom.com/ used ebay shorty and other coorporate scripts.
@@ -958,7 +967,8 @@ Internet popularity-note:v
 2026.06.21/https://www.domcop.com/top-10-million-websites : "151,718	slzii.com	4.34/10	com 157,070	www.slzii.com	4.34/10	
 com",
 searchthis.ch wasn't present.;
-Internet popularity-note:a+
+https://trends.builtwith.com/de/websitelist/Onion-Location/CENTRALEUROPE ;
+Internet popularity-note:a
 
 Similar to LeanSERP-Filter:v
 2026.08.02/https://addons.mozilla.org/en-US/firefox/addon/websites-hider/ : inside extension: "Blocked Websites
