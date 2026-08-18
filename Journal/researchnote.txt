@@ -882,8 +882,105 @@ GAFAM-note:v
 So we're not getting the full picture of what's happening. █";
 2026.08.17/https://alpha-beta-crea.com/en/gafam-alternatives-big-tech/ : "Note that Google will be replaced by its IA Gemini soon.",
 Maybe "Tor Browser",
-2026.08.17/https://www.ubuntubuzz.com/2020/04/side-by-side-comparison-between-gafam-and-alternative-world.html : " It is a collective of alternative to Gafam led by Free Software Movement.";
-2026.08.17/https://degooglisons-internet.org/en/alternatives/
+2026.08.17/https://www.ubuntubuzz.com/2020/04/side-by-side-comparison-between-gafam-and-alternative-world.html : " It is a 
+collective of alternative to Gafam led by Free Software Movement.";
+2026.08.17/https://degooglisons-internet.org/en/alternatives/;
+https://www.tandfonline.com/doi/full/10.1080/23738871.2020.1754443#d1e341 : "2. Generativity, platforms and control  The 
+innovation attributed to Internet technologies is frequently attributed to its open, general-purpose character.Footnote 9 
+As Internet communication technologies evolved, new architectures were introduced to simplify redundant, complicated and 
+operationally intensive tasks. Here in particular, application-layer and content and hosting platforms have been developed 
+to simplify the distributed development and deployment of the compute and network resources, improving overall quality of 
+experience while reducing the costs of deploying content and resources at a global scale. Many of these platforms were 
+developed by single firms, introducing control points that, depending on their design, potentially allow managers of these 
+platforms to observe user data and behaviours, support or limit features deployed using that platform, and, one of the key 
+issues in the Internet consolidation debate, grant or rescind access to markets facilitated by these platforms.  Control 
+points are a necessary feature of these complex systems. They enable the monitoring and instrumentation necessary to 
+ensure:      quality of service and/or experience;      effective resource allocation and utilisation; and      privacy 
+and security features.  In effect, they are necessary for good platform management. That said, how these technical 
+capabilities are used, is an issue of platform management and governance. Issues around the anticompetitive implications 
+of consolidation arise when the firms managing those platforms use their control – in particular access to markets in 
+which they themselves participate – to unfairly promote the interests of their products and services over third parties. 
+This section frames anticompetitive critiques in terms of this notion of control to evaluate consolidation in terms of who 
+has control over these platforms, and how these actors use that control. Here in particular, this framing compares the 
+types of control available to application-layer platforms with hosting and content delivery platforms.",
+"2.2. Application-layer control  For many of 
+GAFAM’s application-layer platforms, access to and participation on their respective platforms means access to a 
+substantive portion of the market. As the gatekeepers to their respective application-layer platforms, GAFAM controls not 
+only entry and access, but also information about transactions and consumer behaviours on their platforms, the features 
+platform participants can use to engage with their customers, the costs of engagement, policies regarding how participants 
+engage with their customers, and even what services and features may be offered. Critics argue that GAFAM is abusing this 
+control to:      give their products and services unfair advantages; and      diminish opportunities to bring innovative 
+new products and services to the market.  For third party sellers, Amazon Marketplace offers the opportunity to sell their 
+goods to a global market. Critics argue that Amazon’s access to these transactions give it substantive (arguably 
+unprecedented) insight into pricing and consumer shopping behaviour and preferences, giving Amazon an unfair advantage 
+identifying trends in product and service markets. Critics further argue that when Amazon moves into these markets, it 
+uses this data to engage in predatory pricing – leveraging its capital to intentionally lower prices to the point at which 
+it drives other competitors (typically smaller competitors) operating closer to the margin out of the market.Footnote 16  
+Platform managers have also been critiqued for using their control to prioritise their products over their competitors. 
+For instance, critics argue that Amazon uses its control to prioritise its increasing array of private label goods over 
+others, further exacerbating pricing pressures.  Amazon is utilizing its knowledge of its powerful marketplace machine — 
+from optimizing word-search algorithms to analyzing competitors’ sales data to using its customer-review networks—to steer 
+shoppers toward its in-house brands and away from its competitors, say analysts … Even as Amazon takes away market share 
+and eats into their profit margins, they have little choice but to continue to sell on Amazon’s platform in order to get 
+themselves in front of millions of potential customers. (Creswell Citation2018) Apple is facing similar scrutiny, that it 
+prioritises its applications over its competitors: ‘Apple’s apps have ranked first recently for at least 700 search terms 
+in the store, according to a New York Times analysis of six years of search results compiled by Sensor Tower, an app 
+analytics firm’ (Nicas and Collins Citation2019).  Platform policy is yet another means to exert control. Spotify, a top 
+competitor to Apple’s Music application, accused Apple of delaying updates because Spotify did not comply with policies it 
+contends are ‘continually changing … to harm competitors’ (Satariano and Nicas Citation2019). Spotify further claims 
+‘Apple punishes companies that do not use its payment system by restricting their ability to communicate with customers 
+and preventing the release of app updates’, and that Apple limits Apple competitors from making use of other services it 
+controls such as ‘Siri, HomePod and Apple Watch’ (Satariano and Nicas Citation2019). The case of small Apple resellers on 
+Amazon Marketplace is a more poignant case of how application-layer platforms’ policies control market access. In 2018, 
+Amazon and Apple struck a deal that ‘limit[ed] all but the largest companies and specially authorized providers from 
+selling Apple products’, on Amazon (Statt Citation2019). In effect, this policy change denied smaller Apple resellers 
+access to Amazon, forcing resellers to either:      rely on smaller markets such as Etsy and eBay; or      rely on traffic 
+to their own websites (Fingas Citation2019).  In each of these cases, the platform manager is (allegedly) leveraging its 
+control over the platform to disadvantage competitors in the attendant markets. In some cases, control is through 
+manipulation of data available on the platform to engage in predatory pricing (Amazon Marketplace) or control of how 
+consumers interact with the platform (Google’s prioritisation of search results, Apple’s application ranking, or auxiliary 
+services such as limiting Spotify’s access to related Apple platforms).",
+"Control of the platform is not limited to technical means. Platform policy, such as limiting or delaying particular 
+features (Spotify and Apple) or denying access to an entire class of third-party participants (Amazon Marketplace, Apple 
+and third-party Apple resellers) is another mechanism for controlling how actors use the platform, and, by proxy, their 
+engagement with the attendant market. In the application-layer cases described here, the platform is managed by a single 
+actor (firm), establishing generative characteristics necessary to create network effects, but (allegedly) limiting the 
+use of those to serve its own interests or promote its products and services over its competition. In contrast, while 
+hosting and content delivery platforms do have technical and policy control mechanisms, those platforms do not directly 
+intermediate the relationship between their clients and their clients’ markets in the same way as application-layer 
+platforms. Rather, as described in the next section, hosting and content delivery platforms have historically focused on 
+facilitating the provision of more general-purpose, distributed content delivery, compute and network resources.",
+"As their services reached critical mass and these platforms matured, GAFAM capitalised on its intensive, global 
+investments, opening internal platforms for use by third parties, selectively incorporating some (but not all) of the 
+elements of generative technologies.
+In contrast to application-layer platforms that directly intermediate the relationship between client and the attendant 
+market, hosting and content delivery facilitate access to distributed resources, but do not intermediate the relationship 
+itself. Cloud hosting services provide a variety of services: on demand generalised compute and network resources in the 
+form of virtual machines and containerised general purpose applications such as databases and webservers. As an external 
+platform, cloud hosting resources provide flexible access to configurations of compute and network resources that can be 
+dynamically increased and decreased without the investment in either operational capabilities necessary to maintain these 
+resources or the capital expense of the underlying infrastructure. Following Zittrain’s argument that there is no more 
+generative platform than the modern PC and the Internet to which it is connected, cloud compute services have the 
+potential to contribute to generativity that has the immediate scaling benefits of distributed cloud platforms.
+General-purpose CDNs, such as Akamai, Limelight and Cloudflare, facilitate delivery of diverse classes of content, serving 
+equally diverse clients across many different market segments. Since then, these innovations have been commodified. 
+NetflixFootnote 17 and Apple have since developed their own internal, single-purpose CDNs, dedicated largely to their media streaming services. These single-purpose CDNs are effectively internal platforms that are the products of 
+generativity and the commodification of earlier innovations. These internal platforms do contribute to lower-latency 
+access to their respective media streaming services for their customers, but do not necessarily contribute to the 
+generativity of the Internet writ broadly. That said, they do not substantively diminish that generativity either.
+General purpose CDNs such as Akamai, Limelight, Level-3 and Cloudflare, more closely resemble external platforms. These 
+firms’ primary value proposition is content delivery, leveraging their investment in overlays to ensure client-generated 
+content (regardless of origin) is as proximate to the end user as possible. General purpose CDNs facilitate an improved 
+global performance for a range of actors, from those with substantive existing (yet local) infrastructure that produce 
+content that would benefit from global distribution to small enterprise actors that want to ensure web site content 
+performs well globally.",
+"2.4. Markets and apex predators
+As noted earlier, a number of the application-layer platforms considered here are also gatekeepers to markets in which they themselves also participate. Critics argue that the predatory practices also indirectly limits new entrants’ opportunities to bring innovative products to market. The dialogue around startups in the Internet economy is increasingly using terms like ‘“kill-zone[s]” around [technology] giants’ (The Economist Citation2018), referring to GAFAM tech giants as ‘apex predators’, highlighting ‘Google and Facebook as the most obvious’ of these predators (Swisher Citation2019). In effect, if a product or service appears to be too similar to an existing product or service offered by one of the technology giants, it is very likely this will simply be replicated and offered either for free or for a price substantively less than what a startup may be able to match. Under this framing, the ‘kill zone’ of technology startups adjacent to GAFAM applications and services is a consequence of dominant firms’ substantive capital, existing infrastructure (in particular application-layer digital platforms), and deep knowledge of consumer behaviour. Critics argue that venture capitalists are wary of investing in innovative startups that, in the course of demonstrating the viability of an application or service, become susceptible to being pushed out of the market by the GAFAM ‘apex predators’.
+In effect, startups innovating in the technology giants’ ‘kill zones’ face two limitations. First, even with the availability of global hosting and content delivery platforms, without investment they may not have access to the capital necessary to contract the digital infrastructure necessary to be competitive in terms of delivery and performance. Second, they may not have access to the ‘troves’ of consumer behaviour data available to GAFAM that would allow them to maximise the potential in these markets. While this argument is largely presented in terms of resources and capabilities, the existence of a ‘kill zone’ implies the perceptions of these predatory practices are limiting the opportunities in markets where technology giants’ application-layer platforms are the gateways to a given market. Taking the generative characteristics of hosting and content delivery alongside the investment environment described by GAFAM critics paints a picture in which permissionless innovation is still nominally possible, but for which the rewards and opportunities for the growth enjoyed by GAFAM early on are limited by predatory practices.
+At the root of this problem is the confluence of architectural conditions (control of application-layer platforms) and governance practices (abuse of that control). It is important to highlight that, based on the cases briefly presented here, there is some evidence of anticompetitive practices facilitated by each firm’s exclusive control over market-specific application-layer platforms. That said, the same incentives and opportunities to control access to markets do not seem to be present among GAFAM-managed (or other) hosting and content delivery platforms. These actors provide critical resources that lower the costs of global deployment.
+To illustrate, contrast the network effects for a third-party seller on Amazon Marketplace with that of the economies of scale that benefit third parties contracting a general purpose, commodity CDN. In addition to the cost benefits of having well-designed and stable marketplace tools, Amazon Marketplace participants benefit from the ability of consumers to easily find their products and services on one of the largest online marketplaces in the Internet. Moreover, they also benefit from listings such as ‘people frequently bought these items together’, creating additional potential consumer traffic the seller may not have realised in a smaller online market specialising in only specific goods or services.
+In contrast, clients of CDNs benefit from the geographic distribution of CDN deployment that improves the efficiency of the delivery of their content. Greater marketshare and revenue facilitates investment in economies of scale, but it does not create the kind of network effects that drive online marketplaces to other application-layer platforms. Further, general purpose CDNs facilitate content delivery for very diverse organisations such as MIT (higher education), American Idol (entertainment), the American Red Cross (non-profit aid), Frank and Oak (clothing), the NBA (sports), Thomson Reuters (publishing), among many others. Each of these represents a different market very distinct from the others and that of general purpose CDN. CDNs would not benefit from appropriating innovations in those markets.Footnote 18 While there is some lock-in to the CDN platform as a result of investing in CDN specific tools for deploying customer content, the barriers to exit are not nearly as significant as a seller shifting their business to a market with less traffic and fewer opportunities for traffic from consumers viewing complementary goods within the same broader marketplace.
+As discussed earlier, the markets for hosting and content delivery do have dominant players, but these players themselves must engage in geographically diverse interconnection markets necessary for their platforms to offer equally geographic deployment options. Access to these markets facilitate deploying their resources much closer to both potential customers and end users. Local interconnection platforms – here in particular associational membership IXes – facilitate access to these local, regional and global interconnection markets. Moreover, it is typically recommended to have one – at most two – IXes in a given metropolitan region. Given the demand for CDN-delivered content such as video and music streaming, what limits GAFAM and CDN’s influence on these platforms? In the next section (3), associational membership IX are presented in terms of their functional role contributing to the deployment of hosting and content delivery platforms, but, perhaps more importantly, the governance norms and practices that ensure access to these connectivity markets."
 GAFAM-note:a
 
 Computer history-note:v
