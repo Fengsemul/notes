@@ -806,7 +806,7 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 2026.06.20/https://uadetector.sourceforge.net/modules/uadetector-core/apidocs/net/sf/uadetector/UserAgentFamily.html#BECOMEBOT
 Search engine-list:a
 
-Search engines/directories who dont use GAFAMC:v
+Search engines/directories who dont use GAFAMC & Wordpress directly:v
 [2026.08.16: I assume that http://www.amidalla.de/ despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
 cautions-and-warnings/, is a popular directory from the old 
 days and therefore too popular like ExactSeek. I might be not consistent.
@@ -833,7 +833,6 @@ https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192
 livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
 ;
 2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
-
 https://www.goguides.com with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
@@ -848,11 +847,9 @@ https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-
 https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud ,
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 innerseek.com by idk,
-
 directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0
-
 ]
-Search engines/directories who dont use GAFAMC:a
+Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
 [2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
@@ -864,10 +861,10 @@ https://kingbloom.com/ used ebay shorty and other coorporate scripts.
 ]
 Gray area:a
 
-non-GAFAMC-related search engines:v
-2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
+non-Wordpress and non-GAFAMC-related search engines:v
+2026.08.18: broken infotiger.com ; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
 https://openlibrary.org", wikis and wikimedias, mwmbl, vuhuv;
-non-GAFAMC-related search engines:a
+non-Wordpress and non-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
 2026.08.17/https://xka.cz/preferences : Wikis, maybe web.archive.org,  bpb (DE) but https://check-host.net/ip-info?host=bpb.de&csrf_token=4d3a0d93cba8452825d921b4ed67bf1302b36a16 : noris network AG : https://www.noris.de/ : wp-content because of those 3 webpages popular hosts., https://www.myrasecurity.com/de/sea/myra-security-ddos-protection/ : "eu-captcha.eu" > https://www.myrasecurity.com/en/ : googletagmanager.com ", googletagmanager.com, googletagmanager.com, noris.de" ;
