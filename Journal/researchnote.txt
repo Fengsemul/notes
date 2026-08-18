@@ -872,9 +872,9 @@ personally ejected non-GAFAMC-related search engines:v
 personally ejected non-GAFAMC-related search engines:a
 
 
-non-GAFAMC-related search engine-note:v
+previously thought non-GAFAMC-related search engine-note:v
 https://github.com/AdguardTeam/AdguardFilters/issues/223111 : "https://vuhuv.com Comment The website owner has created a social media account to make announcements, but the notification menu is everywhere and it's annoying, especially sin..."
-non-GAFAMC-related search engine-note:a
+previously thought non-GAFAMC-related search engine-note:a
 
 GAFAM-note:v
 2026.08.17/https://techrights.org/n/2026/05/08/It_s_Not_a_GAFAM_World_Anymore_and_There_Are_Far_More_Operating.shtml :
@@ -908,10 +908,35 @@ Yeah, for sure — it wasn’t meant to be the Internet. The idea was that Xerox
 Computer history-note:a
 
 Internet host-providers and GAFAMC:v
-2026.08.18/Akamai uses adobedtm.com which uses adobe.com which requests cloudflare and amazonaws.com. DigitalOcean.com uses googlesyndication.com and cloudflare. https://www.oracle.com/cloud/ uses https://trustarc.com/ which uses dscg1.akamai.net googletagmanager.com openai.com . https://check-host.net/ip-info?host=https%3A%2F%2Fwww.hetzner.com%2F&csrf_token=cd8d2d9d944fd8c832d7ab6a644ce6af32138747 seems to be the only one.,
-infomaniak.com uses trustindex.io which uses "cloudflare.com, dhtt2nmvztmk3.cloudfront.net, googletagmanager.com". infomaniak.com uses b-cdn.net which uses https://bunny.net/ uses e3849.dsca.akamaiedge.net, trustpilot.com which https://www.trustpilot.com/ uses awswaf.com, google.com.,
-https://www.privacyguides.org/en/ uses CMS: CDN: jsDelivr and CMS: Font: Google Fonts and is hosted by https://www.triplebit.org/ which uses as CMS: Font: Google Fonts. https://www.jsdelivr.com/ is hosted by Cloudflare and uses https://www.fastly.com/ which uses onetrust.com .  https://privacytools.io/ uses cloudflareinsights.com .,
-2026.08.18/https://duck.ai/ : Gemma 4 31B: "Conclusion: If a company has a "modern" website with a "Contact Us" form, a "Review" section, or a "Fast Loading" experience, they are almost certainly linked to GAFAMC. The more "primitive" and "ugly" the website looks, the higher the probability that it is truly independent."
+2026.08.18/Akamai uses adobedtm.com which uses adobe.com which requests cloudflare and amazonaws.com. DigitalOcean.com 
+uses googlesyndication.com and cloudflare. https://www.oracle.com/cloud/ uses https://trustarc.com/ which uses 
+dscg1.akamai.net googletagmanager.com openai.com . https://check-host.net/ip-info?
+host=https%3A%2F%2Fwww.hetzner.com%2F&csrf_token=cd8d2d9d944fd8c832d7ab6a644ce6af32138747 seems to be the only one.,
+infomaniak.com uses trustindex.io which uses "cloudflare.com, dhtt2nmvztmk3.cloudfront.net, googletagmanager.com". 
+infomaniak.com uses b-cdn.net which uses https://bunny.net/ uses e3849.dsca.akamaiedge.net, trustpilot.com which https://
+www.trustpilot.com/ uses awswaf.com, google.com.,
+https://www.privacyguides.org/en/ uses CMS: CDN: jsDelivr and CMS: Font: Google Fonts and is hosted by https://
+www.triplebit.org/ which uses as CMS: Font: Google Fonts. https://www.jsdelivr.com/ is hosted by Cloudflare and uses 
+https://www.fastly.com/ which uses onetrust.com .  https://privacytools.io/ uses cloudflareinsights.com .;
+2026.08.18/https://duck.ai/ : Gemma 4 31B: "Conclusion: If a company has a "modern" website with a "Contact Us" form, a 
+"Review" section, or a "Fast Loading" experience, they are almost certainly linked to GAFAMC. The more "primitive" and 
+"ugly" the website looks, the higher the probability that it is truly independent.",
+"Tor (The Onion Router), I2P, Freenet, Gemini, IPFS",
+"Hardware: RISC-V open-source architecture processors.
+OS: A hard-forked, audited Linux kernel or a minimalist OS like TempleOS or an assembly-based system.
+Network: A direct peer-to-peer radio link (like Mesh networks or LoRa) to other individuals, bypassing the ISP's fiber 
+lines entirely.",
+"How Hetzner is linked to GAFAMC
+Even if you rent a dedicated server from Hetzner and install a custom Linux kernel, you are linked through the BGP (Border 
+Gateway Protocol) and Peering layer. To get a packet of data from your computer to a Hetzner server, that packet must jump 
+across different "Autonomous Systems" (AS). Google (AS15169), Amazon (AS16509), and Microsoft (AS8075) operate some of the 
+most massive global backbones.
+If you run a traceroute to a Hetzner IP address, you will see the "hops" your data takes. Depending on your ISP and 
+location, it is highly probable that your data will pass through a router or a fiber-optic cable owned by one of the 
+GAFAMC entities. They are the "toll booths" of the internet. Furthermore, you rely on the Root DNS system. While the 13 
+root server clusters are managed by different organizations, the traffic to reach them often traverses GAFAMC-operated 
+networks. In short: Hetzner owns the "house" (the server), but GAFAMC owns many of the "roads" (the fiber and routers) 
+used to get to that house."
 Internet host-providers and GAFAMC:a
 
 Blog-note:v
