@@ -847,28 +847,29 @@ https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-
 https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud ,
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 innerseek.com by idk,
-directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0
+directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0,
+
 ]
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
-[2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
+2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
 https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
-https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being recieved by uBlock Origin as running scripts.,
+2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
+directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 uses kamaiedge.net, cdn.livechatinc.com, getclicky.com,
-https://kingbloom.com/ used ebay shorty and other coorporate scripts.
+https://kingbloom.com/ used ebay shorty and other corporate scripts.
 
-]
 Gray area:a
 
 non-Wordpress and non-GAFAMC-related search engines:v
 2026.08.18: broken infotiger.com ; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
-https://openlibrary.org", wikis and wikimedias, mwmbl, vuhuv;
+https://openlibrary.org", wikis and wikimedias, mwmbl.org hosted by octopuce and vuhuv.com hosted by octopuce. Octopuce use jQuery.com hosted by Cloudflare.;
 non-Wordpress and non-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
 2026.08.17/https://xka.cz/preferences : Wikis, maybe web.archive.org,  bpb (DE) but https://check-host.net/ip-info?host=bpb.de&csrf_token=4d3a0d93cba8452825d921b4ed67bf1302b36a16 : noris network AG : https://www.noris.de/ : wp-content because of those 3 webpages popular hosts., https://www.myrasecurity.com/de/sea/myra-security-ddos-protection/ : "eu-captcha.eu" > https://www.myrasecurity.com/en/ : googletagmanager.com ", googletagmanager.com, googletagmanager.com, noris.de" ;
-personally e ejected non-GAFAMC-related search engines:a
+personally ejected non-GAFAMC-related search engines:a
 
 
 non-GAFAMC-related search engine-note:v
@@ -905,6 +906,13 @@ Yeah, for sure — it wasn’t meant to be the Internet. The idea was that Xerox
  @MissedFutures  Yeah, they really didn't know what they had.  OTOH, these would have sold for a lot of money.  They might have easily been the Apple Lisa had they tried. ";
 
 Computer history-note:a
+
+Internet host-providers and GAFAMC:v
+2026.08.18/Akamai uses adobedtm.com which uses adobe.com which requests cloudflare and amazonaws.com. DigitalOcean.com uses googlesyndication.com and cloudflare. https://www.oracle.com/cloud/ uses https://trustarc.com/ which uses dscg1.akamai.net googletagmanager.com openai.com . https://check-host.net/ip-info?host=https%3A%2F%2Fwww.hetzner.com%2F&csrf_token=cd8d2d9d944fd8c832d7ab6a644ce6af32138747 seems to be the only one.,
+infomaniak.com uses trustindex.io which uses "cloudflare.com, dhtt2nmvztmk3.cloudfront.net, googletagmanager.com". infomaniak.com uses b-cdn.net which uses https://bunny.net/ uses e3849.dsca.akamaiedge.net, trustpilot.com which https://www.trustpilot.com/ uses awswaf.com, google.com.,
+https://www.privacyguides.org/en/ uses CMS: CDN: jsDelivr and CMS: Font: Google Fonts and is hosted by https://www.triplebit.org/ which uses as CMS: Font: Google Fonts. https://www.jsdelivr.com/ is hosted by Cloudflare and uses https://www.fastly.com/ which uses onetrust.com .  https://privacytools.io/ uses cloudflareinsights.com .,
+2026.08.18/https://duck.ai/ : Gemma 4 31B: "Conclusion: If a company has a "modern" website with a "Contact Us" form, a "Review" section, or a "Fast Loading" experience, they are almost certainly linked to GAFAMC. The more "primitive" and "ugly" the website looks, the higher the probability that it is truly independent."
+Internet host-providers and GAFAMC:a
 
 Blog-note:v
 2025.11.02/http://stallman.org/articles/dont-watch-covid-tv.html : "TV news coverage of a crisis struggles to fill 24 hours a day with "information", notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat."
