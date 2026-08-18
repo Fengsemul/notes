@@ -939,6 +939,24 @@ networks. In short: Hetzner owns the "house" (the server), but GAFAMC owns many 
 used to get to that house."
 Internet host-providers and GAFAMC:a
 
+Internet-note:v
+2026.08.18/https://www.clrn.org/who-is-in-charge-of-the-internet/ : "It’s crucial to dispel the notion of a single ‘Internet CEO.’ The Internet’s resilience and global reach stem from its inherently distributed nature. Its underlying infrastructure comprises interconnected networks, each operating autonomously under different jurisdictions and management structures. This decentralization promotes innovation, redundancy, and resistance to censorship.",
+"Internet governance is best understood as a collaborative ecosystem involving:
+    Governments: Play a role in policy and regulation within their national boundaries, influencing areas like data privacy, cybersecurity, and censorship.
+    Intergovernmental Organizations (IGOs): Such as the United Nations (UN) and the International Telecommunication Union (ITU), facilitate international cooperation and develop global norms and standards.
+    Technical Organizations: Develop and maintain the core protocols and standards that underpin the Internet’s functionality.
+    Private Sector Entities: Internet Service Providers (ISPs), content delivery networks (CDNs), and technology companies are crucial for infrastructure deployment and service provision.
+    Civil Society Organizations (CSOs): Advocate for human rights, digital inclusion, and open access to information.
+    Individual Users: Contribute to the Internet’s content, innovation, and overall ecosystem.
+This multi-stakeholder model emphasizes the importance of collaboration and consensus-building in shaping the Internet’s future.", "Key Technical Organizations: The Architects of the Internet
+While no single entity ‘controls’ the Internet, several technical organizations play pivotal roles in its architecture and operation.
+1. Internet Engineering Task Force (IETF)", "2. Internet Corporation for Assigned Names and Numbers (ICANN)": "ICANN is a non-profit organization responsible for coordinating the Internet’s Domain Name System (DNS), IP address allocation, and protocol identifier assignment. ICANN does not control content or access to the Internet, but it manages the crucial infrastructure that allows users to find and access resources online.", "Regional Internet Registries (RIRs)",
+"4. World Wide Web Consortium (W3C)
+The W3C develops web standards, such as HTML, CSS, and JavaScript, ensuring interoperability and accessibility across different web browsers and platforms. While the W3C doesn’t directly ‘control’ the web, its standards influence how web content is created, displayed, and interacted with",
+"5. Internet Society (ISOC)": "ISOC provides leadership in Internet-related standards,  education, and policy development. It also serves as the organizational home for the IETF. ISOC works to ensure that the Internet remains a global, open, and accessible platform.",
+Future of Internet Governance: AI, Blockchain and Decentralized Technologies, Metaverse and Virtual Worlds, Evolving Geopolitical Landscape: As different nations seek to exert greater influence over internet governance, understanding the geopolitical influences becomes increasingly crucial.
+Internet-note:a
+
 Blog-note:v
 2025.11.02/http://stallman.org/articles/dont-watch-covid-tv.html : "TV news coverage of a crisis struggles to fill 24 hours a day with "information", notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat."
 Blog-note:a
