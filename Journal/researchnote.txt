@@ -1045,7 +1045,7 @@ Internet host-providers and GAFAMC:a
 
 non-GAFAMC Internet hosts:v
 [searched by https://www.who-hosts-this.com/Hosts?:
-maybe https://firstcolo.net/ with blocking scripts; maybe hetzner.com/; https://check-host.net/ip-info?host=https://privatesystems.net/, https://www.whois.com/whois/privatesystems.net : Registrar: eNom, LLC = https://www.enom.com/ : googletagmanager.com, WordPress, hosted by https://automattic.com/ : "wordpress.com, wp.com, youtube.com"; https://www.planethoster.com/en ;
+maybe https://firstcolo.net/ with blocking scripts; maybe hetzner.com/; https://check-host.net/ip-info?host=https://privatesystems.net/, https://www.whois.com/whois/privatesystems.net : Registrar: eNom, LLC = https://www.enom.com/ : googletagmanager.com, WordPress, hosted by https://automattic.com/ : "wordpress.com, wp.com, youtube.com"; https://www.planethoster.com/en ; stopped at 
 ]
 non-GAFAMC Internet hosts:a
 
