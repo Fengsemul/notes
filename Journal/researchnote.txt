@@ -936,7 +936,7 @@ location, it is highly probable that your data will pass through a router or a f
 GAFAMC entities. They are the "toll booths" of the internet. Furthermore, you rely on the Root DNS system. While the 13 
 root server clusters are managed by different organizations, the traffic to reach them often traverses GAFAMC-operated 
 networks. In short: Hetzner owns the "house" (the server), but GAFAMC owns many of the "roads" (the fiber and routers) 
-used to get to that house."
+used to get to that house.";
 Internet host-providers and GAFAMC:a
 
 Internet-note:v
@@ -950,11 +950,46 @@ Internet-note:v
     Individual Users: Contribute to the Internet’s content, innovation, and overall ecosystem.
 This multi-stakeholder model emphasizes the importance of collaboration and consensus-building in shaping the Internet’s future.", "Key Technical Organizations: The Architects of the Internet
 While no single entity ‘controls’ the Internet, several technical organizations play pivotal roles in its architecture and operation.
-1. Internet Engineering Task Force (IETF)", "2. Internet Corporation for Assigned Names and Numbers (ICANN)": "ICANN is a non-profit organization responsible for coordinating the Internet’s Domain Name System (DNS), IP address allocation, and protocol identifier assignment. ICANN does not control content or access to the Internet, but it manages the crucial infrastructure that allows users to find and access resources online.", "Regional Internet Registries (RIRs)",
+1. Internet Engineering Task Force (IETF)", 
+"2. Internet Corporation for Assigned Names and Numbers (ICANN)": "ICANN is a non-profit organization responsible for coordinating the Internet’s Domain Name System (DNS), IP address allocation, and protocol identifier assignment. ICANN does not control content or access to the Internet, but it manages the crucial infrastructure that allows users to find and access resources online.", 
+"3. Regional Internet Registries (RIRs)":
+"five RIRs are:
+    AFRINIC: African Network Information Centre
+    APNIC: Asia-Pacific Network Information Centre
+    ARIN: American Registry for Internet Numbers
+    LACNIC: Latin American and Caribbean Network Information Centre
+    RIPE NCC: Réseaux IP Européens Network Coordination Centre
+",
 "4. World Wide Web Consortium (W3C)
 The W3C develops web standards, such as HTML, CSS, and JavaScript, ensuring interoperability and accessibility across different web browsers and platforms. While the W3C doesn’t directly ‘control’ the web, its standards influence how web content is created, displayed, and interacted with",
 "5. Internet Society (ISOC)": "ISOC provides leadership in Internet-related standards,  education, and policy development. It also serves as the organizational home for the IETF. ISOC works to ensure that the Internet remains a global, open, and accessible platform.",
-Future of Internet Governance: AI, Blockchain and Decentralized Technologies, Metaverse and Virtual Worlds, Evolving Geopolitical Landscape: As different nations seek to exert greater influence over internet governance, understanding the geopolitical influences becomes increasingly crucial.
+Future of Internet Governance: AI, Blockchain and Decentralized Technologies, Metaverse and Virtual Worlds, Evolving Geopolitical Landscape: As different nations seek to exert greater influence over internet governance, understanding the geopolitical influences becomes increasingly crucial.;
+https://www.icann.org/ hosted by Cloudflare: cloudflareinsights.com, cookielaw.org = https://www.onetrust.com/ > amazonaws.com,
+https://www.icann.org/ > https://www.onetrust.com/ hosted by Cloudflare > https://www.fastly.com/ > https://wistia.com/ > googletagmanager.com,
+https://www.icann.org/ > https://www.onetrust.com/ hosted by Cloudflare > https://www.fastly.com/ > https://www.speedcurve.com/ > https://www.leadfeeder.com/ > d3orhvfyxudxxq.cloudfront.net (Amazon),
+https://www.icann.org/ > matomo.cloud > WordPress-theme, 
+https://www.icann.org/ > https://matomo.org/matomo-cloud/ > https://usercentrics.com/ > https://advancedhosting.com/ > googletagmanager.com;
+https://www.ietf.org/ hosted by Cloudflare;
+https://www.afrinic.net/ > cloudflare.com and hosted by https://verpex.com/ > googletagmanager.com ;
+verpex.com > upmind.app > dzaubbhzadgx5.cloudfront.net (Amazon);
+https://www.arin.net/ > googletagmanager.com, 
+https://www.arin.net/ > jsdelivr.map.fastly.net > onetrust.com > cloudflare.com,
+https://www.arin.net/ > https://www.fastly.com/ > https://www.speedcurve.com/ > https://www.leadfeeder.com/ > d3orhvfyxudxxq.cloudfront.net (Amazon);
+https://www.speedcurve.com/ hosted by Amazon;
+https://www.onetrust.com/ hosted by Cloudflare;
+https://www.lacnic.net/en > googletagmanager.com, release-assets.githubusercontent.com owned by Microsoft,
+https://www.who-hosts-this.com/?s=https%3A%2F%2Fwww.lacnic.net : "Latin American and Caribbean IP address":"IP Address IP Record Type 2001:13c7:7002:4000::10 AAAA 200.3.14.10 A",
+https://www.lacnic.net/en > https://www.olark.com/ > bing.com, com.cdn.cloudflare.net, d1vo17eqydu9se.cloudfront.net
+https://www.olark.com/ > https://tapfiliate.com/ > WordPress Theme, https://www.intercom.com/ > awswaf.com;
+https://www.ripe.net/ hosted by https://www.akamai.com/ > adobedtm.com > https://www.adobe.com/ > com.cdn.cloudflare.net, d2txqegjuzimaf.cloudfront.net ;
+https://www.w3.org/ hosted by Cloudflare;
+https://www.internetsociety.org/ hosted by Cloudflare > WordPress, cloudflareinsights.com, googletagmanager.com, https://www.bootstrapcdn.com/ > twitter.com, github.com owned by Microsoft,
+https://www.bootstrapcdn.com/ > akamai.com > adobedtm.com > https://www.adobe.com/ > amazonaws.com;
+https://www.intgovforum.org/en > com.cdn.cloudflare.net, facebook.net, https://www.jsdelivr.com/ > fastly.net > onetrust.com > https://wistia.com/ > googletagmanager.com,
+https://unpkg.com/ > googletagmanager.com,
+https://www.intgovforum.org/en > jsdelivr.map.fastly.net / https://www.fastly.com/ > https://www.speedcurve.com/ hosted by amazon,
+https://www.intgovforum.org/en > bsky.app hosted by Amazon;
+https://www.thenation.com/article/culture/ben-tarnoff-internet-for-the-people/ : "What is the Internet, and who owns it? These are not simple questions; their boundaries are muddy. Most people would agree that the Internet encompasses physical infrastructure and physical networks—the satellites, radio towers, and fiber-optic cables, aboveground and underwater, that connect our devices—but does it not also refer to the content they carry? And how can one meaningfully distinguish between that content and the servers that host it; the software that translates it into legible form; the eyes and ears that consume it; the hands that build and maintain it? US Senator Ted Stevens was once mocked for describing the Internet as “a series of tubes,” but his metaphor was about as accurate as one could hope for in so few words. The only trouble is that it’s hard to say where the tubes begin and end.";
 Internet-note:a
 
 Blog-note:v
