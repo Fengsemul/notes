@@ -830,11 +830,8 @@ txtlinks.com/ > Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC
 http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
 https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
-livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.,
-
+livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
 ;
-
-
 2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 
 https://www.goguides.com with "Trust Profile
@@ -866,6 +863,51 @@ https://kingbloom.com/ used ebay shorty and other coorporate scripts.
 
 ]
 Gray area:a
+
+non-GAFAMC-related search engines:v
+2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
+https://openlibrary.org", wikis and wikimedias, mwmbl, vuhuv;
+non-GAFAMC-related search engines:a
+
+personally ejected non-GAFAMC-related search engines:v
+2026.08.17/https://xka.cz/preferences : Wikis, maybe web.archive.org,  bpb (DE) but https://check-host.net/ip-info?host=bpb.de&csrf_token=4d3a0d93cba8452825d921b4ed67bf1302b36a16 : noris network AG : https://www.noris.de/ : wp-content because of those 3 webpages popular hosts., https://www.myrasecurity.com/de/sea/myra-security-ddos-protection/ : "eu-captcha.eu" > https://www.myrasecurity.com/en/ : googletagmanager.com ", googletagmanager.com, googletagmanager.com, noris.de" ;
+personally e ejected non-GAFAMC-related search engines:a
+
+
+non-GAFAMC-related search engine-note:v
+https://github.com/AdguardTeam/AdguardFilters/issues/223111 : "https://vuhuv.com Comment The website owner has created a social media account to make announcements, but the notification menu is everywhere and it's annoying, especially sin..."
+non-GAFAMC-related search engine-note:a
+
+GAFAM-note:v
+2026.08.17/https://techrights.org/n/2026/05/08/It_s_Not_a_GAFAM_World_Anymore_and_There_Are_Far_More_Operating.shtml :
+"We see Windows at all-time lows in many countries such as Ethiopia and Bahrain (to name two among dozens of examples this month). statCounter does not count HarmonyOS, it's just classified as "Unknown" (or other).
+So we're not getting the full picture of what's happening. █";
+2026.08.17/https://alpha-beta-crea.com/en/gafam-alternatives-big-tech/ : "Note that Google will be replaced by its IA Gemini soon.",
+Maybe "Tor Browser",
+2026.08.17/https://www.ubuntubuzz.com/2020/04/side-by-side-comparison-between-gafam-and-alternative-world.html : " It is a collective of alternative to Gafam led by Free Software Movement.";
+2026.08.17/https://degooglisons-internet.org/en/alternatives/
+GAFAM-note:a
+
+Computer history-note:v
+2026.08.17/https://www.youtube.com/watch?v=3K52FDqLX3c : comments: "
+@mndlessdrwer
+4 years ago
+Another interesting thing to note is that, while Steve and Bill may have been blown away by the GUI interface of the Alto and Alto II, when they were shown these demos there wouldn't have been a full OS-wide GUI. There wouldn't have been a "desktop" environment as we think of it today. What they saw were graphical programs, rather than a fully graphical OS. So while Apple and Microsoft may have certainly taken inspiration from what Xerox was doing, they did end up needing to do a tremendous amount of R&D of their own accord both on the software and, in the case of Apple, the hardware side of things to bring the Xerox vision home with them. After all, it wasn't like they could just reuse the existing Xerox Alto computer designs for themselves. Everything was run without the aid of microprocessors. The GUI draw system was virtualized. And all peripherals were proprietary in their connectivity. So while it may have seemed that Xerox had the total, complete product before they swept through and stole all of their ideas, that isn't actually true. The Xerox Alto was ridiculously impressive, but also a dead-end product from the outset. It was an experiment from start to finish, and was meant as a means to develop and end. It was proof of concept for their ideas and was intended to be used as a platform for their engineers to puzzle out what they needed to in order to develop a final product. I believe, in the wake of the failure to break into the market with the Star, they basically admitted defeat and left it to history, re-investing into the markets they already had dominance in. But man, if those years in the 70's weren't a glorious time to be a research engineer at the Palo Alto facility of the Xerox corporation. Working on the absolute bleeding edge of technology to make things that people in the industry could only have wet dreams about. They made a drawing program, a WYSIWYG word processor, networking using coaxial network expansion boards at 2.5Mbps, disk storage with interchangeable cartridge-housed platters. One of the earliest optical mouse designs, etc. It was truly cutting edge stuff, and that's a fairly novel experience these days, to work in IT research and development on a truly new and unique product with no real predecessors to adapt from.";
+2026.08.17/https://www.youtube.com/watch?v=HnVLfciVjJ8 : "
+@tarstarkusz
+8 months ago
+This could not have been internet.  Not only does internet pre-date it, internet is open (though it wasn't really open that early) and Xerox would have never opened everything up.
+There were other alternatives in any event and they all got displaced by Internet.
+1
+@MissedFutures
+8 months ago
+Yeah, for sure — it wasn’t meant to be the Internet. The idea was that Xerox had an early vision of a connected, hyperlinked information network inside their own ecosystem. The open Internet was already forming, and that’s ultimately what won. Xerox just had pieces of the future way earlier, but they never pushed it beyond their walls.
+1
+@tarstarkusz
+8 months ago
+ @MissedFutures  Yeah, they really didn't know what they had.  OTOH, these would have sold for a lot of money.  They might have easily been the Apple Lisa had they tried. ";
+
+Computer history-note:a
 
 Blog-note:v
 2025.11.02/http://stallman.org/articles/dont-watch-covid-tv.html : "TV news coverage of a crisis struggles to fill 24 hours a day with "information", notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat."
