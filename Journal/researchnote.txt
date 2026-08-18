@@ -876,6 +876,12 @@ previously thought non-GAFAMC-related search engine-note:v
 https://github.com/AdguardTeam/AdguardFilters/issues/223111 : "https://vuhuv.com Comment The website owner has created a social media account to make announcements, but the notification menu is everywhere and it's annoying, especially sin..."
 previously thought non-GAFAMC-related search engine-note:a
 
+glorified non-GAFAM search engines:v
+https://www.linkedin.com/posts/accurafy4_the-first-and-only-100-sovereign-legal-activity-7302682456355196928-1sfS : " first and only 100% sovereign, legal, GAFAM-Free 𝐒𝐞𝐚𝐫𝐜𝐡 𝐄𝐧𝐠𝐢𝐧𝐞 𝐟𝐨𝐫 𝐃𝐞𝐞𝐩 𝐚𝐧𝐝 𝐃𝐚𝐫𝐤 𝐖𝐞𝐛𝐬",
+https://open-search.aleph-networks.eu/en hosted by ONLINE S.A.S./Scaleway SAS: Risk Areas: Dark Web - Tor, Dark Web - I2P, Deep Web,
+https://check-host.net/ip-info?host=https://open-search.aleph-networks.eu/en : Scaleway SAS, https://www.scaleway.com/en/ hosted by Cloudflare > com.cdn.cloudflare.net
+glorified non-GAFAM search engines:a
+
 GAFAM-note:v
 2026.08.17/https://techrights.org/n/2026/05/08/It_s_Not_a_GAFAM_World_Anymore_and_There_Are_Far_More_Operating.shtml :
 "We see Windows at all-time lows in many countries such as Ethiopia and Bahrain (to name two among dozens of examples this month). statCounter does not count HarmonyOS, it's just classified as "Unknown" (or other).
