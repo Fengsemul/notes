@@ -848,7 +848,7 @@ https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud ,
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 innerseek.com by idk,
 directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0,
-
+unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ .
 ]
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
@@ -1040,7 +1040,14 @@ GAFAMC entities. They are the "toll booths" of the internet. Furthermore, you re
 root server clusters are managed by different organizations, the traffic to reach them often traverses GAFAMC-operated 
 networks. In short: Hetzner owns the "house" (the server), but GAFAMC owns many of the "roads" (the fiber and routers) 
 used to get to that house.";
+https://community.hubspot.com/t/modern-version-of-the-hubspot-forms-v2-api/63952 : "current forms v2 api (https://js.hsforms.net/forms/v2.js) is super heavy";
 Internet host-providers and GAFAMC:a
+
+non-GAFAMC Internet hosts:v
+[searched by https://www.who-hosts-this.com/Hosts?:
+maybe https://firstcolo.net/ with blocking scripts; maybe hetzner.com/; https://check-host.net/ip-info?host=https://privatesystems.net/, https://www.whois.com/whois/privatesystems.net : Registrar: eNom, LLC = https://www.enom.com/ : googletagmanager.com, WordPress, hosted by https://automattic.com/ : "wordpress.com, wp.com, youtube.com"; https://www.planethoster.com/en ;
+]
+non-GAFAMC Internet hosts:a
 
 Internet-note:v
 2026.08.18/https://www.clrn.org/who-is-in-charge-of-the-internet/ : "It’s crucial to dispel the notion of a single ‘Internet CEO.’ The Internet’s resilience and global reach stem from its inherently distributed nature. Its underlying infrastructure comprises interconnected networks, each operating autonomously under different jurisdictions and management structures. This decentralization promotes innovation, redundancy, and resistance to censorship.",
@@ -1154,6 +1161,29 @@ evolve.  As more traffic consolidates on a handful of platforms and infrastructu
 stronger control within their borders, the balance between openness and fragmentation in global networks will be 
 continually tested.  For policymakers, businesses, and citizens, paying sustained attention to internet infrastructure is 
 increasingly important for understanding how power is organized in the digital era.";
+2026.08.18/https://ansonalex.com/infographics/the-world-map-of-internet-connections/ : "    TeleGeography Submarine Cable Map (interactive): submarinecablemap.com
+    ITU Global Connectivity Report (submarine cable stats + context): ITU report hub
+    FCC submarine cable landing licenses (U.S. regulatory view): FCC guide
+    Internet Society policy brief (resilience + risk framing): Internet Society
+These are high-authority references that match what you’re seeing on the maps and can be quite fun to explore.",
+"A typical cross-continent request often looks like this:
+Your device → local ISP → regional backbone → coastal landing station
+→ undersea cable → landing station → backbone → data center/cloud → website/app
+Satellites matter for remote access and backup in some scenarios, but for high-volume intercontinental traffic, fiber is still the main highway.
+One subtle but important detail: “the internet” isn’t one network. It’s thousands of networks that interconnect. The cables provide the physical paths, and routing determines which path traffic uses at any moment.
+Map 2: Red Sea internet cable chokepoint
+Some regions are more fragile than others—not because they have “less internet,” but because a lot of global traffic is concentrated through narrow corridors. One of the most discussed examples is the Red Sea area, where many cables pass through relatively constrained waters.",
+"In the early 2010s, it was easy to talk about Africa as if it relied on only a small number of major pipelines", "Africa has experienced one of the most dramatic undersea cable expansions in the world. More systems and more landings generally means more capacity and better rerouting options when something fails.",
+"Undersea cables fail more often than most people realize. The most common causes are mundane: anchors, fishing activity, and accidents. The outcomes usually fall into one of these buckets:
+    Rerouting with minimal impact (best case)
+    Slower speeds / higher latency due to congestion on alternate paths
+    Regional degradation if a country or island relies heavily on limited landings
+    Partial outages for specific networks or services (not always “the whole internet”)";
+2026.08.18/https://www.halcyonmaps.com/map-of-the-internet-2021/ : "visualize the current state of the World Wide Web, and document the largest and most popular websites over the period of 2020-2021";
+2026.08.18/https://map.kmcd.dev/; 2026.08.18/https://bbmaps.itu.int/bbmaps/; 2026.08.18/https://www.halcyonmaps.com/map-of-the-internet-2021/ ; 2026.08.18/https://internet-map.net/
+2026.08.18/https://check-host.net/ip-info?host= ;
+2026.08.18/https://www.cloudinfrastructuremap.com ; 2026.08.18/https://broadbandmap.com/;
+2026.08.18/https://check-host.net/ip-info?host=https://egihosting.com/ < 2026.08.18/hhttp://lawlab.org/tools/digital-llc could took their internet components.;
 Internet-note:a
 
 Blog-note:v
