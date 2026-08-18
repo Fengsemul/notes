@@ -1093,6 +1093,67 @@ https://unpkg.com/ > googletagmanager.com,
 https://www.intgovforum.org/en > jsdelivr.map.fastly.net / https://www.fastly.com/ > https://www.speedcurve.com/ hosted by amazon,
 https://www.intgovforum.org/en > bsky.app hosted by Amazon;
 https://www.thenation.com/article/culture/ben-tarnoff-internet-for-the-people/ : "What is the Internet, and who owns it? These are not simple questions; their boundaries are muddy. Most people would agree that the Internet encompasses physical infrastructure and physical networks—the satellites, radio towers, and fiber-optic cables, aboveground and underwater, that connect our devices—but does it not also refer to the content they carry? And how can one meaningfully distinguish between that content and the servers that host it; the software that translates it into legible form; the eyes and ears that consume it; the hands that build and maintain it? US Senator Ted Stevens was once mocked for describing the Internet as “a series of tubes,” but his metaphor was about as accurate as one could hope for in so few words. The only trouble is that it’s hard to say where the tubes begin and end.";
+https://www.techtimes.com/articles/315969/20260418/who-really-controls-internet-infrastructure-global-networks.htm : "The 
+internet backbone is the high‑capacity core of internet infrastructure, formed by a relatively small set of powerful 
+networks that connect major regions and continents.  These backbones are typically run by Tier 1 internet service 
+providers and large telecom carriers that operate long‑haul fiber routes and intercontinental links. No single 
+organization owns the entire backbone, but a limited number of companies control a large share of these critical routes.  
+Backbone operators sell transit to smaller networks, peer with one another, and manage the heavy flow of international 
+traffic that underpins global networks. Because so much data passes through their systems, they occupy a central position 
+in the internet's topology.  Their investment decisions and routing arrangements strongly influence the affordability, 
+speed, and resilience of connectivity in different parts of the world. How Undersea Cables Shape Global Networks  
+Submarine fiber‑optic cables are among the most important elements of global internet infrastructure. They carry the 
+overwhelming majority of international data traffic, linking continents across the ocean floor.  These cables end at 
+landing stations on coastlines, which function as strategic nodes where data enters and leaves national territories.  
+Ownership of undersea cables is concentrated. Telecom consortia have long funded and operated many systems, but large 
+technology companies now finance and build private cables to connect their data centers and cloud regions.  This shift 
+gives them direct control over latency, capacity, and redundancy across global networks. States, in turn, closely regulate 
+routes and landing points, treating them as assets with economic and security significance. Big Tech's Private Global 
+Networks  Major cloud and platform companies operate extensive private networks layered on top of the public internet.  
+These private backbones link hyperscale data centers across continents, providing dedicated capacity for cloud services, 
+search, video streaming, and enterprise workloads. In many cases, data travels over these private paths for much of its 
+journey and only moves onto public networks near the end user.  Content delivery networks (CDNs) add another key layer to 
+internet infrastructure by distributing copies of content to servers located near users around the world.  By caching data 
+at the edge of global networks, CDNs reduce latency and offload traffic from long‑haul routes. As more services rely on 
+cloud platforms and CDNs, a significant share of global traffic is effectively mediated by a small number of large 
+infrastructure providers. Who Manages Domain Names, IP Addresses, and Standards?  While physical infrastructure carries 
+data, coordination bodies manage the logical layer that keeps global networks coherent.  Internet governance organizations 
+handle unique identifiers such as domain names and IP addresses and help maintain a consistent namespace. They do not own 
+internet infrastructure but manage shared resources relied upon by all networks.  Technical standards are developed in 
+open, collaborative forums where engineers and stakeholders agree on protocols and formats.  This process allows networks, 
+devices, and applications to interoperate across borders. Participation is voluntary, yet adherence to common standards is 
+essential for preserving the universality and reliability of global networks.",
+"The Role of Governments in Internet Infrastructure Control  Governments do not own the global internet, but they exercise 
+authority over infrastructure located within their borders.  They license internet service providers, regulate spectrum, 
+oversee cable landing stations, and shape legal frameworks for data flows. In some countries, the state operates or 
+directly controls major network operators, strengthening its influence over connectivity.  Authorities can use control 
+over domestic internet infrastructure to enforce content restrictions, monitor traffic, or impose temporary shutdowns 
+during unrest or crises.  As more states emphasize "digital sovereignty," they push for greater control over data and 
+infrastructure on their territory. This trend raises questions about whether global networks will remain as open and 
+border‑agnostic as they once appeared. Direct Gatekeepers: ISPs and Local Networks  For most users, the most visible 
+gatekeepers of internet infrastructure are local internet service providers (ISPs) and mobile network operators.  These 
+entities operate the "last mile" connections linking homes, businesses, and devices to the wider web. Their network 
+management practices, commercial policies, and regulatory obligations directly affect what users can access and how well 
+global networks perform.  Internet Exchange Points (IXPs) are another important part of global networks. They serve as 
+meeting points where different networks connect and exchange traffic, improving efficiency and reducing latency by keeping 
+local traffic local.  Corporate and campus networks build private wide‑area networks and virtual private networks on top 
+of the public infrastructure, adding further layers of control while still depending on underlying global networks. Is 
+There a Single Entity That Owns the Internet?  Despite its central role in modern society, the internet has no single 
+owner. It is a network of networks, each managed by different organizations, companies, universities, and governments that 
+agree to interconnect and exchange traffic.  Ownership of internet infrastructure is therefore distributed across 
+thousands of entities with varied interests and regulatory environments.  Yet this distributed structure does not 
+eliminate concentration. A relatively small number of backbone providers, cable consortia, cloud giants, and major 
+platforms hold central positions in global networks.  Their decisions about investment, routing, and governance exert 
+outsized influence on which routes exist, which services are prioritized, and how resilient the overall system can be. 
+Future of Global Internet Infrastructure and Networks  New technologies are reshaping internet infrastructure and the 
+design of global networks. Satellite constellations in low‑Earth orbit, advanced 5G deployments, edge data centers, and 
+new generations of submarine cables promise more capacity, lower latency, and wider coverage.  At the same time, they 
+raise new questions about ownership, regulation, and the balance between centralization and decentralization.  Whether the 
+internet remains broadly open and interoperable will depend on how infrastructure investments, regulation, and governance 
+evolve.  As more traffic consolidates on a handful of platforms and infrastructure providers, and as more states assert 
+stronger control within their borders, the balance between openness and fragmentation in global networks will be 
+continually tested.  For policymakers, businesses, and citizens, paying sustained attention to internet infrastructure is 
+increasingly important for understanding how power is organized in the digital era.";
 Internet-note:a
 
 Blog-note:v
