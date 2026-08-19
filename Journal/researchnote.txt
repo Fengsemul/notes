@@ -1075,13 +1075,14 @@ There are 2 domains which cizgi.net.tr links to.
 " icann.org : "cloudflareinsights.com
 cookielaw.org", turhost.com : "static.cloudflareinsights.com
 googletagmanager.com";
-2026.08.19/https://www.whtop.com/plans/hostmysite.com/50581 : "hostmysite.com is inactive, but is redirected to hostway.com"; https://hostway.com/ : googletagmanager.com, WordPress;
+2026.08.19/https://www.whtop.com/plans/hostmysite.com/50581 : "hostmysite.com is inactive, but is redirected to hostway.com"; 2026.08.19/https://hostway.com/ : googletagmanager.com, WordPress;
 https://www.whtop.com/review/arvancloud.ir : Redirected from arvancloud.com ; https://www.arvancloud.ir/ : googletagmanager.com, pingdom.com/ : adobedtm.com, ads-twitter.com, fastly.net, WordPress,
-https://www.arvancloud.ir/en : Technology Detector: "Analytics
+2026.08.19/https://www.arvancloud.ir/en : Technology Detector: "Analytics
 📈 Analytics Tools
 Google Tag Manager, Matomo";
-https://en.wikipedia.org/wiki/Edgecast : 	edgecast.io : fonts.googleapis.com, Host: Google Inc.;
-https://www.isitdownrightnow.com/www.upc.at.html
+2026.08.19/https://en.wikipedia.org/wiki/Edgecast : 	edgecast.io : fonts.googleapis.com, Host: Google Inc.;
+2026.08.19/https://www.isitdownrightnow.com/www.upc.at.html ; 2026.08.19/https://technologychecker.io/ to check.;
+
 failed non-GAFAMC Internet hosts:a
 
 Internet-note:v
@@ -1578,8 +1579,8 @@ not hosted by GAFAM nor Cloudflare nor at the roughly Top 18 million hostlabels:
 Space: 1999 - Episodes of the second series - EYESPIDER
 As each review is completed, I'll be updating the link. Episodes of the first series · About the Episode guide · Introduction to Space: 1999 · Analysis and .":"Space: 1999" as another spell. (It matters the exact queries to get different results at the whole 10-result-pages or so by typing this additional quotes, which I thought would restrict to the same webpages being shown, which has limited reach on Startpage.com. "space 1999" alone with that and without -"amazon." had none. More diverse results with seperating terms such as "space" and "1999". DuckDuckGo had no results neither with "review as addition nor "movie", but results-number changed at "watch" with lesser results as 2 pages.);
 2026.08.04 20:43 I think I saw difference between https://duckduckgo.com/?q=%22among+us%22+%22txt%22+-%22wordpress%22+-%22linkedin.%22+-%22gstatic.%22+-%22withgoogle.%22+-%22googleapis.%22+-%22google.%22+-%22tiktok.%22+-%22reddit.%22+-%22youtube.%22+-%22quora.%22+-%22instagram.%22+-%22facebook.%22+-%22twitter.%22+-%22cloudflare.%22+-%22wikipedia.%22+-%22amazon.%22&t=h_&ia=web with recakandvica.wixsite.com being included and another previous search with "filetype:html" instead "txt", despite most websites being htnl. Roughly 120 result-pages were shown with additional "filetype:html" meanwhile "among us" "txt" -"wordpress" -"linkedin." -"gstatic." -"withgoogle." -"googleapis." -"google." -"tiktok." -"reddit." -"youtube." -"quora." -"instagram." -"facebook." -"twitter." -"cloudflare." -"wikipedia." -"amazon." : 14 pages with only one "recakandvica.wixsite.com" amomg the 18 million main-domains-hostname-except-almost-all-publix suffixes.;
-2026.08.19/startpage.com : page 2: queries: ""pikachu" ".txt" -"pinterest" -"github" -"alibaba" -"wp-content" -"wordpress" -"linkedin." -"gstatic." -"withgoogle." -"googleapis." -"google." -"tiktok." -"reddit." -"youtube." -"quora." -"instagram." -"facebook." -"twitter." -"cloudflare." -"wikipedia." -"amazon."" : https://pokemorph.com/Glossary.html ;
-
+2026.08.19/startpage.com : page 2: queries: ""pikachu" ".txt" -"pinterest" -"github" -"alibaba" -"wp-content" -"wordpress" -"linkedin." -"gstatic." -"withgoogle." -"googleapis." -"google." -"tiktok." -"reddit." -"youtube." -"quora." -"instagram." -"facebook." -"twitter." -"cloudflare." -"wikipedia." -"amazon."" : https://pokemorph.com/Glossary.html < https://technologychecker.io/ : pokemorph.com has "Google Workspace" as Email & Webmail.;
+2026.08.19/https://www.startpage.com/sp/search "pikachu" "txt" -"pinterest" -"github" -"alibaba" -"wp-content" -"wordpress" -"linkedin." -"gstatic." -"withgoogle." -"googleapis." -"google." -"tiktok." -"reddit." -"youtube." -"quora." -"instagram." -"facebook." -"twitter." -"cloudflare." -"wikipedia." -"amazon." page 2: https://clab-hm.de/machines/trident-yellow with CMS: DokuWiki ;
 less popular search-note:a
 
 less popular-research:v
