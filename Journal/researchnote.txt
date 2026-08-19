@@ -1219,6 +1219,86 @@ Some regions are more fragile than others—not because they have “less intern
 2026.08.18/https://check-host.net/ip-info?host= ;
 2026.08.18/https://www.cloudinfrastructuremap.com ; 2026.08.18/https://broadbandmap.com/;
 2026.08.18/https://check-host.net/ip-info?host=https://egihosting.com/ < 2026.08.18/hhttp://lawlab.org/tools/digital-llc could took their internet components.;
+https://www.youtube.com/watch?v=l3ydRRZrkNE : "Wouter Constant - co-founder and researcher at Nostr, an open protocol for decentralised, censorship-resistant communication - who is actively building the alternative and understands better than most how the internet lost its way.";
+https://www.youtube.com/watch?v=sTzBO_BliZ8 : "Building a true “Internet 2” isn’t just about slapping encryption or crypto on top of the old pipes. You’d have to own or cooperatively control the physical links, routing, and naming from the ground up. That means mesh networks at the neighborhood level, high throughput microwave or fiber backbones between cities, cryptographically signed routing instead of ICANN/RIR control, and a decentralized naming/content system so there’s no single point to censor. Without replacing the last mile ISPs and backbone operators, you’re still just riding on someone else’s rails. The hard part isn’t the software, it’s building and governing the hardware layer so the whole thing stays open, resilient, and independent.",
+"
+@__BLOOD__
+11 months ago
+If you saw the video, you wouldn't have to explain this. You can't simply create your own hardware layer. The whole specification is aimed to take into hostage the current hardware layer and build on top of it.
+1 @exoradev
+11 months ago
+ @__BLOOD__   Overlays on existing ISPs aren’t new. Tor, VPNs, and IPFS all ride those rails and stay vulnerable to throttling or shutdown. Calling it “taking hardware hostage” flips it, because you’re still the hostage if you don’t control any of it. True independence means building at least some of the physical layer, otherwise it’s just software wrapped around the same choke points.
+1 @__BLOOD__
+11 months ago
+ @exoradev  You can have somewhat private physical layer using systems that implement wireless mesh network using longwave frequencies, but it isn't as reliable as the existing internet. You can't simply use your own hardware, it's simply not feasible by an individual or even a company. The internet at the HW level is a property of various entities worldwide. Contrary to I2P and Tor, betanet adresses some of the solvable issues. The shutdown issue should be pretty much mitigated by the spec.",
+"@UNAVALIBLE.mp3
+1 year ago
+so your "second internet" is basically a vpn exit node mesh network
+446 @melody_is_dead
+1 year ago
+With crypto on top of it
+27 likes", "
+@DeuceEX22
+1 year ago (edited)
+I mean the red flag is already there the second he promised an alternative to the internet, overlooking how the concept is much more than just computers connecting to one another, it's also physical infrastructure which governments have jurisdiction over. IF he promised layered and relayed anonymity like TOR does then I can at least somewhat see where he's going, but nah... This is basically rug pulling, it reminds me of that bank that tries to be an alternative to banks because of the same populist reasons "the bank is untrustworthy, yada yada", only for it to operate like a Bank anyway, but much MUCH worse, since it doesn't have the oversight regular banks have, I forgot the name but coffeezzilla did a video about it
+485 @laval0910
+1 year ago
+​ @DeuceEX22  isnt TOR government owned?
+@A3Omega
+1 year ago
+ @DeuceEX22  Tor is NOT anon...lol - When they gov's are done with their backdoor syphoning, one day there will be either declassified papers about it or it'll be part of the next major leak.",
+"@Programisius644
+1 year ago
+It's VPN with extra steps
+32", "
+@bunnikyuube
+1 year ago
+ @DeuceEX22  I mean- the internet IS borderline Orwellian. At least, in its current cultural state. It's not a matter of technology- it's a matter of culture. Of existing around the 5 major websites and nothing else.
+What we need, however, isn't a 'new internet'- there's nothing wrong with the internet as a technology. We have the technology to host and provide anonymized services- what we need is to be prioritizing decentralised solutions to needs that are only usually met through privatised solutions, examples being things like Mastodon and Peertube, as fediverse-specific examples, and Matrix as a communication or Discord alternative, whilst also routing internet traffic through VPNs and TOR in the instance of avoiding the impacts of local authoritarian movements such as the Social Media ban that may yet go into effect in Australia and the Online Safety act in the UK.",
+"
+@Deadpoolhead888
+1 year ago
+ @bunnikyuube I’m stuck on AT&T so this is exactly the kind of stuff I care about learning! Thank you for helping more people be aware of prime alternatives which are much more secure and privacy focused. It’s time we took our privacy back. And best of all is we can do so legally! So it might be complicated and take time to learn but will 100% be worth it in the end
+1 @SidShakal
+1 year ago
+​ @bunnikyuube  i agree it's a culture problem. i feel like a world where people cared enough for their privacy and freedom to opt for decentralized platforms would be a world where people would not allow their governments and mega corporations to gain and assert so much control that the decentralized platforms would even be necessary to begin with.
+they only have their power because the people continue to allow it.",
+" @quetzocoaxial 1 year ago No. Any system that has "micro fees" or other economic transactions baked in is inherently going to trend towards pay to play enshitification. Freedom means access regardless of economic means. If you build power structures into your system they will inevitably be exploited. 62 @garbageman-f2r 1 year ago yeah, because a lack of a microtransaction protocol has really done the modern web well. Clearly the ad-based internet is better than, say, giving 5 dollars to your ISP and paying a 3rd of a cent to every website you visit.  Sorry, but the internet already is not "free regardless of economic means." You have to pay an ISP for access! And the "free web" that does is exist is subsidized my mass surveillance and predatory ad-networks. I'd much rather pay half a cent to watch a youtube video than load 300kb of google ads crapware which is tracking every aspect of my behaviour. @quetzocoaxial 1 year ago ​ @garbageman-f2r  You just proved my point for me. Monied interests have ruined the modern web. You don't fix that by baking transactions into your framework. That is a recipe for fast-tracking your platform's demise. 9 @garbageman-f2r 1 year ago  @quetzocoaxial  You've yet to give any mechanism as to how microtransactions would ruin a new web. If your core complaint is really just about "monied interests," e.g. the profit motive, then, I'm sorry, but you're never going to be able to escape that. That's an inherent part of human society, and thus will affect any technology that we have, like the internet. Better to intentionally design the web to harness this and use it in a healthy way (e.g. through a microtransaction protocol) than to let it fester and develop into what it has today.  We've already tried developing an internet without taking into account the profit motive. That's led us to the internet of today. we can do better, with appropriate incentive design. @OthorgonalOctroon 9 months ago  @garbageman-f2r  and you've yet to give any mechanism that requires pages to run ads today. many people run pages at their own expense, and that's how the whole internet used to be.",
+"@l.a.wright6912
+1 year ago
+2:48 isnt pay per vote make it viable for large majority stakeholders to do whatever they want.
+Ie cloudflare could have massive control over this.
+287
+@quillmorningstar8713
+1 year ago
+The government could have massive control.
+35
+@Gustoberg
+1 year ago
+literal 19th century type voting ",
+"It sounds more like Tor 2.0 than Internet 2.0. In the end, you're still using the same cables controlled by ISPs. For a truly free internet, we would need to change things at the hardware level - like creating LoRa mesh networks, but the bandwidth sucks. IDK, it's still some improvement, so I wish you guys big growth and good luck.",
+" @SkigBiggler 1 year ago Decentralisation has never been a core part of the internet as such, it’s a result of the routing protocols used, meaning it is inherently decentralised. You can build a monopolistic, centralised internet on decentralised technology, it’s what we have at the moment. 69 @anonymous3561-k4b 1 year ago  @SkigBiggler  "Decentralisation has never been a core part", but it's "inherently decentralised"? 2 @TheCommunistRabbit 1 year ago Wasn't the original concept ARPANET where governments just needed a way to send messages to other governments using computers 37 @The666opal111 1 year ago  @TheCommunistRabbit  It was ARMY, of course, and they needed the system being able to send messages even if some nodes got destroyed.",
+@bcj842
+1 year ago
+Not really. It was made to facilitate the US Department of Defense.
+18 likes,
+"@anthonyyershov4156
+1 year ago
+Yea you'd need developers to adopt it to build new versions of Google, Youtube, Twitter, ETC - but then users would still need to adopt the new platforms. Then the regulations would come in the same. I think the issue isn't really the architecture of the internet, but with users who don't understand how quickly Big Tech is eliminating the human element from the internet.
+54", "
+@ConcerninglyWiseAlligator
+1 year ago
+Sounds cool, but no actually good developers will keep reading after the first reference to Blockchain. It simply isn't a viable solution for distributed systems. Any developer who asserts it is, is either:
+1. Ignorant about the topic and it's operating costs.
+2. Well aware and trying to get money from you. 
+I would love this to be a true alternative, but it just isn't happening. At least not on the back of existing Blockchain projects AFAIK.
+82 @teaser6089
+1 year ago
+Problem with this plan is that it doesnt do anything about the fact that the real issue is the fact that all our content and websites are increasingly controlled by less and less companies. This specification does not deal with YouTube controlling 99% of video sharing or Meta, X and Google controlling pretty much a majority of social media and websearch.
+It does not do anything against the online safety act, because it still requires new services to developed to replace the services we currently use.
+296 likes";
+2026.08.19/https://www.youtube.com/watch?v=R3ptZ1W-FRA : " 4:01 Innovation and good design made this 4:03 complex Network super easy to use and 4:05 its permissionless nature meant that in 4:06 the place of AOL and MSN we instead got 4:09 millions of successful websites so the 4:12 internet became technically 4:13 decentralized except with time of course 4:16 companies have found new tools to create 4:18 wall Gardens even using this 4:20 infrastructure as well and those new 4:22 tools are called Network effects and 4:24 ecosystems and every Tech Giant today is 4:27 trying to lock you into their W garden 4:30 with these ecosystems and network 4:32 effects are incredibly powerful tools 4:34 and once again they're starting to 4:36 starve the internet of innovation again 4:38 but just like back in the '90s there's a 4:40 new Coalition forming that is aiming to 4:42 break these wall Gardens again it's a 4:45 coalition of unlikely seeming 4:46 enthusiasts again who insist on using 4:48 protocols like activity Pub and whose 4:50 plans include building a so-called 4:52 fediverse a decentralized social 4:54 internet which will break the walls of 4:56 the current ecosystems which they think 4:58 will create a whole second massive wave 5:01 of innovation and democratization the 5:03 parallels are very strong with the '90s 5:05 and it's not just the idealists either 5:08 Mark Zuckerberg Twitter founder Jack 5:10 dorsy and the heads of Wordpress Tumblr 5:12 Flipboard Mozilla and more have all 5:14 announced embracing some form of this 5:16 future so that is potentially huge so 5:19 what the hell is the ferse can it change 5:21 the whole internet and should we be 5:23 worried or excited about people like 5:25 Mark Zuckerberg embracing it",
+" 6:19 attached to something called the mattal 6:20 law that states that a network becomes 6:23 exponentially more valuable as more 6:25 people join and get connected to it this 6:27 means that large networks tend to just 6:29 keep getting larger and that moving 6:31 people over to a competitor becomes 6:33 incredibly hard even if that competitor 6:35 is objectively better for everyone 6:37 involved which allows big networks to 6:39 either entify their platform and cram it 6:42 full of ads or to extort a sort of tax 6:44 on all the participants or both because 6:46 good luck moving all of your networks 6:48 somewhere else even worse if you're 6:50 stuck with one network a company can 6:52 then try to use that to force or at 6:53 least nudge you to use the rest of their 6:56 ecosystem to creating an Ever stronger 6:58 dependence for you and gigantic World 7:00 Gardens that become basically impossible 7:02 to compete with from the outside think 7:04 IM message slowly bringing people into 7:06 the Apple ecosystem whether they want to 7:08 use an iPhone or not think left leaning 7:11 Twitter users struggling to leave the 7:12 platform even if they disagree with Elon 7:14 musk's decisions think right leaning 7:16 Twitter users struggling to establish a 7:18 competing platform after Trump and Alex 7:21 Jones and a bunch of other people were 7:22 booted off Etc Network effects are one 7:25 of the biggest reasons for why people 7:26 are stuck in their walled Gardens and 7:28 breaking the effects is one of the main 7:31 goals of the fediverse and their tool in 7:33 particular is basically the same thing 7:35 that it was back in the open web days 7:38 protocols most prominently a protocol 7:40 named activity pup and here's how this 7:42 one works every social media platform if 7:44 you think about it basically has the 7:46 same elements like profile names 7:47 pictures and posts and the same 7:49 interactions too like likes boosts Etc 7:52 just displayed a little bit differently 7:54 so under activity Pub all social media 7:56 platforms agreed to a shared standard 7:58 for how to to handle these elements 8:00 which suddenly makes these systems 8:02 interoperable and activity Pub is 8:03 actually a proper standard that is 8:05 defined and maintained by the same w3c 8:08 as HTTP and you can see it in action 8:10 already today its first users were 8:12 services like Mastadon pixel fan peer 8:14 tube Etc these are somewhat Niche and 8:17 nerdy things with a limited appeal at 8:19 least for now which mostly act as 8:20 activity PP based clones or at least 8:22 versions of one of the existing big 8:24 platforms but since they're all using 8:26 activity pop they actually have two 8:28 really important character 8:29 characteristics first they are 8:30 decentralized instead of a single 8:32 company owning Twitter Instagram Etc 8:34 these new platforms have basically no 8:36 owners anyone can run an instance on 8:38 them in the same way that anyone can 8:40 host their email server and these 8:42 instances can then just talk to each 8:44 other to form a shared network"
 Internet-note:a
 
 Blog-note:v
