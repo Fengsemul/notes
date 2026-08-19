@@ -862,10 +862,11 @@ https://kingbloom.com/ used ebay shorty and other corporate scripts.
 
 Gray area:a
 
-non-Wordpress and non-GAFAMC-related search engines:v
-2026.08.18: broken infotiger.com ; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
-https://openlibrary.org", wikis and wikimedias, mwmbl.org hosted by octopuce and vuhuv.com hosted by octopuce. Octopuce use jQuery.com hosted by Cloudflare.;
-non-Wordpress and non-GAFAMC-related search engines:a
+non-Wordpress and indirectly-GAFAMC-related search engines:v
+2026.08.18: broken infotiger.com has Web Server and reverse proxy: nginx; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
+https://openlibrary.org"/web.archive.org: Web Servers: Nginx
+Reverse proxies: Nginx https://nginx.org/en/ hosted by Amazon.com, wikis and mediawiki.org by https://trafficserver.apache.org/ hosted by Fastly and https://ogp.me/ hosted by GitHub owned by Microsoft and with CDN by Fastly, mwmbl.org hosted by octopuce and vuhuv.com hosted by octopuce. Octopuce use jQuery.com hosted by Cloudflare.;
+non-Wordpress and indirectly-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
 2026.08.17/https://xka.cz/preferences : Wikis, maybe web.archive.org,  bpb (DE) but https://check-host.net/ip-info?host=bpb.de&csrf_token=4d3a0d93cba8452825d921b4ed67bf1302b36a16 : noris network AG : https://www.noris.de/ : wp-content because of those 3 webpages popular hosts., https://www.myrasecurity.com/de/sea/myra-security-ddos-protection/ : "eu-captcha.eu" > https://www.myrasecurity.com/en/ : googletagmanager.com ", googletagmanager.com, googletagmanager.com, noris.de" ;
