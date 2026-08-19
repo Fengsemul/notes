@@ -1041,13 +1041,47 @@ root server clusters are managed by different organizations, the traffic to reac
 networks. In short: Hetzner owns the "house" (the server), but GAFAMC owns many of the "roads" (the fiber and routers) 
 used to get to that house.";
 https://community.hubspot.com/t/modern-version-of-the-hubspot-forms-v2-api/63952 : "current forms v2 api (https://js.hsforms.net/forms/v2.js) is super heavy";
+https://bootstrap-vue.org// : "cloudflare.com
+google-analytics.com
+jsdelivr.map.fastly.net"
 Internet host-providers and GAFAMC:a
 
-non-GAFAMC Internet hosts:v
-[searched by https://www.who-hosts-this.com/Hosts?:
-maybe https://firstcolo.net/ with blocking scripts; maybe hetzner.com/; https://check-host.net/ip-info?host=https://privatesystems.net/, https://www.whois.com/whois/privatesystems.net : Registrar: eNom, LLC = https://www.enom.com/ : googletagmanager.com, WordPress, hosted by https://automattic.com/ : "wordpress.com, wp.com, youtube.com"; https://www.planethoster.com/en ; stopped at 
-]
-non-GAFAMC Internet hosts:a
+largely non-GAFAMC-manipulatable Internet hosts:v
+[searched by 2026.08.18/https://www.who-hosts-this.com/Hosts?:
+ maybe hetzner.com/ ; 2026.08.19/https://check-host.net/ip-info?host=https://privatesystems.net/ > ;  https://www.planethoster.com/en : Widgets : Google Plus, https://hypestat.com/technology/google-plus : "The requested URL /technology/google-plus was not found on this server.", Web server: https://apache.org/ : "JavaScript Libraries
+jQuery, WhatRuns Detector: That and Bootstrap", Host: Fastly: "cookielaw.org/onetrust.com":"adobedtm.com, cloudflare.com"; ];
+2026.08.19/https://www.who-hosts-this.com/Hosts? : https://domene.shop/ has none except Web Servers: Apache., https://www.who-hosts-this.com/Hosts?page=22 is unfinished.,
+
+largely non-GAFAMC-manipulatable Internet hosts:a
+
+grey-GAFAMC Internet hosts:v
+2026.08.19/https://www.whois.com/whois/privatesystems.net : Registrar: eNom, LLC = https://www.enom.com/ : googletagmanager.com, WordPress, hosted by https://automattic.com/ : "wordpress.com, wp.com, youtube.com" ;
+
+grey-GAFAMC Internet hosts:a
+
+failed non-GAFAMC Internet hosts:v
+maybe 2026.08.18/https://firstcolo.net/ with blocking scripts; 2026.08.19/https://www.whois.com/whois/hospedagem.net : Registrar: eNom, LLC ; < https://tools.tracemyip.org/lookup/hospedagem.net : seems independent.; < https://hypestat.com/info/hospedagem.net : "  Server IP:     177.185.194.175 ASN:     AS28299  ISP:     IPV6 Internet Ltda  Server Location:      Brazil, BR        Other sites hosted on 177.185.194.175 There are no other sites hosted on this IP " < https://github.com/JhonathanMKE/Hospedagem.NET : "System to handle a Hotel Company. This code is part of DIO Bootcamp Challenge." used AI which shared traffic to google possibly.; < https://portaldohost.com.br/topic/5299-alguem-conhece-hospedagemnet-uni5-datacenter-br/ : "September 28, 2011 at 02:55 PM
+I did some research and found it!
+http://hospedagem.net/ http://www.uni5.net/
+Does anyone know where to find these suppliers", "É da Kinghost!  Edited September 29, 2011 at 02:38 AM by luizpaulobr ", "I don't know who owns uni5.net, but UNI5 is from UOL."; < https://king.host/ : googletagmanager.com, fastly.net, jsdelivr.net, Google Fonts"; https://ipinfo.io/AS42807/94.199.206.0/24 : Domain	aerotek.com.tr , Registry
+	RIPE", https://host.io/aerotek.com.tr :  "This domain redirects to cizgi.net.tr", "MX
+aerotek-com-tr.mail.protection.outlook.com.", "Co-Hosted
+There are 1 domains hosted on 31.207.83.54 (AS42807 CIZGI TELEKOMUNIKASYON ANONIM SIRKETI).", https://host.io/cizgi.net.tr
+: "Links to
+There are 2 domains which cizgi.net.tr links to.
+    icann.org
+    turhost.com
+" icann.org : "cloudflareinsights.com
+cookielaw.org", turhost.com : "static.cloudflareinsights.com
+googletagmanager.com";
+2026.08.19/https://www.whtop.com/plans/hostmysite.com/50581 : "hostmysite.com is inactive, but is redirected to hostway.com"; https://hostway.com/ : googletagmanager.com, WordPress;
+https://www.whtop.com/review/arvancloud.ir : Redirected from arvancloud.com ; https://www.arvancloud.ir/ : googletagmanager.com, pingdom.com/ : adobedtm.com, ads-twitter.com, fastly.net, WordPress,
+https://www.arvancloud.ir/en : Technology Detector: "Analytics
+📈 Analytics Tools
+Google Tag Manager, Matomo";
+https://en.wikipedia.org/wiki/Edgecast : 	edgecast.io : fonts.googleapis.com, Host: Google Inc.;
+https://www.isitdownrightnow.com/www.upc.at.html
+failed non-GAFAMC Internet hosts:a
 
 Internet-note:v
 2026.08.18/https://www.clrn.org/who-is-in-charge-of-the-internet/ : "It’s crucial to dispel the notion of a single ‘Internet CEO.’ The Internet’s resilience and global reach stem from its inherently distributed nature. Its underlying infrastructure comprises interconnected networks, each operating autonomously under different jurisdictions and management structures. This decentralization promotes innovation, redundancy, and resistance to censorship.",
