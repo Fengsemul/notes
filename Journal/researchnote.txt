@@ -863,7 +863,7 @@ https://kingbloom.com/ used ebay shorty and other corporate scripts.
 Gray area:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
-2026.08.18: broken infotiger.com has Web Server and reverse proxy: nginx; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
+2026.08.18: broken infotiger.com has Web Server and reverse proxy: nginx and https://check-host.net/ip-info?host=https://www.premium-datacenter.de/ : only Hofmeir Media GmbH having none and not being found by https://hypestat.com/.; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
 https://openlibrary.org"/web.archive.org: Web Servers: Nginx
 Reverse proxies: Nginx https://nginx.org/en/ hosted by Amazon.com, wikis and mediawiki.org by https://trafficserver.apache.org/ hosted by Fastly and https://ogp.me/ hosted by GitHub owned by Microsoft and with CDN by Fastly, mwmbl.org hosted by octopuce and vuhuv.com hosted by octopuce. Octopuce use jQuery.com hosted by Cloudflare.;
 non-Wordpress and indirectly-GAFAMC-related search engines:a
