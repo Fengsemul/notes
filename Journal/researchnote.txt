@@ -849,7 +849,8 @@ https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 innerseek.com by idk,
 directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ .
-]
+],
+2026.08.20/https://ahmia.fi/
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
@@ -1322,6 +1323,18 @@ Navigating with blocks-note:v
 2026.06.18/view-source:https://html.duckduckgo.com/html/?q=test with Blockie-extension blocking every category at Microsoft Edge. Blockie.net and broken Google-pages like Google-api-pages, some broken pages and https://valerie-ai-detector.replit.app/ works still.;
 2026.06.20/view-source:https://www.wiby.me/?q=test
 Navigating with blocks-note:a
+
+Dark web-note:v
+2026.08.20/https://ahmia.fi/search/?q=weather+today&e09fb5=b9f1b3 : " “Putting a Dumb Weather Station on the Internet” by Colin Cogle
+
+After all, why not? Why shouldn't I put a dumb Temu weather station on the Internet?
+colincxvfami6ynthgup7mbqjxw5nr6o43hgh276ykkoxkeqba4rvrqd.onion — 1 week, 6 days — ",
+https://duckduckgo.com/?t=ffab&q=%E2%80%9CPutting+a+Dumb+Weather+Station+on+the+Internet%E2%80%9D+by+Colin+Cogle+&ia=web : "colincogle.name
+
+https://colincogle.name › blog › byo-weather-station
+"Putting a Dumb Weather Station on the Internet" by Colin Cogle
+Jan 9, 2025After all, why not? Why shouldn't I put a dumb Temu weather station on the Internet?" Darkweb shows similar results as surface-web DuckDuckGo.
+Dark web-note:a
 
 Internet-note:v
 2026.06.20/https://www.webmasterworld.com/foo/5131255.htm : 7:05 am on May 1, 2026 (gmt 0) : 
