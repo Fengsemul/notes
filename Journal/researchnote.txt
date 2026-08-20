@@ -1526,6 +1526,9 @@ This script uses https://scribd.vdownloaders.com/ to bypass scribd but it bypass
 2026.08.09/https://addons.mozilla.org/en-US/firefox/addon/word-user-highlighter/ ;
 2026.08.09/https://addons.mozilla.org/en-US/firefox/addon/a-site-specific-script-blocker/ ;
 2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/utiq-detector/ : "Detects whether a website uses Utiq, the telco advertising tracker, and warns you.";
+2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/akamai-detector/ ;
+2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/platform-detector/ : "Detects the platform/CMS behind any website (WordPress, WooCommerce, Webflow, Shopify, etc.) and reveals detailed WordPress insights.";
+2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/site-blocker-search-scrubber/ (It reminds me of LeanSERPFilter-Minimal.);
 
 Extension-note:a
 
