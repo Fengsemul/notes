@@ -681,7 +681,8 @@ https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=
 2026.07.25/https://use.ai/de/chat-lp?model=gpt-5.5&utm_source=google&utm_medium=cpc&utm_campaign=AI_AT_DE_Chat_ALL_SEA_LLM_ChatGPT&utm_campaign_id=24015113917&utm_adgroup=AI_AT_DE_ChatGPT_Discovery&utm_adgroup_id=198237341717&utm_term=open+ai&utm_match_type=b&utm_content=816011942063&utm_content_id=816011942063&utm_device=c&utm_funnel=chat_funnel&partner=WM&id=Z29vZ2xlfGNwY3x7X2NhbXBhaWdufHtrZXl3b3JkfXx7Y3JlYXRpdmV9fHx7YWRncm91cGlkfXx7X2FkZ3JvdXB9fHtjcmVhdGl2ZX0%3D&url=https%3A%2F%2Fuse.ai%2Fde%2Fchat-lp%3Fmodel%3Dgpt-5.5&gad_source=1&gad_campaignid=24015113917 ;
 https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.08.05/use.ai's ids doesnt work.;
-https://notegpt.io/ai-chat
+https://notegpt.io/ai-chat ;
+2026.08.24/https://deepwiki.com/search/whats-22_48419251-8e70-4651-86c5-e5d3ddbb52ce?mode=deep
 AI chat avability-note:a
 
 Bypass upload GPT:v
