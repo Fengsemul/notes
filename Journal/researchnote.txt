@@ -1605,6 +1605,7 @@ startpage.com : "Pokémon-" "why not?"  -"fandom" -"pinterest" -"github" -"aliba
 2026.08.20/https://duckduckgo.com/?q=web+translator&t=ffab&ia=web : 2026.08.20/https://www.youodao.com/web.html , 2026.08.20/https://www.easy-translator.com/ till it asked translate.googleapis.com ., https://multi-translator.vercel.app/ "WhatRuns Detector: No known technologies detected." https://trafficchecker.net/en : "Spam Score: -1/100", https://github.com/alrico88/lengva : "Lengva is a web app to translate a word or sentence into multiple languages at once. It uses Lingva Translate under the hood, with a customizable instance.";
 2026.08.23/startpage.com : "filetype:htm" works too.;
 2026.08.24/https://duckduckgo.com/?t=ffab&q=better+among+us+github&ia=web : https://banmod.online/ , which was registered at 2025. Maybe DuckDuckGo crawled it later.;
+2026.08.27/https://gopherkind.com hosted by Hetzner;
 less popular search-note:a
 
 less popular-research:v
