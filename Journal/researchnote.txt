@@ -1606,6 +1606,7 @@ startpage.com : "Pokémon-" "why not?"  -"fandom" -"pinterest" -"github" -"aliba
 2026.08.23/startpage.com : "filetype:htm" works too.;
 2026.08.24/https://duckduckgo.com/?t=ffab&q=better+among+us+github&ia=web : https://banmod.online/ , which was registered at 2025. Maybe DuckDuckGo crawled it later.;
 2026.08.27/https://gopherkind.com hosted by Hetzner;
+2026.08.27/https://www.gta6pros.com/ : clarity.ms ;
 less popular search-note:a
 
 less popular-research:v
