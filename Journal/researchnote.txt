@@ -842,18 +842,19 @@ Save
 Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
 incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
 http://www.webs-best-directory.com/ broken,
-directorytop.com 0 wikipedia. NameCheap Inc.,
 kwikgoblin.com 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
 http://www.addyoursitefreesubmit.com/ broken,
 abboo.com 0 wikipedia by probably NameCheap 2026.08.28/https://check-host.net/ip-info?host=http%253A%252F%252Fwww.abboo.com : atlantis.clearfusion.cloud,
 https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-Unified-Layer,
 https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
->directoryfind.net 0 wikipedia. NameCheap Inc.,
-innerseek.com by https://check-host.net/ip-info?host=innerseek.com : SOURCEDNS (TWEANCOM, twean.com),
+directoryfind.net : 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=directoryfind.net : atlantis.clearfusion.cloud ,
+directorytop.com 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud ,
+2026.08.28/http://www.rankland.com/ : under construction till  35 Days, 17 Hours, 59 Minutes, 13 Seconds,
+2026.08.28/https://www.allthebizz.com/ without functional search engine;
 directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ .
-],
+], >http://www.amfibi.com/addurl/
 2026.08.20/https://ahmia.fi/
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
@@ -870,6 +871,9 @@ Gray area:a
 incompleted non-area:v
 2026.08.28/netinsert.com uses Google Adsense at directories.;
 https://www.apahcinc.org/ by akamaiedge.net ;
+2026.08.28/https://www.web10.ws/by akamaiedge.net ;
+2026.08.28/innerseek.com : "Since we don't accept payments we feel we are a fair and unbiased web directory" (They just feel, not know that they are unbiased and fair, based on non-accepted payments, which having biases goes beyond payments to psychology.) by https://check-host.net/ip-info?host=innerseek.com : SOURCEDNS (TWEANCOM, twean.com) Weblyzer: "Programming language .NETlanguage Web server IIS Microsoft IISv10.0";
+
 incompleted non-area:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
