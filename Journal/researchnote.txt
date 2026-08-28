@@ -812,7 +812,7 @@ Search engines/directories who dont use GAFAMC & Wordpress directly:v
 cautions-and-warnings/, is a popular directory from the old 
 days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. I might be not consistent.
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-anoox.com by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
+anoox.com which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
 exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
 illumirate.com 1 wikipedia 2 others , which 
 uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.,
@@ -849,22 +849,25 @@ https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-
 https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 directoryfind.net : 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=directoryfind.net : atlantis.clearfusion.cloud ,
-directorytop.com 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud ,
+directorytop.com 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud > https://ovhsas.com/ uses Cloudflare. "googletagmanager.com
+wp.com", Google Analytics ;
 2026.08.28/http://www.rankland.com/ : under construction till  35 Days, 17 Hours, 59 Minutes, 13 Seconds,
 2026.08.28/https://www.allthebizz.com/ without functional search engine;
-directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
-unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ .
-], >http://www.amfibi.com/addurl/
+directoryfuse.com idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
+unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ ;
+2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com . ;
+], >
 2026.08.20/https://ahmia.fi/
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
+https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
 2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 uses kamaiedge.net, cdn.livechatinc.com, getclicky.com,
-https://kingbloom.com/ used ebay shorty and other corporate scripts.
+https://kingbloom.com/ used ebay shorty and other corporate scripts.;
+2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com but its a sports-page.;
 
 Gray area:a
 
@@ -873,7 +876,10 @@ incompleted non-area:v
 https://www.apahcinc.org/ by akamaiedge.net ;
 2026.08.28/https://www.web10.ws/by akamaiedge.net ;
 2026.08.28/innerseek.com : "Since we don't accept payments we feel we are a fair and unbiased web directory" (They just feel, not know that they are unbiased and fair, based on non-accepted payments, which having biases goes beyond payments to psychology.) by https://check-host.net/ip-info?host=innerseek.com : SOURCEDNS (TWEANCOM, twean.com) Weblyzer: "Programming language .NETlanguage Web server IIS Microsoft IISv10.0";
-
+2026.08.28/http://www.secretsearchenginelabs.com/ : cloudflare.com
+googletagmanager.com, Host: Akamai Technologies, Google Analytics;
+2026.08.28/https://concertstudy.net/ uses WordPress & is a blog.;
+2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com but its a sports-page. ;
 incompleted non-area:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
