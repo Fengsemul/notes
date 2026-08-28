@@ -810,7 +810,7 @@ Search engine-list:a
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
 [2026.08.16: I assume that http://www.amidalla.de/ despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
 cautions-and-warnings/, is a popular directory from the old 
-days and therefore too popular like ExactSeek. I might be not consistent.
+days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. I might be not consistent.
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
 anoox.com by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
 exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
@@ -834,21 +834,24 @@ https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192
 livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
 ;
 2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
+http://www.whatuseek.com/ had no results at wikipedia.;
 https://www.goguides.com with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
 Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
 incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
-directoryfind.net 0 wikipedia. NameCheap Inc.,
+http://www.webs-best-directory.com/ broken,
 directorytop.com 0 wikipedia. NameCheap Inc.,
 kwikgoblin.com 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
-abboo.com 0 wikipedia by probably NameCheap,
+http://www.addyoursitefreesubmit.com/ broken,
+abboo.com 0 wikipedia by probably NameCheap 2026.08.28/https://check-host.net/ip-info?host=http%253A%252F%252Fwww.abboo.com : atlantis.clearfusion.cloud,
 https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-Unified-Layer,
-https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud ,
+https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
 https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
-innerseek.com by idk,
-directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and CMS: PHP Link Directory 3.3.0,
+>directoryfind.net 0 wikipedia. NameCheap Inc.,
+innerseek.com by https://check-host.net/ip-info?host=innerseek.com : SOURCEDNS (TWEANCOM, twean.com),
+directoryfuse.com idk Wikipedia by https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ .
 ],
 2026.08.20/https://ahmia.fi/
@@ -863,6 +866,11 @@ apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-In
 https://kingbloom.com/ used ebay shorty and other corporate scripts.
 
 Gray area:a
+
+incompleted non-area:v
+2026.08.28/netinsert.com uses Google Adsense at directories.;
+https://www.apahcinc.org/ by akamaiedge.net ;
+incompleted non-area:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
 2026.08.18: broken infotiger.com has Web Server and reverse proxy: nginx and https://check-host.net/ip-info?host=https://www.premium-datacenter.de/ : only Hofmeir Media GmbH having none and not being found by https://hypestat.com/., https://www.whtop.com/review/premium-datacenter.de : " Server Software: 	Apache"; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
