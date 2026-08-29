@@ -1446,8 +1446,33 @@ computing must disable all normal JavaScript execution in their browsers, even i
 who want to respect their users' freedom should work to eliminate all JavaScript requirements on their websites." 
 2019-10-20 ;
 2026.08.28/https://addons.mozilla.org/en-US/firefox/addon/librejs/reviews/?page=2 : "by andreymal, 8 years ago
-It does not block proprietary scripts. It says that a page has no scripts, but a page has lots of proprietary js, and they are working. (I tried to create a bugreport with steps to reproduce on savannah.gnu.org, but the register page does not work lol) Also, librejs is VEEEEEERYYYY SLOOOOOOW, Firefox freezes for 20-30 seconds while librejs is trying to analyze scripts.";
-
+It does not block proprietary scripts. It says that a page has no scripts, but a page has lots of proprietary js, and they 
+are working. (I tried to create a bugreport with steps to reproduce on savannah.gnu.org, but the register page does not 
+work lol) Also, librejs is VEEEEEERYYYY SLOOOOOOW, Firefox freezes for 20-30 seconds while librejs is trying to analyze 
+scripts.";
+2026.08.29/https://www.reddit.com/r/fsf/comments/9ezlkr/why_does_librejs_matter/ : "I understand why native applications 
+from a security and privacy standpoint should be free but, your web browser in theory should keep a most of the JavaScript 
+issues at bay. From my understanding if you disable WebGL then the really only things JS can do is measure how long you 
+were on a web page, what you clicked, installed fonts, resolutions, and where you mouse was. Basic stuff that build some 
+of the fundamental websites of the internet. ", "What about geo-location, behavioral data tracking... Big corps earn 
+billions with all that info.
+You know that JS code once loaded into your PC can all sort of nasty things...
+Install the extension privacy-badger and you will know/ what tracker apis are being loaded...
+eg: Facebook or Chrome, can remember, collected info on folders and files of windows users and send back to their 
+servers.... ", "Install Light Beam: https://addons.mozilla.org/de/firefox/addon/lightbeam/  See how many websites and 
+pages get loaded on your web browser. It is insane.  And every page (not just domain) can execute a separate script. They 
+can even execute script that only executes on certain computers and send data back to the servers to then execute another 
+script. It is very difficult to audit all of this with current tools.  I would understand running LibreJS if it kept track 
+of what JS a site ran and if they were targeting users or something and keep track of the code these sites are using (with 
+security measures in place) but, currently they don't.  Besides, can't they web browser tell if you are running LibreJS? 
+Isn't this a privacy flaw?  Most other flaws can be gotten rid of with Privacy Badger, HTTPS Everywhere, Cookie Auto-
+Delete, and Decentraleyes",
+" It's not an issue of privacy. The FSF has never been about privacy in particular, it's the principle of software freedom 
+itself.
+And yes, I do read javascript. It's running in my browser, I have a right to know what it's doing, as much as I enjoy 
+seeing what the world is doing with JS and learn neat tricks.",
+" You mean beside tracking, popups, scrolljacking and other UI jackassery, cryptocurrency mining, general resource 
+consumption, etc? ";
 Alternative Internet-note:a
 
 Blog-note:v
@@ -1689,7 +1714,15 @@ This script uses https://scribd.vdownloaders.com/ to bypass scribd but it bypass
 2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/akamai-detector/ ;
 2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/platform-detector/ : "Detects the platform/CMS behind any website (WordPress, WooCommerce, Webflow, Shopify, etc.) and reveals detailed WordPress insights.";
 2026.08.20/https://addons.mozilla.org/en-US/firefox/addon/site-blocker-search-scrubber/ (It reminds me of LeanSERPFilter-Minimal.);
+[2026.08.29/https://www.reddit.com/r/fsf/comments/9ezlkr/why_does_librejs_matter/ : > 
+https://addons.mozilla.org/en-US/firefox/addon/librejs/ ,
+https://addons.mozilla.org/en-US/firefox/addon/lightbeam-chikl/ , 
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/ ,
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/ ,
+https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/ ,
+HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Apr 1, 2015
 
+]
 Extension-note:a
 
 Firefox-note:v
