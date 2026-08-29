@@ -1720,9 +1720,10 @@ https://addons.mozilla.org/en-US/firefox/addon/lightbeam-chikl/ ,
 https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/ ,
 https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/ ,
 https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/ ,
-HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Apr 1, 2015
-
-]
+HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Apr 1, 2015 ];
+2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/workarounds-for-nonfree-js/ ;
+2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/tprb-fork/ ;
+2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/librifyjs-libgen-me-repack/
 Extension-note:a
 
 Firefox-note:v
