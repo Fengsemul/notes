@@ -1723,7 +1723,10 @@ https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/ ,
 HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Apr 1, 2015 ];
 2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/workarounds-for-nonfree-js/ ;
 2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/tprb-fork/ ;
-2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/librifyjs-libgen-me-repack/
+2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/librifyjs-libgen-me-repack/ ;
+2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/0c0d3/ < 2026.08.29/https://github.com/0c0d3/-0C0d3-MV3/blob/main/build.js : "//   - NO remote code execution (no eval, no dynamic <script>) //   - NO security header modification //   - MAIN-world code ships as bridge.js via declarative //     content_scripts with "world": "MAIN" (Gecko 128+)";
+https://addons.mozilla.org/en-US/firefox/addon/almost-unique/ : "Blocks JavaScript, CSS, fonts, geolocation requests, and cookies.";
+https://addons.mozilla.org/en-US/firefox/addon/3p-block-mv3/ : "Blocks all third-party scripts, images, frames, and fonts and headers. MV3 ready";
 Extension-note:a
 
 Firefox-note:v
