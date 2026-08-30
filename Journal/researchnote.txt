@@ -97,6 +97,10 @@ Sorry Omar. 147 views";
 #    misskey-white.s3.ap-northeast-1.amazonaws.com";
 Websites-note:a
 
+GitHub-note:v
+2026.08.30/owned by Microsoft; 2026.08.30/https://github.com/abynim/Sketch-Headers/issues/6 : "when you open the Headers directory on Github, type t to search for and jump to the file you are looking for.";
+GitHub-note:a
+
 Google-note:v
 2026.06.29/https://www.q-tech.org/blog/google-removes-option-to-show-more-than-10-results-per-page/ :
 "Why did Google make this change?
