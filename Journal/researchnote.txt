@@ -838,7 +838,7 @@ https://www.sites-internationaux.com/francophone/liste_sites/recherches/recherch
 txtlinks.com/ > Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com",
 http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
-https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
+https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
 livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;]
 [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 http://www.whatuseek.com/ had no results at wikipedia.;
@@ -863,7 +863,8 @@ wp.com", Google Analytics ;
 directoryfuse.com idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ ;
 2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com . ;
-2026.08.28/wlddirectory.com : non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10
+2026.08.28/wlddirectory.com : non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10 ;
+2026.08.30/apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 used akamaiedge.net as Akamai but not anymore or I made an error. cdn.livechatinc.com, getclicky.com,
 ], >
 2026.08.20/https://ahmia.fi/ ;
 2026.08.20/https://discmaster.textfiles.com/ hosted by WebNX found a lot of "Wikipedia". One of them about coding wikipedia.com. The deep content search about wikipedia-links.
@@ -871,16 +872,14 @@ Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
-2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ : 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com but when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
+https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : #https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
+2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
-apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 uses kamaiedge.net, cdn.livechatinc.com, getclicky.com,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
-2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com but its a sports-page.;
-
 Gray area:a
 
 incompleted non-area:v
+2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com It's a sports-page.;
 2026.08.28/netinsert.com uses Google Adsense at directories.;
 https://www.apahcinc.org/ by akamaiedge.net ;
 2026.08.28/https://www.web10.ws/by akamaiedge.net ;
