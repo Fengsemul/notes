@@ -91,6 +91,10 @@ this by accident when they build a new site and dont want the public or the sear
 all the time. It can be for any number of reasons. Sometimes because the page is a duplicate of another, because the information contained is potentially sensitive, or it can just be to clean up a cluttered website. If 
 you have access to a website’s code/files. All you have to do it add the following code to the <head> of the page you want to remove. <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"> P.S Don’t listen to Omar below. 
 Sorry Omar. 147 views";
+2026.08.30/https://github.com/v2fly/domain-list-community/blob/master/data/misskey-universe : "please DO NOT include domains that are only meant to serve static files
+# e.g.
+#    mediaproxy-mi.mashiro.site
+#    misskey-white.s3.ap-northeast-1.amazonaws.com";
 Websites-note:a
 
 Google-note:v
