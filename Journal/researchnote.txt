@@ -872,14 +872,31 @@ unfinished search inside loudtechie.com/free-600-directory-submission-sites-list
 2026.08.20/https://discmaster.textfiles.com/ 100% LibreJS-access. hosted by WebNX found a lot of "Wikipedia". One of them about coding wikipedia.com. The deep content search about wikipedia-links.;
 [ 2026.08.30/https://xka.cz/preferences : https://openlibrary.org/ 100% LibreJS-access. But popular.;
 qwant.com/ 0% LibreJS. > datadome.co;
-seznam.cz 10% LibreJS: mapy.cz, sdn.cz, sentry-cdn.com, https://check-host.net/ip-info?host=https://www.seznam.cz/ ;
-wikibooks, wikiquote, wikisource, wikispecies, wikiversity, wikivoyage, wikidata.org, wikipedia works LibreJS-access. But popular.;
+wikibooks, wikiquote, wikisource, wikispecies, wikiversity, wikivoyage, wikidata.org, wikipedia, wiktionary, https://commons.wikimedia.org/wiki/Main_Page works with 75% LibreJS-access. Except pictures. But popular.;
 https://mwmbl.org/ 0% LibreJS-access. "Technology Frontend SvelteKit framework Svelte frontend UI / CSS Tailwind CSS ui Programming language Node.js language JavaScript language Web server Nginx";
 https://vuhuv.com/?q=test 0% LibreJS-access. https://check-host.net/ip-info?host=https://vuhuv.com :  	"Vuhuv Telekomunikasyon A.S.";
 https://yacy.net/ seemingly 100% LibreJS. I need to download. Hosted by Hetzner.;
 https://www.bpb.de/ 5% LibreJS-access. Search engine doesnt work without nonfree-JS. Links at homepage does. But gov.;
-https://fr.wikimini.org/wiki/Accueil 90% : LibreJS-access  	Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0, https://sv.wikimini.org/wiki/Huvudsida : 90% LibreJS-access, wikimini.org 0% LibreJS-access. hosted by Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0 But popular.;
+https://fr.wikimini.org/wiki/Accueil 90% : LibreJS-access  	Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org, wikinews, https://species.wikimedia.org/ , " CMS M MediaWikiv1.28.0, https://sv.wikimini.org/wiki/Huvudsida : 90% LibreJS-access, wikimini.org 0% LibreJS-access. hosted by Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0 But popular.;
 https://www.so.com/s?ie=utf-8&shb=1&src=noscript_home&q=test : 15% LibreJS because some links are clickable, yet redirects to another so.com-link. Links can be copypasted. "360qhcdn.com 360tres.com qhupdate.com" "Web server OR OpenRestyv1.15.8.3" https://check-host.net/ip-info?host=https://www.so.com/haosou.html?src=home : "SP / Org  CHINA TELECOM (AMERICAS) CORPORATION (QiHU 360 Inc.) Country  United States (US)" "ISP / Org  QiHU 360 Inc. (Beijing Qihu Technology Company Limited) Country  United States (US)" https://en.wikipedia.org/wiki/China_Telecom : "It is one of the publicly traded red chip companies of the state-owned China Telecommunications Corporation." "Owner	China Telecommunications Corporation (70.89%)" "In April 2024, the FCC ordered U.S. units of China Telecom to discontinue operations in the country. The FCC previously found that China Telecom used Border Gateway Protocol vulnerabilities to misroute U.S. internet traffic on at least six occasions.[32]" But gov. And distrust. https://en.wikipedia.org/wiki/China_Telecommunications_Corporation : "is a Chinese state-owned telecommunication conglomerate. It is the largest fixed-line service and one of the three major mobile telecommunication providers in China.";
+https://media.ccc.de/v/1c2-6610-reverse_turing_test 50% LibreJS-access. No video is working, but the most part does.;
+https://joinpeertube.org/browse-content cant search with 0% LibreJS-access.;
+https://sepiasearch.org/search?search=test&page=1 10% LibreJS-access.;
+https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine.;
+openstreetmap.org 10% LibreJS.; https://photon.komoot.io/api/?q=berlin 100% LibreJS-access.;
+https://packagist.org/search/?query=test 100% LibreJS-access. https://check-host.net/ip-info?host=https://packagist.org : "Datacamp Limited" ;
+https://pypi.org/search/?q=test&o= 2% LibreJS-access, with jsdelivr.net
+pypi-camo.freetls.fastly.ne amd else inside results.;
+https://sourcehut.org/ LibreJS-access.;
+https://directory.fsf.org/wiki/Main_Page : read Wikis. But popular.;
+https://wiki.gentoo.org/wiki/Main_Page ;
+https://lobste.rs/ They all worked without LibreJS, I think.;
+https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.org/ 95% LibreJS-access : " Edit on GitLab" But popular.;
+https://annas-archive.gl/ 90% LibreJS-access. But popular.;
+https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed.;
+https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of pictures.;
+
+
 ]
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
@@ -889,6 +906,8 @@ https://www.businessseek.biz/ uses bing.com at startpage but not at search? They
 2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com LibreJS-accessable. as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
+2026.08.30: broken https://pypi.org/search/?q=test when searching and browsing files as 2% LibreJS-access.;
+
 Gray area:a
 
 incompleted non-area:v
@@ -901,6 +920,11 @@ https://www.apahcinc.org/ by akamaiedge.net ;
 googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.08.28/https://concertstudy.net/ uses WordPress & is a blog.;
 2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com but its a sports-page. ;
+2026.08.30/#seznam.cz 10% LibreJS: uses googletagmanager, mapy.cz, sdn.cz, sentry-cdn.com, https://check-host.net/ip-info?host=https://www.seznam.cz/ ;
+2026.08.30/https://hoogle.haskell.org/?hoogle=est&scope=set%3Astackage : 10% LibreJS-access. Technology Detector: Ad Networks: Google Ads.;
+2026.08.30/https://developer.mozilla.org/en-US/ : Google Cloud;
+2026.08.30/https://fyyd.de/ 70% LibreJS-access https://fyyd.de/episode/1131069 uses archive.org, so popular. https://fyyd.de/episode/1107081 uses google.com.;
+2026.08.30/https://www.chefkoch.de/ Technology Detector: "Tag Managers: Google Tag Manager";
 incompleted non-area:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
