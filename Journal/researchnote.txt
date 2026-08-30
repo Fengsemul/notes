@@ -532,7 +532,8 @@ directory to 1,000 files. 518 entries were omitted from the list. Latest commit 
 2026.06.29/domainrank.io/ with 1 milion;
 https://domains-monitor.com/ ;
 https://newly-registered-domains.whoisxmlapi.com/ ;
-2026.07.12/https://github.com/jmdugan/blocklists/tree/master : corporations
+2026.07.12/https://github.com/jmdugan/blocklists/tree/master : corporations ;
+2026.08.30/https://github.com/hiboyhiboy/opt-file/blob/master/geosite.dat ;
 Top Websites-list:a
 
 Top Websites summerized -folderv
@@ -816,64 +817,76 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 Search engine-list:a
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
-[2026.08.16: I assume that http://www.amidalla.de/ despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
+[2026.08.16: I assume that http://www.amidalla.de/ 11% LibreJS-access for clicking through category and searching for preferred match manually till one can read the same meta-descriptions in search-results. Despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
 cautions-and-warnings/, is a popular directory from the old 
 days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. I might be not consistent.
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-anoox.com which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
+https://anoox.com/find.php?start=0&search=tests 9% LibreJS-access, which ads-links can be copied, but they're all behind the loading-screen despite the results being loaded. which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
 exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
-illumirate.com 1 wikipedia 2 others , which 
+illumirate.com LibreJS-accessable. 1 wikipedia 2 others , which 
 uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.,
-http://info-listings.com/ which doesnt found Wikipedia by https://
+http://info-listings.com/ LibreJS-access. which doesnt found Wikipedia by https://
 whatcms.org/c/PHP-Link-Directory and  https://www.who-hosts-this.com/Hosts/97-Hawk-Host-Inc and "WhatRuns Detector
 CMS: PHP Link Directory 3.4.0" with hawkhost.com using cloudflare and googletagmanager.com and phplinkdirectory.com using google and wordpress.,
 technically https://infotiger.com/ hosted by https://www.who-hosts-this.com/Hosts/3445-Hofmeir-Media-GmbH > premium-datacenter.de/ with idk CMS has none but its broken. https://www.ipaddress.com/website/infotiger.com/ : Server Header:   nginx,
-lookseek.com hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
-sonicrun.com/ by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
+lookseek.com 0% LibreJS-access. hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
+sonicrun.com/ LibreJS-access. by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
 "WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon.;
-mojeek.com > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
+mojeek.com 0% LibreJS-access. > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
 Library: jquery.com/ > Cloudflare.;
-2026.08.16/www.freewebsubmission.com/ : https://wiby.me > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS,
+2026.08.16/www.freewebsubmission.com/ : 
+https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS,
 https://www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare,
-txtlinks.com/ > Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com",
+txtlinks.com/ 10% LibreJS-access> Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com",
 http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
-https://www.allbusinessdirectory.biz/ > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
-livewebdirectory.com/ > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;]
+https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
+livewebdirectory.com/ LibreJS-access. Non-functional search engine. > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;]
 [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
-http://www.whatuseek.com/ had no results at wikipedia.;
-https://www.goguides.com with "Trust Profile
+http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS.;
+https://www.goguides.com Accessible with LibreJS. with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
 Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
-incrawler.com found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
+incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
 http://www.webs-best-directory.com/ broken,
-kwikgoblin.com 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
+kwikgoblin.com LibreJS-access. 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
 http://www.addyoursitefreesubmit.com/ broken,
-abboo.com 0 wikipedia by probably NameCheap 2026.08.28/https://check-host.net/ip-info?host=http%253A%252F%252Fwww.abboo.com : atlantis.clearfusion.cloud,
-https://searchturtle.com 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-Unified-Layer,
-https://yeandi.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
-https://azlisted.com/ by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
-directoryfind.net : 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=directoryfind.net : atlantis.clearfusion.cloud ,
-directorytop.com 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud > https://ovhsas.com/ uses Cloudflare. "googletagmanager.com
+abboo.com LibreJS-access. 0 wikipedia by probably NameCheap 2026.08.28/https://check-host.net/ip-info?host=http%253A%252F%252Fwww.abboo.com : atlantis.clearfusion.cloud,
+https://searchturtle.com 0% LibreJS-access. 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-Unified-Layer,
+https://yeandi.com/ 100% LibreJS. by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
+https://azlisted.com/ LibreJS-access. by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
+directoryfind.net : LibreJS-access. 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=directoryfind.net : atlantis.clearfusion.cloud ,
+directorytop.com LibreJS-access. 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud > https://ovhsas.com/ uses Cloudflare. "googletagmanager.com
 wp.com", Google Analytics ;
 2026.08.28/http://www.rankland.com/ : under construction till  35 Days, 17 Hours, 59 Minutes, 13 Seconds,
 2026.08.28/https://www.allthebizz.com/ without functional search engine;
-directoryfuse.com idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
+directoryfuse.com LibreJS-access. idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ ;
 2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com . ;
-2026.08.28/wlddirectory.com : non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10 ;
-2026.08.30/apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 used akamaiedge.net as Akamai but not anymore or I made an error. cdn.livechatinc.com, getclicky.com,
+2026.08.28/wlddirectory.com : LibreJS-access. non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10 ;
+2026.08.30/apahcinc.org 2 wikipedia by https://www.who-hosts-this.com/Hosts/47-Namecheap-Inc and CMS: PHP Link Directory 3.0.6 used akamaiedge.net as Akamai but not anymore or I made an error. Works kinda with LibreJS and . cdn.livechatinc.com, getclicky.com,
 ], >
-2026.08.20/https://ahmia.fi/ ;
-2026.08.20/https://discmaster.textfiles.com/ hosted by WebNX found a lot of "Wikipedia". One of them about coding wikipedia.com. The deep content search about wikipedia-links.
+2026.08.20/https://ahmia.fi/ LibreJS-access. But popular. On community-domain-list.;
+2026.08.20/https://discmaster.textfiles.com/ 100% LibreJS-access. hosted by WebNX found a lot of "Wikipedia". One of them about coding wikipedia.com. The deep content search about wikipedia-links.;
+[ 2026.08.30/https://xka.cz/preferences : https://openlibrary.org/ 100% LibreJS-access. But popular.;
+qwant.com/ 0% LibreJS. > datadome.co;
+seznam.cz 10% LibreJS: mapy.cz, sdn.cz, sentry-cdn.com, https://check-host.net/ip-info?host=https://www.seznam.cz/ ;
+wikibooks, wikiquote, wikisource, wikispecies, wikiversity, wikivoyage, wikidata.org, wikipedia works LibreJS-access. But popular.;
+https://mwmbl.org/ 0% LibreJS-access. "Technology Frontend SvelteKit framework Svelte frontend UI / CSS Tailwind CSS ui Programming language Node.js language JavaScript language Web server Nginx";
+https://vuhuv.com/?q=test 0% LibreJS-access. https://check-host.net/ip-info?host=https://vuhuv.com :  	"Vuhuv Telekomunikasyon A.S.";
+https://yacy.net/ seemingly 100% LibreJS. I need to download. Hosted by Hetzner.;
+https://www.bpb.de/ 5% LibreJS-access. Search engine doesnt work without nonfree-JS. Links at homepage does. But gov.;
+https://fr.wikimini.org/wiki/Accueil 90% : LibreJS-access  	Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0, https://sv.wikimini.org/wiki/Huvudsida : 90% LibreJS-access, wikimini.org 0% LibreJS-access. hosted by Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0 But popular.;
+https://www.so.com/s?ie=utf-8&shb=1&src=noscript_home&q=test : 15% LibreJS because some links are clickable, yet redirects to another so.com-link. Links can be copypasted. "360qhcdn.com 360tres.com qhupdate.com" "Web server OR OpenRestyv1.15.8.3" https://check-host.net/ip-info?host=https://www.so.com/haosou.html?src=home : "SP / Org  CHINA TELECOM (AMERICAS) CORPORATION (QiHU 360 Inc.) Country  United States (US)" "ISP / Org  QiHU 360 Inc. (Beijing Qihu Technology Company Limited) Country  United States (US)" https://en.wikipedia.org/wiki/China_Telecom : "It is one of the publicly traded red chip companies of the state-owned China Telecommunications Corporation." "Owner	China Telecommunications Corporation (70.89%)" "In April 2024, the FCC ordered U.S. units of China Telecom to discontinue operations in the country. The FCC previously found that China Telecom used Border Gateway Protocol vulnerabilities to misroute U.S. internet traffic on at least six occasions.[32]" But gov. And distrust. https://en.wikipedia.org/wiki/China_Telecommunications_Corporation : "is a Chinese state-owned telecommunication conglomerate. It is the largest fixed-line service and one of the three major mobile telecommunication providers in China.";
+]
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
 https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : #https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
-2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
+2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com LibreJS-accessable. as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
 Gray area:a
@@ -1734,6 +1747,7 @@ HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Ap
 2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/0c0d3/ < 2026.08.29/https://github.com/0c0d3/-0C0d3-MV3/blob/main/build.js : "//   - NO remote code execution (no eval, no dynamic <script>) //   - NO security header modification //   - MAIN-world code ships as bridge.js via declarative //     content_scripts with "world": "MAIN" (Gecko 128+)";
 https://addons.mozilla.org/en-US/firefox/addon/almost-unique/ : "Blocks JavaScript, CSS, fonts, geolocation requests, and cookies.";
 https://addons.mozilla.org/en-US/firefox/addon/3p-block-mv3/ : "Blocks all third-party scripts, images, frames, and fonts and headers. MV3 ready";
+2026.08.30/https://haketilo.koszko.org/downloads#webextension
 Extension-note:a
 
 Firefox-note:v
