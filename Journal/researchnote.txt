@@ -886,7 +886,7 @@ openstreetmap.org 10% LibreJS.; https://photon.komoot.io/api/?q=berlin 100% Libr
 https://packagist.org/search/?query=test 100% LibreJS-access. https://check-host.net/ip-info?host=https://packagist.org : "Datacamp Limited" But popular. ;
 https://pypi.org/search/?q=test&o= 2% LibreJS-access, with jsdelivr.net
 pypi-camo.freetls.fastly.ne amd else inside results.;
-https://sourcehut.org/ LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
+https://sourcehut.org/ / https://sr.ht/projects?search= LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
 https://directory.fsf.org/wiki/Main_Page : read Wikis.;
 https://wiki.gentoo.org/wiki/Main_Page except fonts and else, gentoo works with 90% LibreJS-access. But popular.;
 https://lobste.rs/ They all worked without LibreJS, I think.;
