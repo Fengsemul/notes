@@ -894,7 +894,9 @@ https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.or
 https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
 https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy .;
-https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;
+https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
+[ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: https://www.weddingservicecompanies.com/ LibreJS-access.;
+https://directoryauto.com/ : 10% LibreJS. JQuery.;
 
 
 ]
@@ -928,6 +930,28 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 #https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
 
 incompleted non-area:a
+
+less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
+apahcinc.org ; whatuseek.com ; goguides.com ;
+incrawler.com ; directorytop.com ; https://directoryfuse.com ;
+wlddirectory.com ; textfiles.com ; allbusinessdirectory.biz ;
+info-listings.com ; sonicrun.com ; illumirate.com ;
+joeant.com ; livewebdirectory.com ; yeandi.com ;
+navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
+lemmy.ml ; directory.fsf.org ; weddingservicecompanies.com ;
+less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
+
+neglected: bpb.de ; destatis.de ; 
+
+DA-note:v
+2026.09.01/ : "1019 	https://bobresources.com 	15 	43" HypeStats:"Daily Visitors 106 68.3% Monthly Visits3.2K 14.37% Pages per Visit1.5 21.72% Visit duration03:16 11.31% Bounce Rate74.00% 43.41% HypeRank7,399,747", "Global Reach:
+    0.0000022%" is below "973 	https://directoryfuse.com 	16 	43":HypeStats:"Daily Visitors365K
+Monthly Visits11M
+Pages per Visit3.1
+Visit durationn/a
+Bounce Raten/a
+HypeRank127,987" Both "bobsresources" and "directoryfuse" is unmentioned in 2026_07_13_top100110millions_main_domains_host
+DA-note:a
 
 non-Wordpress and indirectly-GAFAMC-related search engines:v
 2026.08.18: broken infotiger.com has Web Server and reverse proxy: nginx and https://check-host.net/ip-info?host=https://www.premium-datacenter.de/ : only Hofmeir Media GmbH having none and not being found by https://hypestat.com/., https://www.whtop.com/review/premium-datacenter.de : " Server Software: 	Apache"; 2026.08.17/https://xka.cz/preferences : "Internet Archive (Source: wikidata)
