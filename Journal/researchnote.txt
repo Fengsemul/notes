@@ -976,6 +976,47 @@ https://open-search.aleph-networks.eu/en hosted by ONLINE S.A.S./Scaleway SAS: R
 https://check-host.net/ip-info?host=https://open-search.aleph-networks.eu/en : Scaleway SAS, https://www.scaleway.com/en/ hosted by Cloudflare > com.cdn.cloudflare.net
 glorified non-GAFAM search engines:a
 
+sorted less JS relatively non-GAFAM search engines and directories:v
+2026.09.08/	"*://apahcinc.org/*",
+    "*://*.apahcinc.org/*",
+	"*://whatuseek.com/*",
+    "*://*.whatuseek.com/*",
+	"*://goguides.com/*",
+    "*://*.goguides.com/*",
+	"*://incrawler.com/*",
+    "*://*.incrawler.com/*",
+	"*://directorytop.com/*",
+    "*://*.directorytop.com/*",
+	"*://directoryfuse.com/*",
+    "*://*.directoryfuse.com/*",
+	"*://wlddirectory.com/*",
+    "*://*.wlddirectory.com/*",
+	"*://textfiles.com/*",
+    "*://*.textfiles.com/*",
+	"*://allbusinessdirectory.biz/*",
+    "*://*.allbusinessdirectory.biz/*",
+	"*://sonicrun.com/*",
+    "*://*.sonicrun.com/*",
+	"*://illumirate.com/*",
+    "*://*.illumirate.com/*",
+	"*://joeant.com/*",
+    "*://*.joeant.com/*",
+	"*://livewebdirectory.com/*",
+    "*://*.livewebdirectory.com/*",
+	"*://yeandi.com/*",
+    "*://*.yeandi.com/*",
+	"*://sr.ht/*",
+	"*://*.sr.ht/*",
+	"*://lobste.rs/*",
+    "*://*.lobste.rs/*",
+	"*://lemmy.ml/*",
+    "*://*.lemmy.ml/*",
+	"*://directory.fsf.org/*",
+    "*://*.directory.fsf.org/*",
+	"*://weddingservicecompanies.com/*",
+	"*://*.weddingservicecompanies.com/*"
+sorted less JS relatively non-GAFAM search engines and directories:a
+
 GAFAM-note:v
 2026.08.17/https://techrights.org/n/2026/05/08/It_s_Not_a_GAFAM_World_Anymore_and_There_Are_Far_More_Operating.shtml :
 "We see Windows at all-time lows in many countries such as Ethiopia and Bahrain (to name two among dozens of examples this month). statCounter does not count HarmonyOS, it's just classified as "Unknown" (or other).
