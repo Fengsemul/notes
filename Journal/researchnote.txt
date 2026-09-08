@@ -932,8 +932,20 @@ https://directoryauto.com/ : 10% LibreJS-access. JQuery.; ];
 2026.09.08/https://www.online.lt/ 100% LibreJS-access. HypeRank: 8,692,493 . ;
 2026.09.08/https://www.yusearch.com/ search isnt working. 100% LibreJS-access. ;
 2026.09.08/srpska-mreza.com/links/links.html Just directory.  100% LibreJS-access.;
+2026.09.08/raziskovalec.com/ has broken search engine. Assumingly 15% LibreJS-access.;
+2026.09.08/yellowpages.si/yellowpage/a/ayellow.html is only directory. Assumingly 30% LibreJS-access.;
+2026.09.08/http://www.solomantenimiento.com/wanboguanwangmanbetx/news/ is chinese inside Spain-section and typing in search-bar doesn't work regardless of LibreJS.;
+2026.09.08/https://www.ukpages.co.uk/ Directory. 100% LibreJS-access.;
+[2026.09.08/unbubble.eu/ Closed. 100% LibreJS-access. > https://metager.de/
+https://www.wolframalpha.com/ 0% LibreJS-access.;
+https://www.blinde-kuh.de/ directory 100% LibreJS-access.;
+https://swisscows.com/en/web?query=test 0% LibreJS-access.;
 
+]
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
+
+"My website": 2026.09.08/https://www.galiciacity.com/;
+https://search.creativecommons.org/ is hosted by amazon.
 
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
