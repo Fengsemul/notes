@@ -918,10 +918,8 @@ https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
 https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
 [ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: https://www.weddingservicecompanies.com/ LibreJS-access.;
-https://directoryauto.com/ : 10% LibreJS. JQuery.;
-
-
-]
+https://directoryauto.com/ : 10% LibreJS. JQuery.; ];
+2026.09.08: from 18 million domains unpopular webdirectorybit.com seemingly 100% LibreJS-access
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
@@ -960,7 +958,7 @@ wlddirectory.com ; textfiles.com ; allbusinessdirectory.biz ;
 info-listings.com ; sonicrun.com ; illumirate.com ;
 joeant.com ; livewebdirectory.com ; yeandi.com ;
 navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
-lemmy.ml ; directory.fsf.org ; weddingservicecompanies.com ;
+; directory.fsf.org ; weddingservicecompanies.com ; webdirectorybit.com ;
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
 
 neglected: bpb.de ; destatis.de ; 
@@ -1032,7 +1030,9 @@ sorted less JS relatively non-GAFAM search engines and directories:v
 	"*://directory.fsf.org/*",
     "*://*.directory.fsf.org/*",
 	"*://weddingservicecompanies.com/*",
-	"*://*.weddingservicecompanies.com/*"
+	"*://*.weddingservicecompanies.com/*",
+	"*://webdirectorybit.com/*",
+	"*://*.webdirectorybit.com/*",
 sorted less JS relatively non-GAFAM search engines and directories:a
 
 GAFAM-note:v
