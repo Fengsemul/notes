@@ -836,7 +836,8 @@ boitho-note:a
 Search engine-list:v
 Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .com/report/smartsearchdirect .com : Rating : 3.5 Stars; 2025.12.15/generaldirectory .biz/smart,search,direct,more-16883.htm ;
 2025.12.15/daduru .com/internet/internet-search/ : < daduru .com/azooscom-internet-search-engine-3943.html > 2025.12.15/azoos .com ;
-2026.06.20/https://uadetector.sourceforge.net/modules/uadetector-core/apidocs/net/sf/uadetector/UserAgentFamily.html#BECOMEBOT
+2026.06.20/https://uadetector.sourceforge.net/modules/uadetector-core/apidocs/net/sf/uadetector/UserAgentFamily.html#BECOMEBOT ;
+[2026.09.08/https://www.searchenginesoftheworld.com/ : ]
 Search engine-list:a
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
@@ -918,8 +919,20 @@ https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
 https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
 [ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: https://www.weddingservicecompanies.com/ LibreJS-access.;
-https://directoryauto.com/ : 10% LibreJS. JQuery.; ];
-2026.09.08: from 18 million domains unpopular webdirectorybit.com seemingly 100% LibreJS-access
+https://directoryauto.com/ : 10% LibreJS-access. JQuery.; ];
+2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
+2026.09.08: sierra-leone.org 100% LibreJS-access;
+2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
+2026.09.08: daum.net has akamai. 80% LibreJS-access.;
+2026.09.08: from 18 million hostnames unpopular albafind.com seemingly 100& LibreJS-access. HypeRank: n/a;
+2026.09.08: http://www.info.co.at directory with 100& LibreJS-access.;
+2026.09.08/kypros.org 100& LibreJS-access.;
+2026.09.08/http://odysseus.culture.gr with just the search-redirect-link on search 0.01% LibreJS-access. © 2012 Ministry of Education and Religious Affairs, Culture and Sports gov.;
+2026.09.08/lanet.lv and http://www.lanet.lv/util/search/ 100% LibreJS-access.;
+2026.09.08/https://www.online.lt/ 100% LibreJS-access. HypeRank: 8,692,493 . ;
+2026.09.08/https://www.yusearch.com/ search isnt working. 100% LibreJS-access. ;
+2026.09.08/srpska-mreza.com/links/links.html Just directory.  100% LibreJS-access.;
+
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 Gray area:v
@@ -947,8 +960,7 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.08.30/https://developer.mozilla.org/en-US/ : Google Cloud;
 2026.08.30/https://fyyd.de/ 70% LibreJS-access https://fyyd.de/episode/1131069 uses archive.org, so popular. https://fyyd.de/episode/1107081 uses google.com.;
 2026.08.30/https://www.chefkoch.de/ Technology Detector: "Tag Managers: Google Tag Manager";
-#https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
-
+2026.08.30/https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
 incompleted non-area:a
 
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
@@ -959,6 +971,7 @@ info-listings.com ; sonicrun.com ; illumirate.com ;
 joeant.com ; livewebdirectory.com ; yeandi.com ;
 navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
 ; directory.fsf.org ; weddingservicecompanies.com ; webdirectorybit.com ;
+albafind.com ;
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
 
 neglected: bpb.de ; destatis.de ; 
@@ -1891,7 +1904,7 @@ Chrome to Firefox:v
 2026.07.27/https://github.com/OtsoBear/chrome2moz : Live Demo: https://otsobear.github.io/chrome2moz/
 Chrome to Firefox:a
 
-Experimental search engine-not:v
+Experimental search engine-note:v
 from chrome-extension://oladmjdebphlnjjcnomfhhbfdldiimaf/pages/options/index.html#reddit : 2026.07.04/https://about.opnxng.com/blog/ : Google doesnt work on all instances. Degoog does but i dont know if its google.;
 Experimental search engine-note:a
 
