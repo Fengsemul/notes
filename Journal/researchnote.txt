@@ -916,7 +916,6 @@ https://lobste.rs/ They all worked without LibreJS, I think.;
 https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.org/ 95% LibreJS-access : " Edit on GitLab" But popular.;
 https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
-https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy .;
 https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
 [ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: https://www.weddingservicecompanies.com/ LibreJS-access.;
 https://directoryauto.com/ : 10% LibreJS. JQuery.;
@@ -932,7 +931,7 @@ https://www.businessseek.biz/ uses bing.com at startpage but not at search? They
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
 2026.08.30: broken https://pypi.org/search/?q=test when searching and browsing files as 2% LibreJS-access.;
-
+2026.08.30: https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy . 2026.09.08: CloudFlare was requested when searching "test" and "lemmy".;
 Gray area:a
 
 incompleted non-area:v
@@ -1030,8 +1029,6 @@ sorted less JS relatively non-GAFAM search engines and directories:v
 	"*://*.sr.ht/*",
 	"*://lobste.rs/*",
     "*://*.lobste.rs/*",
-	"*://lemmy.ml/*",
-    "*://*.lemmy.ml/*",
 	"*://directory.fsf.org/*",
     "*://*.directory.fsf.org/*",
 	"*://weddingservicecompanies.com/*",
