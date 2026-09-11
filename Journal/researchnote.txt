@@ -930,7 +930,7 @@ linknarrative.info 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyze
 https://linkdirectory.com.ar : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
 https://directorycloud.info/ : 100% LibreJS-access. No "wikipedia"-results.;
 https://10directory.info/ : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
-https://workdirectory.info/ : go.jpg 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.; ...
+70. https://workdirectory.info/ : go.jpg 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.; ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
