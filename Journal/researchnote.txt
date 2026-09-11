@@ -847,7 +847,7 @@ days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
 https://anoox.com/find.php?start=0&search=tests 9% LibreJS-access, which ads-links can be copied, but they're all behind the loading-screen despite the results being loaded. which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
 exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
-illumirate.com LibreJS-accessable. 1 wikipedia 2 others , which 
+illumirate.com : apple-touch-icon.png , LibreJS-accessable. 1 wikipedia 2 others , which 
 uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.,
 http://info-listings.com/ LibreJS-access. which doesnt found Wikipedia by https://
 whatcms.org/c/PHP-Link-Directory and  https://www.who-hosts-this.com/Hosts/97-Hawk-Host-Inc and "WhatRuns Detector
@@ -865,14 +865,14 @@ txtlinks.com/ 10% LibreJS-access> Host: https://www.who-hosts-this.com/Hosts/930
 http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
 https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
-livewebdirectory.com/ LibreJS-access. Non-functional search engine. > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;]
+]
 [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS.;
 https://www.goguides.com Accessible with LibreJS. with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
-Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia",
+Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia" goguides.com/apple-touch-icon.png as Apple,
 incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
 http://www.webs-best-directory.com/ broken,
 kwikgoblin.com LibreJS-access. 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
@@ -882,11 +882,11 @@ https://searchturtle.com 0% LibreJS-access. 3 wikipedia by https://www.who-hosts
 https://yeandi.com/ 100% LibreJS. by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
 https://azlisted.com/ LibreJS-access. by https://www.who-hosts-this.com/Hosts/2-OVHcloud,
 directoryfind.net : LibreJS-access. 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=directoryfind.net : atlantis.clearfusion.cloud ,
-directorytop.com LibreJS-access. 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud > https://ovhsas.com/ uses Cloudflare. "googletagmanager.com
+directorytop.com : Weblyzer: brmark.gif , LibreJS-access. 0 wikipedia. tech. dect.: Registar: NameCheap Inc. https://check-host.net/ip-info?host=http://www.directorytop.com/ : atlantis.clearfusion.cloud > https://ovhsas.com/ uses Cloudflare. "googletagmanager.com
 wp.com", Google Analytics ;
 2026.08.28/http://www.rankland.com/ : under construction till  35 Days, 17 Hours, 59 Minutes, 13 Seconds,
 2026.08.28/https://www.allthebizz.com/ without functional search engine;
-directoryfuse.com LibreJS-access. Being outside 2026-07-12 top100110millions_main_domains_host . idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
+directoryfuse.com : Weblyzer: Dev-X(Green), LibreJS-access. Being outside 2026-07-12 top100110millions_main_domains_host . idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ ;
 2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com . ;
 2026.08.28/wlddirectory.com : LibreJS-access. non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10 ;
@@ -919,10 +919,16 @@ https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
 https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
 [ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: 
-directorycodes.com : 90% LibreJS-access because Ask the desk loads too long & search engines inside categories doesnt work, but text-search and clicking right categories is enough. apple-influence: assets/apple-touch-icon.png : 24 KB;
-
+unpopular 2026.09.11/directorycodes.com : 90% LibreJS-access because "Ask the desk" loads too long & search engines inside categories doesnt work, but text-search and clicking right categories is enough. apple-influence: assets/apple-touch-icon.png : 24 KB;
+2026.09.11/24directory.com.ar 100% LibreJS-access;
+2026.09.11/seofriendly.com.ar 100% LibreJS-access, no search engine.;
+submitlink.com.ar 100% LibreJS-access ;
+https://corpdirectory.info/ : No "wikipedia"-results. statcounter.com sBtn.gif/TV corp 100% LibreJS-access ;
+https://prsl.info/ 100% LibreJS-access, no search engine.;
+unp. https://submitbusinessdirectory.info/ 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
+linknarrative.info 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
 https://www.weddingservicecompanies.com/ LibreJS-access.;
-https://directoryauto.com/ : 10% LibreJS-access. JQuery.; 
+unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
 2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
 2026.09.08: sierra-leone.org 100% LibreJS-access;
@@ -954,14 +960,14 @@ https://search.creativecommons.org/ is hosted by amazon.
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
 https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : #https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
-2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com LibreJS-accessable. as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
+2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com Directory is LibreJS-accessable, search engine isnt. as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
 2026.08.30: broken https://pypi.org/search/?q=test when searching and browsing files as 2% LibreJS-access.;
 2026.08.30: https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy . 2026.09.08: CloudFlare was requested when searching "test" and "lemmy".;
 Gray area:a
 
-incompleted non-area:v
+incomplete-written black area:v
 2026.08.26/https://www.ewebresource.com/ has cdnhwcprh113.com > https://clashios.app/rule/huawei : cdnhwcprh113.com It's a sports-page.;
 2026.08.28/netinsert.com uses Google Adsense at directories.;
 https://www.apahcinc.org/ by akamaiedge.net ;
@@ -977,17 +983,18 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.08.30/https://fyyd.de/ 70% LibreJS-access https://fyyd.de/episode/1131069 uses archive.org, so popular. https://fyyd.de/episode/1107081 uses google.com.;
 2026.08.30/https://www.chefkoch.de/ Technology Detector: "Tag Managers: Google Tag Manager";
 2026.08.30/https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
-incompleted non-area:a
+2026.08.16/livewebdirectory.com/ LibreJS-access. Non-functional search engine. 2026.09.11/Analytics GA Google AdSenseanalytics > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
+incomplete-written black area:a
 
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
-apahcinc.org ; whatuseek.com ; goguides.com ;
-incrawler.com ; directorytop.com ; https://directoryfuse.com ;
+apahcinc.org ; whatuseek.com  ;
+incrawler.com ; directorytop.com ; directoryfuse.com ;
 wlddirectory.com ; textfiles.com ; allbusinessdirectory.biz ;
-info-listings.com ; sonicrun.com ; illumirate.com ;
-joeant.com ; livewebdirectory.com ; yeandi.com ;
+info-listings.com ; sonicrun.com ;
+joeant.com ; yeandi.com ;
 navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
-; directory.fsf.org ; weddingservicecompanies.com ; webdirectorybit.com ;
-albafind.com ;
+; directory.fsf.org ; submitbusinessdirectory.info ; weddingservicecompanies.com ; webdirectorybit.com ;
+albafind.com ; submitbusinessdirectory.info ; directoryauto.com
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
 
 neglected: bpb.de ; destatis.de ; 
