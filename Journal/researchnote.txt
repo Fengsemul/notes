@@ -865,7 +865,7 @@ txtlinks.com/ 10% LibreJS-access> Host: https://www.who-hosts-this.com/Hosts/930
 http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
 https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
-]
+];
 [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS.;
 https://www.goguides.com Accessible with LibreJS. with "Trust Profile
@@ -927,6 +927,10 @@ https://corpdirectory.info/ : No "wikipedia"-results. statcounter.com sBtn.gif/T
 https://prsl.info/ 100% LibreJS-access, no search engine.;
 unp. https://submitbusinessdirectory.info/ 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
 linknarrative.info 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
+https://linkdirectory.com.ar : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
+https://directorycloud.info/ : 100% LibreJS-access. No "wikipedia"-results.;
+https://10directory.info/ : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
+https://workdirectory.info/ : go.jpg 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.; ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
