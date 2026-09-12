@@ -2257,6 +2257,10 @@ As I've said before, I believe that eventually DNA is likely to have a role in a
 Companies don't "back up" their archives, they migrate them. And the reason for the migration isn't that hard drives have a "relatively short lifespan". The reason is that Kryder's Law has meant that after 4-5 years the old drives no longer justify their slot in the infrastructure against the much denser new drives in terms of $/byte. The drives are designed for a service life of only 4-5 years because the vendors know they will be replaced after that time even if they are still working perfectly. Hard drive media already have archival data retention times of 2-3 decades, but that has nothing to do with their service life."
 long lasting devices-note:a
 
+Microworkers-note:v
+2026.09.12/https://hal.science/hal-04352358/document : p.10.;
+Microworkers-note:a
+
 maybe deduction/rationalism and perceptive intuition/empiricism combined: 2025.11.27/https://senseaboutscience.org/
 
 .edu and .gov-source: abs.harvard .edu, Polish library, King Abdullah University
