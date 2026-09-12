@@ -1251,6 +1251,218 @@ telecommunications, utilities, media, food production, pharmaceuticals, and defe
 the platform economy. Whether such a body is formed by a publicly funded third party (such as the European co-operation for Accreditation) or directly as a public agency (such as the EU’s decentralised agencies), the 
 key will be that it remains independent, has sufficient technical capacity, and has some enforcement mechanism. Only once our public institutions can cope with the organisational diversity of the platform economy, will 
 we be able to move beyond the size-or-silo status quo and steer it towards fairer and more sustainable outcomes.";
+2026.09.12/https://hal.science/hal-04352358/document : p.12: "Within the three countries studied, we can see a division of 
+use between RUM platforms, where participants find opportunities to earn money, and GAFAM platforms, which in this context 
+seem to take on the simple role of socializing spaces.", "The second issue, that of digital coloniality, is not 
+experienced in the same way in the countries of the North, successors of former colonial powers, as in those of the South, 
+where there are still tangible consequences of old and new instances of colonization. In the North, the “Uberization” of 
+the economy and the cultural influence of social media are perceived as unforeseen manifestations of the intrusiveness of 
+foreign powers. In Latin America, however, these platforms adopt the preexisting structural conditions of informality and 
+precariousness of work. They do not represent a complete break with the past, which seems to reactivate some ways of 
+thinking associated with historical colonization. By linking itself to indigenous elements, platformization takes on a new 
+dimension that is diverse and globalized and that plays on the issues relating to the North–South divide. This dimension 
+has a name in the Latin American social sciences: baroque.",
+p.13:"The notion of “baroque modernity” was developed in the mid-1990s by Bolívar Echeverría.16
+It describes the social strategy of the historical construction of Latin America: the adaptation
+to the spirit of capitalism and the reconfiguration of identity to conform with the type of
+person required by modern capitalist life. According to the philosopher, this modernity is not
+a mimetic one (it does not refer to a colonized subject imitating the gestures and customs of
+the colonizers) but is instead influenced by theatrics, cheating (as we have seen with
+Venezuelan micro-workers), and fake identities (such as those on Uber in Argentina).
+Hence, it is the concept of a “baroque economy” that Latin American philosophy advances.17
+In the economic context of this global region, social actors attempt to bring together elements
+that seem to be irreconcilable: resistance without subversion and inclusion without adhering
+to the norms of hegemonic powers.
+Saliently, the baroque economy is reflected in the entrepreneurship of users on work
+platforms. It involves a socioeconomic model based on the link between personal strategies
+of resourcefulness and the neoliberal narrative. In order to gain material advantage and be
+able to manage their own time, the “self-employed masses” become part of the informal
+economy of the working classes in Latin America as much as a part of the region’s identity,
+which is marked by coloniality and cultural mixing.
+Finally, the main lesson to take from our case studies is an ethical and political one. The
+informal and blended use of platforms in the South does not indicate the surrender or
+abandonment of social struggles around work. On the contrary, these phenomena give rise to
+unprecedented modes of resistance—unprecedented, at least, for most countries in the North.
+While in Western societies, struggles around work are structured as organized collective
+mobilizations with explicit demands and tactics taken from a limited repertoire of actions—in
+short, like struggles around formal employment—the forms that disobedience, agency, and
+worker solidarity take on platforms in the South make them able to deal with the intermittent
+and unstable nature of their work while staying within the boundaries. Small-scale tactics
+emerge in the bases de espera for Rappi, “tricks” for not paying commission fees to Uber are
+used instead of any official campaign calling for them to be reduced, and tips shared in a
+Facebook group to reduce efforts on Microworkers replace collective bargaining to improve
+working conditions.
+The overwhelming presence of global actors in the digital economy that citizens have to deal
+with highlights another phenomenon that is typical of Latin American countries, but that also
+threatens Western democracies: systematic reductions in the investment of the state in social
+welfare and protection systems, which in the age of digital platforms, emerge at the peak of
+neoliberalism. This context justifies the adoption of strategies of resourcefulness and
+“baroque” approaches to self-employment among the populations studied within the
+countries of the South. Yet it also indicates the generalization of this instability and the lack
+of safeguards in the countries of the North";
+2026.09.12/https://www.oxjournal.org/gafam-and-problems-with-the-concentration-of-market-share/ : "While 19th-century 
+monopolies sought out control in a vertical pattern, down to the base level of customer consumption, modern monopolies 
+seek out control in a horizontal aspect, as they have much more discreet ways of getting around antitrust laws.",
+"The Economist states that an oligopoly operates when “a few firms dominate a market[,] often they can together behave as 
+if they were a single monopoly, perhaps by forming a cartel.” For a market to be deemed under the control of an oligopoly, 
+a few assumptions must be made:
+    High barriers of entry in the market,
+    Just a small number of firms share a large proportion of the industry’s output,
+    A concentration ratio between 50% and 100%,
+    Interdependence between the firms,
+    Profit-making in the long term.
+", "It is easy, comfortable, and practical, which is why it has the backing of the people. Despite knowing that these 
+corporations have access to private information and can take it when they find it necessary, many users do not consider 
+this to be a severe risk.
+Since the GAFAM are operating in an oligopoly, they are unquestionably the kings of their newly conquered kingdoms. Often 
+the GAFAM operates by its rules and not by the law. As stated previously, it has been alleged that they do not ethically 
+pay their taxes or contribute to economic development. The most significant breach of ethics and law by the GAFAM arguably 
+surrounds privacy.", "Almost every company that interacts with users online uses web tracking technology to collect data 
+about their online habits and preferences, in order to personalize their experiences and the content they view. Still, you 
+may be surprised by the sheer amount of data that Google is tracking, and some criticisms leveled against the tech giant 
+include potential transparency issues.",
+"In addition to concerns focusing on data protection, modern worries surrounding tech giants include those related to 
+disinformation. Within GAFAM, Facebook and Google are the ones best equipped to spread information, and also 
+disinformation, at exponential speeds. Disinformation is the purposeful and covert spread of false information for the 
+sake of influencing public opinion (Merriam Webster).
+Social media sites, such as Facebook, are not always harmful. They participate in the well-being of democracies around the 
+globe, as people can share their opinions and engage in dialogue with others expressing opposite views. Nonetheless, 
+social media sites are also prone to the spread of disinformation. The information posted on social media is not 
+controlled by any authority other than the social media itself.",
+"A filter bubble refers to a situation in which an individual only sees or hears news and information supporting what they 
+believe and like. Algorithms used by social media sites like Facebook and search engines such as Google work to promote 
+content and, by extension, ideas that are comforting to the user’s existing beliefs (Washington Post 2021).",
+"In theory and practice, individuals with power and money could shift millions of individuals’ opinions. The Cambridge 
+Analytica affair, which surfaced a few months after the Trump election in 2016, showed how Mr. Trump’s P.R. team used 
+Facebook to polarize public opinion (Time 2018). As reported by the New York Times, the Guardian and the Observer, digital 
+consultants for the Trump campaign could access data from millions of individuals (in itself a privacy concern), promote 
+false information, and create mayhem across the internet.",
+"In 2018, through the European Commission, the European Union fined Google US$5 billion for antitrust practices. It was 
+proven that Google did favor its own products in its search results. In 2019, the Federal Trade Commission fined Facebook 
+US$5 billion for illegally collecting data on its users. It was reported that the data would then be sold to third 
+parties, allowing them to target their advertising in much more advanced ways. By collecting data on its clientele, the 
+GAFAM can track habits and behaviors, which can then lead towards a better response to customers’ demands.
+Ties to Our Society
+Since the introduction of the internet into society, GAFAM have become key actors. In fact, without the goods and services 
+that they offer, the internet would not have the same usage. Every day, Google processes 3.5 billion searches, Amazon 
+delivers 1.6 million packages a day, and Siri answers 25 billion demands each month. Moreover, 81% of American adults aged 
+18 to 34 years old are Amazon Prime members, and more than a quarter of the global population uses Facebook every month. 
+These numbers illustrate the impact and the dependence that we, as individuals, have on the GAFAM. Not only are 
+individuals dependent, but political parties and politicians are too. Every political party in the USA and Canada has 
+either a Facebook page or an official website listed on Google. It increases their visibility and offers them a broader 
+influence on the electorate.
+If we were to suppose that the population and its leaders cannot function normally without the services brought by the 
+GAFAM, Jacques Fontanel, economist at the University of Grenoble, must speak true when he states: “Today, [GAFAM are] the 
+uncontrolled leaders at the heart of the new digital economy.” When Facebook was temporarily unavailable on 8 October 
+2021, how many people and enterprises were left at a loss?
+John Locke and Montesquieu developed, during the Renaissance, the concept of the separation of powers. This concept 
+indicates that in a democracy, the judiciary, legislative, and executive powers should be separated. The idea is that 
+power should, by no means, be held by one individual, entity, or group of people. Nowadays, knowing that our political 
+institutions rely on GAFAM, we should ask ourselves who has the power. Robin Morgan, an American author, feminist and 
+political theorist, once rephrased a Kofi Annan quote thus: “Knowledge is power. Information is power. The secreting or 
+hoarding of knowledge or information may be an act of tyranny camouflaged as humility.”
+Problems Occuring Due to Concentration of Market Share
+According to The Economic Times, “out of total purchases of a customer of a product or service, what percentage goes to a 
+company defines its market share.” The higher the percentage, the less competition a company is facing. In the car 
+industry, concentration ratios are between 2% and 9% (Statista 2021). In the tech industry, the numbers are not 
+comparable. Microsoft possesses 73.7% of the whole desktop operating system market, Facebook’s mobile audience reach is 
+65% of the people using mobile devices, and Apple owns 70% of the entire mobile operating system market (Statista 2021). 
+These numbers clearly show that the GAFAM is not operating in a free market but, as explored earlier, in an oligopoly.
+Current Regulation for GAFAM
+Today, online content regulation has become a contentious topic. Because of growing problems such as disinformation and 
+hate speech, the U.S. government has staged various attempts to develop legislation to strengthen platform responsibility. 
+A recent bill passed by the House of Representatives has spawned several acts that will target GAFAM.",
+"The Ending Platform Monopolies Act",
+"The power that these corporations have comes from the modernized oligopolies that are present, since the control of these 
+markets moved from a vertical control down to the smallest aspect of a product’s journey, now to a horizontal one where 
+anything remotely relating to a product now becomes one single corporation’s field of interest." (Like having an apple-icon.png inside a website demonstrating Apple's influence of that website.);
+2026.09.12/https://www.reddit.com/r/developpeurs/comments/1jkbs9t/en_tant_que_d%C3%A9veloppeur_web_aujourdhui_qui/ : "
+wain_wain
+•
+1y ago
+• Edited 1y ago
+Are there any credible alternatives to GAFAM to do your job as well as a colleague who works with GAFAM tools?
+1/ If your servers are in the cloud, you're probably on GCP (Google) or AWS (Amazon) or Azure (Microsoft)...
+We have European clouds OK (Scaleway, OVHCloud) but they haven't become mainstream yet...
+2/ This also means no Windows (MS) or Mac (Apple), so only Linux or equivalent to work with (and RedHat is American...)
+3/ For code, you can always use Eclipse => The Eclipse Foundation was funded by Google (but that's not current anymore)
+4/ No Outlook or Gmail to receive your emails => You can always receive them on ProtonMail or similar
+5/ No Slack (owned by Salesforce, a big tech company) or Teams (owned by MS)
+6/ No GitHub => which can be replaced by an on-premise open-source GitLab server, but you need an infra team to manage it 
++ a powered-on on-premise server
+7/ No LinkedIn either => Who's on Viadeo? :D
+8/ No Office or Google office suite, but there's open source.
+In short, it's not easy at all... " 11 upvotes,
+"u/psychelic_patch avatar
+psychelic_patch
+• 1y ago
+Protonmail integrates very poorly with hypermarket practices (cold-mailing, email scheduling, etc...) Upvote 3
+Reply Magikhaos
+• 1y ago
+On the cloud, it's not even that they haven't become mainstream; I was already using OVH at work 10 years ago. The problem 
+is that they've never been able to offer a service layer equivalent to American clouds. Underscore's latest video on the 
+subject explains the problem of cloud computing in Europe in detail.
+Upvote 3",
+"Brachamul
+• 1y ago
+I run several companies, in various sectors, but always focused on social and environmental impact.
+First off, we exclude anything to do with ads via the GAFAM. The first thing is to not give them any money.
+Second, we avoid their tools whenever possible. For example, no Google Analytics.
+However, for emails and collaboration, it's Google Drive/Gmail; the alternatives aren't good enough, unfortunately.
+In short, it's not exactly easy to avoid everything, but we do what we can.
+Upvote 5 rsz44 OP • 1y ago Aside from economic constraints and some European regulations (GDPR in particular), nothing 
+obliges companies to make these "efforts," and they should be commended. However, a company that sells a report containing 
+only Google Analytics data when its business is actually conducting impact studies (to use the analytics example) doesn't 
+provide any real added value, except maybe bulk data (and for Google in particular). In that case, it's a disguised 
+reseller of solutions. Yet, in this activity, getting rid of Analytics shouldn't be complicated.
+Upvote 1",
+" levincem • 1y ago  I'm a bit of an old-school guy... So to be honest, I dual-boot Windows/Linux on my work machines. But 
+otherwise... on Windows... Thunderbird (Fastmail as a provider, they're Australian) / Firefox / Notepad++ / WinSCP / 
+PuTTY. Debian for the server (OVH Cloud or dedicated OVH server), PHP, Symfony, Vanilla JS...  No GitHub, I work with 
+virtual hosts for dev versions. Yeah, I know, it's not ideal, but I've always done it this way (and yet, never any 
+hacking, critical bugs, or incidents to report... the worst was the OVH fire, but my backups were on a different physical 
+site).  So yeah, I manage, but clients often want Google Maps on their site (I try to steer them towards OpenStreetMap)... 
+Same for captchas (reCAPTCHA isn't very effective anyway), analytics (there are alternatives, Matomo for example)...  
+Basically, the less I use their products, the better I feel. Upvote 3 Downvote Reply",
+"Useful_Difficulty115
+• 1y ago
+Personally, I'm trying to migrate my dev tools away from American companies as much as possible.
+    For code, I use Helix. It's my favorite editor anyway; I think there's no better alternative in terms of ease of use, simplicity, and speed. I use the classic combo: Ghostty, Zellij, and Helix. It works really well.
+    For languages, it's complicated. It's hard to give up Go, which is a big Google project, both professionally and personally. Same for TypeScript and React; they're very American and from huge companies.
+Let's just say I wouldn't mind switching to Elm, but that's not the market trend, and the ecosystem doesn't allow for as much productivity. In web development, you're quickly stuck with American tech, it's depressing.
+In the meantime, I do a lot of Gleam for personal projects, but it'll never happen professionally. Too niche.
+    Hosting is a disaster. I'm increasingly thinking about self-hosting via VPS and Coolify for personal projects with moderate traffic, or using fly.io, but it's 3-4 times more expensive. I should look into Scaleway or OVH. I also use GitHub for pricing reasons, but I'd like to switch to GitLab for personal projects, we'll see. I have a lot of repositories to migrate, unfortunately haha.
+    For OS, I only use Linux. Ubuntu at work, like many, and Arch personally, like many others. No Windows for over 15 years. In any case, I use Firefox by choice, even though it doesn't always respect web standards. For work, I'm forced to use Chromium to check the layout.
+    I don't use Microsoft Office. But if I have to, I use LibreOffice. Otherwise, it's all markdown.
+Basically, on the environment side, it seems pretty easy for an average developer, but the rest... super difficult in a professional context.
+Upvote 2
+rsz44
+OP • 1y ago
+"Too niche" is often lucrative! I admit Gleam seems very niche but also active (I didn't know it), we don't have a crystal ball, maybe there will be demand soon! For hosting, yes, VPSs with your local host are still doable, or others actually suggest looking at Scaleway or OVH as you mentioned for cloud services. Indeed, in a professional context, with all due respect, it's become hell. In any case, it's great to see that there are still volunteers on this topic, congratulations!
+Upvote 1
+GeckoBarjo
+• 1y ago
+Me, but by solution I mean software and devices that aren't open source or require storage on non-sovereign servers.
+I don't restrict myself regarding frameworks, etc...
+As for IDEs, we have JetBrains, which is European and a thousand times better than VS Code.
+For LLMs, I limit myself to my Mistral subscription, which mainly helps me make technological choices. I replaced GitHub with FrogGit, which is sovereign.
+IMHO, too few people are aware that using US services means giving them all the data necessary to compete with us while paying significantly fewer taxes.
+For now, the only American thing I can't seem to separate myself from is the Apple ecosystem (Mac/iPhone/Apple Watch/Apple TV). Because the UX is incredibly better than anything I've been able to achieve under Linux. So I've completely disabled iCloud on it and use Proton Drive, which isn't amazing but gets the job done.
+Upvote 4",
+"JohnHuntPrax • 1y ago
+As a web dev, you often need the GAFAM:
+Software-wise: "logging in with Google/Facebook/Apple" / interacting with APIs / etc.
+Infrastructure-wise: AWS / Azure / Google Cloud
+, Useful_Difficulty115
+• 1y ago
+Yeah, but you're cutting yourself off from a huge number of users, just for a first-time trial login.
+In practice, for a web app/site aiming for enough traffic to earn more than one salary, it's gonna be tough to skip Google login/etc. Upvote 2";
+https://github.com/nickspaargaren/no-google : "Can I block the other letters of GAFAM ?
+Of course, here’s some filterlists that should help you accomplish that.
+Apple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
+Facebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://github.com/Bundy01/meta-blocklists
+Amazon : https://github.com/nickspaargaren/no-amazon
+Microsoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all";
 GAFAM-note:a
 
 Computer history-note:v
