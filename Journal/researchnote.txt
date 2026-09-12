@@ -1459,10 +1459,43 @@ Yeah, but you're cutting yourself off from a huge number of users, just for a fi
 In practice, for a web app/site aiming for enough traffic to earn more than one salary, it's gonna be tough to skip Google login/etc. Upvote 2";
 https://github.com/nickspaargaren/no-google : "Can I block the other letters of GAFAM ?
 Of course, here’s some filterlists that should help you accomplish that.
-Apple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.apple.txt
-Facebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://github.com/Bundy01/meta-blocklists
+Apple : https://github.com/c-edw/ios-telemetry, https://github.com/1r2/iosparanoid or https://raw.githubusercontent.com/
+hagezi/dns-blocklists/main/hosts/native.apple.txt
+Facebook : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all, https://
+raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt or https://github.com/Bundy01/meta-blocklists
 Amazon : https://github.com/nickspaargaren/no-amazon
 Microsoft : https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all";
+2026.09.12/https://www.ubuntubuzz.com/2020/04/side-by-side-comparison-between-gafam-and-alternative-world.html : 
+""Alternative World" I mean Free Software-based challenging services of SearX, Mastodon, PeerTube, and alike. You can find 
+here the new term Fediverse is sided with Alternative World.", "It is a collective of alternative to Gafam led by Free 
+Software Movement. Included in Alternative World popular online services like PeerTube, Mastodon, Riotim, Jitsi, and so 
+on. More than that, Alternative World has things do not exist on Gafam world, mainly they are Fediverse and Open Standard. 
+Alternative World things share similar attributes which are: the software behind service is Free, the network model is 
+decentralized (but not always), and the user's privacy is strongly committed against 2013 Global Surveillance. Alternative 
+World wants to create life which is fully controlled by the users not by Gafam.", "You can, however, read another 
+resources which are very good like PrivacyToolsIO and PRISM-Break but they are lengthy and require deep experience in 
+computing.", "Closed standard is like most internet today, Twitter user cannot connect to Facebook user means need to 
+create Facebook account in order to speak to Facebook user and vice versa.",
+"In social networking, every Gafam has its own closed standard so Facebook user cannot connect to user in Twitter and vice 
+versa explained above which is called "walled gardens". The open standard from Alternative World is ActivityPub which is 
+endorsed by World Wide Web Consortium and followed by most in the Fediverse and beyond.";
+2026.09.12/https://blog.desdelinux.net/en/gafam-open-source-tech-giants-pro-open-source/ : "GAFAM Open Source: 
+Technological Giants in favor of Open Source";
+2026.09.12/https://www.barraudconsulting.com/sunrise-the-most-reliable-operator-in-switzerland/?lang=en : "Sunrise is the leading non-state-controlled telecommunications company in Switzerland.", "Merger between Sunrise and UPC
+As of November 11, 2020, UPC and Sunrise are no longer competitors." (Now part of a larger corporation that might be involved with Big Tech and governments.), "Barraud Consulting is a Sunrise partner     Our job is to accompany you during your choice of telephone operator,and to advise you so that you find the offer that suits you best. We analyse your telephone consumption and provide you with the best choice for your fixed or mobile subscriptions: through our partnership with Sunrise-UPC." (Conflict of interest against this webhost's unbiasedness towards providers.);
+2026.09.12/https://www.barraudconsulting.com/gafam-dominates-the-world/?lang=en : "Quantum computing has become a real 
+obsession for GAFAM. The trade stakes are enormous.";
+2026.09.12/https://www.barraudconsulting.com/data-centers/?lang=en : "    “GAFAM need this kind of infrastructure, because 
+they want to get closer to their end customers. However, Switzerland has a lot of companies that have established their 
+headquarters there. Also, they want to meet the new data protection requirements. Because from now on, the data must no 
+longer leave the countries in which it is located, without the consent of the end user”
+    Explains data center and cloud computing specialist Stéphane Jaquet.
+According to a report by real estate company CBRE, the Zurich region ranks sixth in Europe, after Frankfurt, London, 
+Amsterdam, Paris and Dublin in termsof data center power supply.
+Switzerland has an extremely reliable telecommunications network, with many interconnections of global operators. The 
+electricity infrastructure is also of very good quality and reliability. Both of these elements are crucial to ensure data 
+accessibility.
+The Swiss climate is also favourable,with essential elements to cool the machines.";
 GAFAM-note:a
 
 Computer history-note:v
