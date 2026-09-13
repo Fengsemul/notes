@@ -930,7 +930,19 @@ linknarrative.info 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyze
 https://linkdirectory.com.ar : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
 https://directorycloud.info/ : 100% LibreJS-access. No "wikipedia"-results.;
 https://10directory.info/ : 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.;
-70. https://workdirectory.info/ : go.jpg 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.; ...
+70. https://workdirectory.info/ : go.jpg 100% LibreJS-access. No "wikipedia"-results. HypeStat Analyzer: Analytics: StatsCounter.; 
+azurtrading.com : statcounter.com 100% LibreJS-access;
+https://deeperlinks.info/ : BlacknBlue-v4.2, 100% LibreJS-access;
+https://futbollinker.com/ : go.jpg 100% LibreJS-access;
+gamelinkdirectory.com : go.jpg 100% LibreJS-access;
+https://addnewlink.com.ar/ : searchBtn.png 100% LibreJS-access 0 "wikipedia".; linkdirectory.com.ar to gamelinkdirectory.com are all hosted by GoDaddy;
+https://weblister.com.ar : go.jpg 100% LibreJS-access, 0 "wikipedia".;
+namedirectory.com.ar : templates/BlacknBlue-v4.2/images/go.jpg 100% LibreJS-access,  0 "wikipedia".;
+000directory.com.ar : 100% LibreJS-access,  0 "wikipedia" HypeRank: 8,429,059., Web Servers: Apache, Analytics: Statcounter, 0 "wikipedia". ;
+https://widedir.info/ : 100% LibreJS-access. statcounter.com c.statcounter.com www.statcounter.com (few others had like this but not written), templates/BlacknBlue-v4.2/images/go.jpg, 0 "wikipedia". ;
+https://backlinkpower.com.ar/ : 100% LibreJS-access. Analytics: Statcounter. No go.jpg scanned because of too low KB send, but looking at website-design, I suspect theyre using go.jpg and the template: BlacknBlue-v4.2.;
+130. monsterdirectory.co.ar : 100% LibreJS-access. 0 "wikipedia".: 
+...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
