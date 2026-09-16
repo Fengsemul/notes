@@ -918,7 +918,7 @@ https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.or
 https://annas-archive.gl/ 90% LibreJS-access. But popular.;
 https://joinmastodon.org/ 90% LibreJS-access. But popular.;
 https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
-[ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: 
+[ 2026.09.01/end of https://bizglide.in/directory-submission-sites-list.php after directoryfuse: At least 2x  	https://infotiger.com. 2x https://prolink-directory.com .;
 unpopular 2026.09.11/directorycodes.com : 90% LibreJS-access because "Ask the desk" loads too long & search engines inside categories doesnt work, but text-search and clicking right categories is enough. apple-influence: assets/apple-touch-icon.png : 24 KB;
 2026.09.11/24directory.com.ar 100% LibreJS-access;
 2026.09.11/seofriendly.com.ar 100% LibreJS-access, no search engine.;
@@ -941,7 +941,17 @@ namedirectory.com.ar : templates/BlacknBlue-v4.2/images/go.jpg 100% LibreJS-acce
 000directory.com.ar : 100% LibreJS-access,  0 "wikipedia" HypeRank: 8,429,059., Web Servers: Apache, Analytics: Statcounter, 0 "wikipedia". ;
 https://widedir.info/ : 100% LibreJS-access. statcounter.com c.statcounter.com www.statcounter.com (few others had like this but not written), templates/BlacknBlue-v4.2/images/go.jpg, 0 "wikipedia". ;
 https://backlinkpower.com.ar/ : 100% LibreJS-access. Analytics: Statcounter. No go.jpg scanned because of too low KB send, but looking at website-design, I suspect theyre using go.jpg and the template: BlacknBlue-v4.2.;
-130. monsterdirectory.co.ar : 100% LibreJS-access. 0 "wikipedia".: 
+130. monsterdirectory.co.ar : 100% LibreJS-access. 0 "wikipedia".;
+https://linksef.info/ : no go.jpg, which seems to appear sometimes at Weblyzer-Performance-Report. host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
+https://vipweblinks.info/  : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
+https://thetusker.biz : statcounter.com c.statcounter.com www.statcounter.com no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
+https://citymaildirectory.info/ : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia". (Similar from linksef.info, vipweblinks.info, thetusker.biz. https://golddirectory.info/, who has googlesyndication.com also looks smimilar from them.);
+https://82470.com/ : 2x statcounter.com , no go.jpg host: GoDaddy. Assuming 100% LibreJS-access. 0 "wikipedia".;
+https://linkwindfall.info : 3x statcounter.com, no go.jpg host: GoDaddy. Assuming 100% LibreJS-access. 0 "wikipedia".;
+https://freelinkdirectory.info : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;315. https://blogdirs.com/ > Only "Personal (39)
+Czech Republic" works. https://blogdirs.com/personal/ https://blogdirs.com/personal/polish/ and has "Platform: Blogger
+Confidence: 90%" because of blogspot-website., https://blogdirs.com/personal/czech/ hasnt. Broken search engine by polish of them.;
+498 	https://morefunz.com None but to be continued.
 ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
@@ -975,7 +985,7 @@ https://search.creativecommons.org/ is hosted by amazon.
 
 Gray area:v
 2026.08.16: Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : #https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
+https://www.businessseek.biz/ uses bing.com at startpage but not at search? They got "wikipedia" at closest at the dead link http://wikipedia.mozdev.org/ - 5KB inside https://www.businessseek.biz/cgi-bin/search/search.pl?Terms=wikipedia . hosted by https://en.wikipedia.org/wiki/Steadfast_Networks : "2021, ColoHouse acquired". https://www.facebook.com/Colohouse/ : #https://www.hivelocity.net/ uses Cloudflare., https://viesearch.com/ 0% LibreJS-access. It uses Cloudflare only at search-results and by https://www.who-hosts-this.com/Hosts/60-DigitalOcean and WhatRuns Detector CMS: Viesearch 6.064 @ https://viesearch.com/ and WhatCMS failed. https://www.who-hosts-this.com/?s=viesearch.com : https://www.digitalocean.com/ : googletagmanager.com and Cloudflare.;
 2026.08.16/https://www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ erroneously pasted: 13 Wikipedia-articles and one thefreedictionary about Wikipedia: stpt.com at start none, at search, it requested Google services., joeant.com Directory is LibreJS-accessable, search engine isnt. as least grayish on the list. It's just when I search "AI", then this directory request Cloudflare. Thats because for some reason, almost all the results are being received by uBlock Origin as running scripts. Host: inmotionhosting.com > "facebook.net, googletagmanager.com, cloudflareinsights.com",
 directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results with Host: clausweb.ro using google.,
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
@@ -1000,6 +1010,8 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.08.30/https://www.chefkoch.de/ Technology Detector: "Tag Managers: Google Tag Manager";
 2026.08.30/https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
 2026.08.16/livewebdirectory.com/ LibreJS-access. Non-functional search engine. 2026.09.11/Analytics GA Google AdSenseanalytics > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
+2026.09.16/scrubtheweb.com : https://websiteanalyzer.dev/results/fnu4dl : Analytics: Google Analytics;
+https://www.justadirectory.com/ : 2 Wikipedia-articles at "wikipedia". HypeStat Analyzer: "Web Servers Apache JavaScript Frameworks Prototype JavaScript Libraries script.aculo.us", https://websiteanalyzer.dev/results/5l4v4n : "Other Services Google reCAPTCHA"
 incomplete-written black area:a
 
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
