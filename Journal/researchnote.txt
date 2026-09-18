@@ -589,6 +589,9 @@ Practical-note:a
 Questionable-note:v
 2026.07.05/https://github.com/elliotwutingfeng/faker ; 2026.07.05/ 23:40 https://filterlists.com/lists/pokemon-no-go-zone : "Are you desperate to get some quality time with your brother or dad, who is so much into Pokémon GO that they play it to this day while hacking around from the couch? Here's how to get that quality time back… unless they just switch to 4G instead, in which case you're screwed. May also work against 'Harry Potter: Wizards Unite' and 'Ingress Prime'" (But the son, at some cognitive point, should decide themselves. Otherwise, it isn't your son anymore. Kant was against using people solely as a means for themselves.)
 Questionable-note:a
+Emulator-note:v
+2026.09.18/https://www.myandroid.org/run/start.php
+Emulator-note:a
 
 First PC:v
 2026.07.23/https://www.kenbak.com/ : " Kenbak-1 has often been considered "the first personal computer."  It was designed, built, and marketed by John V. Blankenbaker in 1971, and was made before microprocessors were available.  In spite of it not being commercially successful (only about 52 were made) it had a lasting impact, taught scores of students, and inspired many with the idea they could own a computer.  It was named the "first personal computer" by a group of computer industry experts after a search by Boston's "The Computer Museum" in 1986.  It has been called the first personal computer by the Computer History Museum in Mountain View, CA, the Computer Museum of America in Roswell Georgia, the Deutsches Museum in Munich Germany, and other major computer museums." (How to do more reliable research: by askimg museums.";
@@ -693,7 +696,7 @@ https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.09.05/use.ai demands pay now at 1. try.;
 https://notegpt.io/ai-chat ;
 2026.08.24/https://deepwiki.com/search/whats-22_48419251-8e70-4651-86c5-e5d3ddbb52ce?mode=deep ;
-2026.09.06/https://www.chatgoat.ai/chat?conversationId=a021af3e8f3346ef9744d11b0cbc7d2b ;
+2026.09.06/https://www.chatgoat.ai/chat?conversationId=a021af3e8f3346ef9744d11b0cbc7d2b 2026.09.18 not anymore also because Prism-list changed Pro-AIs to paid, I think.;
 AI chat avability-note:a
 
 AI-helpers:v
@@ -867,7 +870,6 @@ http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.c
 https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
 ];
 [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
-http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS.;
 https://www.goguides.com Accessible with LibreJS. with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
@@ -1011,13 +1013,14 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.08.30/https://www.ina.fr/recherche 20% LibreJS-access. In homepage but not in search engine. googletagmanager.com;
 2026.08.16/livewebdirectory.com/ LibreJS-access. Non-functional search engine. 2026.09.11/Analytics GA Google AdSenseanalytics > https://www.who-hosts-this.com/Hosts/357-Interserver > Host: https://www.interserver.net/ : fonts.googleapis.com and Library: jQuery : Cloudflare.;
 2026.09.16/scrubtheweb.com : https://websiteanalyzer.dev/results/fnu4dl : Analytics: Google Analytics;
-https://www.justadirectory.com/ : 2 Wikipedia-articles at "wikipedia". HypeStat Analyzer: "Web Servers Apache JavaScript Frameworks Prototype JavaScript Libraries script.aculo.us", https://websiteanalyzer.dev/results/5l4v4n : "Other Services Google reCAPTCHA"
+https://www.justadirectory.com/ : 2 Wikipedia-articles at "wikipedia". HypeStat Analyzer: "Web Servers Apache JavaScript Frameworks Prototype JavaScript Libraries script.aculo.us", https://websiteanalyzer.dev/results/5l4v4n : "Other Services Google reCAPTCHA";
+2026.09.18: whatuseek.com : https://websiteanalyzer.dev/results/tie22t : "AWS EC2 (us-east-2)", 2026.08.16/http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS. 2026.09.18/Accessable now.;
 incomplete-written black area:a
 
 less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
-apahcinc.org ; whatuseek.com  ;
+apahcinc.org ;
 incrawler.com ; directorytop.com ; directoryfuse.com ;
-wlddirectory.com ; textfiles.com ; allbusinessdirectory.biz ;
+wlddirectory.com i. ; textfiles.com ; allbusinessdirectory.biz ;
 info-listings.com ; sonicrun.com ;
 joeant.com ; yeandi.com ;
 navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
@@ -1061,8 +1064,6 @@ glorified non-GAFAM search engines:a
 sorted less JS relatively non-GAFAM search engines and directories:v
 2026.09.08/	"*://apahcinc.org/*",
     "*://*.apahcinc.org/*",
-	"*://whatuseek.com/*",
-    "*://*.whatuseek.com/*",
 	"*://goguides.com/*",
     "*://*.goguides.com/*",
 	"*://incrawler.com/*",
