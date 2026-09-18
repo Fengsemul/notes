@@ -589,6 +589,7 @@ Practical-note:a
 Questionable-note:v
 2026.07.05/https://github.com/elliotwutingfeng/faker ; 2026.07.05/ 23:40 https://filterlists.com/lists/pokemon-no-go-zone : "Are you desperate to get some quality time with your brother or dad, who is so much into Pokémon GO that they play it to this day while hacking around from the couch? Here's how to get that quality time back… unless they just switch to 4G instead, in which case you're screwed. May also work against 'Harry Potter: Wizards Unite' and 'Ingress Prime'" (But the son, at some cognitive point, should decide themselves. Otherwise, it isn't your son anymore. Kant was against using people solely as a means for themselves.)
 Questionable-note:a
+
 Emulator-note:v
 2026.09.18/https://www.myandroid.org/run/start.php
 Emulator-note:a
@@ -857,10 +858,6 @@ whatcms.org/c/PHP-Link-Directory and  https://www.who-hosts-this.com/Hosts/97-Ha
 CMS: PHP Link Directory 3.4.0" with hawkhost.com using cloudflare and googletagmanager.com and phplinkdirectory.com using google and wordpress.,
 technically https://infotiger.com/ hosted by https://www.who-hosts-this.com/Hosts/3445-Hofmeir-Media-GmbH > premium-datacenter.de/ with idk CMS has none but its broken. https://www.ipaddress.com/website/infotiger.com/ : Server Header:   nginx,
 lookseek.com 0% LibreJS-access. hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
-sonicrun.com/ LibreJS-access. by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
-"WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon.;
-mojeek.com 0% LibreJS-access. > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
-Library: jquery.com/ > Cloudflare.;
 2026.08.16/www.freewebsubmission.com/ : 
 https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS,
 https://www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare,
@@ -912,7 +909,6 @@ openstreetmap.org 10% LibreJS.; https://photon.komoot.io/api/?q=berlin 100% Libr
 https://packagist.org/search/?query=test 100% LibreJS-access. https://check-host.net/ip-info?host=https://packagist.org : "Datacamp Limited" But popular. ;
 https://pypi.org/search/?q=test&o= 2% LibreJS-access, with jsdelivr.net
 pypi-camo.freetls.fastly.ne amd else inside results.;
-https://sourcehut.org/ / https://sr.ht/projects?search= LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
 https://directory.fsf.org/wiki/Main_Page : read Wikis.;
 https://wiki.gentoo.org/wiki/Main_Page except fonts and else, gentoo works with 90% LibreJS-access. But popular.;
 https://lobste.rs/ They all worked without LibreJS, I think.;
@@ -958,7 +954,6 @@ Confidence: 90%" because of blogspot-website., https://blogdirs.com/personal/cze
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
-2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
 2026.09.08: sierra-leone.org 100% LibreJS-access;
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
 2026.09.08: daum.net has akamai. 80% LibreJS-access.;
@@ -1015,18 +1010,26 @@ googletagmanager.com, Host: Akamai Technologies, Google Analytics;
 2026.09.16/scrubtheweb.com : https://websiteanalyzer.dev/results/fnu4dl : Analytics: Google Analytics;
 https://www.justadirectory.com/ : 2 Wikipedia-articles at "wikipedia". HypeStat Analyzer: "Web Servers Apache JavaScript Frameworks Prototype JavaScript Libraries script.aculo.us", https://websiteanalyzer.dev/results/5l4v4n : "Other Services Google reCAPTCHA";
 2026.09.18: whatuseek.com : https://websiteanalyzer.dev/results/tie22t : "AWS EC2 (us-east-2)", 2026.08.16/http://www.whatuseek.com/ had no results at wikipedia. Links unaccessable with LibreJS. 2026.09.18/Accessable now.;
+sonicrun.com : 2026.09.18/https://websiteanalyzer.dev/results/ksh596 : Nameservers jose.ns.cloudflare.com , 2026.08.16/sonicrun.com/ LibreJS-access. by https://www.who-hosts-this.com/Hosts/29-1-1-Internet and 
+"WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon.;
+mojeek.com 0% LibreJS-access. > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
+Library: jquery.com/ > Cloudflare.;
+navi:photon.komoot.io/ : "Nameservers
+ns-1690.awsdns-19.co.uk. awsdns-hostmaster.amazon.com";
+ sr.ht : Hosting Provider
+AWS EC2 (us-east-2), 2026.08.30/https://sourcehut.org/ / https://sr.ht/projects?search= LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
+webdirectorybit.com : 2026.09.18/Nameservers: ns1.mysecurecloudhost.com, 2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
 incomplete-written black area:a
 
-less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
+Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
 apahcinc.org ;
 incrawler.com ; directorytop.com ; directoryfuse.com ;
-wlddirectory.com i. ; textfiles.com ; allbusinessdirectory.biz ;
-info-listings.com ; sonicrun.com ;
-joeant.com ; yeandi.com ;
-navi:photon.komoot.io/ ; sr.ht ; https://lobste.rs ;
-; directory.fsf.org ; submitbusinessdirectory.info ; weddingservicecompanies.com ; webdirectorybit.com ;
-albafind.com ; submitbusinessdirectory.info ; directoryauto.com
-less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
+wlddirectory.com i. ; textfiles.com : aspmx.l.google.com (priority 10), aspmx3.googlemail.com (priority 30); allbusinessdirectory.biz ;
+info-listings.com ; 
+joeant.com ; yeandi.com : aspmx.l.google.com (priority 1); https://lobste.rs ;
+; directory.fsf.org ; submitbusinessdirectory.info ; weddingservicecompanies.com ; 
+albafind.com  ; directoryauto.com
+Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:a
 
 neglected: bpb.de ; destatis.de ; 
 
@@ -1078,8 +1081,6 @@ sorted less JS relatively non-GAFAM search engines and directories:v
     "*://*.textfiles.com/*",
 	"*://allbusinessdirectory.biz/*",
     "*://*.allbusinessdirectory.biz/*",
-	"*://sonicrun.com/*",
-    "*://*.sonicrun.com/*",
 	"*://illumirate.com/*",
     "*://*.illumirate.com/*",
 	"*://joeant.com/*",
@@ -1096,8 +1097,6 @@ sorted less JS relatively non-GAFAM search engines and directories:v
     "*://*.directory.fsf.org/*",
 	"*://weddingservicecompanies.com/*",
 	"*://*.weddingservicecompanies.com/*",
-	"*://webdirectorybit.com/*",
-	"*://*.webdirectorybit.com/*",
 sorted less JS relatively non-GAFAM search engines and directories:a
 
 GAFAM-note:v
