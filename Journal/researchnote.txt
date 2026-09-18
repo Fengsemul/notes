@@ -845,28 +845,19 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 Search engine-list:a
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
-[2026.08.16: I assume that http://www.amidalla.de/ 11% LibreJS-access for clicking through category and searching for preferred match manually till one can read the same meta-descriptions in search-results. Despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
-cautions-and-warnings/, is a popular directory from the old 
-days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. I might be not consistent.
+[ I might be not consistent.
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
-https://anoox.com/find.php?start=0&search=tests 9% LibreJS-access, which ads-links can be copied, but they're all behind the loading-screen despite the results being loaded. which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS.,
-exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon., 
-illumirate.com : apple-touch-icon.png , LibreJS-accessable. 1 wikipedia 2 others , which 
-uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.,
-http://info-listings.com/ LibreJS-access. which doesnt found Wikipedia by https://
+https://anoox.com/find.php?start=0&search=tests 9% LibreJS-access, which ads-links can be copied, but they're all behind the loading-screen despite the results being loaded. which by wikipedia" got 90% Blogger at CDN POP Detector "NO" at "tests" by who-hosts-this.com/Hosts/2312-Joe-s-Datacenter-LLC with Top 1K sites 0.1%	vs Top 1M sites 0.005% as large diff. joesdatacenter.com aka patmos.tech uses google, cloudflare and AmazonCMS., 
+http://info-listings.com/ popular. LibreJS-access. which doesnt found Wikipedia. By https://
 whatcms.org/c/PHP-Link-Directory and  https://www.who-hosts-this.com/Hosts/97-Hawk-Host-Inc and "WhatRuns Detector
 CMS: PHP Link Directory 3.4.0" with hawkhost.com using cloudflare and googletagmanager.com and phplinkdirectory.com using google and wordpress.,
 technically https://infotiger.com/ hosted by https://www.who-hosts-this.com/Hosts/3445-Hofmeir-Media-GmbH > premium-datacenter.de/ with idk CMS has none but its broken. https://www.ipaddress.com/website/infotiger.com/ : Server Header:   nginx,
-lookseek.com 0% LibreJS-access. hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
+lookseek.com 100% LibreJS-access. No search engine. No GAFAMC except maps. Hosted by kamatera.com using cloudflareinsights.com, googletagmanager.com, Wordpress and bootstrapcdn.com using google, twitter.com and github/Microsoft and https://jquery.com/ using wp hosted by Cloudflare.,
 2026.08.16/www.freewebsubmission.com/ : 
-https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS,
-https://www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare,
-txtlinks.com/ 10% LibreJS-access> Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com",
-http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
+txtlinks.com/ 100% LibreJS-access , chitika.net : CloudFlare, Host: https://www.who-hosts-this.com/Hosts/930-Shock-Hosting-LLC > strasmore.com : "cloudflareinsights.com, googletagmanager.com";
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
 https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
-];
-[2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
+]; [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
 https://www.goguides.com Accessible with LibreJS. with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
@@ -1019,13 +1010,21 @@ ns-1690.awsdns-19.co.uk. awsdns-hostmaster.amazon.com";
  sr.ht : Hosting Provider
 AWS EC2 (us-east-2), 2026.08.30/https://sourcehut.org/ / https://sr.ht/projects?search= LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
 webdirectorybit.com : 2026.09.18/Nameservers: ns1.mysecurecloudhost.com, 2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
+2026.08.16: I assume that http://www.amidalla.de/ 11% LibreJS-access for clicking through category and searching for preferred match manually till one can read the same meta-descriptions in search-results. Despite being called a link farm by 2026.02.03/aerin.co.uk/linkbuilding-
+cautions-and-warnings/, is a popular directory from the old 
+days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. 2026.09.18/http://www.amidalla.de/directory/amidalla_directory.php?ac=search : uses Cloudflare., 2026.08.16/http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
+2026.08.16/exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon. https://www.exactseek.com/cgi-bin/search.cgi?q=test&sub=Search uses googletagmanager.com.;
+2026.08.16/illumirate.com : apple-touch-icon.png , LibreJS-accessable. 1 wikipedia 2 others , which 
+uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.;
+2026.08.16/https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS, https://hosting-checker.net/websites/wiby.me : Outgoing Mailserver: x2 "Amazon.com, Inc."..."Google LLC", "Microsoft Corporation", "Nameservers  Nameservers     ns1.domain.com     ns2.domain.com IPv6 Support     Not Supported Logo of cloudflare.com  Cloudflare, Inc.";
+2026.08.16/www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php : 2026.09.18/ajax.googleapis.com > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare;
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
 apahcinc.org ;
 incrawler.com ; directorytop.com ; directoryfuse.com ;
 wlddirectory.com i. ; textfiles.com : aspmx.l.google.com (priority 10), aspmx3.googlemail.com (priority 30); allbusinessdirectory.biz ;
-info-listings.com ; 
+p. info-listings.com ; 
 joeant.com ; yeandi.com : aspmx.l.google.com (priority 1); https://lobste.rs ;
 ; directory.fsf.org ; submitbusinessdirectory.info ; weddingservicecompanies.com ; 
 albafind.com  ; directoryauto.com
