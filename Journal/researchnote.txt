@@ -858,11 +858,13 @@ txtlinks.com/ 100% LibreJS-access , chitika.net : CloudFlare, Host: https://www.
 2026.08.16/https://www.freewebsubmission.com/web-search-engines.html : 
 https://www.allbusinessdirectory.biz/ LibreJS-access > https://www.who-hosts-this.com/Hosts/192-Steadfast > ... > https://#www.hivelocity.net/ : wp, cloudflareinsights.com, googletagmanager.com,
 ]; [2026.08.16/www.loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/: 
-https://www.goguides.com Accessible with LibreJS. with "Trust Profile
+2026.08.16/illumirate.com : apple-touch-icon.png , LibreJS-accessable. 1 wikipedia 2 others , which 
+uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.;
+2026.08.16/https://www.goguides.com Accessible with LibreJS. with "Trust Profile
 History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
-Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia" goguides.com/apple-touch-icon.png as Apple,
+Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia" goguides.com/apple-touch-icon.png as Apple;
 incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
 http://www.webs-best-directory.com/ broken,
 kwikgoblin.com LibreJS-access. 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
@@ -1014,10 +1016,9 @@ webdirectorybit.com : 2026.09.18/Nameservers: ns1.mysecurecloudhost.com, 2026.09
 cautions-and-warnings/, is a popular directory from the old 
 days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly. 2026.09.18/http://www.amidalla.de/directory/amidalla_directory.php?ac=search : uses Cloudflare., 2026.08.16/http://www.amidalla.de has none, I thought. It loaded http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js which their main domain has google.com and amazon as aws. https://www.who-hosts-this.com/?s=http%3A%2F%2Fwww.amidalla.de > https://www.hetzner.com/ inside one search-result "weather" > https://scattersplatter.net/ > https://www.oracle.com/ > trustarc.com > "googletagmanager.com, openai.com";
 2026.08.16/exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon. https://www.exactseek.com/cgi-bin/search.cgi?q=test&sub=Search uses googletagmanager.com.;
-2026.08.16/illumirate.com : apple-touch-icon.png , LibreJS-accessable. 1 wikipedia 2 others , which 
-uses https://whatcms.org/c/Adobe-Dreamweaver with getclicky.com uses Cloudflare, adobe uses cloudflare and amazon.;
 2026.08.16/https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS, https://hosting-checker.net/websites/wiby.me : Outgoing Mailserver: x2 "Amazon.com, Inc."..."Google LLC", "Microsoft Corporation", "Nameservers  Nameservers     ns1.domain.com     ns2.domain.com IPv6 Support     Not Supported Logo of cloudflare.com  Cloudflare, Inc.";
 2026.08.16/www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php : 2026.09.18/ajax.googleapis.com > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare;
+
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
