@@ -865,7 +865,9 @@ History
 AI Rank: 81/100 Grade: A Relevance: 100/100
 Save
 Report " by https://www.who-hosts-this.com/Hosts/487-Charter-Spectrum : Top 1K sites Market Share  0.1% consistently from 2020-11-01 to 2022-10-30 as the relatively largest., the rest failed. It couldn't find wikipedia itself with "wikipedia" goguides.com/apple-touch-icon.png as Apple;
-incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed,
+incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-hosts-this.com/Hosts/624-ServInt . Rest failed. 2026.09.19/incrawler.com/link_to_us.htm : "InCrawler - Metasearch Engine & Web Directory Internet Crawler is a web directory and a metasearch engine that gathers top results from different search engines and presents them according to relevance.", 2026.09.19/https://www.searchenginefinder.com/Search_Engines/151.html : Added
+1-Sep-2004 : "InCrawler is owned and operated by Spinfish Media. Internet Crawler is a metasearch engine that gathers top results from different search engines and presents them according to relevance. It crawl Crawls the databases of Altavista, Fast, Gigablast, Netscape, ODP and Wisenut. It also features a world web directory.
+";
 http://www.webs-best-directory.com/ broken,
 kwikgoblin.com LibreJS-access. 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
 http://www.addyoursitefreesubmit.com/ broken,
@@ -966,8 +968,14 @@ unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search 
 https://www.wolframalpha.com/ 0% LibreJS-access.;
 https://www.blinde-kuh.de/ directory 100% LibreJS-access.;
 https://swisscows.com/en/web?query=test 0% LibreJS-access.;
-
-]
+];
+[2026.09.19/https://www.searchenginefinder.com/Global_Web_Directories/Top_Web_Directories/ : 2026.09.19/https://www.indiabook.com/cgi-bin/links/search.cgi?query=test&x=0&y=0 : 100% LibreJS-access on search engine. 11 wikipedia-results. : megrisoft.org > cloudflare.com ,
+fonts.googleapis.com ;];
+2026.09.19/www.searchenginefinder.com/Global_Web_Directories/Other_Directories/Reciprocal_Link_Directories/ : 2026.09.19/www.linkbuilding.biz Host: Liquid Web, L.L.C, 1 "wikipedia". "CopyRight 2004-2007 - Megrisoft";
+[https://www.searchenginefinder.com/Global_Web_Directories/ : Directory resources
+ : 2026.09.19/https://www.singaporesearchengine.com/cgi-bin/directory/search.cgi?query=wikipedia&submit=Search! : 0 "wikipedia", https://hosting-checker.net/websites/singaporesearchengine.com : only Liquid Web, L.L.C, homepage has indiabook.com ;
+2026.09.19/https://www.indiansearchengine.com/ : 0 "wikipedia", 2026.09.19/https://hosting-checker.net/websites/indiansearchengine.com/ : only Liquid Web, L.L.C, homepage has indiabook.com ; ]
+; 
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 "My website": 2026.09.08/https://www.galiciacity.com/;
@@ -981,6 +989,8 @@ directory.ldmstudio.com uses google at search of "wikipedia" which got 0 results
 https://kingbloom.com/ used ebay shorty and other corporate scripts.;
 2026.08.30: broken https://pypi.org/search/?q=test when searching and browsing files as 2% LibreJS-access.;
 2026.08.30: https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy . 2026.09.08: CloudFlare was requested when searching "test" and "lemmy".;
+2026.09.19/https://www.himalyan.net/ : uBlock: linkedin.com
+pinterest.com , https://hosting-checker.net/websites/himalyan.net/ : Outgoing Mailserver: 2x Amazon.com, Inc., 1x  Google LLC, 1x Microsoft Corporation, 1x "Wikipedia"-result.;
 Gray area:a
 
 incomplete-written black area:v
@@ -1018,7 +1028,10 @@ days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly
 2026.08.16/exactseek.com uses who-hosts-this.com/Hosts/29-1-1-Internet uses "kameleoon.io, trustpilot.com, uicdn.net". trustpilot and https://www.kameleoon.com/ uses cloudflare, google, and amazon. https://www.exactseek.com/cgi-bin/search.cgi?q=test&sub=Search uses googletagmanager.com.;
 2026.08.16/https://wiby.me LibreJS-access. > Host: https://www.strasmore.com/ > "cloudflareinsights.com, googletagmanager.com" idk CMS, https://hosting-checker.net/websites/wiby.me : Outgoing Mailserver: x2 "Amazon.com, Inc."..."Google LLC", "Microsoft Corporation", "Nameservers  Nameservers     ns1.domain.com     ns2.domain.com IPv6 Support     Not Supported Logo of cloudflare.com  Cloudflare, Inc.";
 2026.08.16/www.sites-internationaux.com/francophone/liste_sites/recherches/recherches-si.php : 2026.09.18/ajax.googleapis.com > Host: ovhcloud.com > fonts.googleapis.com and Library: jQuery > jquery.com > Cloudflare;
-
+2026.09.19/https://www.freewebindex.com/index.php?q=test&search-btn.x=0&search-btn.y=0 : 90% LibreJS-access on search engine itself. Search-textfield at homepage denied with LibreJS. 0 wikipedia-results. https://hosting-checker.net/websites/freewebindex.com : Mailserver: Amazon.com, Inc. Nameservers: Cloudflare, Inc.;
+2026.09.19/1st-spot.net/ : Broken search engine but working directory. https://websiteanalyzer.dev/results/xjwa0r : Hosting Provider: Oracle Corporation, https://hosting-checker.net/websites/1st-spot.net : Nameservers: Provider Domain    cloudflare.com;
+2026.09.18/https://2space.net/ : HypeStat Analyzer: "Font Scripts Google Font API",
+"CMS WordPress"
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
