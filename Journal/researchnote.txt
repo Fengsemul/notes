@@ -975,7 +975,7 @@ fonts.googleapis.com ;];
 [https://www.searchenginefinder.com/Global_Web_Directories/ : Directory resources
  : 2026.09.19/https://www.singaporesearchengine.com/cgi-bin/directory/search.cgi?query=wikipedia&submit=Search! : 0 "wikipedia", https://hosting-checker.net/websites/singaporesearchengine.com : only Liquid Web, L.L.C, homepage has indiabook.com ;
 2026.09.19/https://www.indiansearchengine.com/ : 0 "wikipedia", 2026.09.19/https://hosting-checker.net/websites/indiansearchengine.com/ : only Liquid Web, L.L.C, homepage has indiabook.com ; ]
-; 
+; broken tibetian yongzin.com , https://hosting-checker.net/websites/yongzin.com : Meteverse Limited. , https://ip.cn/beian/wswebpic.com.html : "Wangsu Technology Co., Ltd. Beijing Branch", "Beijing ICP Registration No. 09037435-19"
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 "My website": 2026.09.08/https://www.galiciacity.com/;
