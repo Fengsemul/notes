@@ -870,7 +870,7 @@ incrawler.com Accessible with LibreJS. Found no "wikipedia". by https://www.who-
 " 2026.09.19/https://www.incrawler.com/cgi-bin/dir/search2.cgi?keywords=test&cat_search=%21%21thiscategory%21%21&sbutton=+Search+ : Only "The Directory" is shown regardless of LibreJS. "thiscategory" is alos set regardless of "The Directory" and "This Category" being set. It became a just-directory in my view.;
 http://www.webs-best-directory.com/ broken,
 kwikgoblin.com LibreJS-access. 0 wikipedia by NameCheap Inc. and CMS: PHP Link Directory 3.0.6,
-http://www.addyoursitefreesubmit.com/ broken,
+http://www.addyoursitefreesubmit.com/ broken. 2026.09.20/hosting-checker.net/websites/addyoursitefreesubmit.com : Outgoing Mailserver: Amazon.com, Inc.,
 abboo.com LibreJS-access. 0 wikipedia by probably NameCheap 2026.08.28/https://check-host.net/ip-info?host=http%253A%252F%252Fwww.abboo.com : atlantis.clearfusion.cloud,
 https://searchturtle.com 0% LibreJS-access. 3 wikipedia by https://www.who-hosts-this.com/Hosts/10-Unified-Layer,
 https://yeandi.com/ 100% LibreJS. by https://www.who-hosts-this.com/Hosts/2-OVHcloud : "Online since 2003, one of the longest lasting human edited web-directories out there. ",
@@ -944,7 +944,10 @@ https://linkwindfall.info : 3x statcounter.com, no go.jpg host: GoDaddy. Assumin
 https://freelinkdirectory.info : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;315. https://blogdirs.com/ > Only "Personal (39)
 Czech Republic" works. https://blogdirs.com/personal/ https://blogdirs.com/personal/polish/ and has "Platform: Blogger
 Confidence: 90%" because of blogspot-website., https://blogdirs.com/personal/czech/ hasnt. Broken search engine by polish of them.;
-498 	https://morefunz.com None but to be continued.
+2026.09.20/https://businessfreedirectory.com/index.php?search=wikipedia : (addtoany.com: CDN:
+Cloudflare Nameservers and Webserver: Cloudflare, Inc.  Mailserver: Google LLC), 0 "wikipedia", 2026.09.20/https://hosting-checker.net/websites/businessfreedirectory.com/ : Outgoing Mailserver: Amazon.com, Inc.;
+2026.09.20/directmylink.com : 0% LibreJS. Maybe malicious website. https://hosting-checker.net/websites/directmylink.com : Akamai Connected Cloud;
+2026.09.20/https://musicmates.com/ broken.;
 ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
@@ -978,6 +981,11 @@ fonts.googleapis.com ;];
 ; broken tibetian yongzin.com , https://hosting-checker.net/websites/yongzin.com : Meteverse Limited. , https://ip.cn/beian/wswebpic.com.html : "Wangsu Technology Co., Ltd. Beijing Branch", "Beijing ICP Registration No. 09037435-19";
 2026.09.19/https://anotepad.com/notes/7tgiijt3
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
+
+almost non-GAFAMC non-wp Domain triers:v
+2026.09.20/https://domainr.com/?q=test : 100% LibreJS itself, just domainr.com's provided gateway to search-result is 0%., 2026.09.20/https://websiteanalyzer.dev/results/g3nt38 : "Analytics: Fathom
+Payment Processors: Stripe" Hosting & Infrastructure: "Mail Servers: 5x google.com (priority 0)", https://hosting-checker.net/websites/domainr.com : Incoming Mailserver: 1x Google LLC;
+almost non-GAFAMC non-wp Domain triers:a
 
 "My website": 2026.09.08/https://www.galiciacity.com/;
 https://search.creativecommons.org/ is hosted by amazon.
