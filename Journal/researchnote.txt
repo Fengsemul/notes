@@ -1,7 +1,7 @@
 Potentially lowest Market share in search engines-note:v
 2026.03.22/https://resourcera.com/data/search/search-engine-market-share/ : Search Engines	October 2025	October 2024:
 Google	90.04%	89.34% , ... , Shenma	0.01%	0.02%, Petal Search	0.01%	0.01%, Other	0.04%	0.04%
-(So I can't be Shemma nor Petal Search.);
+(So it can't be Shemma nor Petal Search.);
 2026.03.22/https://gs.statcounter.com/search-engine-market-share#monthly-202502-202603 : Worldwide:	Google	bing	YANDEX
 Yahoo!	DuckDuckGo	Baidu	Naver	CocCoc	Haosou	Ecosia	Seznam	Qwant	Sogou	AOL	Petal Search	Other: Other: 0.05 0.04 0.05
 0.05 0.05 0.05 0.05 0.04 0.05 0.05 0.06 0.05 0.06 0.05
@@ -844,6 +844,11 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 [2026.09.08/https://www.searchenginesoftheworld.com/ : ]
 Search engine-list:a
 
+https://bizglide.in/directory-submission-sites-list.php-note:v 
+710 	https://theazdirectory.com 	20 	36
+711 	https://theazdirectory.com 	20 	36
+https://bizglide.in/directory-submission-sites-list.php-note:a
+
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
 [ I might be not consistent.
 Found by 2026.08.16/https://www.goforpost.com/list/high-pr-search-engine-submission-sites-list/ : 
@@ -943,11 +948,20 @@ https://82470.com/ : 2x statcounter.com , no go.jpg host: GoDaddy. Assuming 100%
 https://linkwindfall.info : 3x statcounter.com, no go.jpg host: GoDaddy. Assuming 100% LibreJS-access. 0 "wikipedia".;
 https://freelinkdirectory.info : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;315. https://blogdirs.com/ > Only "Personal (39)
 Czech Republic" works. https://blogdirs.com/personal/ https://blogdirs.com/personal/polish/ and has "Platform: Blogger
-Confidence: 90%" because of blogspot-website., https://blogdirs.com/personal/czech/ hasnt. Broken search engine by polish of them.;
+Confidence: 90%" because of blogspot-website., https://blogdirs.com/personal/czech/ hasnt. Broken search engine by polish 
+of them.;
 2026.09.20/https://businessfreedirectory.com/index.php?search=wikipedia : (addtoany.com: CDN:
-Cloudflare Nameservers and Webserver: Cloudflare, Inc.  Mailserver: Google LLC), 0 "wikipedia", 2026.09.20/https://hosting-checker.net/websites/businessfreedirectory.com/ : Outgoing Mailserver: Amazon.com, Inc.;
-2026.09.20/directmylink.com : 0% LibreJS. Maybe malicious website. https://hosting-checker.net/websites/directmylink.com : Akamai Connected Cloud;
+Cloudflare Nameservers and Webserver: Cloudflare, Inc.  Mailserver: Google LLC), 0 "wikipedia", 2026.09.20/https://hosting-
+checker.net/websites/businessfreedirectory.com/ : Outgoing Mailserver: Amazon.com, Inc.;
+2026.09.20/directmylink.com : 0% LibreJS. Maybe malicious website. https://hosting-checker.net/websites/directmylink.com : 
+Akamai Connected Cloud;
 2026.09.20/https://musicmates.com/ broken.;
+2026.09.21/https://affiliateprogramslocator.com/ : 100% LibreJS. bitpixels.com navrcholu.cz toplist.cz, 2026.09.20/https://
+hosting-checker.net/websites/affiliateprogramslocator.com/ : MasterDC s.r.o., 2026.09.20/ 0 "wikipedia".;
+2026.09.21/abicloud.org : HypeStat Analyzer: "Technologies used on Website ⯈ Web Servers Nginx Reverse proxies Nginx 
+Hosting Panels Plesk Analytics Statcounter", Platform Detector CMS / Tech Inspector : "Platform: Shopify Confidence: 95% 
+Found hints:      Shopify (95%) – Referências a cdn.shopify.com", 2026.09.21/https://hosting-checker.net/websites/
+abicloud.org/ only OVH SAS.;
 ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
@@ -1040,7 +1054,8 @@ days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly
 2026.09.19/https://www.freewebindex.com/index.php?q=test&search-btn.x=0&search-btn.y=0 : 90% LibreJS-access on search engine itself. Search-textfield at homepage denied with LibreJS. 0 wikipedia-results. https://hosting-checker.net/websites/freewebindex.com : Mailserver: Amazon.com, Inc. Nameservers: Cloudflare, Inc.;
 2026.09.19/1st-spot.net/ : Broken search engine but working directory. https://websiteanalyzer.dev/results/xjwa0r : Hosting Provider: Oracle Corporation, https://hosting-checker.net/websites/1st-spot.net : Nameservers: Provider Domain    cloudflare.com;
 2026.09.18/https://2space.net/ : HypeStat Analyzer: "Font Scripts Google Font API",
-"CMS WordPress"
+"CMS WordPress";
+2026.09.21/https://theazdirectory.com/ 0% LibreJS and Akamai. > https://hosting-checker.net/websites/crmrc.livejasmin.com : Incoming Mailserver : "Microsoft Corporation" Outgoing Mailserver: "Microsoft Corporation" and else, https://hypestat.com/info/livejasmin.com : Tag Managers Google Tag Manager, Authentication Google Sign-in;
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
