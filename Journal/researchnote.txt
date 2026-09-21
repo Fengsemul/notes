@@ -933,7 +933,7 @@ azurtrading.com : statcounter.com 100% LibreJS-access;
 https://deeperlinks.info/ : BlacknBlue-v4.2, 100% LibreJS-access;
 https://futbollinker.com/ : go.jpg 100% LibreJS-access;
 gamelinkdirectory.com : go.jpg 100% LibreJS-access;
-https://addnewlink.com.ar/ : searchBtn.png 100% LibreJS-access 0 "wikipedia".; linkdirectory.com.ar to gamelinkdirectory.com are all hosted by GoDaddy;
+https://addnewlink.com.ar/ : Host: GoDaddy. searchBtn.png 100% LibreJS-access 0 "wikipedia".; linkdirectory.com.ar to gamelinkdirectory.com are all hosted by GoDaddy;
 https://weblister.com.ar : go.jpg 100% LibreJS-access, 0 "wikipedia".;
 namedirectory.com.ar : templates/BlacknBlue-v4.2/images/go.jpg 100% LibreJS-access,  0 "wikipedia".;
 000directory.com.ar : 100% LibreJS-access,  0 "wikipedia" HypeRank: 8,429,059., Web Servers: Apache, Analytics: Statcounter, 0 "wikipedia". ;
@@ -943,7 +943,7 @@ https://backlinkpower.com.ar/ : 100% LibreJS-access. Analytics: Statcounter. No 
 https://linksef.info/ : no go.jpg, which seems to appear sometimes at Weblyzer-Performance-Report. host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
 https://vipweblinks.info/  : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
 https://thetusker.biz : statcounter.com c.statcounter.com www.statcounter.com no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;
-https://citymaildirectory.info/ : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia". (Similar from linksef.info, vipweblinks.info, thetusker.biz. https://golddirectory.info/, who has googlesyndication.com also looks smimilar from them.);
+https://citymaildirectory.info/ : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia". (Similar from linksef.info, vipweblinks.info, thetusker.biz. https://golddirectory.info/, who has googlesyndication.com also looks simiilar from them.);
 https://82470.com/ : 2x statcounter.com , no go.jpg host: GoDaddy. Assuming 100% LibreJS-access. 0 "wikipedia".;
 https://linkwindfall.info : 3x statcounter.com, no go.jpg host: GoDaddy. Assuming 100% LibreJS-access. 0 "wikipedia".;
 https://freelinkdirectory.info : no go.jpg host: GoDaddy. 100% LibreJS-access. 0 "wikipedia".;315. https://blogdirs.com/ > Only "Personal (39)
@@ -956,17 +956,18 @@ checker.net/websites/businessfreedirectory.com/ : Outgoing Mailserver: Amazon.co
 2026.09.20/directmylink.com : 0% LibreJS. Maybe malicious website. https://hosting-checker.net/websites/directmylink.com : 
 Akamai Connected Cloud;
 2026.09.20/https://musicmates.com/ broken.;
-2026.09.21/https://affiliateprogramslocator.com/ : 100% LibreJS. bitpixels.com navrcholu.cz toplist.cz, 2026.09.20/https://
+2026.09.21/https://affiliateprogramslocator.com/ : From July 2026 or so 18-million hostnames unpopular. 100% LibreJS. bitpixels.com navrcholu.cz toplist.cz, 2026.09.20/https://
 hosting-checker.net/websites/affiliateprogramslocator.com/ : MasterDC s.r.o., 2026.09.20/ 0 "wikipedia".;
-2026.09.21/abicloud.org : HypeStat Analyzer: "Technologies used on Website ⯈ Web Servers Nginx Reverse proxies Nginx 
+2026.09.21/abicloud.org : 100% LibreJS-access., HypeStat Analyzer: "Technologies used on Website ⯈ Web Servers Nginx Reverse proxies Nginx 
 Hosting Panels Plesk Analytics Statcounter", Platform Detector CMS / Tech Inspector : "Platform: Shopify Confidence: 95% 
 Found hints:      Shopify (95%) – Referências a cdn.shopify.com", 2026.09.21/https://hosting-checker.net/websites/
 abicloud.org/ only OVH SAS.;
+2026.09.21/https://smallerbizz.com/ : From July 2026 or so 18-million hostnames unpopular. 100& LibreJS. 0 wikipedia. Host: OVHCloud
 ...
 https://www.weddingservicecompanies.com/ LibreJS-access.;
 unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
 ];
-2026.09.08: sierra-leone.org 100% LibreJS-access;
+2026.09.08: sierra-leone.org Host: Newfold Digital, 7 "wikipedia". 100% LibreJS-access;
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
 2026.09.08: daum.net has akamai. 80% LibreJS-access.;
 2026.09.08: from 18 million hostnames unpopular albafind.com seemingly 100& LibreJS-access. HypeRank: n/a;
