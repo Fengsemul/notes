@@ -969,6 +969,7 @@ unpopular https://directoryauto.com/ : roughly 100% LibreJS-access because no se
 2026.09.24/https://mathi.info/ : statcounter.com , Host: OVH SAS · France, CMS - Platform Detector: Shopify Confidence: 95%;
 2026.09.24/https://ask-sherlock.co.uk/ : "ask-sherlock.co.uk, british-banners.co.uk, multimedia-consultants.co.uk", I can't access to http://www.ask-sherlock.co.uk/cgi-bin/sherlock/jump.cgi?ID=16475 : "Internal Server Error" which redirects to http://www.ask-sherlock.co.uk/cgi-bin/sherlock/re/re.cgi?url==https://leonsdigital.com/ with Firefox's "Searxes' Third-party Request Blocker" I thought, yet now it converts to urls after accessing with extension-free Incognito Firefox., Host: 2026.09.24/https://hosting-checker.net/websites/ask-sherlock.co.uk : Host Europe GmbH, 2026.09.24/https://cyscan.io/scan/920884a2-a52a-463b-9c07-beb20813cd8e : DOM Structure Forms:1 Hidden Inputs:0% Text/Code Ratio:7.0% Fingerprint: 00000000...;
 2026.09.24/https://lexza.org/ : broken with "Your website is ready to go!", Host: Namecheap, https://hosting-checker.net/websites/lexza.org/ : Webserver: Mailserver: Namecheap, Inc., Nameservers: Vercara, LLC;
+https://mainostoimistot.info/ : Casino, their links leads to Clooudflare or Google or something corporate., https://websiteanalyzer.dev/results/ykfhaw : Domain Registration : "NameCheap, Inc.", https://hosting-checker.net/websites/mainostoimistot.info : Webserver, Mailserver, Nameservers: Loopia AB
 
 ];
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
