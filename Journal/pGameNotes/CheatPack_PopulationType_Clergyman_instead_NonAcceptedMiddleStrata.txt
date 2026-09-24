@@ -1,6 +1,3 @@
-2026.02.19/https://forum.paradoxplaza.com/forum/threads/mod-observer-a-spectator-mod-for-victoria-ii-hod.1003820/
-2026.02.19: National Bank Descision can be choosen by tech-only regardless of civilization-status. Liberal Party are constantly gaining and the current conservative party constantly losing, reactionaries had one red -0.00%. With high tariffs, Abu Dhabi accumulated vast amount of money. Despite spending more to their people except in education, liberals +0.33% and conservatives in slight minus. 10.03 Average consciousness was reached in vanilla with CheatPack at roughly 1852 by enabling all technology in uncivilized nation conservative Abu Dhabi with previously 0 Total Score and no tech, which has 0 militancy and still having no westernized reforms.
-Despite reducing all known poptypes, labourers with oil-symbol near them stay.
 country_event = {
 	id = 777770060
 	title = "EVTNAME777770060"
@@ -1174,4 +1171,581 @@ country_event = {
 			clear_global_flag = default_to_self_CP
 		}
 	} 
-}...
+}
+	option = {
+		name = "EVTOPTG777770060"
+		any_country = {
+			limit = {
+				OR = {
+					AND = {
+						exists = yes
+						has_global_flag = selection_sp_endabled
+						OR = {
+							has_country_flag = selected_sp
+							is_secondary_power = yes
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_gp_endabled
+						OR = {
+							has_country_flag = selected_gp
+							is_greater_power = yes
+							
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_minor_endabled
+						OR = {
+							has_country_flag = selected_minor
+							AND = {
+								NOT = {
+									is_greater_power = yes
+								}
+								NOT = {
+									is_secondary_power = yes
+								}
+								civilized = yes
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_unciv_endabled
+						OR = {
+							has_country_flag = selected_unciv
+							civilized = no
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_vassal_endabled
+						AND = {
+						has_country_flag = selected_vassal
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_enemy_endabled
+						OR = {
+							war_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_ally_endabled
+						OR = {
+							alliance_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_target_endabled
+						OR = {
+							has_country_flag = CP_TAG_target
+						}
+					}
+				}
+			}
+			poor_strata = {
+				reduce_pop = 2
+			}
+			clear_global_flag = default_to_self_CP
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					exists = yes
+					OR = {
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_sp_endabled
+							OR = {
+								has_country_flag = selected_sp
+								is_secondary_power = yes
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_gp_endabled
+							OR = {
+								has_country_flag = selected_gp
+								is_greater_power = yes
+							
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_minor_endabled
+							OR = {
+								has_country_flag = selected_minor
+								AND = {
+									NOT = {
+										is_greater_power = yes
+									}
+									NOT = {
+										is_secondary_power = yes
+									}
+									civilized = yes
+								}
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_unciv_endabled
+							OR = {
+								has_country_flag = selected_unciv
+								civilized = no
+							}
+						}
+						AND = {
+							exists = yes
+							ai = no
+							tag = THIS
+							has_global_flag = selection_self_endabled
+						}
+						AND = {
+							exists = yes
+							ai = no
+							has_country_flag = CP_TAG_target
+							has_global_flag = selection_target_endabled
+						}
+						AND = {
+							NOT = {
+								has_global_flag = selection_sp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_gp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_self_endabled
+							}
+							NOT = {
+								has_global_flag = selection_unciv_endabled
+							}
+							NOT = {
+								has_global_flag = selection_minor_endabled
+							}
+							NOT = {
+								has_global_flag = selection_enemy_endabled
+							}
+							NOT = {
+								has_global_flag = selection_ally_endabled
+							}
+							NOT = {
+								has_global_flag = selection_vassal_endabled
+							}
+							NOT = {
+								has_global_flag = selection_target_endabled
+							}
+						}
+					}
+				}
+			}
+			owner = { 
+				poor_strata = {
+					reduce_pop = 2
+				}
+			}
+			clear_global_flag = default_to_self_CP
+		}
+	}
+	option = {
+		name = "EVTOPTH777770060"
+		any_country = {
+			limit = {
+				OR = {
+					AND = {
+						exists = yes
+						has_global_flag = selection_sp_endabled
+						OR = {
+							has_country_flag = selected_sp
+							is_secondary_power = yes
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_gp_endabled
+						OR = {
+							has_country_flag = selected_gp
+							is_greater_power = yes
+							
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_minor_endabled
+						OR = {
+							has_country_flag = selected_minor
+							AND = {
+								NOT = {
+									is_greater_power = yes
+								}
+								NOT = {
+									is_secondary_power = yes
+								}
+								civilized = yes
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_unciv_endabled
+						OR = {
+							has_country_flag = selected_unciv
+							civilized = no
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_vassal_endabled
+						AND = {
+						has_country_flag = selected_vassal
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_enemy_endabled
+						OR = {
+							war_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_ally_endabled
+						OR = {
+							alliance_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_target_endabled
+						OR = {
+							has_country_flag = CP_TAG_target
+						}
+					}
+				}
+			}
+			poor_strata = {
+				reduce_pop = 0.5
+			}
+			clear_global_flag = default_to_self_CP
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					exists = yes
+					OR = {
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_sp_endabled
+							OR = {
+								has_country_flag = selected_sp
+								is_secondary_power = yes
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_gp_endabled
+							OR = {
+								has_country_flag = selected_gp
+								is_greater_power = yes
+							
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_minor_endabled
+							OR = {
+								has_country_flag = selected_minor
+								AND = {
+									NOT = {
+										is_greater_power = yes
+									}
+									NOT = {
+										is_secondary_power = yes
+									}
+									civilized = yes
+								}
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_unciv_endabled
+							OR = {
+								has_country_flag = selected_unciv
+								civilized = no
+							}
+						}
+						AND = {
+							exists = yes
+							ai = no
+							tag = THIS
+							has_global_flag = selection_self_endabled
+						}
+						AND = {
+							exists = yes
+							ai = no
+							has_country_flag = CP_TAG_target
+							has_global_flag = selection_target_endabled
+						}
+						AND = {
+							NOT = {
+								has_global_flag = selection_sp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_gp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_self_endabled
+							}
+							NOT = {
+								has_global_flag = selection_unciv_endabled
+							}
+							NOT = {
+								has_global_flag = selection_minor_endabled
+							}
+							NOT = {
+								has_global_flag = selection_enemy_endabled
+							}
+							NOT = {
+								has_global_flag = selection_ally_endabled
+							}
+							NOT = {
+								has_global_flag = selection_vassal_endabled
+							}
+							NOT = {
+								has_global_flag = selection_target_endabled
+							}
+						}
+					}
+				}
+			}
+			owner = { 
+				poor_strata = {
+					reduce_pop = 0.5
+				}
+			}
+			clear_global_flag = default_to_self_CP
+		}
+	}
+	option = {
+		name = "EVTOPTI777770060"
+		any_country = {
+			limit = {
+				OR = {
+					AND = {
+						exists = yes
+						has_global_flag = selection_sp_endabled
+						OR = {
+							has_country_flag = selected_sp
+							is_secondary_power = yes
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_gp_endabled
+						OR = {
+							has_country_flag = selected_gp
+							is_greater_power = yes
+							
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_minor_endabled
+						OR = {
+							has_country_flag = selected_minor
+							AND = {
+								NOT = {
+									is_greater_power = yes
+								}
+								NOT = {
+									is_secondary_power = yes
+								}
+								civilized = yes
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_unciv_endabled
+						OR = {
+							has_country_flag = selected_unciv
+							civilized = no
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_vassal_endabled
+						AND = {
+						has_country_flag = selected_vassal
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_enemy_endabled
+						OR = {
+							war_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_ally_endabled
+						OR = {
+							alliance_with = THIS
+						}
+					}
+					AND = {
+						exists = yes
+						has_global_flag = selection_target_endabled
+						OR = {
+							has_country_flag = CP_TAG_target
+						}
+					}
+				}
+			}
+			poor_strata = {
+				limit = {
+					AND = {
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+				}
+				reduce_pop = 0
+			}
+			clear_global_flag = default_to_self_CP
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					exists = yes
+					OR = {
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_sp_endabled
+							OR = {
+								has_country_flag = selected_sp
+								is_secondary_power = yes
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_gp_endabled
+							OR = {
+								has_country_flag = selected_gp
+								is_greater_power = yes
+							
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_minor_endabled
+							OR = {
+								has_country_flag = selected_minor
+								AND = {
+									NOT = {
+										is_greater_power = yes
+									}
+									NOT = {
+										is_secondary_power = yes
+									}
+									civilized = yes
+								}
+							}
+						}
+						AND = {
+							exists = yes
+							tag = THIS
+							ai = no
+							has_global_flag = selection_unciv_endabled
+							OR = {
+								has_country_flag = selected_unciv
+								civilized = no
+							}
+						}
+						AND = {
+							exists = yes
+							ai = no
+							tag = THIS
+							has_global_flag = selection_self_endabled
+						}
+						AND = {
+							exists = yes
+							ai = no
+							has_country_flag = CP_TAG_target
+							has_global_flag = selection_target_endabled
+						}
+						AND = {
+							NOT = {
+								has_global_flag = selection_sp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_gp_endabled
+							}
+							NOT = {
+								has_global_flag = selection_self_endabled
+							}
+							NOT = {
+								has_global_flag = selection_unciv_endabled
+							}
+							NOT = {
+								has_global_flag = selection_minor_endabled
+							}
+							NOT = {
+								has_global_flag = selection_enemy_endabled
+							}
+							NOT = {
+								has_global_flag = selection_ally_endabled
+							}
+							NOT = {
+								has_global_flag = selection_vassal_endabled
+							}
+							NOT = {
+								has_global_flag = selection_target_endabled
+							}
+						}
+					}
+				}
+			}
+			owner = { 
+				poor_strata = {
+					limit = {
+						AND = {
+							is_primary_culture = no
+							is_accepted_culture = no
+						}
+					}
+					reduce_pop = 0
+				}
+			}
+			clear_global_flag = default_to_self_CP
+		}
+	}
+	option = {
+		name = "EVTOPTJ777770060"
+	}
+}
