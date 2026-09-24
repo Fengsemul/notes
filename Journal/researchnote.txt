@@ -885,7 +885,7 @@ directorytop.com : Weblyzer: brmark.gif , LibreJS-access. 0 wikipedia. tech. dec
 wp.com", Google Analytics ;
 2026.08.28/http://www.rankland.com/ : under construction till  35 Days, 17 Hours, 59 Minutes, 13 Seconds,
 2026.08.28/https://www.allthebizz.com/ without functional search engine;
-directoryfuse.com : Weblyzer: Dev-X(Green), LibreJS-access. Being outside 2026-07-12 top100110millions_main_domains_host . idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
+directoryfuse.com : (2026.09.24: "c46.statcounter.com, open.thumbshots.org"), Weblyzer: Dev-X(Green), LibreJS-access. Being outside 2026-07-12 top100110millions_main_domains_host . idk Wikipedia because search engine doesnt work. By https://www.who-hosts-this.com/Hosts/18282-Vultr and https://check-host.net/ip-info?host=directoryfuse.com : "The Constant Company" LLC and CMS: PHP Link Directory 3.3.0,
 unfinished search inside loudtechie.com/free-600-directory-submission-sites-list-for-quality-backlinks/ ;
 2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com . ;
 2026.08.28/wlddirectory.com : LibreJS-access. non-functional search engine, bitpixels.com, deviceatlas.com, postimg.cc CMS: qlWebDS Premium v. 5.1.0e 04/10 ;
@@ -962,10 +962,12 @@ hosting-checker.net/websites/affiliateprogramslocator.com/ : MasterDC s.r.o., 20
 Hosting Panels Plesk Analytics Statcounter", Platform Detector CMS / Tech Inspector : "Platform: Shopify Confidence: 95% 
 Found hints:      Shopify (95%) – Referências a cdn.shopify.com", 2026.09.21/https://hosting-checker.net/websites/
 abicloud.org/ only OVH SAS.;
-2026.09.21/https://smallerbizz.com/ : From July 2026 or so 18-million hostnames unpopular. 100& LibreJS. 0 wikipedia. Host: OVHCloud
-...
-https://www.weddingservicecompanies.com/ LibreJS-access.;
-unp. https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine.; 
+2026.09.21/https://smallerbizz.com/ : From July 2026 or so 18-million hostnames unpopular. 100& LibreJS. 0 wikipedia. Host: OVHCloud ;
+2026.09.21 or so/https://www.weddingservicecompanies.com/ LibreJS-access., Not in HypeStat-database., 2026.09.24/https://www.cyscan.io/scan/529d138f-7b57-4b25-8a44-290a94b77efa : "DOM Structure Forms:3 Hidden Inputs: 33%", 2026.09.24/https://hosting-checker.net/websites/weddingservicecompanies.com : Webserver:  Hostinger International Limited, Nameservers: Vercara, LLC ;
+unpopular https://directoryauto.com/ : roughly 100% LibreJS-access because no search engine., 2026.09.24/https://websiteanalyzer.dev/results/rfrr4w : "Oracle Corporation", 2026.09.24/https://hosting-checker.net/websites/directoryauto.com : Network Solutions, LLC; 
+2026.09.24/https://likeddot.com/ is a casino-webpage with popup that blocks webpage-access, which nehind that popup, at clicking almost everything link-directable, leads to likeddot.com. His only different link after "Daftar" leads to https://asupan188-info.likeddot.com/ : fonts.googleapis.com;
+2026.09.24/https://mathi.info/ : statcounter.com , Host: OVH SAS · France, CMS - Platform Detector: Shopify Confidence: 95%;
+2026.09.24/https://ask-sherlock.co.uk/ : "ask-sherlock.co.uk, british-banners.co.uk, multimedia-consultants.co.uk", I can't access to http://www.ask-sherlock.co.uk/cgi-bin/sherlock/jump.cgi?ID=16475 : "Internal Server Error" which redirects to http://www.ask-sherlock.co.uk/cgi-bin/sherlock/re/re.cgi?url==https://leonsdigital.com/ with Firefox's "Searxes' Third-party Request Blocker", Host: 2026.09.24/https://hosting-checker.net/websites/ask-sherlock.co.uk : Host Europe GmbH, 2026.09.24/https://cyscan.io/scan/920884a2-a52a-463b-9c07-beb20813cd8e : DOM Structure Forms:1 Hidden Inputs:0% Text/Code Ratio:7.0% Fingerprint: 00000000...;
 ];
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
 2026.09.08: daum.net has akamai. 80% LibreJS-access.;
@@ -1057,6 +1059,11 @@ days and therefore too popular like ExactSeek. It uses trustpilot, so indirectly
 "CMS WordPress";
 2026.09.21/https://theazdirectory.com/ 0% LibreJS and Akamai. > https://hosting-checker.net/websites/crmrc.livejasmin.com : Incoming Mailserver : "Microsoft Corporation" Outgoing Mailserver: "Microsoft Corporation" and else, https://hypestat.com/info/livejasmin.com : Tag Managers Google Tag Manager, Authentication Google Sign-in;
 2026.09.08: sierra-leone.org Host: Newfold Digital, 7 "wikipedia". 100% LibreJS-access, 2026.09.21/google-analytics.com showing up inside uBlock Origin and with Wayback Machine Auto-archiver activated at Firefox.;
+2026.09.24/https://usacompanydirectory.com/ :  Forbidden. Technology Detector: Character Encoding windows-1252, HypeStat Analyzer:"CDN: Google Hosted Libraries";
+2026.09.24/https://webglance.com/ : Host: Shock-Hosting-LLC, 0 "wikipedia", HypeStat: "Analytics: Google Analytics";
+2026.09.24/https://dmozo.org/ : "Not Found", Tech. Detector: Character Encoding windows-1252, HypeStats Analyzer: CDN CloudFlare Font Scripts Font Awesome Google Font API JavaScript Frameworks Prototype CMS WordPress Blogs WordPress;
+2026.09.24/https://gtsee.com/ : " gtsee.com, will come back soon... ", https://websiteanalyzer.dev/results/yqn5kw : and Detect Host Provider: Host: Oracle Corporation, 2026.09.24/https://hosting-checker.net/websites/gtsee.com : Webserver: Unified Layer, Incoming Mailserver: Unified Layer,
+Outgoing Mailserver: Amazon.com, Inc.,..., Google LLC, Microsoft Corporation, Nameservers: Cloudflare, Inc.;
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
