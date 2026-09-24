@@ -27,6 +27,7 @@ Troll and Strategy-settings: 3 imps, kill cd:87912161000.0s,crew version:32.0x,0
 unmoveable Accuse Us Revamped with 2s Voting Time, 4 tasks each, 0.1x Vision, lots of emergency meetings:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAAEBAQ///AAAwE8AAAAAgAAAAAAAQABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAAAADAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
 unmoveable Accuse Us Revamped with 3s Voting Time, 0.1x Vision, lots of emergency meetings,no confirm ejects,kill distance:short,15 useless angels:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAADBQU///AAAwA8AAAAAwAAAAAAAAABAgAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
 unmoveable Accuse Us Revamped with 2s Voting Time, 0.1x Vision, lots of emergency meetings,no confirm ejects,kill distance:short,15 useless angels,black taskbar:"CoQAAAEAZA8AAQAAAAAAAA9SIic8CtcjPAAAAAADBQU///AAAwA6AAAAAgAAAAAAAAABAwAJBQAAAAMAAAAAAAIAAAACAAAPAAQAD2QDAAAeAAADAAAAAgAAAAAIAAAAAgAAAAAJAAAAAgAAAP8KAAAAAwAADxQZDAAAAAEAAAASAAAAAQAA/w=="
+moveable Accuse Us Revamped being mostly normal and stucked taskbar:"C4wAAAEAZA8AAQAAAPz/fz9eMzM/AACgQAAAAAACCA/KAAAAAQIAAAAAPAAAAAA8AQABAwAKBQAAAAMAAAABAAIAAAACAAAeAAQADmQDAAAADwADAA5kAgAAAAAJAAAAAgAAAP8KAAAAAwAAAIQACAAAAAIAAAAADAAAAAEAAAASAAFkAQAAABMAAAABAAAy",
 
 
 almost stealth-mode: 65 emergency meetings:"CXQAAAEAZA8AAQAAAAAAQEAAAZZZAACgQAAB9CEZA/ZBAAAAAQIAAAAAPAAAAAA9AQEAAAAHBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8IAAAAAgAACgEJAAAAAgAADx4KAAAAAwAADx4B",
@@ -108,10 +109,6 @@ Vanish Duration: exact-Sel: 146-147:P8:255s,Fo:90s;
 2026-04-27: 18:24 After Vio left, game crashed with 15 players on my unmodded android. Vio and some loners at time (ppl who are only with me and no other players) ask how I did it.
 2026-06-06: 23:05: Among Us North America English has most diversity in terms of settings in search-filters.
 Among Us-social-note:  
-
-Accuse Us-social-note:v
-2026.06.19: 07:43: White and rose accused me, the host and white is confirmed to be imposter. the imposter tried to lure influencers and act as a client
-Accuse Us social-note:a
 
 Among Us function-note: When I click and press alot in PC-Among Us both BlueStack and Steam-Among Us, I get role-screen earlier.
 2026.03.08: When I lock android-Samsung-phone at the screen where the big red visor makes a "Pssst"-gesture and android is host, then the imp can kill meanwhile game doesnt end till the host fully loads their role. I even got Guardian Angel as role:"Protect the crewmates" or something like that. At times earlier, when android has too bad connection, then their character is still there and doesnt left.;
@@ -231,8 +228,14 @@ I found this out by having "repo:ApeMV/AmongUsRevamped kill" in my GitHub-search
 
 2026.04.09: GMT 20:04: 0 tasks works on speedrun till pressing emergency meeting.;
 2026.04.26/NumberOption_Initialize @020000A6 changed IL_F4: to 0f.;
-2026.05.02/Whne 900s vent Cooldown and Venting Time in settings, then only 132s.
+2026.05.02/When 900s vent Cooldown and Venting Time in settings, then only 132s.
+2026.08.23/When adding 2147483647 as max.value at Options : Load : "Translator.Get("crewAutoWinsGameAfter"), new IntegerValueRule(60, int.MaxValue, 10)" where 2147483647 is shown as int.MaxValue, and then go minus in-game, than it shows 150s, yet when going forwards, it can go higher like 6000s and even more. This game as server-connection ends anyway at 1 hour.
+Disbale vent enables imposters to vent for short before it getting abrupted.;
 Among Us Revamped-note:a
+
+Among Us Revamped social-note:v
+2026.08.24/When I add too much tasks, the imposter with 0 kill cd and viper tends less to give up, but more ppl left, I think. As I made slightly more bearable tasks with -2 short tasks and player speed, I think the surrender of imps increased or more people noticed that logic. As I made 14 trackers VS 1 ss and bearable tasks, more 0 kill cd imposters gave up.
+Among Us Revamped social-note:a
 
 Among Us-Research:v
 2026.02.28/https://www.innersloth.com/the-original-among-us-game/ : Victoria T.: "THE ORIGINAL AMONG US GAME. Also known as the real life game PuffballsUnited, Fortebass, and their friends used to play in college. This game, called Mafia (or Assassin), would ultimately be one of the biggest inspirations for Among Us!", "many variations/versions/house rules for Mafia, but this is the one they ended up playing": "10 people playing and 2 Jacks, then you’ll need to add 8" (2 Jacks being more common than 1 implies that 2 jacks/imposters are the norm.), "Jacks are Impostor, so put in 1-2", "Assign one room to be the designated meeting room.",
