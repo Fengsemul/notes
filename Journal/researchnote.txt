@@ -64,7 +64,8 @@ Browser-note:a
 
 Archive-note:v
 web.archive-org/for old browsers: wayback-classic.net/ ; megalodon.jp, archive.ph; arquivo.pt ; [Um: 2026.06.24/webarchive.io; webzguru.net/blog/digital-marketing/10-reliable-wayback-machine-alternatives-for-accessing-old-websites-in-2025.html];
-2026.09.25/https://ghostarchive.org/ cant archive https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/Notes2_20250112_CollapseofclassicalPhysics
+2026.09.25/https://ghostarchive.org/ cant archive https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/Notes2_20250112_CollapseofclassicalPhysics;
+2026.09.25/https://ar5iv.labs.arxiv.org/html/1304.5213 : "created: Typically unknown, Tweeted,>Tweeted, Facebook, ,, Search Engine Index, ,,, Archive Crawled, ,,, Updated, Tweeted  ,,, archived, Re-indexed, ,, Archived, ,,, Deleted, ,,,,,,, Now",
 Archive-note:a
 
 Domain search:v
