@@ -847,9 +847,21 @@ Smartsearchdirect was found presumingly by exactseek. 2025.12.15/easycounter .co
 [2026.09.08/https://www.searchenginesoftheworld.com/ : ]
 Search engine-list:a
 
+Directory-note:v
+2026.09.28/bizglide.in/directory-submission-sites-list.php : 2026.09.28/https://redtinroof.com/cgi-bin/ : "Forbidden
+You don't have permission to access this resource.
+Additionally, a 403 Forbidden error was encountered while trying to use an ErrorDocument to handle the request."
+Directory-note:a
+
 https://bizglide.in/directory-submission-sites-list.php-note:v 
-710 	https://theazdirectory.com 	20 	36
-711 	https://theazdirectory.com 	20 	36
+"710 	https://theazdirectory.com 	20 	36
+711 	https://theazdirectory.com 	20 	36",
+"1605 	https://directorydudes.com 	9 	39
+1606 	https://directorydudes.com",
+"1860 	https://leverageyourfinance.com 	6 	29
+1861 	https://multistoryedfinance.com 	6 	25"
+https://gridinsoft.com/online-virus-scanner/url/zairuc-com : "Domain Age 15 days Recently Registered " but https://bizglide.in/directory-submission-sites-list.php existed 1 month earlier.,
+"1863 	https:// financialreferences.com"
 https://bizglide.in/directory-submission-sites-list.php-note:a
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
@@ -900,16 +912,15 @@ https://media.ccc.de/v/1c2-6610-reverse_turing_test 50% LibreJS-access. No video
 2026.09.28/ccc.de: 2026.09.28/cyscan.io/scan/296b9bfb-cbf4-4567-b82f-a6d411e09758 : Passive DNS: "adminwiki.ccc-mannheim.de, gitlab.aachen.ccc.de, wiki.berlin.ccc.de, www2.ccc.de, www1.darmstadt.ccc.de", Fediverse.svg;
 https://joinpeertube.org/browse-content cant search with 0% LibreJS-access. 2026.09.28/https://websiteanalyzer.dev/results/2jc7sn : Framasoft > Hetzner., 2026.09.28/cyscan.io/scan/7dad830f-ace4-4df4-8e3d-cede9c7780c5 : Passive DNS: meilisearch.sepiasearch.org, www.peertu.be, Technology Stack Frameworks Vue.js;
 https://sepiasearch.org/search?search=test&page=1 10% LibreJS-access., 2026.09.28/websiteanalyzer.dev/results/yh9fjw : Hetzner , 2026.09.28/hosting-checker.net/websites/joinpeertube.org : Nameservers: OVH SAS, https://cyscan.io/scan/2e4d4d6e-1443-4e51-8086-1dbfe62f1a28 : Passive DNS: search.joinpeertube.org, Endpoint Discovery (22 found) : /img/bottom-peertube-logo.svg (comment), Technology Stack Frameworks Vue.js Wix, CMS: Wix, Raw Data: 1	script	 p.js 	0 B	63ms;
-https://packagist.org/search/?query=test 100% LibreJS-access. https://check-host.net/ip-info?host=https://packagist.org : "Datacamp Limited" But popular. ;
+https://packagist.org/search/?query=test 100% LibreJS-access. https://check-host.net/ip-info?host=https://packagist.org : "Datacamp Limited" But popular., 2026.09.28/cyscan.io/scan/2d6ef0e7-0eb9-4b4a-9080-8cdb0200b780 : "Technology Stack Frameworks Not detected" ;
 https://pypi.org/search/?q=test&o= 2% LibreJS-access, with jsdelivr.net
-pypi-camo.freetls.fastly.ne amd else inside results.;
-https://directory.fsf.org/wiki/Main_Page : read Wikis.;
-https://wiki.gentoo.org/wiki/Main_Page except fonts and else, gentoo works with 90% LibreJS-access. But popular.;
-https://lobste.rs/ They all worked without LibreJS, I think.;
-https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.org/ 95% LibreJS-access : " Edit on GitLab" But popular.;
-https://annas-archive.gl/ 90% LibreJS-access. But popular.;
-https://joinmastodon.org/ 90% LibreJS-access. But popular.;
-https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures.;]
+pypi-camo.freetls.fastly.ne amd else inside results., https://cyscan.io/scan/ec25f542-5345-4b63-a488-ecb09cdc6feb : "Technology Stack Frameworks Not detected";
+https://directory.fsf.org/wiki/Main_Page : read Wikis., https://cyscan.io/scan/59c2f078-faa3-4a62-81dd-607e6eed2efb : Technology Stack Frameworks jQuery, Analytics Matomo, piwik.js, 21	css	 rmsbg.png 	0 B	222ms, https://directory.fsf.org/w/load.php?debug=false&lang=en&modules=ext.ApprovedRevs%7Cext.MobileDetect.nomobile%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector, 2026.09.28/hosting-checker.net/websites/directory.fsf.org : "OVH SAS";
+https://lobste.rs/ They all worked without LibreJS, I think. 2026.09.28/websiteanalyzer.dev/results/wqu4st : "Registrar Mainstream Public Cloud Services d.o.o.", 2026.09.28/cyscan.io/scan/3febdc9d-0b45-41cb-8771-1609f99251e4 : Technology Stack Frameworks Not detected;
+https://search.f-droid.org/?q=chat&lang=en 0% LibreJS-access, https://f-droid.org/ 95% LibreJS-access : " Edit on GitLab" But popular.,2026.09.28/hosting-checker.net/websites/search.f-droid.org : ..., Vodafone GmbH,..., 2026.09.28/www.whois.com/whois/f-droid.org : Registrar: NameCheap, Inc., https://cyscan.io/scan/c6bb5ae4-9a34-4b65-af58-071c28d86b7a : Technology Stack Frameworks Not detected, 3	css	 roboto.ttf;
+https://joinmastodon.org/ 90% LibreJS-access. But popular. 2026.09.28/websiteanalyzer.dev/results/xv2vp0 : Infrastructure Owner Fastly, Inc., Payment Processors Stripe, 2026.09.28/cyscan.io/scan/a99576f4-60dc-418e-93f6-b4e24594e892 : Technology Stack Frameworks Not detected,  , /sponsors (comment), /_next/static/media/corporate-sponsorship.37f222e3.svg (comment), /_next/static/media/sextoycollective.b00cd921.webp (comment), 2026.09.28/hosting-checker.net/websites/joinmastodon.org : Incoming Mailserver  Google LLC, Outgoing Mailserver  Google LLC, Amazon.com, Inc.;
+https://www.destatis.de/DE/Home/_inhalt.html 90% LibreJS-access because of no pictures., uBlock:"www-destatis-de.ax4z.com
+bundesbots.de", Weblyzer: "Technology UI / CSS Font Awesomeui Fn Foundationui Tailwind CSSui JavaScript libraries jQueryv3.7.1 H Highchartsv10.3.3 M Modernizrjavascript Programming language JavaScriptlanguage Media HL hls.jsmedia", 2026.09.28/cyscan.io/scan/abf284d4-098f-479a-b7bd-9c4c494e3bf9 : Passive DNS: "lyncdiscover.badv.bund.de", "stba.bund.de", "zvd-p2.itzbund.de", Endpoint Discovery: "/admin/ws/widget (js) medium", "/widget-iframe.js",  Technology Stack Frameworks Not detected, 7	script	 https://faktenfuchs.destatis.bundesbots.de/widget/widget/ 	0 B	110ms, 39	img	 linkedin.svg?__blob=normal&v=7 	1.0 KB	10ms 40	img	 twitter.svg?__blob=normal&v=8 	959.0 B	9ms, 41	img	 facebook.svg?__blob=normal&v=8 	967.0 B	8ms;]
 [ 2026.09.01/https://bizglide.in/directory-submission-sites-list.php : At least 2x  	https://infotiger.com. 2x https://prolink-directory.com .;
 unpopular 2026.09.11/directorycodes.com : 90% LibreJS-access because "Ask the desk" loads too long & search engines inside categories doesnt work, but text-search and clicking right categories is enough. apple-influence: assets/apple-touch-icon.png : 24 KB;
 2026.09.11/24directory.com.ar 100% LibreJS-access;
@@ -966,7 +977,9 @@ unpopular https://directoryauto.com/ : roughly 100% LibreJS-access because no se
 https://mainostoimistot.info/ : Casino, their links leads to Clooudflare or Google or something corporate., https://websiteanalyzer.dev/results/ykfhaw : Domain Registration : "NameCheap, Inc.", https://hosting-checker.net/websites/mainostoimistot.info : Webserver, Mailserver, Nameservers: Loopia AB;
 2026.09.24/https://www.buysellin.co.uk/ : 50% LibreJS. Search dont work. Weblyzer: go.jpg without "go" in webpage as separate word nor picture. Web Servers Nginx Reverse proxies Nginx., Detect Host Provider: Host Sailor Ltd., 2026.09.24/https://hosting-checker.net/websites/buysellin.co.uk : Webserver, Incoming Mailserver, Outgoing Mailserver, Nameservers: Host Sailor Ltd, https://cyscan.io/scan/273b1e7a-e9ee-4c71-8392-fc74b7ad02f4 : Redirect Chain 25 redirects • 5043ms total : Page 1: 16 https://www.buysellin.co.uk/templates/BlacknBlue/images/go.jpg 200;
 2026.09.24/https://coaca.net/ uBlock: 119988.xyz, 51.la, gccdn.net, neiztcl.com, renys.top with 51.la being inside https://github.com/Fengsemul/extensions/blob/main/LeanSERP-Filter-Minimal/brokenuBlockscripts/uBlocklistcommanticorpphp . https://cyscan.io/scan/028ee47b-b6d8-4e6c-9d61-6d3b36ee604e : Frameworks: jQuery Bootstrap., https://websiteanalyzer.dev/results/vv79nh : Registrar GoDaddy.com, LLC;
-Stopped at non-working "1463 	https://flameu.com 	10 	29".
+2026.09.28/https://directorytribe.com/ on sell, with LibreJS: uBlock: "euob.northwavepoint.com, obseu.northwavepoint.com", with normal JS: uBlock: 1376624012.rsc.cdn77.org, cdn.consentmanager.net, cdn-fileserver.com, consentmanager.net, northwavepoint.com, resultsfindershub.com, upcloudlb.com, yfdpcono.com 2026.09.28/websiteanalyzer.dev/results/l9s41w : "Hosting Provider Next Dimension Inc" same to https://abdil.net/ and https://libaituan.com/;
+2026.09.28/izdirectory.com : Popular hostname. On sell. 2026.09.28/cyscan.io/scan/4e4e629d-657a-4391-9000-1137f37ead6b : "Technology Stack Frameworks Not detected", "Charset windows-1252", 2026.09.28/websiteanalyzer.dev/results/6iosq3 : "Hosting Provider Hetzner";
+1902 	https://directorysubmitfree.com
 ];
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
 2026.09.08: daum.net has akamai. 80% LibreJS-access.;
@@ -1041,8 +1054,6 @@ sonicrun.com : 2026.09.18/https://websiteanalyzer.dev/results/ksh596 : Nameserve
 "WhatRuns Detector Library: jQuery" and WhatCMS failed. Indirectly uses cloudflare, google, and amazon.;
 mojeek.com 0% LibreJS-access. > who-hosts-this.com/Hosts/3918-CustodianDC-Limited > googletagmanager.com and WhatRuns Detector
 Library: jquery.com/ > Cloudflare.;
-navi:photon.komoot.io/ : "Nameservers
-ns-1690.awsdns-19.co.uk. awsdns-hostmaster.amazon.com";
  sr.ht : Hosting Provider
 AWS EC2 (us-east-2), 2026.08.30/https://sourcehut.org/ / https://sr.ht/projects?search= LibreJS-access. "All features work without JavaScript" The first picture is missing with GNU LibreJS turning on consistently after 3x reload.;
 webdirectorybit.com : 2026.09.18/Nameservers: ns1.mysecurecloudhost.com, 2026.09.08: from 18 million hostnames unpopular webdirectorybit.com seemingly 100% LibreJS-access;
@@ -1084,7 +1095,13 @@ AWS Global Accelerator (GLOBAL);
 2026.08.28/https://www.athenelinks.com/ : wikipedia" : 0 results and similar interface to http://www.bobresources.com/ with s3.amazonaws.com meanwhile https://www.athenelinks.com/ has just statcounter.com ., 2026.09.27/www.cyscan.io/scan/5a8677ce-ed9f-4e9d-bdf2-3cbefa155763 : "/wp-admin/ (js) medium" "/wp-admin/ (comment)" "//www.statcounter. (comment)" ;2026.08.30/qwant.com/ 0% LibreJS. 2026.09.27/www.cyscan.io/scan/81ef7e87-7685-4ffa-ac06-85cbf6b568a2 : "/captcha/ (comment)", "Technology Stack Frameworks ReactWebflow" > uBlock: datadome.co, google-analytics.com
 privacy-center.org;
 2026.08.30/openstreetmap.org 10% LibreJS., 2026.09.28/hosting-checker.net/websites/openstreetmap.org : Webserver: Fastly, Inc. Nameservers: Cloudflare, Inc.; 
-2026.08.30/photon.komoot.io/ api/?q=berlin : 100% LibreJS-access., 2026.09.28/hosting-checker.net/websites/photon.komoot.io : Webserver: Hetzner Online GmbH, Nameservers: IPv6 Support: Amazon.com, Inc., 2026.09.28/cyscan.io/scan/065703df-1bba-45ba-b784-5b00874284cd : CDN: unpkg.com;
+2026.08.30/photon.komoot.io/ api/?q=berlin : 100% LibreJS-access., 2026.09.28/hosting-checker.net/websites/photon.komoot.io : Webserver: Hetzner Online GmbH, Nameservers: IPv6 Support: Amazon.com, Inc., 2026.09.28/cyscan.io/scan/065703df-1bba-45ba-b784-5b00874284cd : CDN: unpkg.com, navi:photon.komoot.io/ : "Nameservers
+ns-1690.awsdns-19.co.uk. awsdns-hostmaster.amazon.com";
+2026.08.30/wiki.gentoo.org/wiki/Main_Page except fonts and else, gentoo works with 90% LibreJS-access. But popular., 2026.09.28/cyscan.io/scan/92e7c549-a902-4c94-940b-83c4f7e91e0e : "/resources/lib/html5shiv/html5shiv.js (comment)", "Technology Stack Frameworks jQuery Bootstrap", 2026.09.28/websiteanalyzer.dev/results/piddqt : "Registrar Amazon Registrar, Inc.";
+2026.08.30/annas-archive.gl/ 90% LibreJS-access. But popular., 2026.09.28/websiteanalyzer.dev/results/vwk85a : "Third-Party Services Analytics Google Analytics Other Services Google Fonts", 2026.09.28/www.whois.com/whois/annas-archive.gl : "Registrar: Immaterialism Limited", 2026.09.28/cyscan.io/scan/da694a72-9d0a-4a5d-bda8-012a8f00061a : Technology Stack Frameworks Tailwind CSS;
+2026.09.28/https://www.utbo.net/ ,2026.09.28/websiteanalyzer.dev/results/at65i0 : "Third-Party Services Other Services Google reCAPTCHA";
+2026.09.28/webdirectorybit.com , 2026.09.28/hosting-checker.net/websites/webdirectorybit.com : Outgoing Mailserver  Astute Internet, Amazon.com, Inc., Nameservers: Amazon.com, Inc.;
+2026.09.28/blazewebdirectory.com/ : 2026.09.28/hosting-checker.net/websites/blazewebdirectory.com : Nameservers : Cloudflare, Inc., https://cyscan.io/scan/e9a5b0ac-68d0-4778-9835-82ec5bdc5772 : Technology Stack Frameworks Not detected;
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
