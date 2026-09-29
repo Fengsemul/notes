@@ -984,7 +984,7 @@ https://mainostoimistot.info/ : Casino, their links leads to Clooudflare or Goog
 ];
 2026.09.08: singaporesearchengine.com broken search engine. Seemingly 100% LibreJS-access.;
 2026.09.08: daum.net has akamai. 80% LibreJS-access.;
-2026.09.08: from 18 million hostnames unpopular albafind.com seemingly 100& LibreJS-access. HypeRank: n/a;
+2026.09.08: from 18 million hostnames unpopular albafind.com seemingly 100& LibreJS-access. HypeRank: n/a, 2026.09.29/websiteanalyzer.dev/results/f57vhs : Hosting Provider: ONLINE , Registrar: Gandi SAS;
 2026.09.08: http://www.info.co.at directory with 100& LibreJS-access.;
 2026.09.08/kypros.org 100& LibreJS-access.;
 2026.09.08/http://odysseus.culture.gr with just the search-redirect-link on search 0.01% LibreJS-access. © 2012 Ministry of Education and Religious Affairs, Culture and Sports gov.;
