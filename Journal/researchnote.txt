@@ -1104,6 +1104,7 @@ SourceDNS, 2026.10.04/cyscan.io/scan/d6677b3f-940d-45ac-bed1-149f7fca6c35 : "Sub
 2026.10.06/lucide.dev/ : 2.5% LibreJS for not working search engine., 2026.10.06/https://hosting-checker.net/websites/lucide.dev : Webserver: Amazon.com, Inc.;
 2026.10.06/news.ycombinator.com/ : 2026.10.06/hosting-checker.net/websites/news.ycombinator.com : Webserver: M5 Computer Security, Incoming Mailserver: Google LLC, Outgoing Mailserver: Google LLC, ..., Amazon.com, Inc., ..., Cloudflare, Inc., Nameservers:  Amazon.com, Inc., 2026.10.06/whois.com/whois/ycombinator.com : Registrar: Gandi SAS;
 https://tootfinder.ch/index.php?query=test&submitquery=Search has aws. Homepage doesnt yet for researching-applications, it pratically matters more that it's search-page uses "aws"-services as Amazon.;
+2026.10.06/https://hosting-checker.net/websites/bilibili.com/ : Webserver: Huawei Cloud Service data center, Logo of alibabagroup.com  Hangzhou Alibaba Advertising Co.,Ltd., Nameservers:  Amazon.com, Inc.
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
@@ -1134,7 +1135,7 @@ https://openlibrary.org"/web.archive.org: Web Servers: Nginx
 Reverse proxies: Nginx https://nginx.org/en/ hosted by Amazon.com, wikis and mediawiki.org by https://trafficserver.apache.org/ hosted by Fastly and https://ogp.me/ hosted by GitHub owned by Microsoft and with CDN by Fastly, mwmbl.org hosted by octopuce and vuhuv.com hosted by octopuce. Octopuce use jQuery.com hosted by Cloudflare.;
 non-Wordpress and indirectly-GAFAMC-related search engines:a
 
-less mainstream, less government-related, non-Wordpress, non-broken, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:v
+less mainstream, less government-related, non-Wordpress, non-broken, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:v
 (buysellin.co.uk with "/templates/BlacknBlue/style/ie8.css" has "14 css  go.jpg  11.2 KB 29ms" without "Go"-element and being technically not detected with GoDaddy-host. Unfindable with "go" in browser-inspector's search-bar with "go". In Network-console: "GET	https://www.buysellin.co.uk/templates/BlacknBlue/images/go.jpg" is shown as "Search" in light-blue. https://directorycodes.com/ with apple-icon.jpg I assume that buysellin.co.uk's go-jpg doesn't belong to GoDaddy nor shows GoDaddy's influence upon buysellin.co.uk. I am unsure and maybe self-contradictory about putting https://www.singaporesearchengine.com/ in gray area for their most associated indiabooks.com, which is also used as a service inside www.singaporesearchengine.com and using Cloudflare-Captcha-service, yet when the distance between singaporesearchengine.com and Cloudflare is way higher when singaporesearchengine.com's host merely uses Cloudflare as a service like cdn and not as a platform, then I can be more certain about this conclusion.)
 2026.10.04:
 https://txtlinks.com/
@@ -1161,7 +1162,7 @@ https://azlisted.com/
 https://discmaster.textfiles.com/
 https://yeandi.com/
 https://www.buysellin.co.uk/
-less mainstream, less government-related, non-Wordpress, relatively working, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:a
+less mainstream, less government-related, non-Wordpress, relatively working, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
 2026.08.17/https://xka.cz/preferences : Wikis, maybe web.archive.org,  bpb (DE) but https://check-host.net/ip-info?host=bpb.de&csrf_token=4d3a0d93cba8452825d921b4ed67bf1302b36a16 : noris network AG : https://www.noris.de/ : wp-content because of those 3 webpages popular hosts., https://www.myrasecurity.com/de/sea/myra-security-ddos-protection/ : "eu-captcha.eu" > https://www.myrasecurity.com/en/ : googletagmanager.com ", googletagmanager.com, googletagmanager.com, noris.de" ;
