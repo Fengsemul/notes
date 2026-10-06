@@ -949,6 +949,9 @@ baidu.com  : 95% LibreJS with html-redirection., uBlock: "bcebos.com, bdstatic.c
 2026.10.06/www.acfun.cn/ : 0% LibreJS, uBlock: "aixifan.com, alikunlun.com, apdcdn.com, kunlunle.com, queniuhy.com, yximgs.com", https://hosting-checker.net/websites/acfun.cn : Webserver: Hangzhou Alibaba Advertising Co.,Ltd., Outgoing Mailserver: ..., 2x Amazon.com, Inc. , Nameservers: Alibaba Cloud (Singapore) Private Limited, Alibaba (US) Technology Co., Ltd., 2026.10.06/www.whois.com/whois/acfun.cn : "Registrar: 浙江贰贰网络有限公司", 2026.10.06/cyscan.io/scan/53819fd0-fa04-46c9-bf88-9a5a5c618ce1 : "Subject *.certfallback.com", "Technology Stack Frameworks jQuery" ;
 2026.10.06/iqiyi.com/ : 1% LibrJS, uBlock: a.akamaiedge.net, 2026.10.06/hosting-checker.net/websites/iqiyi.com : Webserver: CHINA UNICOM China169 Backbone, China Unicom Beijing Province Network, Nameservers: Beijing IQIYI Science & Technology Co., Ltd., 2026.10.06/whois.com/whois/iqiyi.com : Registrar: Alibaba Cloud Computing (Beijing) Co., Ltd., HypeStats: "IaaS Alibaba Cloud Object Storage Service Miscellaneous PWA", 2026.10.06/cyscan.io/scan/b22b823e-2930-41b7-b2fd-458b01f663c8 : "Technology Stack Frameworks ReactVue.js";
 2026.10.06/alpinelinux.org : 2026.10.06/hosting-checker.net/websites/alpinelinux.org : Webserver: Akamai Connected Cloud, Nameservers: Akamai International B.V., 2026.10.06/whois.com/whois/alpinelinux.org : Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com, HypeStats: "Technologies used on WebsiteView more ⯈ Security HSTS Web Servers Nginx Reverse proxies Nginx UI frameworks Pure CSS";];
+[2026.10.06/searchenginefinder.com/Business/Employment/ : metajob.de: 2026.10.06/https://www.whois.com/whois/metajob.de : DENIC whois service on port 43 doesn't disclose any information concerning % the domain holder, general request and abuse contact., 2026.10.06/https://hosting-checker.net/websites/metajob.de : Webserver: Hetzner Online GmbH, Incoming Mailserver: Google LLC, Outgoing Mailserver: Google LLC, Hetzner Online GmbH, Nameservers: Hetzner Online GmbH, 2026.10.06/https://cyscan.io/scan/b0c42fb3-ff13-4c3b-8317-aa1098a725e9 : Subject: anna.metajob.at, Analytics Matomo, 2	script	 matomo.js 	0 B	33ms];
+[2026.10.06/searchenginefinder.com/Business/Finance_And_Investment/ : 2026.10.06/econbiz.de : uBlock: etracker.com, 2026.10.06/https://hosting-checker.net/websites/econbiz.de : Webserver: Mailserver: Verein zur Foerderung eines Deutschen Forschungsnetzes e.V., Nameservers: NetUSE AG, Nawork Internet Informationssysteme GmbH, 2026.10.06/https://www.whois.com/whois/econbiz.de : "doesn't disclose any information", 2026.10.06/cyscan.io/scan/1477c26f-cbe2-46be-b6e3-a5c37274bad6 : Subject: *.zbw.eu, "fb.econbiz.de", Technology Stack Frameworks jQuery Bootstrap]
+;
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 almost non-GAFAMC non-wp Domain triers:v
@@ -1104,7 +1107,8 @@ SourceDNS, 2026.10.04/cyscan.io/scan/d6677b3f-940d-45ac-bed1-149f7fca6c35 : "Sub
 2026.10.06/lucide.dev/ : 2.5% LibreJS for not working search engine., 2026.10.06/https://hosting-checker.net/websites/lucide.dev : Webserver: Amazon.com, Inc.;
 2026.10.06/news.ycombinator.com/ : 2026.10.06/hosting-checker.net/websites/news.ycombinator.com : Webserver: M5 Computer Security, Incoming Mailserver: Google LLC, Outgoing Mailserver: Google LLC, ..., Amazon.com, Inc., ..., Cloudflare, Inc., Nameservers:  Amazon.com, Inc., 2026.10.06/whois.com/whois/ycombinator.com : Registrar: Gandi SAS;
 https://tootfinder.ch/index.php?query=test&submitquery=Search has aws. Homepage doesnt yet for researching-applications, it pratically matters more that it's search-page uses "aws"-services as Amazon.;
-2026.10.06/https://hosting-checker.net/websites/bilibili.com/ : Webserver: Huawei Cloud Service data center, Logo of alibabagroup.com  Hangzhou Alibaba Advertising Co.,Ltd., Nameservers:  Amazon.com, Inc.
+2026.10.06/https://hosting-checker.net/websites/bilibili.com/ : Webserver: Huawei Cloud Service data center, Logo of alibabagroup.com  Hangzhou Alibaba Advertising Co.,Ltd., Nameservers:  Amazon.com, Inc., https://websiteanalyzer.dev/results/gk7gjm : "Limited analysis — Cloudflare challenge";
+2026.10.06/searchenginefinder.com/Business/ : 2026.10.06/businessindex.biz : 100% LibreJS, 2026.10.06/cyscan.io/scan/65f52046-eaf4-4fdf-8b56-c1e9f993c815 : Subject 10url.com, Technology Stack Frameworks Not detected, 2026.10.06/websiteanalyzer.dev/results/srgymv . "Limited analysis — Cloudflare challenge";
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
@@ -1162,6 +1166,8 @@ https://azlisted.com/
 https://discmaster.textfiles.com/
 https://yeandi.com/
 https://www.buysellin.co.uk/
+https://www.metajob.de/
+https://www.econbiz.de/
 less mainstream, less government-related, non-Wordpress, relatively working, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
