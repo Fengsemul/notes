@@ -974,8 +974,6 @@ https://kingbloom.com/ used ebay shorty and other corporate scripts.;
 2026.08.30: broken https://pypi.org/search/?q=test when searching and browsing files as 2% LibreJS-access., https://pypi.org/search/?q=test&o= 2% LibreJS-access, with jsdelivr.net
 pypi-camo.freetls.fastly.ne amd else inside results., https://cyscan.io/scan/ec25f542-5345-4b63-a488-ecb09cdc6feb : "Technology Stack Frameworks Not detected";;
 2026.08.30: https://lemmy.ml/ : 10% LibreJS-access as in " Javascript is disabled. Actions will not work.", yet posts can be accessed. Searched with https://lemmy.ml/search?q=lemmy . 2026.09.08: CloudFlare was requested when searching "test" and "lemmy".;
-2026.09.19/https://www.himalyan.net/ : uBlock: linkedin.com
-pinterest.com , https://hosting-checker.net/websites/himalyan.net/ : Outgoing Mailserver: 2x Amazon.com, Inc., 1x  Google LLC, 1x Microsoft Corporation, 1x "Wikipedia"-result.;
 Gray area:a
 
 incomplete-written black area:v
@@ -1117,6 +1115,8 @@ https://tootfinder.ch/index.php?query=test&submitquery=Search has aws. Homepage 
 2026.10.07/searchenginefinder.com/Computer_and_WWW/Internet/Web_Services/Web_Promotion/ : 2026.10.07seowebdirectory.com/ : 2026.10.07/cyscan.io/scan/ee422838-3e64-4821-8a0b-10fb5a7996b4 : Subject *.hostgator.com], "Charset windows-1252";
 2026.10.07/francearchives.gouv.fr : 2026.10.07/hosting-checker.net/websites/francearchives.gouv.fr : Webserver: OVH SAS, Mailserver: GANDI SAS, Outgoing Mailserver: OVH SAS, Nameservers: GANDI SAS, 2026.10.07/whois.com/whois/francearchives.gouv.fr : "Registrar: GANDI", "Contact Name: Etat francais represente par le Ministere de la Culture", 2026.10.07/cyscan.io/scan/ea4d3594-774b-45ab-9a01-8a1c11aa0a09 : Subject cdn.tarteaucitron.io, "//www.google.com/cse/cse.js?cx=", "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace= (comment) info", "//static.getclicky.com/js (comment) info //ads.clicmanager.fr/exe.php? (comment) info", "//connect.facebook.net/ (comment) info", "//use.typekit.net/", "//player.vimeo.com/video/", "//www.youtube-nocookie.com/embed/", "//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/", Technology Stack Frameworks jQuery";
 2026.10.07/kvk.bibliothek.kit.edu/ : 0% LibreJS, 2026.10.07/cyscan.io/scan/c66bdb74-9dee-486d-853a-d66550dd4629 : Subject ai.bibliothek.kit.edu, Technology Stack Frameworks Not detected, Charset windows-1252, https://hosting-checker.net/websites/kvk.bibliothek.kit.edu : Karlsruhe Institute of Technology, Outgoing Mailserver too: d.vinci HR-Systems GmbH, https://www.whois.com/whois/kit.edu : Karlsruhe Institute of Technology;
+2026.09.19/https://www.himalyan.net/ : uBlock: linkedin.com
+pinterest.com , https://hosting-checker.net/websites/himalyan.net/ : Outgoing Mailserver: 2x Amazon.com, Inc., 1x  Google LLC, 1x Microsoft Corporation, 1x "Wikipedia"-result., 2026.10.07/uBlock: ajax.googleapis.com, googlesyndication.com, megroo.com;
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
