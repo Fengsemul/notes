@@ -970,7 +970,7 @@ broken 2026.10.09/perfumecenter.com/ ;
 2026.10.11/ftp.funet.fi/ : 2026.10.11/hosting-checker.net/websites/ftp.funet.fi : Webserver: Mailserver: CSC - Tieteen tietotekniikan keskus Oy, Nameservers: CSC - Tieteen tietotekniikan keskus Oy, 2x CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet, 2026.10.11/whois.com/whois/funet.fi : CSC - Tieteen tietotekniikan keskus Oy, 2026.10.11/cyscan.io/scan/6c40de33-61ac-4005-b0e8-e1ec95216249 : "Technology Stack Frameworks Not detected";
 2026.10.11/files.mpoli.fi : 2026.10.11/hosting-checker.net/websites/files.mpoli.fi : OVH SAS, 2026.10.11/whois.com/whois/mpoli.fi : Registrar: Multim Oy / Shellit.org , 2026.10.11/cyscan.io/scan/ccc76b62-fa32-4f36-8969-ecc4bfed5019 : Technology Stack Frameworks Not detected;
 2026.10.11/https://generaldirectory.biz/index.php?words=test&submit=Search&o=search : uBlock:"globalmediaserver.com, mediamaterials.com, xeroshoes.postaffiliatepro.com", 80% LibreJS: quite buggy at looking, but it works., 2026.10.11/websiteanalyzer.dev/results/uuspqw : Hosting Provider: HOST1, 2026.10.11/hosting-checker.net/websites/generaldirectory.biz : S-NET Sp. z o.o., 2026.10.11/whois.com/whois/generaldirectory.biz : Registrar: Key-Systems GmbH, 2026.10.11/cyscan.io/scan/eed3d3a1-6fc5-4602-8c93-38c6b733a567 : Subject sni-missing-or-domain-unknown.help.section.io, DOM Structure Forms:1 Hidden Inputs:33% Text/Code Ratio:15.0% Fingerprint: 00000000..., "Technology Stack Frameworks Not detected"
-
+https://generaldirectory.biz/directories,categ-417.htm to be continued.;
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
@@ -1138,6 +1138,8 @@ pinterest.com , https://hosting-checker.net/websites/himalyan.net/ : Outgoing Ma
 2026.10.11/hosting-checker.net/websites/dcee.net : Webserver: Zone Media OU, Incoming Mailserver: Google LLC, 2026.10.11/whois.com/whois/dcee.net : Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc.  Nameservers: Zone Media OU, 2026.10.11/cyscan.io/scan/0ec7685d-d91c-4888-aed9-28f64e37ce32 : Technology Stack Frameworks Not detected, Charset windows-1252;
 2026.10.11/hosting-checker.net/websites/lctn.com : no Webserver detected, Incoming Mailserver: VIRTBIZ Internet Services, Outgoing Mailserver : 2x Tucows.com Co., VIRTBIZ Internet Services, Aeneas Internet Services, Forked Deer Electric Cooperative, Inc., Nameservers: VIRTBIZ Internet Services, 2026.10.11/www.whois.com/whois/lctn.com : Registrar: Tucows Domains Inc., https://websiteanalyzer.dev/results/azpihh : Hosting Provider VIRTBIZ Internet Shared Hosting, 2026.10.11/cyscan.io/scan/11d2dd29-8f41-4f12-9a82-d2e14d4ba6af : Charset windows-1252;
 2026.10.11/tamilselvi.com/ > HypeStat Analyzer: Statcounter: wp assumingly.;
+almost all 2026.10.11/daduru.com/society/ : Daduru and "Canada Directory Australia Directory UK Business Directory London Directory Manchester Directory My Legal Practice Law Directory YGLocal.com NYC Directory";
+
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
