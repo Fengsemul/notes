@@ -1257,7 +1257,9 @@ sorted less JS relatively non-GAFAM search engines and directories:v
 	"*://*.weddingservicecompanies.com/*",
 sorted less JS relatively non-GAFAM search engines and directories:a
 
-
+LibreJS usage-note:v
+2026.10.12/https://www.pppsr.com/search?q=pool : With LibreJS, the search results are there, but invisible.
+LibreJS usage-note:a
 
 GAFAM-note:v
 2026.08.17/https://techrights.org/n/2026/05/08/It_s_Not_a_GAFAM_World_Anymore_and_There_Are_Far_More_Operating.shtml :
