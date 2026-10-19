@@ -448,13 +448,54 @@ AI-note:v
 [2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ; https://www.layer3labs.io/ai-model-pricing ]
 AI-note:a
 
-worst AI:v
+AI side-note:v
+
+2026.10.19/https://aifreebox.com/list/ai-text-generator : **Subject:** Product Update: Why Gemini 
+3.8 Flash Powers the AI Text Generator Suite  **Dear Team and Valued Partners,**  As part of our 
+ongoing commitment to providing industry-leading productivity tools, we have recently completed a 
+comprehensive evaluation of the underlying language models supporting our text-generation directory 
+at **AIFreeBox** (specifically featured on our [AI Text Generator Directory](https://aifreebox.com/
+list/ai-text-generator)).   Following extensive testing, **Gemini 3.8 Flash** has emerged as the 
+definitive "chosen one" to drive our text generation applications. Below is an executive summary 
+detailing why this model was selected and how it directly benefits our end users in day-to-day 
+business and professional writing workflows.  ---  ### Key Factors Behind the Selection of Gemini 
+3.8 Flash  #### 1. Ultra-Low Latency for Real-Time Execution In fast-paced corporate environments, 
+waiting for generation queues creates friction. Gemini 3.8 Flash delivers near-instant response 
+times. Whether our users are drafting urgent client emails, generating meeting summaries, or 
+producing ad copy, the model provides immediate output without the latency commonly associated with 
+heavier enterprise models.  #### 2. Nuanced Contextual Comprehension & Tone Calibration 
+Professional communication demands precise register—from formal board memos to conversational sales 
+outreach. Gemini 3.8 Flash demonstrates exceptional semantic awareness, maintaining consistent 
+voice, adhering strictly to user guidelines, and drastically reducing hallucinations. This ensures 
+business correspondence remains polished and ready to send with minimal editing.  #### 3. Long-
+Context Handling at Unmatched Efficiency Business writing often involves large reference inputs: 
+quarterly reports, dense customer transcripts, or multi-page briefs. Gemini 3.8 Flash retains 
+Google’s breakthrough context window capabilities, allowing users to feed in extensive 
+documentation and extract concise, high-impact business deliverables without losing thematic 
+coherence.  #### 4. Scalable Cost-Performance Ratio Because AIFreeBox focuses on providing 
+accessible, top-tier tools to a global user base, resource efficiency is paramount. Gemini 3.8 
+Flash achieves state-of-the-art benchmark results in language comprehension while maintaining an 
+exceptionally lean operational footprint. This efficiency enables us to deliver sustained high-
+volume access to our users without compromising quality.  ---  ### What This Means for Your 
+Workflow  Visitors utilizing the text generation tools listed on our platform can expect: * 
+**Faster Draft Turnarounds:** Reduce time spent on email composition, memos, and proposals by up to 
+60%. * **Higher First-Draft Accuracy:** Structural integrity and tone that match corporate 
+communication standards right out of the gate. * **Seamless Scalability:** High-throughput 
+generation that handles both quick single-sentence prompts and multi-document syntheses 
+effortlessly.  We encourage you to experience the integration directly via the [AIFreeBox AI Text 
+Generator Suite](https://aifreebox.com/list/ai-text-generator).   Should you have any questions 
+regarding implementation details, performance metrics, or enterprise use cases, please do not 
+hesitate to reach out to our product operations team.  Sincerely,  **The Product & Engineering 
+Team**   *AIFreeBox Technology Group* 
+AI side-note:a
+
+lowest performing AI roughly:v
 2026.07.23/https://openrouter.ai/models?context=1000000&order=intelligence-high-to-low : Auto Router ;
 2026.07.23/llm-stats.com/ : worst reasoning AI: 2026.07.23/overchat.ai/models/ernie/ernie-4-5 and few other metrics the lowest, 2. worst MiniMax-01
 after reducing Coding Index and Agentic Index so that 1 result stays: Meta: Llama 4 Scout : https://llama.online/chat;
 2026.07.23/https://en.wikipedia.org/wiki/List_of_large_language_models : complicated.: Kimi K2.5 has lowest params: 1T, Falcon has lowest Corpus size: 1T tokens, GPT-1 has lowest training cost;
 2026.07.23/https://www.layer3labs.io/ai-model-pricing : "Nova MicroAWS Bedrock on-demand	Amazon	$0.035	$0.14 Nova LiteAWS Bedrock on-demand	Amazon	$0.06	$0.24 DeepSeek V4 FlashCache-hit input $0.003 / 1M	DeepSeek	$0.14	$0.28 Mistral Small 4	Mistral	$0.15	$0.6 Llama 4 ScoutHosted on AWS Bedrock	Meta	$0.17	$0.66 DeepSeek V4 ProCache-hit input $0.004 / 1M	DeepSeek	$0.435	$0.87 CodestralCode model	Mistral	$0.3	$0.9 Llama 4 MaverickHosted on AWS Bedrock	Meta	$0.24	$0.97 Sonar+ search fee $5–12 / 1k requests	Perplexity	$1	$1 Gemini 3.1 Flash-LiteText/image/video rate	Google	$0.25	$1.50 Mistral Large 3Flagship	Mistral	$0.5	$1.50 Command R	Cohere	$0.5	$1.50 Grok BuildCoding model; 256k context	xAI	$1	$2 Gemini 2.5 FlashText/image/video rate	Google	$0.3	$2.50 Grok 4.3Flagship; 1M context	xAI	$1.25	$2.50 Nova ProAWS Bedrock on-demand	Amazon	$0.8	$3.20 Claude Haiku 4.5Fastest, cheapest Claude	Anthropic	$1	$5 Magistral MediumReasoning	Mistral	$2	$5 GPT-5.6 LunaLowest-cost tier; generally available in the API	OpenAI	$1	$6"
-worst AI:a
+lowest performing AI roughly:a
 
 Internet popularity-note:v
 2026.06.21/https://webaim.org/projects/million/ : "home pages tested had over 1.4 billion page elements. Home page 
@@ -704,7 +745,7 @@ https://notegpt.io/ai-chat ;
 2026.10.19/https://tutorgpt.io/gpt-5-6 Luna with 388 KB text.;
 2026.10.19/hix.ai/c/gpt-5-6-sol : 0/80000 ;
 2026.10.19/gptonline.ai/chat-online/?prompt=Hi loads. ;
-2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded.
+2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".
 AI chat avability-note:a
 
 AI-helpers:v
