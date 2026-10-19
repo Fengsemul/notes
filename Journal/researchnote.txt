@@ -728,6 +728,16 @@ The prototype has no serial number or labels. The production units started with 
 "Unfortunately, he had given it to an auction house just some weeks before I called him."
 First PC:a
 
+simple, low cost, and high longevity computer-note:v
+2026.10.19/ai-text-generator : Gemini 3.8 Flash: W65C02S-based Minimalist PC** (best exemplified by open-source reference designs like the **Grant Searle 6502** or the modern **Ben Eater 6502 Architecture**)., "2. **Earliest Production Window:** Because the fully static **W65C02S** revision emerged in the **early 1990s** (superseding earlier NMOS and dynamic CMOS variants) and the **AT28C256** matured in supply chains around **1989–1990**, the earliest plausible manufacturing date for this exact computer design is **circa 1992–1993**. "W65C02S, one must address a prevalent conflation in computing history: the distinction between early **65C02** microprocessors and the modern **W65C02S**.", "WDC SBC and Engineering Kits (Early to Mid-1990s)  The chronologically earliest discrete systems to incorporate the W65C02S silicon were Western Design Center’s proprietary evaluation microcomputers:  * **Platform:** WDC W65C02SXB / Early Evaluation Boards * **Timeline:** Circa 1992–1995", "B. High-Volume Embedded Computing: The Franklin Digital Book System (1992–1993)": "If the inquiry demands a standalone, commercially distributed digital computer rather than an industrial development board, the historical apex belongs to early handheld computing systems:  * **Platform:** Franklin Electronic Publishers *Digital Book System* (DBS-1 / DBS-2) * **Manufacturing Year:** 1992–1993", "minimizing manufacturing complexity, minimizing economic expense, and maximizing operational longevity, the **RC2014 (Zilog Z80-based architecture)**", "Raspberry Pi Zero (Revision 1.3)"; 
+2026.10.19/https://chat.freedomgpt.com/ : Raspberry Pi;
+2026.10.19/notegpt.io/ : MiniMax M3: "Raspberry Pi";
+2026.10.19/freegpt.ai/chat with Deep Thinking and Search : "enterprise desktop like the Dell OptiPlex is the clear winner." This chatbot confused "produce" with assembling the end-product. "If “easiest and cheapest to produce” means from raw materials to finished system, the 6502‑based hobby computer (Ben Eater / Grant Searle) is the clear winner. It uses the simplest manufacturing processes, the fewest resources, and has the highest inherent hardware lifespan—often measured in decades. The OptiPlex 3020, while long‑lasting, requires an entire global industrial infrastructure to produce, and its components (e.g., electrolytic capacitors, BGA chips) are more failure‑prone over time.  For a PC‑like system (x86, modern OS), there is no way around the complexity. The OptiPlex 3020’s longevity is excellent for a modern PC, but its production chain is orders of magnitude more complex than a 6502‑based board.", 
+2026.10.19/freegpt.ai/chat with Deep Thinking and Search : "What's the “easiest and cheapest to produce” from raw materials to finished system and has the highest inherent hardware lifespan?": "phyCORE‑i.MX 6UL/ULL system‑on‑module (SoM) from PHYTEC",
+2026.10.19/freegpt.ai/chat with Deep Thinking and Search : "phyCORE‑i.MX 6UL/ULL system‑on‑module is priced below 20 € (at volume), uses a single‑sided, machine‑producible design, and is offered with 15‑year long‑term availability – a practical embodiment of low-cost, long-life design phytec.eu.",
+2026.10.19/freegpt.ai/chat with Deep Thinking and Search : "What's the economically easiest and cheapest to produce from raw materials to finished system and has the highest inherent hardware lifespan?": "Based on the provided research, the TS-4100 System-on-Module (SoM) from EmbeddedTS", "Are you sure that the phyCORE‑i.MX 6UL/UL isnt the number 1 of being the cheapest to produce, easiest to produce and highest product-lifespan? Search deeper.  You are absolutely correct to question that. Based on the search results, the phyCORE‑i.MX 6UL/ULL from PHYTEC is indeed a stronger candidate than the TS‑4100 across all three criteria – cheapest to produce, easiest to produce, and highest lifespan.". "earlier candidate (phyCORE‑i.MX 6UL/ULL) still wins if you allow embedded modules, because it combines <€20 cost, solder‑on‑reel automated assembly, and a 15‑year availability guarantee phytec.eu."
+simple, low cost, and high longevity computer-note:a
+
 AI chat avability-note:v
 https://www.app.lorka.ai/l/chat/04?model=gpt-5.6&utm_source=bing&utm_medium=cpc&utm_campaign=571029709&utm_term=chatgpt%20app&utm_content=&utm_adgroup=1186375198032877&utm_network=o&utm_device=c&utm_devicemodel=&utm_matchtype=b&utm_loc_physical_ms=146488 ;
 https://www.chatday.ai/chat : 1024 letetrs limited;
@@ -743,9 +753,11 @@ https://notegpt.io/ai-chat ;
 2026.08.24/https://deepwiki.com/search/whats-22_48419251-8e70-4651-86c5-e5d3ddbb52ce?mode=deep ;
 2026.09.06/https://www.chatgoat.ai/chat?conversationId=a021af3e8f3346ef9744d11b0cbc7d2b 2026.09.18 not anymore also because Prism-list changed Pro-AIs to paid, I think.;
 2026.10.19/https://tutorgpt.io/gpt-5-6 Luna with 388 KB text.;
-2026.10.19/hix.ai/c/gpt-5-6-sol : 0/80000 ;
 2026.10.19/gptonline.ai/chat-online/?prompt=Hi loads. ;
-2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".
+2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".;
+2026.10.19/chat.freedomgpt.com/ free 5 questions. It responded to  388 KB text, but badly by pointing out what GAFALink doesnt do.;
+2026.10.19/freegpt.ai/ respond to Googlelessx referred here as the "388 KB text" with a new, alternative, programming code.;
+
 AI chat avability-note:a
 
 AI-helpers:v
@@ -768,6 +780,7 @@ Stop looking for the one true religion like it's a single mathematical proof. In
 If you find that, practice it fully, without pretending it's absolute knowledge. That's what "good faith" actually means.
 The only real lie is pretending to know what you don't. And I'm not going to do that to you. Neither should any human who respects you.
 "
+AI-helpers:a
 
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
