@@ -1175,8 +1175,9 @@ Reverse proxies: Nginx https://nginx.org/en/ hosted by Amazon.com, wikis and med
 non-Wordpress and indirectly-GAFAMC-related search engines:a
 
 less mainstream, less government-related, non-Wordpress, non-broken, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:v
-(buysellin.co.uk with "/templates/BlacknBlue/style/ie8.css" has "14 css  go.jpg  11.2 KB 29ms" without "Go"-element and being technically not detected with GoDaddy-host. Unfindable with "go" in browser-inspector's search-bar with "go". In Network-console: "GET	https://www.buysellin.co.uk/templates/BlacknBlue/images/go.jpg" is shown as "Search" in light-blue. https://directorycodes.com/ by AI, which most-used AIs at 2026 supports mainstream-sources more & with apple-icon.jpg . I assume that buysellin.co.uk's go-jpg doesn't belong to GoDaddy nor shows GoDaddy's influence upon buysellin.co.uk. I am unsure and maybe self-contradictory about putting https://www.singaporesearchengine.com/ in gray area for their most associated indiabooks.com, which is also used as a service inside www.singaporesearchengine.com and using Cloudflare-Captcha-service, yet when the distance between singaporesearchengine.com and Cloudflare is way higher when singaporesearchengine.com's host merely uses Cloudflare as a service like cdn and not as a platform, then I can be more certain about this conclusion. u.: affiliateprogramslocator.com, directorycodes.com, smallerbizz.com, buysellin.co.uk)
-2026.10.11:
+(buysellin.co.uk with "/templates/BlacknBlue/style/ie8.css" has "14 css  go.jpg  11.2 KB 29ms" without "Go"-element and being technically not detected with GoDaddy-host. Unfindable with "go" in browser-inspector's search-bar with "go". In Network-console: "GET	https://www.buysellin.co.uk/templates/BlacknBlue/images/go.jpg" is shown as "Search" in light-blue. https://directorycodes.com/ by AI, which most-used AIs at 2026 supports mainstream-sources more by msm-companies & with apple-icon.jpg . I assume that buysellin.co.uk's go-jpg doesn't belong to GoDaddy nor shows GoDaddy's influence upon buysellin.co.uk. I am unsure and maybe self-contradictory about putting https://www.singaporesearchengine.com/ in gray area for their most associated indiabooks.com, which is also used as a service inside www.singaporesearchengine.com and using Cloudflare-Captcha-service, yet when the distance between singaporesearchengine.com and Cloudflare is way higher when only the singaporesearchengine.com's host uses Cloudflare as a service like cdn and not as a platform, then I can be more certain about this conclusion. metajob.de had shown results linked to google-services by now and their results are harder to access with LibreJS. 
+unpopular: affiliateprogramslocator.com, directorycodes.com (AI), smallerbizz.com, buysellin.co.uk)
+2026.10.19:
 https://txtlinks.com/
 https://info-listings.com/
 https://www.goguides.com/
@@ -1186,7 +1187,6 @@ https://www.raziskovalec.com/
 https://yusearch.com/
 https://www.weddingservicecompanies.com/
 https://affiliateprogramslocator.com/
-https://directorycodes.com/
 https://search.f-droid.org/
 https://lobste.rs/
 https://directory.fsf.org/
