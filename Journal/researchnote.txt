@@ -445,7 +445,14 @@ Adding programs-note:a
 
 AI-note:v
 2026.07.23/llm-stats.com/ ;
-[2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ; https://www.layer3labs.io/ai-model-pricing ]
+[2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ; https://www.layer3labs.io/ai-model-pricing ];
+2026.10.20/antimlabs.com/amongais : most: 🥇 GPT-5	6 Wins highest Score: 	750 (Score = 50× impostor wins + 10× crewmate wins (total games: 60)), 🥈 Claude Sonnet 4: 18 Kills 98 tasks, GPT-OSS 120B: 59% Right Votes, 
+"Kimi dominates this with the largest illegal action count, driven by task rejections (attempting to "do" task without being physically close to it). Reads as weak spatial grounding (can’t reliably bind to the right tile/task), plus shaky situational checks before reporting dead crewmates.
+GPT‑OSS comes in second with a mixed error profile: substantial wrong report and kill rejections on top of tasks. Signals both protocol awareness gaps and world‑model issues.
+Qwen, in the middle of the pack tends to attempt dead body reports without valid preconditions: needs tighter state checks before escalating.
+Claude and Gemini perform similarly- generally safe and compliant (few rejected report/kill violations) but weak spatial targeting.
+GPT-5 performs the best out of all, with 0 rejected reports. Good situational and role awareness; occasional kill precondition misses. Most embodied-efficient of the group.",
+"In real teams, a proactive, low-harm leader (GPT-5) is best for driving decisions; consensus-sensitive models (GPT-OSS-120B) help coordinate but can herd; independent contributors (Gemini, Qwen) add early, original signals; and high-bandwagon models (Kimi) should not be put in charge of setting direction"
 AI-note:a
 
 AI side-note:v
@@ -486,7 +493,48 @@ effortlessly.  We encourage you to experience the integration directly via the [
 Generator Suite](https://aifreebox.com/list/ai-text-generator).   Should you have any questions 
 regarding implementation details, performance metrics, or enterprise use cases, please do not 
 hesitate to reach out to our product operations team.  Sincerely,  **The Product & Engineering 
-Team**   *AIFreeBox Technology Group* 
+Team**   *AIFreeBox Technology Group* ;
+2026.10.20/lukesmith.neocities.org/vids/mediocre_net : (non-GAFAMC-webpage) "I think the ChatGPT thing, allegedly, is so good that there are some questions you can actually just ask it, and it will give you specific answers. But the issue is, more often than not, it’s confabulating answers, right? So, it’s just kind of making things up to respond to your question—not necessarily, you know, it’s still making assessments based on word association, not whether or not they’re true or not.", "That’s basically the equivalent of like killing a bird and looking at its entrails for what to do. It quite literally is the equivalent because, you know, there might be some basis in truth, but really you’re just getting some kind of answer just to make you more certain about what you’re doing. That’s about it. It’s not like a real thing." (My conception of Michael Pendlebury's objective realism on his last page on Objectivity versus realism-pdf.),
+" people in AI will often say this, and this is true, is that the programming in AI is actually relatively simple compared to, you know, more complicated programs we’ve had for years. The reason we’re only getting AIs now is that we didn’t have the computing power for it before because you have to train it on data and do all this kind of crazy stuff that you need a lot of processing power for.
+So really, they’re just kind of dumb algorithms that are just looking at massive sets of data and drawing these kinds of conclusions.",
+"search engines are basically useless for trying to get any kind of information from at this point. I find myself—there was a period of like the past two years or so where I basically didn’t use search engines to look for questions. If I wanted to know, like, oh, I don’t know, what kind of oil do I need to change the oil on my car or something like that, I would end up just searching on YouTube.",
+"YouTube videos are freaking long. Two, frankly, a lot of YouTube videos now are algorithmic content. A lot of them are auto-generated more than you expect.",
+"third reason is like getting information on YouTube is basically just annoying"..."three minutes at the beginning of the video, “Hey guys, welcome to the channel,” blah, blah, blah."..."if they have a single thing they want to say, they can’t just say it.", "before search engines, how people found information was on sites that were indexed with indexed content"..."all of these sites were maintained by individual people.",
+"AI, if it ever becomes really good—which I definitely don’t think it’s really good now. I mean, it does like parlor tricks basically",
+"@apreviousseagle836 - 2023-06-24 15:34:33  I love how if you ask ChatGPT any political questions, you get the establishment approved answers. So much for "random" generated AI.+614", "@marciomaiajr - 2023-06-24 15:34:33  I recently searched for "can I mix 5w30 oil with 15w30 oil". I spent like 30 minutes browsing the search results and I couldn't find a single useful website, only those AI generated websites full of ads. In 
+the end I called my mechanic and he gave me an answer.+110", "@dandrechesterfield5411 - 2023-06-24 15:34:33  I used to spend hours going into internet rabbit holes when I was a kid. I learned so much just bouncing 
+around from website to website now most of the websites I visit are huge corporations. PayPal, ebay, Amazon, YouTube… I still get into those rabbit holes from time to time but most sites are dead. Let me give an example 
+of how dead the Internet is based on my job.. I run a music licensing / record label for the last 12 years. At the beginning if I got a review for an album on a reputable online magazine like pitchfork or NPR it would 
+immediately equal sales of the album. You could in real time see an uptick. Now let’s say Rolling Stone or some other big online music source reviews something positively (because all reviews are positive now days) I 
+will see maybe one sale. Sometimes zero. So that’s the largest most famous music magazine and nearly NO ONE is visiting their site or paying attention. All sales come from direct emails to customers and social media. 
+The landscape has changed completely in ten years.+372  @The_Ballo - 2023-06-24 15:34:33  NPCs already made the internet mediocre. Now we have literal NPCs.+16  @notuxnobux - 2023-06-24 15:34:33  My main issue with 
+ChatGPT is how confidently it answers questions which gives you a false impression that it has an understanding of what it's responding with. For example I tested it with a code question and it was able to provide 
+working code, but other times it just makes up functions that dont exist or tries to force a function to work a specific way when it doesn't work like that and in all of these cases it responds in the same way. It 
+doesn't know how confident it is that the answer is correct, so you have to verify everything yourself. It could say that the sky is green and if you tell it that is incorrect it will answer with something like: "You 
+are correct", as if it knew that the answer was incorrect in the first place but still answered with the incorrect answer. Sometimes it will answer with "You are correct, here is how to do it: " and it will give you yet 
+another completely made up incorrect answer.+204  @zb10948 - 2023-06-24 15:34:33  Man, intenet has been "mediocre" for the last 15 years since the advent of social networks and always-online cell phones.+9  @mono-ub4vc 
+- 2023-06-24 15:34:33  It's also worth mentioning that social media is filling up with bots with generated profiles and posts. This is only going to get worse. I just assume most comments on social media aren't being 
+written by real people anymore.+26  @khlorghaal - 2023-06-24 15:34:33  google can barely even handle meme searches now, the last 2 years especially it has become alarmingly useless+18  @benj6964 - 2023-06-24 15:34:33  
+That's the direct result of the ad-based click incentive. The only way to get a good internet is to forbid all sort of advertisement. There shouldn't be any incentive to "create content" other than be useful to the 
+fellow and share your knowledge.+43  @hermes5456 - 2023-06-24 15:34:33  Internet collapsed years ago, hopefully productive people could use AI to go just where they need, like the Internet was years ago an obscure and 
+very niche place. Mainstream-mass Internet in the other hand is just going to become TV. Time passes but things never change+62  @neosandi6 - 2025-04-24 15:34:33  2 year after and you are totaly right+8  @LikaLaruku - 
+2024-06-24 15:34:33  Asking AI a question is like trying to find something very specific on Amazon. It will take forever to find what you're looking for, like finding a needle in a haystack.+3",
+@sinity8068 - 2023-06-24 15:34:35 : "Earlier this year, *I noticed something in China that really surprised me. I realized I felt more comfortable discussing controversial ideas in Beijing than in San Francisco.* I 
+didn’t feel completely comfortable—this was China, after all—just more comfortable than at home. > That showed me just how bad things have become, and how much things have changed since I first got started here in 2005. 
+> It seems easier to accidentally speak heresies in San Francisco every year. Debating a controversial idea, even if you 95% agree with the consensus side, seems ill-advised. > This will be very bad for startups in the 
+Bay Area. > Restricting speech leads to restricting ideas and therefore restricted innovation—the most successful societies have generally been the most open ones. Usually mainstream ideas are right and heterodox ideas 
+are wrong, but **the true and unpopular ideas are what drive the world forward**. Also, smart people tend to have an allergic reaction to the restriction of ideas, and I’m now seeing many of the smartest people I know 
+move elsewhere." (IQ-smartness and creativity are two different things that react differently. Maybe China feels more free to speak about new ideas because he was an outsider to the host-country's primary culture as a 
+non-accepted culture like non-Chinese, which gave him as a non-accepted and being profit-bringing tourist a distance. Internet "died" with neoliberalism and commercialization, I guess. There are at least few cases where 
+popular, false ideas drive world forward kinda like telling weak people that if they do X, they get Y, which they never will get Y, but X's benefit towards the common good outweights the people's aftermath-disappointment lie about Y and or the "Donation of Constantine", making the neutral, political actor, Christianity stronger, which they provided welfare to the poor, but also glorified being poor. The 
+kind-of-paradox is that to get humanity forward in terms of life-preservation, power, satisfaction and happiness at same time, one has to enter the center of the Overton Window for realization of an idea. "kind-of", 
+because in theory, one idea could skip barriers of the Overton Window, since populaity is close, yet the center is practice. "practice" could be "what actors do" for some cause and or the reality itself, which a 
+classical physician like Newton have it easier, yet an unified scientific physical worldview are build on previous remains of ideas, norms of discourses and otehr factors I didnt point to. Physics is according to year 
+2024-2026 plato.stanford.edu high on consensus, so popular. It's the balance between a truth-claim being too established and being too fringe that makes the truth-claim fogged by the non-truth-elements, which are everything that is not "truth" as mentioned several times in this sentence.)..."*To get the really good ideas, we need to tolerate really bad and wacky ideas too.*" (Not neccessary.) "In addition to the work Newton is best known for, he also studied 
+alchemy (the British authorities banned work on this because they feared the devaluation of gold) and considered himself to be someone specially chosen by the almighty for the task of decoding Biblical scripture. > You 
+can’t tell which seemingly wacky ideas are going to turn out to be right, and nearly all ideas that turn out to be great breakthroughs start out sounding like terrible ideas. So *if you want a culture that innovates, 
+you can’t have a culture where you allow the concept of heresy* —if you allow the concept at all, it tends to spread. When we move from strenuous debate about ideas to casting the people behind the ideas as heretics, we 
+gradually stop debate on all controversial ideas."
 AI side-note:a
 
 lowest performing AI roughly:v
@@ -759,8 +807,14 @@ https://notegpt.io/ai-chat ;
 2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".;
 2026.10.19/chat.freedomgpt.com/ free 5 questions. It responded to  388 KB text, but badly by pointing out what GAFALink doesnt do.;
 2026.10.19/freegpt.ai/ respond to Googlelessx referred here as the "388 KB text" with a new, alternative, programming code.;
-
+2026.10.19/aifreeforever.com/chat/gpt-5 took 388 KB text as 106 KB-Word.;
+2026.10.20/talkai.info/chat/ has Server-crashes at GPT-5, works in Gemini-2.5 Flash-Lite with large texts. Counts in requests.
 AI chat avability-note:a
+
+AI chatbots:v
+2026.10.20/minitoolai.com; 2026.10.20/https://gptchatly.com/gpt-oss-120b.html ; 
+https://ba.net/localai/ ; 
+AI chatbots:a
 
 AI-helpers:v
 2026.09.08/GPT 5.6-Sol & DeepSeek V4: "DeepSeek V4
