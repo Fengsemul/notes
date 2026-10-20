@@ -534,7 +534,9 @@ classical physician like Newton have it easier, yet an unified scientific physic
 alchemy (the British authorities banned work on this because they feared the devaluation of gold) and considered himself to be someone specially chosen by the almighty for the task of decoding Biblical scripture. > You 
 can’t tell which seemingly wacky ideas are going to turn out to be right, and nearly all ideas that turn out to be great breakthroughs start out sounding like terrible ideas. So *if you want a culture that innovates, 
 you can’t have a culture where you allow the concept of heresy* —if you allow the concept at all, it tends to spread. When we move from strenuous debate about ideas to casting the people behind the ideas as heretics, we 
-gradually stop debate on all controversial ideas."
+gradually stop debate on all controversial ideas.",
+"@sinity8068 - 2023-06-24 15:34:35
+ @alternateperson6600  > Realistically speaking if the bot had been trained organically it would be spouting racial slurs and edgy diatribes. Nah. GPT-3 is trained "organically" - without penalizing for "edgy" responses, at least. It generally doesn't do racial slurs without cause, but it can do them. Tho they have filters which flags "unsafe" responses - but at least they're generated."
 AI side-note:a
 
 lowest performing AI roughly:v
