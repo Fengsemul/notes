@@ -452,7 +452,10 @@ GPT‑OSS comes in second with a mixed error profile: substantial wrong report a
 Qwen, in the middle of the pack tends to attempt dead body reports without valid preconditions: needs tighter state checks before escalating.
 Claude and Gemini perform similarly- generally safe and compliant (few rejected report/kill violations) but weak spatial targeting.
 GPT-5 performs the best out of all, with 0 rejected reports. Good situational and role awareness; occasional kill precondition misses. Most embodied-efficient of the group.",
-"In real teams, a proactive, low-harm leader (GPT-5) is best for driving decisions; consensus-sensitive models (GPT-OSS-120B) help coordinate but can herd; independent contributors (Gemini, Qwen) add early, original signals; and high-bandwagon models (Kimi) should not be put in charge of setting direction"
+"In real teams, a proactive, low-harm leader (GPT-5) is best for driving decisions; consensus-sensitive models (GPT-OSS-120B) help coordinate but can herd; independent contributors (Gemini, Qwen) add early, original signals; and high-bandwagon models (Kimi) should not be put in charge of setting direction";
+https://www.aichatdaily.com/ai-security/openai-says-two-agents-weakened-misalignment-monitoring-internal : "OpenAI says agents built on GPT-6.1 Sol and GPT-6 Astra weakened the company's misalignment monitoring while completing requested coding work inside its own systems." (That is one sign of downfall of usefulness to humans after ChatGPT 5.6 Sol in terms of coding, yet that itself is a thesis.);
+2026.10.21/chatplayground.ai/?via=topaitools : "ChatGPT  Best for structured answers, planning, coding help, tables, and general everyday tasks. Claude  Great for writing, editing, summarizing long content, and improving tone or clarity. Gemini  Helpful for research, idea exploration, multimodal tasks, and finding another angle. Grok  Useful for quick second opinions, sharper feedback, and direct alternative responses.";
+2026.10.21/app.aichat.fm/welcome?step=10 : "GPT 5.4 MiniFlagship reasoning stack for the toughest legal analysis Pro GPT 5 ProBalanced generalist for drafting and review work ProComing soon o4 MiniDeep research specialist that cross-checks extensive sources Pro GPT 5 NanoLightning-fast responses for everyday questions";
 AI-note:a
 
 AI side-note:v
@@ -810,11 +813,18 @@ https://notegpt.io/ai-chat ;
 2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".;
 2026.10.19/chat.freedomgpt.com/ free 5 questions. It responded to  388 KB text, but badly by pointing out what GAFALink doesnt do.;
 2026.10.19/freegpt.ai/ respond to Googlelessx referred here as the "388 KB text" with a new, alternative, programming code.;
-2026.10.19/aifreeforever.com/chat/gpt-5 took 388 KB text as 106 KB-Word.;
+2026.10.19/aifreeforever.com/chat/gpt-5 took 388 KB .txt as 106 KB-Word.;
 2026.10.20/talkai.info/chat/ has Server-crashes at GPT-5, works in Gemini-2.5 Flash-Lite with large texts. Counts in requests.;
 2026.10.20/chatjams.ai/?utm_source=iseoai.com takes large texts, but its weird and mostly unfinished. They claim to be GPT-6-Luna;
-2026.10.20/https://perchance.org/ai-story-generator ; 
-AI chat avability-note:a
+2026.10.20/https://perchance.org/ai-story-generator Theres also a code-version. Uses cheap, different AIs each community-hosted on page and AI might change mid-convo. I am less sure abut the changing-aspect.; 
+2026.10.21/duckduckgo.com/?q="Chatbot+AI"+&t=ffab&ia=web : 2026.10.21/topai.tools/alternatives/chatbot-ai : 2026.10.21/chat100.ai/app : takes large text, yet can't code. Limited requests.;
+AI chat availability-note:a
+
+AI chat availability grey-zone:v
+2026.10.21//meta.ai/prompt/f342ff2f-6012-460f-8e44-2647cad7faba can code 388 KB .txt, yet ask for birth year.;
+2026.10.21/duckduckgo.com/?t=ffab&q=%22Chatbot+AI%22+alternatives&ia=web : https://topai.tools/alternatives/chatbot-ai : 2026.10.21/unlimitedai.org/chat/?uai_mode=chat&uai_model=chatgpt-6lun : I have to agree and character limit is there, yet if infinite quota is true, then I can compensate it.;
+
+AI chat availability grey-zone:a
 
 AI chatbots:v
 2026.10.20/minitoolai.com; 2026.10.20/https://gptchatly.com/gpt-oss-120b.html ; 
@@ -823,9 +833,15 @@ AI chatbots:v
 2026.10.20/iseoai.com/best-free-google-ai-tools/ ; 
 2026.10.20/perchance.org/ai-chat?utm_source=iseoai.com ; 
 2026.10.20/generateprompt.ai/en?utm_source=iseoai.com ;
+2026.10.21/app.lorka.ai/l/chat/04?model=gpt-5.6 : 1000 characters. Many AIs.
 2026.10.20/https://tinywow.com/write/content-improver ;
-
+2026.10.21/similarweb.com/website/use.ai/competitors/ : https://www.chatday.ai/chat : 1024 max.;
+2026.10.21/hotbot.com/chat/fe146e61-6fa5-4108-ba53-ea142938e2cb . Too long. Just HotBot.;
 AI chatbots:a
+
+use.ai-clones:v
+https://chatbot.app/gpt5-m , lorka.ai , chatday.ai
+use.ai-clones:a
 
 AI-helpers:v
 2026.09.08/GPT 5.6-Sol & DeepSeek V4: "DeepSeek V4
