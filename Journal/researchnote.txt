@@ -811,12 +811,20 @@ https://notegpt.io/ai-chat ;
 2026.10.19/chat.freedomgpt.com/ free 5 questions. It responded to  388 KB text, but badly by pointing out what GAFALink doesnt do.;
 2026.10.19/freegpt.ai/ respond to Googlelessx referred here as the "388 KB text" with a new, alternative, programming code.;
 2026.10.19/aifreeforever.com/chat/gpt-5 took 388 KB text as 106 KB-Word.;
-2026.10.20/talkai.info/chat/ has Server-crashes at GPT-5, works in Gemini-2.5 Flash-Lite with large texts. Counts in requests.
+2026.10.20/talkai.info/chat/ has Server-crashes at GPT-5, works in Gemini-2.5 Flash-Lite with large texts. Counts in requests.;
+2026.10.20/chatjams.ai/?utm_source=iseoai.com takes large texts, but its weird and mostly unfinished. They claim to be GPT-6-Luna;
+2026.10.20/https://perchance.org/ai-story-generator ; 
 AI chat avability-note:a
 
 AI chatbots:v
 2026.10.20/minitoolai.com; 2026.10.20/https://gptchatly.com/gpt-oss-120b.html ; 
-https://ba.net/localai/ ; 
+2026.10.20/ba.net/localai/ ; 2026.10.20/uncensored-llm.vercel.app/ : GPT-OSS-120B, where you can type large texts, but GPT-OSS-120B refuses.;
+2026.10.20/github.com/topics/uncensored-ai-list ; 2026.10.20/github.com/FindSilent/best-free-ai-tools-list;
+2026.10.20/iseoai.com/best-free-google-ai-tools/ ; 
+2026.10.20/perchance.org/ai-chat?utm_source=iseoai.com ; 
+2026.10.20/generateprompt.ai/en?utm_source=iseoai.com ;
+2026.10.20/https://tinywow.com/write/content-improver ;
+
 AI chatbots:a
 
 AI-helpers:v
@@ -971,7 +979,8 @@ less heard Search engines:a
 Directory-note:v
 2026.09.28/bizglide.in/directory-submission-sites-list.php : 2026.09.28/https://redtinroof.com/cgi-bin/ : "Forbidden
 You don't have permission to access this resource.
-Additionally, a 403 Forbidden error was encountered while trying to use an ErrorDocument to handle the request."
+Additionally, a 403 Forbidden error was encountered while trying to use an ErrorDocument to handle the request.";
+2026.10.20/iseoai.com/free-backlink-directory-list/
 Directory-note:a
 
 https://bizglide.in/directory-submission-sites-list.php-note:v 
