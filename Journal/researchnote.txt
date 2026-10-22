@@ -2547,7 +2547,8 @@ HTTPS Everywhere ? as nowadays avaliable CORS Everywhere ? with User since    Ap
 2026.08.29/https://addons.mozilla.org/en-US/firefox/addon/0c0d3/ < 2026.08.29/https://github.com/0c0d3/-0C0d3-MV3/blob/main/build.js : "//   - NO remote code execution (no eval, no dynamic <script>) //   - NO security header modification //   - MAIN-world code ships as bridge.js via declarative //     content_scripts with "world": "MAIN" (Gecko 128+)";
 https://addons.mozilla.org/en-US/firefox/addon/almost-unique/ : "Blocks JavaScript, CSS, fonts, geolocation requests, and cookies.";
 https://addons.mozilla.org/en-US/firefox/addon/3p-block-mv3/ : "Blocks all third-party scripts, images, frames, and fonts and headers. MV3 ready";
-2026.08.30/https://haketilo.koszko.org/downloads#webextension
+2026.08.30/https://haketilo.koszko.org/downloads#webextension ;
+2026.10.22/reddit.com/r/firefox/comments/yhsgsi/looking_for_chrome_extension_equivalences_for/
 Extension-note:a
 
 Firefox-note:v
