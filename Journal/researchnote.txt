@@ -796,9 +796,6 @@ simple, low cost, and high longevity computer-note:v
 simple, low cost, and high longevity computer-note:a
 
 AI chat availability-note:v
-https://www.app.lorka.ai/l/chat/04?model=gpt-5.6&utm_source=bing&utm_medium=cpc&utm_campaign=571029709&utm_term=chatgpt%20app&utm_content=&utm_adgroup=1186375198032877&utm_network=o&utm_device=c&utm_devicemodel=&utm_matchtype=b&utm_loc_physical_ms=146488 ;
-https://www.chatday.ai/chat : 1024 letters limited;
-https://chat.aichatapp.ai/es/landing-chat?utm_source=bing&utm_medium=cpc&utm_campaign=487140664&utm_term=ChatGPT&utm_adgroup=1234752834318169&utm_network=o&utm_device=c&utm_matchtype=e&utm_loc_physical_ms=146488&model=gpt-5-nano auto-limits large texts into 10000;
 https://use.ai/?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw ;
 https://use.ai/is/deep-research : GPT 5.5 and https://use.ai/sl/deep-research : GPT 5.5 changes sometimes.;
 https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw : doesnt work.;
@@ -806,7 +803,6 @@ https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=
 https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.08.05/use.ai's ids doesnt work.;
 2026.09.05/use.ai demands pay now at 1. try.;
-https://notegpt.io/ai-chat ;
 2026.08.24/https://deepwiki.com/search/whats-22_48419251-8e70-4651-86c5-e5d3ddbb52ce?mode=deep ;
 2026.09.06/https://www.chatgoat.ai/chat?conversationId=a021af3e8f3346ef9744d11b0cbc7d2b 2026.09.18 not anymore also because Prism-list changed Pro-AIs to paid, I think.;
 2026.10.19/https://tutorgpt.io/gpt-5-6 Luna with 388 KB text.;
@@ -828,6 +824,9 @@ AI chat availability grey-zone:v
 AI chat availability grey-zone:a
 
 AI chatbots:v
+https://www.chatday.ai/chat : 1024 letters limited;
+https://chat.aichatapp.ai/es/landing-chat?utm_source=bing&utm_medium=cpc&utm_campaign=487140664&utm_term=ChatGPT&utm_adgroup=1234752834318169&utm_network=o&utm_device=c&utm_matchtype=e&utm_loc_physical_ms=146488&model=gpt-5-nano auto-limits large texts into 10000;
+https://notegpt.io/ai-chat : 388 KB txt is too long.,
 2026.10.20/minitoolai.com; 2026.10.20/https://gptchatly.com/gpt-oss-120b.html ; 
 2026.10.20/ba.net/localai/ ; 2026.10.20/uncensored-llm.vercel.app/ : GPT-OSS-120B, where you can type large texts, but GPT-OSS-120B refuses.;
 2026.10.20/github.com/topics/uncensored-ai-list ; 2026.10.20/github.com/FindSilent/best-free-ai-tools-list;
