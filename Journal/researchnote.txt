@@ -19,7 +19,7 @@ Media-note:a
 2023-10-21:a
 
 Sentiment API-note:v
-2026.10.04/anyapi.io/app/sentiment-analysis-api
+2026.10.04/anyapi.io/app/sentiment-analysis-api : Login and Test request.
 Sentiment API-note:a
 
 PiHole filter-note:v
