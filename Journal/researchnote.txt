@@ -1548,7 +1548,6 @@ ftp.funet.fi
 http://files.mpoli.fi/
 generaldirectory.biz
 site-search.uruky.com
-https://repology.org/
 less mainstream, less government-related, non-Wordpress, relatively working, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working and indirectly-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
