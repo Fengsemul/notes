@@ -1302,10 +1302,8 @@ https://uruky.com/docs/search-engine-providers?il=en : "Uruky does not rely on a
 Serper and PriEco appear to use semantic search. "
 uruky.com :2026.10.25/cyscan.io/scan/0415d0b1-120a-4d18-9d4e-80e34078db08 :  "Technology Stack Frameworks Tailwind CSS", "1	img	 tor-browser-stable.svg 	1.5 KB	16ms", 2026.10.25/websiteanalyzer.dev/results/qoan9j , 2026.10.25/hosting-checker.net/websites/uruky.com . Webserver: Hetzner Online GmbH, 2026.10.25/whois.com/whois/uruky.com : Registrar: OVH sas;
 < source (news.onbrn.com) of demo (https://site-search.uruky.com) of uruky: 2026.10.25/cyscan.io/scan/6237b91f-414b-4d4b-a2f2-4c9d057bb730 : "Technology Stack Frameworks Not detected", https://websiteanalyzer.dev/results/n03y24 , https://hosting-checker.net/websites/news.onbrn.com : Webserver: Hetzner Online GmbH Incoming Mailserver : OVH SAS, Outgoing Mailserver: OVH SAS DEFT.COM Nameservers: OVH SAS SSL Certificate: Certificate Issuer, Intermediate Certificate, Root Certificate , 2026.10.25/whois.com/whois/onbrn.com : Registrar: OVH sas;
-2026.10.25/beehaw.org/post/27697234 : 2026.10.25/hosting-checker.net/websites/repology.org : "JSC TIMEWEB Provider Domain     timeweb.ru Provider Country     Flag of Russian FederationRussian Federation", 2026.10.25/whois.com/whois/repology.org : "Registrar: Regional Network Information Center, JSC dba RU-CENTER", https://cyscan.io/scan/c1b2ad2f-c183-4236-8eee-b0bf8ab52e36 : "Technology Stack
-Frameworks
-React jQuery Bootstrap";
-2026.10.25/news.ycombinator.com/item?id=49155492 : hister.org , 2026.10.25/hosting-checker.net/websites/hister.org , 2026.10.25/whois.com/whois/hister.org , 2026.10.25/cyscan.io/scan/9d8ef08b-da5f-43fa-98cb-7bfe95731b0c : "Hister is a private, self hosted search engine for the pages you visit and the files you keep. Search from the web, terminal, command line, or MCP.", "Technology Stack Frameworks Svelte"
+2026.10.25/news.ycombinator.com/item?id=49155492 : hister.org , 2026.10.25/hosting-checker.net/websites/hister.org , 2026.10.25/whois.com/whois/hister.org , 2026.10.25/cyscan.io/scan/9d8ef08b-da5f-43fa-98cb-7bfe95731b0c : "Hister is a private, self hosted search engine for the pages you visit and the files you keep. Search from the web, terminal, command line, or MCP.", "Technology Stack Frameworks Svelte";
+
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 almost non-GAFAMC non-wp Domain triers:v
@@ -2895,9 +2893,190 @@ World order-note:v
 2026.07.28/https://workingmanfinance.com/understanding-the-hidden-forces-shaping-our-world/ : (Uses persuasive, dramatizing-coming-later-to-the-point language at beginning to end, small moderation from his narrative like the Jews didnt control all the world but most form that writer's meaning, ignores that according to Visual Capitalist, family at 1. and financial security at 3. are the most important values on a representative survey worldwide, money is way lower. Intellectuals themselves barely were authorities of the people and even if, they were misinterpreted like Kant and Spinoza through a commentator digesting Kant's long Critique of Pure Reason. The French revolutionaries misinterpreted them.)
 World order-note:a
 
+non-GAFAMC websites inisde autocracies:v
+2026.10.25/beehaw.org/post/27697234 : 2026.10.25/https://hosting-checker.net/websites/repology.org : "JSC TIMEWEB Provider Domain     timeweb.ru Provider Country     Flag of Russian Federation", 2026.10.25/whois.com/whois/repology.org : "Registrar: Regional Network Information Center, JSC dba RU-CENTER", https://cyscan.io/scan/c1b2ad2f-c183-4236-8eee-b0bf8ab52e36 : "Technology Stack
+Frameworks
+React jQuery Bootstrap", https://www.computerwoche.de/article/2636122/to-fight-scammers-russia-cracks-down-on-ru-domain-2.html : 2010-03-19: "Starting April 1, anyone who registers a .ru domain will need to provide a copy of their passport or, for businesses, legal registration papers.", "Last month, a of Internet domain name databases found that only 23 percent of records were accurate.", 2026.10.25/https://www.crunchbase.com/organization/ru-center : " Acquired by
+RosBusinessConsulting"..."
+Moscow, Moscow City, Russian Federation", "RU-CENTER (CJSC Regional Network Information Center) is the first and largest domain name registrar* and one of the leading web hosting providers** in Russia. Today RU-CENTER has under its flagship RU-CENGER Group companies, embracing largest Russia’s domain registrars and web-hosting providers.
+With more than 3 million domain names placed in
+RU-CENTER, the company has been providing domain registration services for more than twenty years. We have more than 550,000 customers and more than 8,000 partners, our representatives are easily recognized in all subjects of the Russian Federation and 68 countries all over the world.
+Our team is ready to offer a full suite of domain names in any TLD to suit any fancy. The unique "Worldwide Domains" service won RUNET Prize in 2012." (As being the first and largest and one of the leading web hosting providers, being inside Moscow, there the government seats in combination with large, broad recognition, "Worldwide Domains" under quotations winning a russian price implying that they're mostly russian in which their traffic indicates,  and being recognized by many russian actors I conclude that the russian government controls over 50% of RU-center.), 2026.10.25/nic.ru/ uBlock: yandex.ru, 2026.10.25/nic.ru/about/ : "IT activity codes (in accordance with the list of activities in the field of IT approved by the order of the Ministry of Figures of the Russian Federation dated May 11, 2023 N 449): 7.01; 6.01; 5.01. Registered in the unified state register of legal entities by the inter-district inspection No. 46 in the year. Moscow. Record number: 1067746823099 from 17.07.2006", 2026.10.25/repology.org/docs : "Copyright (C) 2016-2026 Dmitry Marakasov Code licensed under GPLv3+. ", "GitHub repositories: webapp, updater, ruleset", 2026.10.25/https://en.wikipedia.org/wiki/Types_of_business_entity_in_Russia : "While a joint-stock company presents several advantages compared to a typical business establishment, the burden of creating a JSC typically outweighs that of a private limited company. This is especially true in Russia where the abnormally excessive legal and bureaucratic challenges facing prospective entrepreneurs typically dissuade most from starting a JSC.[6] Without the need to issue shares in a private limited company, it makes private limited companies much more flexible when the need arises for members to change the charter capital of the company. Furthermore, a private limited company can collectively or individually hold at least a 10% interest in the company's charter capital, and it does not have the power to request a court expel another participant.[6] All of this is not possible in a joint-stock company, or prohibitively difficult.", "In Russia, a JSC can be completely or partially owned by the federal government. Such JSCs are different from another type of state-controlled company, the unitary enterprise (a commercial organization that operates state-owned assets). State-owned JSCs do not own or operate any state property and the state acts just like an ordinary shareholder.
+Some state-owned public corporations were formerly government agencies in the Soviet Union which were reorganized into completely state-owned JSCs in 1992–1993 to undergo a transition to a fully independent business.", "Less important JSCs, or the JSCs only partially owned by the government, are managed through the Federal Agency for State Property Management (Rosimushchestvo).", 2026.10.25/https://sprinthost.ru/docs/official : "Activity code 5.01 "Creation and (or) provision of infrastructure for hosting; web-hosting, data streaming services; provision of application hosting; dedicated hosting" (according to the order of the Ministry of Figures dated 11.05.2023 No449).", "https://www.rusprofile.ru › id › 4096906
+LLC "Sprinthost.Ru" St. Petersburg (INN 7814374583) address, official ...
+LLC "Sprinthost.Ru" has been operating since 2007 and works in the field of data processing and hosting services. The company is registered in St. Petersburg. Since 2009, it has been headed by Director General Alexander Gennadyevich Ivanov, who is also the sole owner of 100% stake, which indicates the concentration of control and management in one hand.
+", 2026.10.25/https://timeweb.com/news/identifikaciya-cherez-gosuslugi-aktualnyj-status/ : "The team is working on the implementation of the functionality for the passage of identification through the State Service. Integration will be implemented before new requirements come into effect so you can pass the identification and continue to manage your domains.
+Until September 1, 2026, you can continue to register and renew domains in the usual mode. Domains registered before the new rules come into force will continue to operate for a paid period without the need for additional identification.",
+2026.10.25/timeweb.com/ru/docs/domeny/identifikaciya-cherez-esia/ : "From September 1, 2026 for domain management. RU, . RF and . SU administrators will need to be identified through the Unified Identification and Authentication System (ESIA). For this purpose a confirmed account of the State Services is necessary.
+This rule is enshrined in the Federal Law No. 569-FZ of 29.12.2025.
+When identified, the system checks the data of the account holder on the State Services with the data of the domain administrator. If they match, the administrator is considered confirmed.", "For domains. SU and domains. RU and . The RF, registered through R01 or Rucenter, the identification of the administrator in our panel is not required. Instead, it will need to go through Rucenter.",
+"Individuals and IP
+You will need a confirmed account on the State Services.
+Make sure that you have access to the personal office of the State Services and that your account on the State Services is confirmed. It can be confirmed through the bank, MFC or Russian Post.
+Legal entities
+You need to register the organization with the ESIA and log in through the company account.
+Make sure that the organization is linked to the account of the employee responsible for the domains.
+Non-residents
+Individuals - non-residents of the Russian Federation need to register on the State Services.
+For non-resident legal entities, the identification procedure has not yet been approved.
+For our part, we are also working on possible alternative solutions for non-resident users.",
+https://ict-online.ru/news/Timeweb-Cloud-vzyal-natsional-nuyu-Premiyu-Runeta-320037 : "Timeweb Cloud, a cloud provider for businesses, startups and independent developers, became the winner of the Runet Prize 2025, the main state award in the field of digital technologies. The provider was recognized as one of the leaders in the nomination “Cloud Solution of the Year”. In 2025, 900 applications were submitted, which was a historic high.", "The winners in the nomination "Cloud solution of the year" were determined in conditions of high competition between technological market leaders. Timeweb Cloud is among the top three together with the ANTAVIRA predictive modeling platform. The winner is the Moscow Government, which submitted a Mos.Wiki documentation management module on the Mos.Hub cloud platform to the competition.
+“Runet Prize-level recognition is a serious assessment of our work to create technological and affordable cloud solutions. Our main goal is to be an ecosystem IT partner, closing the complex of needs of Russian business and developers. We also focus on our own control panel and AI tools. Our panel can be used by specialists of any level, including beginners. We will continue to develop services that combine ease of use and economic efficiency, ensure independence for the Russian market, ”said Sergey Naumov, CEO of Timeweb Cloud." (Maybe Timeweb Cloud isn't so dependent on russian government.),
+"Timeweb Cloud - Timeweb Cloud
+CNews.ru
+https://www.cnews.ru › book"..."
+Timeweb Cloud is a Russian cloud provider focused on business, startups and independent developers. The company provides services in the...", https://www.cnews.ru/book/Timeweb_-_%D0%A2%D0%B0%D0%B9%D0%BC%D0%92%D1%8D%D0%B1_-_Timeweb_Cloud_-_%D0%A2%D0%B0%D0%B9%D0%BC%D0%B2%D1%8D%D0%B1_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4 : "Timeweb Cloud is part of the Timeweb Group, which also includes the Timeweb hosting destination (for individuals and small businesses). Timeweb Cloud is highlighted as a separate legal entity and brand focused on the corporate and development segment.
+Trademarks are registered : Timeweb, Timeweb Cloud, TimewebGPT.
+The company is included in the register of (No. 14524 of 2023), which gives the right to participate in public procurement with an advantage.
+Participation in CNews ratings
+In the CNews Analytics ranking “The largest suppliers in – 2023” Timeweb Cloud is not included in the top 5, but is mentioned as one of the active players.
+Licenses and permits
+    Certificate of compliance with the requirements of UZ-1 (level of protection of personal data), confirmed in 2024.
+    Included in the Unified Register of Russian Programs for Computer and OBD (registration No. 14524).
+    Data on the licenses of FSTEC or FSB are not disclosed.
+", "Foreign analogues :
+    Amazon Web Services (AWS) – USA
+    Microsoft Azure – USA
+    Google Cloud Platform (GCP) – USA
+    DigitalOcean – USA (for developers and startups)
+    OVHcloud – France
+Information is relevant for April 5, 2025",
+2026.10.25/www.cnews.ru/news/line/2026-01-14_timeweb_cloud_podtverdil_sootvetstvie : "Timeweb Cloud, a cloud provider for businesses, startups and independent developers, has passed the audit and confirmed the compliance of the cloud infrastructure of UZ-1 – the highest level of personal data protection. Now in the cloud of the provider it is possible to work with biometric and special categories of personal data, for example to place medical systems. This was reported by CNews representatives of Timeweb Cloud.
+The business will be able to work with sensitive data and not invest in the construction and maintenance of the IT infrastructure, which corresponds to 152-FZ “On personal data”. To do this, the provider provides cloud platform security, from servers in data centers to virtualization environments. The customer is building a protection system only within its virtual infrastructure. ", "“Companies can significantly save on creating a secure circuit using our infrastructure instead of purchasing expensive equipment. The Timeweb Cloud is protected by a complex of tools: from firewalls to traffic control systems and others. We are taking on a significant part of the work to ensure regulatory requirements,” said Sergey Naumov, CEO of Timeweb Cloud.
+In the cloud of the provider you can work with a large number of categories of personal data. The cloud infrastructure, which meets the requirements of the FSTEC, in particular, order No. 21, is at the heart.", 2026.10.25/www.kommersant.ru/doc/8636176 : "But Timeweb secured a dismissal of the lawsuit on appeal in October 2025. The court noted that according to the terms of the offer, hosting is understood not to store data, but to place and maintain the customer's information on the server. The contract provided for round-the-clock provision of services, but with exceptions - including in case of interference of third parties, the protection against DDoS attacks in the basic package of services was not included. The appeal also took into account the fact that the defendant “took all possible measures to eliminate the reasons for the break and resume the provision of services” – according to archived copies, the online resource “Sanata” earned a week after the failure.",
+2026.10.25/ntc.rkn.quest/t/%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D1%81%D0%B0%D0%B9%D1%82%D0%B0%D0%BC-%D0%B2-timeweb-%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D1%83-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/18856/18 : " Site access in Timeweb is periodically blocked from some customers
+Internet all censorship around the world" "Aug 2025", "According to the law, the provider is obliged in general all subscriber traffic to route to the TSPU.", " Aug 2025
+Yeah, just when people say they're opening up, is it like two DPIs went to bypass? What a fun coincidence. And I myself caught the TSPU bypass on Rostelecom, and at that moment the locks were suspicious of the 2021 model. (that is, yes, they were not switched off, but also did not update even according to the latest unloading of the RKN official)
+Not to mention that somewhere in 2021 I knew several providers whose DNS-level locks were only implemented. They also had to lock up since then to a normal level together with the installation of the TSPU?", " Aug 2025
+I'm not about now but about at all. It was necessary to make moments when the TSP clearly went to the bypass (even all the jellyfish opened, and in general the check was extensive at me) and at this moment there were no new blockages, only old, on the manner of 2021, although the bypass was in 23 or 24-th
+From what I have the opinion that provider blockages in most cases are not engaged since the TSPU appeared, if the provider is at all.
+But this is all off-top, initially discussed the floating blocking by the trigger of harmless sites on TimeWebe, and here's how such a floating one can be on the provider!!! No one told me DPI. If there are no addresses in the registry. Moreover, it is added that the blocking of this, to put it mildly global character, from different cities and providers, how can it be a joint of providers then? On this I have my 100 percent probability that it is only the TSPU blocking leave relevant.", "why only timeweb == so now a bunch of providers / regions of the same provider with very different filters :frowning:can it at all that the timeweb itself “broke” and instead of the route “prohibited” on the TSPU goes somewhere in 127.0.0.1", 2026.10.25/github.com/Sergei-thinker/vpn-setup : "⛔ DO NOT use Russian hosting: Aeza, VDSina, REG.RU, Timeweb - subordinate to Roskomnadzor and can block VPN on demand", 2026.10.25/lowendtalk.com/discussion/187635/list-of-vps-dedicated-server-network-censorship-in-russia : "July 2023": "Only all 6 ✅ mean that the network is free of censorship. You should prefer these kind of servers if you're looking for a VPN in Russia.", "Saint-Petersburg 	Timeweb Cloud 	Selectel 	✅ (8/8) 	✅ (8/8) 	✅ (8/8) 	✅ (8/8) 	❌ (0/8) 	❌ (0/8)" > "kinokrad.win (registry) 	meduza.io (registry)" blocked, 2026.10.25/https://amnezia.org/blog/amnezia-shutdown-digest-july-2026-russia : "The agency appeals to cleaning up the market, but on July 17 representatives of major players such as Yandex Cloud, VK Cloud, Timeweb, and Selectel warned that foreign clients — 5–15% of the total — would leave for less strict jurisdictions, and some sites would end up in the hands of fraudsters altogether. They propose a compromise — keeping a payment through a Russian bank as an identity verification.
+On July 23, representatives of the Ministry of Digital Development proposed that Russians install government SSL certificates themselves. According to the agency, foreign certificates could be revoked unexpectedly, and sites would display incorrectly. Note that the certificates proposed by the ministry allow government agencies to decrypt and substitute traffic.
+Website Owners Get Deanonymized
+Starting September 1, it will no longer be possible to get a domain in the .ru zone without registering the site through Gosuslugi due to the corresponding law taking effect." (Timeweb claims to adhere to Russian regulations and is partially controlled by russian government amd more increasingly so. They experienced a transition of company as liquidation as some LLC or so. I am uncertain. Their data on average IT.infrastructure is less secured than medical ones for being in a different tagged set of digital infrastructure, in which Timeweb lost some lawsuits with. The majority of holded lawsuits was about intellectual property.), 2026.10.25/whtop.com/top.10-web-hosting/country-ru : "NIC.ru / RU-CENTER is the public face of JSC "Regional Network Information Center", one of the oldest and best-known domain registrars and hosting providers in Russia. The company has been operating since around 2000, which gives them more than two decades of experience in domain, DNS and hosting infrastructure. They sit right at the heart of the Russian internet ecosystem, especially around .ru, .рф and .su domain zones, and handle domain portfolios for a large number of corporate customers alongside individual site owners." (Being at heart of russian internet means being mostly the target of russian government. Them supplying most .ru-domains makes them target at Russian restrictive laws more.),
+2026.10.25/https://www.indexoncensorship.org/2013/11/russia-censored-autumn-2013/ : 22 Nov 2013: "On 6 September it was announced that the central investigations directorate of the ministry of internal affairs in the Moscow Region had demanded that the website of Dozhd (Rain) TV channel be blocked for violation of Part 2 of the Criminal Code Article 282 (“incitement to hatred or hostility and humiliation of human dignity”). TV Dozhd is the country’s most popular online TV news channel and is relatively independent. The exact nature of the material deemed objectionable was not reported. The Ru-Center domain registrar confirmed the existence of the police request, but, since the request was filled out incorrectly, the TV channel website was not blocked. Interior ministry representatives subsequently denied the reports. The administration of Dozhd also stated that they had received no such orders from the ministry of internal affairs.", 2026.10.25/fbk.info/files/acf-internet-report-EN.pdf : p.8: "Before TSPU (pre-2021) became pervasive, Roskomnadzor mainly relied
+on a legal and administrative censorship stack: the centralized prohib-
+ited-sites registry, court and extra-judicial takedown orders, pressure
+on hosting providers and search engines, DNS manipulation, and simple
+ISP-level IP blocking.29 This model was often inconsistent across networks
+as implementation quality depended on the ISP, its equipment, and its will-
+ingness or ability to comply precisely.30
+The pre-TSPU model could still be disruptive, particularly for websites
+on dedicated IPs or with visible domains, but it had structural weaknesses.
+It was easier to evade with CDNs (Content Delivery Network), shared cloud
+infrastructure, domain changes, proxies, or VPNs, and it produced sub-
+stantial collateral damage when authorities tried to block large address
+ranges.31 Telegram’s resistance in 2018 is the clearest case, but the same
+weakness was seen in opposition projects more broadly.32", p.10: "2019 Sovereign Internet law made TSPU mandatory and put Roskom-
+nadzor in charge of supplying it. DGAP’s early analysis noted that the law
+required all ISPs to install TSPU and that Roskomnadzor would provide
+it free of charge, while giving the state centralized network-management
+powers in cases it defined as threats.
+Investigative reporting later filled in the procurement side. The Insider
+reported a 2020 contract phase worth 4.3 billion rubles and planned
+2022-2024 spending of 24.7 billion rubles for supply and operation,
+including EcoFilter DPI devices, Huawei servers, and other network com-
+ponents, with TSPU placed at junctions between operators and the wider
+internet.38
+Public reporting in 2024 and 2026 indicates that deployment became close
+to universal among major operators.", 2026.10.25/dl.acm.org/doi/epdf/10.1145/3517745.3561423 : p.1: "Russian private sector operators have also started to anticipate third- party disengagement: RU-CENTER, Russia’s leading registrar and hosting provider, advised customers “operating in sectors subject to international sanctions” to “purchase certificates by GlobalSign, a Japanese certification authority” [22].", "Russia has a long of history of trying to exert control over its domestic Internet,
+including requirements for domestic data storage and surveillance [4 ] and the ability,
+recently tested by communications regulator Roskomnadzor, to actively disconnect
+the country from the global Internet if needed.",
+https://www.eurozine.com/conventional-bedfellows-the-russian-propaganda-machine-and-the-western-far-right/ : "First, Cloudflare cancelled its contract with the neo-Nazi site, effectively taking it down, and then the Russian domain registrar company Ru-Center administered the coup de grâce by de-registering dailystormer.ru.";
+2026.10.25/whtop .com/top.10-web-hosting/country-ru : Nic.ru Moscow, RU and Timeweb Saint-petersburg, RU got 100& rating compared to Reg.ru, 2026.10.25/xiaojingliao.com/uploads/9/7/0/2/97024238/ccs20-stalens.pdf : p.7: "When it comes to DEA 2, from the registrar information of the
+PVDs, 3 providers were found offering domain registration service,
+GoDaddy, Hetzner Online GmbH and RU Center. Among them, only
+GoDaddy has protection in place to prevent one from claiming the
+domain not registered through his account. As a result, 38 PVDs that
+have a Zref pointing to GoDaddy turned out to be not exploitable,
+since they are all registered through GoDaddy. By running DEA 3 on
+all the providers, we observed that Domain.com stopped supporting
+the .ir domains, which leads to dropping 104 PVDs from our list.",
+p.8: "RU Center [67] Yes • ◦ ◦ 15/24" < "Affected?" Yes. DEA1? Yes., "Table 1: The study of DNS hosting providers where the ad-
+versary can make unauthorized claims on another party’s
+domain. (•: PVDs dropped; ◦: no PVDs dropped)" p.15: few domains on RU Center got hijacked., 2026.10.25/link.springer.com/content/pdf/10.1007/978-3-030-42855-6.pdf: p.127-129: "Introduction of Cyrillic domain
+addresses was a notable breakthrough after years of Latin script domination.
+The preparation and testing of the .рф domain started in 2007 by registrar RU
+center and proceeded as an application to ICANN. In January 2010, ICANN
+announced that the domain was one of the first four new non-Latin country
+code top-level domains to have passed the Fast Track String Evaluation and the
+domain became operational on May 13, 2010, with two websites: for the presi-
+dent of Russia and for the government of Russia. As of the moment of writing,
+the .ru domain is still approximately five times more popular than its Cyrillic
+counterpart. While the introduction of Cyrillic domain names could be seen
+(and framed) as an emancipatory move to decolonize the Internet (Leslie
+2012; Farivar 2011), so far it just implemented a higher level of Russian state
+influence that does not necessarily have an emancipatory agenda.
+Moreover, Russian government tried to forge alliances with China, Saudi
+Arabia, Egypt, and United Arab Emirates in order to promote a more central-
+ized and controlled vision for the global Internet, specifically trying to intro-
+duce global Internet governance at an International Telecommunications
+Union (ITU) conference in 2012. This attempt was unsuccessful given the
+opposition from most Western countries including the United States, whose
+representative insisted that the conference was not supposed to deal with the
+issue of internet governance or the fact that it was supposed to be carried out
+through ITU, because that would potentially open the door to content censor-
+ship (Fitzpatrick 2012). Even further, when Russian Minister of Communications
+Nikiforov provided remarks in Brazil’s NETmundial conference calling to hand
+over the power from ICANN to ITU in light of the Snowden revelations about
+American mass surveillance, his speech was not even included into the confer-
+ence documents. Even though several authoritarian countries are eager to
+7 CYBERCRIME AND PUNISHMENT: SECURITY, INFORMATION WAR…
+128
+support Russian proposals for a more regulated cyberspace, with the United
+States so far standing behind an “Internet Freedom” agenda (Price 2017), it is
+unlikely that Russian suggestions will be implemented. Moreover, Deputy
+Head of the Ministry of Digital Development, Communications and Mass
+Communications of the Russian Federation Aleksej Volin remarked during a
+MediaForum in Shanghai, that Russia and China are looking at creating “alter-
+native” social networks and messengers that would rival its Western analogues
+(RIA Novosti 2018) if Twitter, YouTube, and Facebook keep on filtering
+Russian and Chinese media out.
+7.6 concluSIon
+Cybersecurity à la Russe is marked by the authoritarian nature of the state that
+is primarily concerned by the question of regime survival. This logic motivates
+both external and internal double-pronged strategy of digital security, or, as
+Yatsyk succinctly puts it, “to hack abroad and ban at home” (Yatsyk 2018).
+While externally Russia enjoys an image of a cyber superpower, seemingly capa-
+ble of unseating heads of state, Russian government’s attempts at controlling
+the cyberspace have not been quite as successful yet; that is why the govern-
+ment relies not only on filtering content, but also on flooding the information
+space both at home and abroad. Governmental surveillance capabilities are
+much less formidable, and filtering content is not particularly effective as the
+recent struggle to ban Telegram showed. Current attempts by the Russian
+government at making Runet independent from foreign traffic are especially
+worrisome because without the reliance on the “servers in California,” the
+ones in Moscow can be switched off albeit with significant political and eco-
+nomic costs. In the end, using the Internet is a matter of national security,
+according to Putin:
+They [the Western intelligence agencies] are sitting there, it’s [the Internet] their
+invention. And everyone listens, sees and reads what you say, and accumulates
+defense information. And [once we have sovereign internet] they won’t.
+(Putin 2019)
+This chapter provided the overview of the digital security strategy in Putin’s
+Russia. The law that is supposed to isolate Runet is officially on “ensuring safe
+and sustainable functioning of the Internet” on the Russian territory, echoing
+digital security’s stated main concerns (Meduza 2019b). At the moment of
+writing, it seems that the main purpose of the Russian government is to emu-
+late the Chinese model and create the self-sustaining sovereign Runet that is
+independent of foreign infrastructure. This is in part motivated by the consid-
+erations of regime stability and the overwhelming perception in the Russian
+government that the Internet and social media could be used as a “crowbar”
+for regime change facilitating social mobilization of opposition groups. Viewing
+the Internet as a tool of criminals is not unique to Russian authorities but, at
+E. GAUFMAN
+129
+the same time, this perception leads to the continuous securitization of cyber-
+space in Russia and legitimizes acts of information war and cyberattacks.
+Moreover, existing difficulty in prosecuting digital security offences will likely
+leave alleged cybercrimes of Russian secret services without punishment.";
+non-GAFAMC websites inside autocracies:a
+
 claims: https://world.physio/sites/default/files/2021-02/AMC2020-Global_0.pdf : Germany and Austria denies direct access more than US.; 2025.11.27/cebm.net/covid-19/covid-cases-in-england-arent-rising-heres-why/ : 2020-08-02: "The potential for false-positives (those people without the disease who test positive) to drive the increase in community (Pillar 2) cases is substantial, particularly because the accuracy of the test and the detection of viable viruses within a community setting is unclear."; 2025.11.27/cebm.net/2020/09/should-covid-19-travel-quarantine-policy-be-based-on-apparent-new-case-rates/ : "reported case rates have a particular limitation: they are a statistic strongly influenced by testing policy."; 2025.11.27/healthevidence.org/view-article.aspx?a=efficacy-sars-cov2-vaccines-preventing-sars-cov-2-infection-systematic-review-52347 : SARS SRAS mistypo in their side.; 
 2025.11.27/healthevidence.org/view-article.aspx?a=effect-pre-covid-post-covid-vaccination-long-covid-systematic-review-meta-49777 : 2024 : 10/10 strength evidence that WHO's definition of Long-COVID substantially decreases life quality.; https://www.healthevidence.org/view-article.aspx?a=protect-long-term-care-facilities-pandemic-events-systematic-review-48796 : 2024 : 10/10 "Certainty of evidence (CoE) was assessed using GRADE.", "Although CoE of interventions was low or very low for most outcomes, the implementation of NPIs identified as potentially effective in this review often constitutes the sole viable option, particularly prior to the availability of vaccinations. Our evidence-gap map underscores the imperative for further research on several interventions. These gaps need to be addressed to prepare LTCFs for future pandemics." contradicts 2025.11.27/healthevidence.org/view-article.aspx?a=effect-pre-covid-post-covid-vaccination-long-covid-systematic-review-meta-49777 at vaccine effectiveness.; 
 2025.11.27/openpublichealthjournal.com/VOLUME/18/ELOCATOR/e18749445367433/ : "Non-pharmacological interventions (NPIs), also known as public health and social measures, have played a critical role in mitigating the spread of infectious diseases, particularly during the COVID-19 pandemic [6, 8]. These interventions include measures such as mask-wearing, hand disinfection, physical distancing, screening and isolating infected individuals, and improving ventilation systems in buildings to reduce airborne transmission [3, 9, 10]."
+claims:a
 
 About enlightenment-note:v
 [2026.08.03: https://www.american-buddha.com/mythofenlightenment.htm ; https://rictornorton.co.uk/though21.htm : Marquis de Sade being the most enlightened/progressive in their definition, person.];
