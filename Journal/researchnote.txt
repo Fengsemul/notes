@@ -141,7 +141,13 @@ From:	monocalibro
 Date:	August 3, 2011 09:38 am
 If someone derives "ultimate spiritual pleasure" from an iPad, they’re probably a hipster.
 And as a subject of modernity, they are completely hopeless.
-But anyone can serve as an object—even someone with a bottle."
+But anyone can serve as an object—even someone with a bottle.";
+2026.11.01/epoch.ai/publications/compute-trends?view=graph&tab=notable : "Of course, it would be infeasible for us to gather this data for all ML systems since 1950. Instead, we focus on milestone systems, based on the following criteria:
+
+    Clear importance: These are systems that have major historical influence, significantly improve on the state-of-the-art, or have over 1000 citations4
+    Relevance: We only include papers which include experimental results and a key machine learning component, and have a goal of pushing the existing state-of-the-art
+    Uniqueness: If another paper describing the same system is more influential, then the paper is excluded from our dataset
+" (This methodology remembers me of Charles Murray's approach to history.;
 Charles Murray's Human Accomplishment-note:a
 
 Sentiment API-note:v
