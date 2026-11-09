@@ -1011,6 +1011,7 @@ AI chat availability grey-zone:v
 2026.10.21/duckduckgo.com/?t=ffab&q=%22Chatbot+AI%22+alternatives&ia=web : https://topai.tools/alternatives/chatbot-ai : 2026.10.21/unlimitedai.org/chat/?uai_mode=chat&uai_model=chatgpt-6lun : I have to agree and character limit is there, yet if infinite quota is true, then I can compensate it.;
 2026.11.08/perplexity.ai when auto-blocking popup, although mouse-wheel-scrolling doesnt work.;
 2026.11.09/https://chatgpt.com/ : limited on both symbols taken and message limit on logout free tier. Many worked bypases were on YouTube.;
+2026.11.09/perchance.org/urv-ai-chat#/chat : Many texts can be pasted separately and send, yet as the Creator-Team stated, perchance's DeepSeek has limited context. When pasting too large, it gets locked.;
 AI chat availability grey-zone:a
 
 free AI chatbots:v
@@ -1030,7 +1031,7 @@ https://notegpt.io/ai-chat : 388 KB txt is too long.,
 2026.11.08/https://aifreeforever.com/chat/glm-5-3-flash but confuses code for resume, unless I change his skill to "document".;
 2026.11.09/https://app.unlimitedai.chat/ : 10000 characters
 2026.11.09/https://notrack.ai/chat : "8,000 characters (approximately 6,000–7,000 tokens)  NoTrack AI — https://notrack.ai/";
-
+2026.11.09/https://aiwithnorestrictions.com/chat : 4,000 characters.;
 free AI chatbots:a
 
 free AI generators:v
@@ -1038,9 +1039,6 @@ free AI generators:v
 2026.11.09/https://magiclight.ai/tools/free-unlimited-ai-video-generator/ ;
 free AI-geenrators:a
 
-about free AIs:v
-2026.11.09/https://www.reddit.com/r/PromptEngineering/comments/1s80pf6/you_dont_need_to_pay_for_ai_tools_right_now_heres/ : " ultrathink-art • 7mo ago  Solid list, but free tiers break down on chained requests specifically. It's not the message caps — those are obvious. Burst limits on 3+ sequential calls get throttled in ways that aren't documented, and you don't notice until you're mid-workflow at 11pm. 2"
-about free AIs:a
 
 use.ai-clones:v
 https://chatbot.app/gpt5-m , lorka.ai , chatday.ai
@@ -1072,12 +1070,16 @@ The only real lie is pretending to know what you don't. And I'm not going to do 
 "
 AI-helpers:a
 
+about free AIs:v
+2026.11.09/https://www.reddit.com/r/PromptEngineering/comments/1s80pf6/you_dont_need_to_pay_for_ai_tools_right_now_heres/ : " ultrathink-art • 7mo ago  Solid list, but free tiers break down on chained requests specifically. It's not the message caps — those are obvious. Burst limits on 3+ sequential calls get throttled in ways that aren't documented, and you don't notice until you're mid-workflow at 11pm. 2";
+2026.11.09/https://www.sigmabrowser.com/blog/best-unfiltered-ai-chats-that-answer-without-limits : "Sigma Browser is the best unfiltered AI for free usage. It combines unfiltered AI with full on-device execution. It’s built on the model Qwen 3.5 4B, which allows users to interact with AI without restrictions. And also without cloud processing.  This directly addresses one of the most widespread consumer concerns: according to Pew Research Center, 81% of consumers think the information collected by AI companies will be used in ways people are uncomfortable with (IAPP). Sigma’s AI runs locally. So your prompts, browsing context, and generated content stay on your device.  Sigma Browser gives users something real control and privacy. There’s no hidden optimization, no silent filtering, and no background data collection shaping the output. Sigma also brings everything into one place, so users don’t have to switch between tools or tabs. " (https://free.ai/ has only Qwen 3.5 and Qwen 3.5 Thinking for free, no account and I-restricted.);
+about free AIs:a
+
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
 DocShareAI generated link to ChatGPT and other models might not always work, and may stop working after a few link 
 uploads. In such a case, waiting for some time will make it work.";
 2026.07.27/chromewebstore.google.com/detail/memoryplugin-long-term-me/iaelpdacgkkhecjoojjgkhiengnbjacd/reviews ;
-2026.07.27/chromewebstore.google.com/detail/memoryplugin-long-term-me/iaelpdacgkkhecjoojjgkhiengnbjacd/reviews
 
 Bypass upload GPT:a
 
