@@ -623,6 +623,10 @@ Reynaldo Trujillo, graphic
 Like: instead of 203 years ago, should be 2 or 3 years ago "
 Robot-note:a
 
+predictive-note:v
+2026.11.09/https://www.nic.funet.fi/pub/doc/bible/texts/english/bible.info.gz : "CO1 14:40  Let all things be done decently and in order." (Assuming "decently" means deterministic as in consent to all actions, CO1 in bible might be on the deterministic, orderly, simple side. So the auth-right.)
+predictive-note:a
+
 AI-note:v
 2026.07.23/llm-stats.com/ ;
 [2026.07.23/https://openrouter.ai/discover ; https://www.together.ai/models ; https://www.layer3labs.io/ai-model-pricing ];
@@ -980,7 +984,7 @@ simple, low cost, and high longevity computer-note:v
 2026.10.19/freegpt.ai/chat : "Which computer-parts are the economically easiest and cheapest to produce from raw materials to finished system and has the highest inherent lifespans and can be build into a whole computer regardless if those parts were meant to fit or not?": "Padauk PMS150C (CPU)", "8KiB SPI SRAM (memory)", "2MiB NOR Flash (storage)", "Bypass capacitor 100nF (power)", "Piezoelectric buzzer (output)", "Resistive touch paper‑graphite (input)", "CR2032 coin battery (RTC/BIOS)", "Total BOM ≈ $1.49 derctuo.github.io. All parts can be soldered directly to each other without a motherboard, and the system will outperform a 1981 IBM PC in raw instruction throughput (≈ 24 MIPS).", "Padauk‑based system is not a general‑purpose desktop computer. Its capabilities are constrained by:      6 I/O pins (only 3 usable for SPI after VDD/VSS).     1–2 KB program memory (OTP, so fixed after programming).     8 KiB SRAM (tiny but sufficient for data buffers).     No operating system – runs a single bare‑metal loop.", "Nevertheless, it can perform:      Bit‑banged protocols – drive SPI, I²C, UART, even NTSC/PAL video (with external resistor ladder).     Simple control tasks – read a touch sensor, beep a buzzer, toggle LEDs.     Basic computation – integer arithmetic, lookup tables, looping.     Serial communication – talk to a modern PC via USB‑to‑serial adapter (using bit‑banged UART).  In practice, it’s best suited for embedded controller roles (e.g., a thermostat, a simple data logger, a toy keyboard). It cannot run Linux, browse the web, or edit documents. 2. Can their computing power be added up like a super‑cluster?  Yes, in theory. You can wire hundreds or thousands of these microcontrollers together to form a massively parallel cluster, similar to the 1986 Connection Machine (which had 64,000 simple processors). The key considerations:"
 simple, low cost, and high longevity computer-note:a
 
-AI chat availability-note:v
+large AI chat-note:v
 https://use.ai/?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw ;
 https://use.ai/is/deep-research : GPT 5.5 and https://use.ai/sl/deep-research : GPT 5.5 changes sometimes.;
 https://use.ai/deep-research?model=gpt-5.6&utm_match_type=e&utm_funnel=&partner=NS&id=YmluZ3xjcGN8V1ctRU5fQ2hhdEdQVF9EZXNrdG9wX1NlYXJjaHx8fHx8fHx8fHx8fHx8fHw : doesnt work.;
@@ -1000,15 +1004,16 @@ https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.10.20/chatjams.ai/?utm_source=iseoai.com takes large texts, but its weird and mostly unfinished. They claim to be GPT-6-Luna;
 2026.10.20/https://perchance.org/ai-story-generator Theres also a code-version. Uses cheap, different AIs each community-hosted on page and AI might change mid-convo. I am less sure abut the changing-aspect.; 
 2026.10.21/duckduckgo.com/?q="Chatbot+AI"+&t=ffab&ia=web : 2026.10.21/topai.tools/alternatives/chatbot-ai : 2026.10.21/chat100.ai/app : takes large text, yet can't code. Limited requests.;
-AI chat availability-note:a
+large AI chat-note:a
 
 AI chat availability grey-zone:v
 2026.10.21//meta.ai/prompt/f342ff2f-6012-460f-8e44-2647cad7faba can code 388 KB .txt, yet ask for birth year.;
 2026.10.21/duckduckgo.com/?t=ffab&q=%22Chatbot+AI%22+alternatives&ia=web : https://topai.tools/alternatives/chatbot-ai : 2026.10.21/unlimitedai.org/chat/?uai_mode=chat&uai_model=chatgpt-6lun : I have to agree and character limit is there, yet if infinite quota is true, then I can compensate it.;
-
+2026.11.08/perplexity.ai when auto-blocking popup, although mouse-wheel-scrolling doesnt work.;
+2026.11.09/https://chatgpt.com/ : limited on both symbols taken and message limit on logout free tier. Many worked bypases were on YouTube.;
 AI chat availability grey-zone:a
 
-AI chatbots:v
+free AI chatbots:v
 https://www.chatday.ai/chat : 1024 letters limited;
 https://chat.aichatapp.ai/es/landing-chat?utm_source=bing&utm_medium=cpc&utm_campaign=487140664&utm_term=ChatGPT&utm_adgroup=1234752834318169&utm_network=o&utm_device=c&utm_matchtype=e&utm_loc_physical_ms=146488&model=gpt-5-nano auto-limits large texts into 10000;
 https://notegpt.io/ai-chat : 388 KB txt is too long.,
@@ -1022,7 +1027,20 @@ https://notegpt.io/ai-chat : 388 KB txt is too long.,
 2026.10.20/https://tinywow.com/write/content-improver ;
 2026.10.21/similarweb.com/website/use.ai/competitors/ : https://www.chatday.ai/chat : 1024 max.;
 2026.10.21/hotbot.com/chat/fe146e61-6fa5-4108-ba53-ea142938e2cb . Too long. Just HotBot.;
-AI chatbots:a
+2026.11.08/https://aifreeforever.com/chat/glm-5-3-flash but confuses code for resume, unless I change his skill to "document".;
+2026.11.09/https://app.unlimitedai.chat/ : 10000 characters
+2026.11.09/https://notrack.ai/chat : "8,000 characters (approximately 6,000–7,000 tokens)  NoTrack AI — https://notrack.ai/";
+
+free AI chatbots:a
+
+free AI generators:v
+2026.11.09/https://raphael.app/ ;
+2026.11.09/https://magiclight.ai/tools/free-unlimited-ai-video-generator/ ;
+free AI-geenrators:a
+
+about free AIs:v
+2026.11.09/https://www.reddit.com/r/PromptEngineering/comments/1s80pf6/you_dont_need_to_pay_for_ai_tools_right_now_heres/ : " ultrathink-art • 7mo ago  Solid list, but free tiers break down on chained requests specifically. It's not the message caps — those are obvious. Burst limits on 3+ sequential calls get throttled in ways that aren't documented, and you don't notice until you're mid-workflow at 11pm. 2"
+about free AIs:a
 
 use.ai-clones:v
 https://chatbot.app/gpt5-m , lorka.ai , chatday.ai
