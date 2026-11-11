@@ -1337,7 +1337,7 @@ from 2026.11.01-02/https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/
 2026.11.01/hosting-checker.net/websites/questfinder.com : The Constant Company, LLC, 2026.11.01/whois.com/whois/questfinder.com : Registrar: GoDaddy.com, LLC, 2026.11.01/cyscan.io/scan/20e79dc2-a233-4cd8-9641-981e3a745aea : "Technology Stack Frameworks Not detected", 2026.11.01/whois.com/whois/domainr.com : Registrar: MarkMonitor Inc.;
 2026.11.01/whois.com/whois/vormweb.de : Name Servers: ns1.host-unlimited.de, ns2.host-unlimited.de, 2026.11.01/hosting-checker.net/websites/vormweb.de : Webserver: Logo of host-unlimited.de  Bieber IT GmbH, 2026.11.01/cyscan.io/scan/23e41bf1-5df5-4fba-a0c5-c0d5e15f77d5 : "Technology Stack Frameworks Not detected", 2026.11.01/who-hosts-this.com/Hosts/30216-Michael-Sebastian-Schinzel-trading-as-IP-Projects-GmbH--Co-KG;
 2026.11.02/pinboard.in : 100% LibreJS-workable, 2026.11.02/https://www.whois.com/whois/pinboard.in : Registrar: Gandi SAS, 2026.11.02/hosting-checker.net/websites/pinboard.in : Webserver : Hurricane Electric LLC, Nameservers: GANDI SAS, https://cyscan.io/scan/75a9f04a-3e56-4883-a0cf-7b8311fb6411 : "Technology Stack Frameworks Not detected", 2026.11.02/https://pinboard.in/recent/ : search by login, 2026.11.02/pinboard.in/tour/ : "There is no third party content of any kind on the site. No tracking, no ads, no Google Analytics, not even outside javascript.",;
-]
+]; 
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
 almost non-GAFAMC non-wp Domain triers:v
@@ -1516,7 +1516,8 @@ Google reCAPTCHA",
 WordPress";
 2026.11.01/https://www.whois.com/whois/encycloreader.org : Registrar: NameCheap, Inc. , 2026.11.01/https://cyscan.io/scan/89e7ea74-e3e7-4875-a7d2-d64e0f3e390e : "Technology Stack
 Frameworks jQuery Bootstrap Analytics Google Analytics";
-2026.11.01/cyscan.io/scan/51df30c8-3b5d-47ff-8bd9-6b3847ba0d4a : Technology Stack Frameworks Bootstrap Analytics Not detected CDN jsdelivr.net, 11	img	 google-play-badge.svg , 2026.11.01/websiteanalyzer.dev/results/t7zzj7 : "Third-party services Analytics Google Analytics Advertising Facebook Pixel Google Ads",
+2026.11.01/cyscan.io/scan/51df30c8-3b5d-47ff-8bd9-6b3847ba0d4a : Technology Stack Frameworks Bootstrap Analytics Not detected CDN jsdelivr.net, 11	img	 google-play-badge.svg , 2026.11.01/websiteanalyzer.dev/results/t7zzj7 : "Third-party services Analytics Google Analytics Advertising Facebook Pixel Google Ads";
+2026.11.11/https://www.google.com/search?client=firefox-b-d&channel=entpr&q=sourcehut.org+search : https://git.sr.ht/~technomancy/search : 2026.11.11/https://search.technomancy.us/ : 2026.11.11/cyscan.io/scan/3525eec1-e310-414b-a398-c5244fe5a5b1 : "Technology Stack Frameworks Not detected", 2026.11.11/websiteanalyzer.dev/results/x69ovo : "Limited analysis — Cloudflare challenge", 2026.11.11/hosting-checker.net/websites/search.technomancy.us : Outgoing Mailserver : Amazon.com, Inc., Nameservers: Cloudflare, Inc.
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
