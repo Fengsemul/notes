@@ -998,11 +998,11 @@ https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.09.05/use.ai demands pay now at 1. try.;
 2026.08.24/https://deepwiki.com/search/whats-22_48419251-8e70-4651-86c5-e5d3ddbb52ce?mode=deep max.: 50000;
 2026.09.06/https://www.chatgoat.ai/chat?conversationId=a021af3e8f3346ef9744d11b0cbc7d2b 2026.09.18 not anymore also because Prism-list changed Pro-AIs to paid, I think.;
-2026.10.19/https://tutorgpt.io/gpt-5-6 Luna with 388 KB text.;
-2026.10.19/gptonline.ai/chat-online/?prompt=Hi loads. ;
+2026.10.19/https://tutorgpt.io/gpt-5-6 Luna with 388 KB text. 10 tokens;
+2026.10.19/gptonline.ai/chat-online/?prompt=Hi loads. 5 / 5 requests left ;
 2026.10.19/aipure.ai/products/aifreebox-free-ai-tools : 2026.10.19/aifreebox.com/list/ai-text-generator worked with 388 KB text and coded. After asked "Which Gemini-version are you?" as "Email & Business Writing", they say they're "Gemini 3.8 Flash".;
 2026.10.19/chat.freedomgpt.com/ free 5 questions. It responded to  388 KB text, but badly by pointing out what GAFALink doesnt do.;
-2026.10.19/freegpt.ai/ respond to Googlelessx referred here as the "388 KB text" with a new, alternative, programming code.;
+2026.10.19/freegpt.ai/ respond to "Googlelessx" referred here as the "388 KB text" with a new, alternative, programming code. Question limited.;
 2026.10.19/aifreeforever.com/chat/gpt-5 took 388 KB .txt as 106 KB-Word.;
 2026.10.20/talkai.info/chat/ has Server-crashes at GPT-5, works in Gemini-2.5 Flash-Lite with large texts. Counts in requests.;
 2026.10.20/chatjams.ai/?utm_source=iseoai.com takes large texts, but its weird and mostly unfinished. They claim to be GPT-6-Luna;
@@ -1078,6 +1078,12 @@ about free AIs:v
 2026.11.09/https://www.reddit.com/r/PromptEngineering/comments/1s80pf6/you_dont_need_to_pay_for_ai_tools_right_now_heres/ : " ultrathink-art • 7mo ago  Solid list, but free tiers break down on chained requests specifically. It's not the message caps — those are obvious. Burst limits on 3+ sequential calls get throttled in ways that aren't documented, and you don't notice until you're mid-workflow at 11pm. 2";
 2026.11.09/https://www.sigmabrowser.com/blog/best-unfiltered-ai-chats-that-answer-without-limits : "Sigma Browser is the best unfiltered AI for free usage. It combines unfiltered AI with full on-device execution. It’s built on the model Qwen 3.5 4B, which allows users to interact with AI without restrictions. And also without cloud processing.  This directly addresses one of the most widespread consumer concerns: according to Pew Research Center, 81% of consumers think the information collected by AI companies will be used in ways people are uncomfortable with (IAPP). Sigma’s AI runs locally. So your prompts, browsing context, and generated content stay on your device.  Sigma Browser gives users something real control and privacy. There’s no hidden optimization, no silent filtering, and no background data collection shaping the output. Sigma also brings everything into one place, so users don’t have to switch between tools or tabs. " (https://free.ai/ has only Qwen 3.5 and Qwen 3.5 Thinking for free, no account and I-restricted.);
 about free AIs:a
+
+AI-replacement:v
+inspired by 2026.11.11/duck.ai/?chatID=fab3338e-9a28-4b90-9c51-8b0ad5f82cfb : "I’d call a program AI when its core behavior uses a learned model or an inference, search, or planning method to interpret inputs or make choices in a way that goes beyond applying a fixed formula. AI doesn’t have to be a chatbot—a classifier or chess-playing system can qualify. But a calculator, unit converter, sort function, regex tester, or random-number generator isn’t AI just because it’s useful or produces varied results.  Based on the description you quoted, prophecy10/notgpt sounds like a collection of ordinary deterministic utilities, not AI: 0/100 is reasonable.", ultimatefreetools.com/ : "
+10,000+    free online tools indexed, 40+    industries covered, 100%    human-checked listings, £0    cost, forever, no card
+Ultimate Free Tools is a human-curated directory of more than 10,000 genuinely free online tools"
+AI-replacement:a
 
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
