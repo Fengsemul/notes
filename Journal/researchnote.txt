@@ -2068,6 +2068,7 @@ Switzerland has an extremely reliable telecommunications network, with many inte
 electricity infrastructure is also of very good quality and reliability. Both of these elements are crucial to ensure data 
 accessibility.
 The Swiss climate is also favourable,with essential elements to cool the machines.";
+2026.11.11/wheresyoured.at/wheres-the-money/ : "Until recently, OpenAI exclusively used Microsoft's Azure services to train, host, and run its models, but recent changes to the deal means that OpenAI is now working with Oracle to build out further data centers to do so.";
 GAFAM-note:a
 
 Computer history-note:v
