@@ -1008,13 +1008,14 @@ https://use.ai/4ef63bcb-d1a8-4b6b-9022-40147d9a7c5d ;
 2026.10.20/chatjams.ai/?utm_source=iseoai.com takes large texts, but its weird and mostly unfinished. They claim to be GPT-6-Luna;
 2026.10.20/https://perchance.org/ai-story-generator Theres also a code-version. Uses cheap, different AIs each community-hosted on page and AI might change mid-convo. I am less sure abut the changing-aspect.; 
 2026.10.21/duckduckgo.com/?q="Chatbot+AI"+&t=ffab&ia=web : 2026.10.21/topai.tools/alternatives/chatbot-ai : 2026.10.21/chat100.ai/app : takes large text, yet can't code. Limited requests.;
+2026.11.13/https://www.quad.chat : 3 guest messages left today. It can take "rawlowweb.txt" with 2709 KB.;
 large AI chat-note:a
 
 AI chat availability grey-zone:v
 2026.10.21//meta.ai/prompt/f342ff2f-6012-460f-8e44-2647cad7faba can code 388 KB .txt, yet ask for birth year.;
 2026.10.21/duckduckgo.com/?t=ffab&q=%22Chatbot+AI%22+alternatives&ia=web : https://topai.tools/alternatives/chatbot-ai : 2026.10.21/unlimitedai.org/chat/?uai_mode=chat&uai_model=chatgpt-6lun : I have to agree and character limit is there, yet if infinite quota is true, then I can compensate it.;
 2026.11.08/perplexity.ai when auto-blocking popup, although mouse-wheel-scrolling doesnt work.;
-2026.11.09/https://chatgpt.com/ : limited on both symbols taken and message limit on logout free tier. Many worked bypases were on YouTube.;
+2026.11.09/https://chatgpt.com/ : limited on both symbols taken and message limit on logout free tier. Many worked bypasses were on YouTube.;
 2026.11.09/perchance.org/urv-ai-chat#/chat : Many texts can be pasted separately and send, yet as the Creator-Team stated, perchance's DeepSeek has limited context. When pasting too large, it gets locked.;
 AI chat availability grey-zone:a
 
@@ -1373,7 +1374,9 @@ https://methodfish.com/Articles/minifiers/docs/javascript-minifiers : "CSS and H
 Website tech-note:a
 
 Tech validator-note:v
-https://www.site24x7.com/tools/javascript-validator.html ; https://jshint.com/
+https://www.site24x7.com/tools/javascript-validator.html ; https://jshint.com/ ;
+https://codebeautify.org/cssvalidate is critical. ; https://www.cssportal.com/css-validator/ is informative.;
+
 Tech validator-note:a
 
 LeanSERP-Minimal-Filter: 2026.11.13: manifest.json : https://fastminify.com/en/minify-json ;
