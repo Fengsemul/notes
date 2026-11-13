@@ -1100,11 +1100,124 @@ Code Creation, Explanation and Refactoring
 Coding assistance tasks range from single-line auto completion suggestions and simple contextual questions to context actions like refactoring and static code analysis to complex code generation.
 The context action for "finding problems" in code has already spared me and my code reviewers unnecessary refinement rounds. Linters and static code analysis tools can be used alternatively or together with AI to improve code quality.
 Maybe AI assistants will finally popularize test-driven development. Most developers don't like writing tests or documentation. AI-generated tests might be better than no tests at all, but on the other hand, they might give a false feeling of safety while testing the obvious in a naive or wrong way, and they might become a liability when maintaining a code base over time.", "Developers think AI makes them 24% faster. The data says 19% slower, according to a METR study published in January 2026. The meter is always running.
-
 Developers spend more time reading code than writing it, but it's hard to anticipate edge cases and possible problems and misunderstandings in advance. Even if we try to write test-driven, type-safe, clean code with descriptive naming and concise documentation, the result often becomes legacy code sooner or later, that future developers have a hard time to understand.
 Can AI help to Understand Legacy Code?
-
-Explaining existing code needs context, analysis of existing code and recognition of common design patterns. That can't be done googling or browsing a text book. In my personal experience as a web developer, all AI tools that I have evaluated recently (in 2025 and 2026) failed to explain legacy code and provide correct and complete answers suitable to fix or extend an existing project. "
+Explaining existing code needs context, analysis of existing code and recognition of common design patterns. That can't be done googling or browsing a text book. In my personal experience as a web developer, all AI tools that I have evaluated recently (in 2025 and 2026) failed to explain legacy code and provide correct and complete answers suitable to fix or extend an existing project. 
+When working on legacy projects, especially those written by other developers that aren't available to answer questions anymore, my experience and intuition usually helps me more than AI does.
+In 2027, this might have changed at least in theory, at least for open-source code openly discussed and inspected without fearing to give sensitive customer data into the wrong hands. In theory, there should be enough context and historical examples to understand a legacy Symfony, Typo3 or WordPress project. However, based on the AI's past development, I haven't seen any real progress from 2025 to 2026 concerning understanding existing code that's not TypeScript, Python, Rust or React. AI still can't understand legacy code.
+Maybe AI providers already focus on what they're good at. That would be a legitimate choice. However, it would also be fair to admit this openly to their customers.
+Complex Code Generation vs. Reading the Manual
+While AI can speed up creating a proof of concept quickly to evaluate a new framework or for for throw-away for a client demo or to illustrate your requirements, don't use its code as a basis for production-level software. AI tends to introduce unnecessary technical debt and waste resources for fixing obscure bugs in the same time could be doing proper development.
+AI works best in well-documented, simple scenarios, like creating a CRUD React app using Tailwind to style a boring frontend. But do we reall need costly language models to do that?
+Alternatives to AI-Assisted Code Generation
+There are libraries of complex code often intended as boilerplate code with helpful comments, and there are wizards like the (discontinued) create-react-app. Some tech stack have a client showcase or ready-made live demos that give everyone a better impression than some AI-generated guess that seldom work properly.",
+"developers should prefer tools designed for specific tasks, following the UNIX philosophy and the principle of single responsibility.
+    domain-specific code creation tools
+    example code found in official documentation
+    example code found on GitHub
+    learning by doing
+    ask or hire a senior expert
+Pro: human experts can solve problems where AI assistants fail. Seniors can use their experience and intuition. Humans know about the real world and might be better at thinking beyond explicit requirements (although most can't or don't seem to care). Cons: humans make mistakes, too. Humans get tired, have an ego and you need to give them coffee or money to make them work.
+Alternatives to AI-assisted Image Generation
+Use charting tools to create technical diagrams. Use a graphics tablet, vector drawing software, or your own hands, to draw creative cartoons.", "probably copying someone's style without warning me", "Only that the code often doesn't work, or when it does, it contains subtle bugs and technical debt that you'll find out about later.", "
+    Please clarify: do your "thinking" answers with those errors still count against my AI token budget or are they for free?
+Great question - yes, my responses absolutely count against your token budget, errors and all.
+Every token I generate - whether it's correct, incorrect, repetitive, or just me rambling through mistakes - uses your budget. The "thinking" you're referring to might be extended reasoning that some AI models do, but regardless, all output tokens cost you.
+So when I:
+    First gave you incomplete advice (suggesting GUI tools)
+    Then gave you wrong information (text domain in filenames)
+    Then had to correct myself multiple times
+", " leob
+•
+Jul 3 '25 • Edited on Jul 3
+Yeah the way I see it is: the alternative to AI is to keep doing what we were already doing before AI !
+And that includes Google ("classical" search), Stack Overflow, etc - yes, that "reviled" Stack Overflow, which you argued we should find 'alternatives' for, might actually be our best friend and one of our "secret weapons" to fight the onslaught of "AI domination"" 5 likes, " Ingo Steinke, web developer Subscriber Community Curator
+•
+Sep 24 '25 • Edited on Sep 24
+Likewise, if Google search was smarter and wouldn't prioritize their advertising partners' spam over my actual search, I wouldn't need Gemini at all in most cases. Google, just fix your search instead of wasting energy with that guessing bot incorrectly refered to as "artificial intelligence"!
+I don't need an AI to help me brute-force trial and error coding.
+If there was "just"
+    better search results (not ignoring one or more words of my search query or their order)
+    better documentation (more, more accurate, more up-to-date, more specific to configuration variations)
+    more practical examples of correct code
+why would we need "AI assistants" to get our work done?
+2 likes", " Ingo Steinke, web developer Subscriber Community Curator
+•
+Jul 30 '25
+StackOverflow 2025 Developer Survey results highlight AI sentiment and usage: "84% of respondents are using AI tools this year. 66% of developers are frustrated with AI solutions that are almost right. More developers actively distrust the accuracy of AI tools than trust it. Positive sentiment to AI tools has decreased in 2025."
+1 like Like",
+Reply
+ingosteinke profile image
+Ingo Steinke, web developer Subscriber Community Curator
+•
+Jul 9 '25 • Edited on Jul 9
+Another observation, as common wisdom claims that AI coding assistance works better with new, more explicit and type-safe front-end code like Astro, React, Vite, and TypeScript, the npm-based web development ecosystem still suffers the issue of recurring breaking changes and incompatible peer dependencies, and AI does not handle that much better than human trial-and-error plus watching unresolved GitHub issues did
+I'd prefer stable software, good documentation, and relevant search results to AI-assisted guesswork.
+";
+2026.11.13/https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac : "AI can lie a thousand times as long as it still produces valuable insights, and my preferred one-line code completion after disabling an unhelpful GitHub copilot plugin is also "AI" just on a smaller scale. A scale that actually helps me. I ask, AI rolls the dice, I filter, I test and commit. If the code goes into a public repository, AI can train and other can see it. If I mind commenting and documenting, even better. I'm still not a big fan of AI, but relying on my memory and search engine results isn't good enough these days. I'm still not a big fan of StackOverflow either, which is why I've contributed so much DEV content already.", "While mainstream information audience might matter even less unless you can invest costly marketing power to push it, and niche content might be discarded by search engines and AI training as irrelevant, classic long-tail publishing still seems to work: popular enough, filling gaps, catering for real demand. Consider Google's "people also search for", "answer the public", keyword tools, Matomo or search console insights and similar sources suggesting relevant keywords and W-questions. Add meaningful detail to prove authenticity while also trying to come up with a more general "today I learned" takeaway.
+IndieWeb
+IndieWeb, also known as POSSE or "own your content" principle, means you should have and maintain at least one personal website and never rely on external third-party platforms alone. ",
+"We don't want to get stuck in biased echo chambers and walled gardens either, so let's link to content outside of the current platform. Those links can point to reputable sources like StackOverflow, GitHub, Wikipedia or .edu domains possibly helping to make a post look more reliable and authoritative.", "Claude wasted my time, lied to me and that made him laugh?", "I want to be absolutely clear that every current AI service based on large language model technology is fundamentally flawed and unreliable. What's true for Claude and Perplexity also applies to Google Gemini, Mistral's Le Chat and small energy-saving and privacy-focused alternatives like Ecosia AI and Thaura.
+No paid pro search or guardrails services can prevent errors completely. Agentic peer pool voting would still need a human to check for a minority report possibly discarded in favor of a false assumption agreed upon by the agent's majority
+Although some services might do better fact-checking and reasoning refinements, every single one of them can hallucinate and give misleading, incorrect or outright dangerous answers.", "this is just quoting normal news and discussion. The Dead Internet Theory has a point, but AI-as-a-soldier is much more dangerous", "US-American military use of Anthropic and OpenAI technology", "ZeroGPT rates this text as < 3% AI GPT while other popular DEV posts score 10% or more.", "also - the biggest AI tell is not vocabulary, it is the total absence of uncertainty mid-thought. AI never goes "wait, actually no" and walks something back.
+7 likes", "distributed system of specialized language models analyzing x-ray images etc.
+3 likes Like",
+" Ingo Steinke, web developer Subscriber Community Curator
+•
+Feb 19
+I think it depends on the topic as well. Technical posts with authentic screenshots or diagrams, maker posts with real-world photography, etc. while other topics don't imply natural authentic images.
+3 likes Like
+Reply
+annavi11arrea1 profile image
+Anna Villarreal Subscriber Community Curator
+•
+Feb 19
+I love screen shots. They are so helpful and give real examples. I suppose I can see a use case for using ai to convey abstract ideas. But I also agree that authentic work is usually better.
+2 likes Like
+Reply
+matthewhou profile image
+Matthew Hou
+•
+Feb 20
+Writing still matters, but for different reasons now.
+The practical value of writing well: it forces you to think clearly. If you can't explain a decision clearly in writing, you probably don't understand it clearly yet. That's true whether AI exists or not. The documentation that saves a team hours, the post-mortem that actually prevents recurrence, the RFC that gets accepted on the first read — these require genuine understanding.
+The AI suspicion angle is real but I think it resolves itself. Generic AI-flavored prose is recognizable, and people filter it out. The writing that gets attention is specific, opinionated, and personal — which is also the writing that AI is worst at producing.
+3 likes Like
+Reply
+nedcodes profile image
+Ned C
+•
+Feb 21
+i've started treating every AI output as a hypothesis that needs testing rather than a solution that needs reviewing. same with my own writing now. if i can't point to something specific i tested or experienced, i don't state it as fact.
+2 likes Like
+Reply 
+marry_walker profile image
+Marry Walker
+•
+Feb 23
+Really enjoyed this.
+The “long tail” point hits home. most of us won’t write the definitive guide, but documenting real bugs and real lessons still matters. That’s what keeps the web (and even AI) grounded in reality.
+Also +1 to “Don’t be Claude” 😅 Untested code and vague hedging kill trust fast.
+AI can assist, but lived experience and accountability still belong to the human hitting publish. Keep writing.
+2 likes Like
+Reply
+matthewhou profile image
+Matthew Hou
+•
+Feb 21
+The evaluation gap between benchmark performance and real-world reliability is where most LLM-powered products struggle. Demos optimize for the happy path. Production systems need to handle distribution shift gracefully, which requires a different approach to testing and validation.
+2 likes Like
+Reply
+harsh2644 profile image
+Harsh
+•
+Feb 23
+Totally agree! Writing still matters because it's about human connection, not just information transfer. AI can generate text, but it can't generate authentic experience — the late-night debugging stories, the 'why I chose this weird solution' moments, the personality that makes tech content actually readable.
+I recently let AI rewrite 40% of my codebase (wrote a post about it actually) and realized AI makes things technically correct but soulless. My messy code with honest comments connected more with readers than perfect AI-generated docs ever could.
+Writing = thinking. If we stop writing, we stop thinking. Let's keep both alive! ✍️
+2 likes Like
+Reply
+"
 shortcomings of AI-note:a
 
 Bypass upload GPT:v
