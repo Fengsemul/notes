@@ -1224,12 +1224,18 @@ Reply
 "
 shortcomings of AI-note:a
 
-AI coding-note:v
+Token spare-note:v
 2026.11.13/huggingface.co/spaces/microsoft/LLMLingua : "“up to 20x compression with minimal performance loss,”" ], markdify.com/ ;
 www.wearedevelopers.com/magazine/746-6-open-source-tools-to-reduce-your-token-usage : rtk: " 30-minute session using 110,000+ tokens is reduced to around 23,000, a saving of around 80%.", "benchmark showed a 65% average output reduction";
 www.reddit.com/r/ClaudeCode/comments/1sch7w3/i_found_a_few_new_ways_to_reduce_token_usage_by/ : "MCP that uses AST parsing, local embedding search using SQlite and session memory to save tokens by 50x. Its called codedrift - darshil3011/codedrift" ;
 www.reddit.com/r/AI_Agents/comments/1remock/wrote_a_practical_guide_on_reducing_token_usage/ , SymbolPeek MCP
-Ai coding-note:a
+Token spare-note:a
+
+Shortener-note:v
+2026.11.13/github.com/privatenumber/minification-benchmarks/ : https://swc.rs/playground ; 
+https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj ;
+https://github.com/lydell/elm-minification-benchmarks : "If you use SWC with the settings from the Elm Guide, you seem to get about the smallest size in very little time."
+Shortener-note:a
 
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
@@ -1411,7 +1417,7 @@ unfinished search inside loudtechie.com/free-600-directory-submission-sites-list
 wikibooks, wikiquote, wikisource, wikispecies, wikiversity, wikivoyage, wikidata.org: 2026.09.27/www.cyscan.io/scan/9a9b7efa-e8f3-4489-bbab-8eeeec165cef : "Technology Stack Frameworks Vue.js jQuery Bootstrap", wikipedia, wiktionary, 
 https://commons.wikimedia.org/wiki/Main_Page works with 75% LibreJS-access. Except pictures. But popular. 2026.09.28/cyscan.io/scan/9e4ef7de-9b74-4324-9792-2e9c469dcdc9 : "Technology Stack Frameworks Vue.js jQuery Bootstrap";
 https://mwmbl.org/ 0% LibreJS-access. "Technology Frontend SvelteKit framework Svelte frontend UI / CSS Tailwind CSS ui Programming language Node.js language JavaScript language Web server Nginx", 2026.09.27/cyscan.io/scan/3b6496ff-3bf1-49db-896c-6153b051bbed : "Technology Stack Frameworks Svelte" politically biased by their 460.0 bytes-sized-.svg , 2026.10.25/news.ycombinator.com/item?id=49155492 : api.mwmbl.org ;
-https://vuhuv.com/?q=test 0% LibreJS-access. https://check-host.net/ip-info?host=https://vuhuv.com :  	"Vuhuv Telekomunikasyon A.S.", 2026.09.27/cyscan.io/scan/3302a615-d37f-4bbc-886f-06e04bdd20c9 : Technology Stack Frameworks Not detected, 2026.10.04/www.whois.com/whois/vuhuv.com : Registrar: OnlineNIC, Inc., "Registrant Contact Country: TR", Administrative, Technical, and Billing Contact Name: super im, 2026.10.04/hosting-checker.net/websites/vuhuv.com : Webserver, Mailserver, Nameservers: "Vuhuv Telekomunikasyon A.S.";
+https://vuhuv.com/?q=test 0% LibreJS-access. https://check-host.net/ip-info?host=https://vuhuv.com :  	"Vuhuv Telekomunikasyon A.S.", 2026.09.27/cyscan.io/scan/3302a615-d37f-4bbc-886f-06e04bdd20c9 : Technology Stack Frameworks Not detected, 2026.10.04/www.whois.com/whois/vuhuv.com : Registrar: OnlineNIC, Inc., "Registrant Contact Country: TR", Administrative, Technical, and Billing Contact Name: super im, 2026.10.04/hosting-checker.net/websites/vuhuv.com : Webserver, Mailserver, Nameservers: "Vuhuv Telekomunikasyon A.S.", 2026.11.13/https://github.com/mwmbl/mwmbl/blob/668129f78e26aca328c13d5130ae327b7652a2ee/test/test_super_search_xgb.py : """"Tests for the XGBoost contextual-bandit source model and the xgb policy."""", "# Encoding / training data";
 https://yacy.net/ seemingly 100% LibreJS. I need to download. Hosted by Hetzner. 2026.09.27/cyscan.io/scan/86efa63a-3c07-44d5-817f-d9a5b3425a52 : "Technology Stack Frameworks jQuery Bootstrap";
 https://www.bpb.de/ 5% LibreJS-access. Search engine doesnt work without nonfree-JS. Links at homepage does. But gov. 2026.09.27/cyscan.io/scan/455a7a3d-78c1-45d0-ae6b-514007e316cf : "Technology Stack Frameworks Vue.js";
 https://fr.wikimini.org/wiki/Accueil 90% : LibreJS-access  	Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org, wikinews, https://species.wikimedia.org/ , " CMS M MediaWikiv1.28.0, https://sv.wikimini.org/wiki/Huvudsida : 90% LibreJS-access, wikimini.org 0% LibreJS-access. hosted by Moresi.Com SA "addthis.com, wikimedia.ch, wikimedia.org" CMS M MediaWikiv1.28.0 But popular., 2026.09.28/cyscan.io/scan/cb65fe06-beed-4bdf-9191-123638083fcb : Technology Stack Frameworks jQuery Bootstrap, Analytics Matomo;
