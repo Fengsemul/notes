@@ -1082,8 +1082,14 @@ about free AIs:a
 AI-replacement:v
 inspired by 2026.11.11/duck.ai/?chatID=fab3338e-9a28-4b90-9c51-8b0ad5f82cfb : "I’d call a program AI when its core behavior uses a learned model or an inference, search, or planning method to interpret inputs or make choices in a way that goes beyond applying a fixed formula. AI doesn’t have to be a chatbot—a classifier or chess-playing system can qualify. But a calculator, unit converter, sort function, regex tester, or random-number generator isn’t AI just because it’s useful or produces varied results.  Based on the description you quoted, prophecy10/notgpt sounds like a collection of ordinary deterministic utilities, not AI: 0/100 is reasonable.", ultimatefreetools.com/ : "
 10,000+    free online tools indexed, 40+    industries covered, 100%    human-checked listings, £0    cost, forever, no card
-Ultimate Free Tools is a human-curated directory of more than 10,000 genuinely free online tools"
+Ultimate Free Tools is a human-curated directory of more than 10,000 genuinely free online tools" (One of them is broken. An AI one expects login and limited free usage. Thats why theres "Freemium"-tags.;
+2026.11.13/reddit.com/r/developersIndia/comments/1plfghi/domains_in_which_humans_are_better_than_ai_so/ : " Green-Tap-410 • 1y ago  I work for an insurance company. And let me tell you we get tracked for how much we are using copilot. It’s definitely useless for large code bases. But if the current work needs to make changes in 1-2 service files only, then AI is extremely accurate and fast."
 AI-replacement:a
+
+Humans better than AI-note:v
+2026.11.13/reddit.com/r/developersIndia/comments/1plfghi/domains_in_which_humans_are_better_than_ai_so/ : " Green-Tap-410 • 1y ago  I work for an insurance company. And let me tell you we get tracked for how much we are using copilot. It’s definitely useless for large code bases. But if the current work needs to make changes in 1-2 service files only, then AI is extremely accurate and fast.", "[deleted] • 1y ago Tax evasion and money laundering
+141", " a1001ku • 1y ago  The best answer I can give is that the newer the thing you're trying to do is, or the fewer people (and consequently lesser code there is online) there are doing it, the higher the chance that AI can't code in it decently. 16 "
+Humans better than AI-note:a
 
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
