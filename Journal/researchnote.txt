@@ -1372,6 +1372,13 @@ Website tech-note:v
 https://methodfish.com/Articles/minifiers/docs/javascript-minifiers : "CSS and HTML were arguably a little easier and needed little effort, but there are some things that need to be considered.";
 Website tech-note:a
 
+Tech validator-note:v
+https://www.site24x7.com/tools/javascript-validator.html ; https://jshint.com/
+Tech validator-note:a
+
+LeanSERP-Minimal-Filter: 2026.11.13: manifest.json : https://fastminify.com/en/minify-json ;
+background.js: https://swc.rs/playground : 1.16.22 : ES5 Mangle : https://www.site24x7.com/tools/javascript-validator.html : Line 22, Column 10: Too many errors. (1% scanned).
+
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
 DocShareAI generated link to ChatGPT and other models might not always work, and may stop working after a few link 
