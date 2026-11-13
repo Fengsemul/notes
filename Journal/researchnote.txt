@@ -1230,16 +1230,24 @@ www.wearedevelopers.com/magazine/746-6-open-source-tools-to-reduce-your-token-us
 www.reddit.com/r/ClaudeCode/comments/1sch7w3/i_found_a_few_new_ways_to_reduce_token_usage_by/ : "MCP that uses AST parsing, local embedding search using SQlite and session memory to save tokens by 50x. Its called codedrift - darshil3011/codedrift" ;
 www.reddit.com/r/AI_Agents/comments/1remock/wrote_a_practical_guide_on_reducing_token_usage/ ; SymbolPeek MCP;
 https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj ;
+https://toonformat.dev/guide/benchmarks.html : "TOON achieves 72.2% accuracy (vs JSON's 71.4%) while using 42.6% fewer tokens.";
 Token spare-note:a
 
 Shortener-note:v
-Js: 2026.11.13/github.com/privatenumber/minification-benchmarks/ : https://swc.rs/playground ; 
-html: github: https://j9t.github.io/minifier-benchmarks/#benchmarks : "HTML Minifier Most effective 	299 KB 	 −10.4% " (https://github.com/j9t/html-minifier : https://j9t.github.io/html-minifier/);
-https://github.com/maltsev/html-minifiers-benchmark : 22.2%, Avg. minify rate 		html-minifier-terser: 21.0% 	html-minifier-next (j9t/html-minifier) : 21.0% 	htmlnano : 22.2% 	minify: 11.4% 	minify-html: 11.4% 	swc-html: 11.9%;
+Js: 2026.11.13/github.com/privatenumber/minification-benchmarks/ : "Original size: 555.77 KB: 9. uglify-js 	🏆-53% 263.56 KB 	🏆-33% 87.02 KB", "@swc/core takes the crown — and it earned every carat.  Best gzip in four rounds: jquery, vue, three, and the 684-kilobyte echarts monster, where it took both the size win and the balance award — 321 KB in roughly half a second. "Most balanced" in nine of twelve rounds overall. And when it didn't win on size, it lost by a whisker: about ten bytes on react, a quarter of a kilobyte on victory, a single kilobyte on antd. All while the clock never turned ugly — 18 milliseconds on react, 653 at its heaviest timed lift.  The old artisan uglify-js actually collected more raw-size trophies — five — but look at the invoice. On lodash it shaved the same 74% as swc yet needed 1.4 seconds to swc's 46 milliseconds, thirty times slower for a half-kilobyte lead. On victory it spent 5.7 glacial seconds to win by a quarter of a kilobyte. And when the artifacts grew truly enormous — echarts, antd, typescript — the artisan quietly slipped off the podium entirely. swc, by contrast, surfaced in the highlights of eleven of twelve rounds.  Full honesty: this crown was razor-close. oxc-minify won the two biggest rounds of the season at roughly triple swc's pace, and on the typescript titan swc didn't crack the highlights at all. But across a full season, nobody paired near-perfect size with sane speed so relentlessly. Consistency over twelve rounds beat brilliance in three. The stewards' decision stands.", https://swc.rs/playground ; 
+https://minify-js.com/benchmarks/ : react v17.0.2 (Source)72.14 kB: uglify-js22.67 kB, moment v2.29.1 (Source)173.9 kB: uglify-js57.87 kB, jquery v3.5.1 (Source)287.63 kB: terser.no-compress	31.59 kB ;
+https://methodfish.com/Articles/minifiers/docs/javascript-minifiers : last changed Feb-2025: "Rodrigo54 								0.00058 	69.0% 	50.2% 	43.4%" ;
+https://evmar.github.io/js-min-bench/ : uglify has mostly fewer bytes and rarer as much as terser.; < https://github.com/evmar/js-min-bench :  7 years ago;
+https://bun.com/docs/bundler/minifier : "bundle sizes by 80% or more";
+html: github: https://j9t.github.io/minifier-benchmarks/#benchmarks sponsored by their benchmark-list-maker and creator of "j9t/html-minifier": "HTML Minifier Most effective 	299 KB 	 −10.4% " (https://github.com/j9t/html-minifier : https://j9t.github.io/html-minifier/);
+https://github.com/maltsev/html-minifiers-benchmark : 22.2%, Avg. minify rate: 		html-minifier-terser: 21.0% 	html-minifier-next (j9t/html-minifier) : 21.0% 	htmlnano : 22.2% 	minify: 11.4% 	minify-html: 11.4% 	swc-html: 11.9%;
 https://www.pkgpulse.com/guides/html-minifier-terser-vs-htmlnano-vs-minify-html-html-2026 : "html-minifier-terser is the most popular HTML minifier — feature-rich, handles inline CSS/JS, highly configurable fork of html-minifier. htmlnano is the modular HTML minifier — PostCSS-style plugin architecture, integrates with PostHTML, safe defaults, used by Parcel. minify-html is the Rust-based HTML minifier — blazing fast native performance, WASM and Node.js bindings, aggressive minification. In 2026: html-minifier-terser for maximum configurability, htmlnano for PostHTML/Parcel integration, minify-html for maximum speed.", htmlnano all checkmarks;
+https://webdevbelgium.wordpress.com/2026/08/30/what-is-the-best-web-page-minifier-in-2026/ : "HTML Minifier Next	Yes	4.51 ms	19.6%" > https://j9t.github.io/html-minifier-next/ ;
+https://methodfish.com/Articles/minifiers/html-minifiers : Written: Jun-2023: "PHPClasses/9865 						0.00062 	65.78%2", "2 ▾	This is computed based on the output without the <!DOCTYPE tag";
 css: https://goalsmashers.github.io/css-minification-benchmark/ : "Total - 3239017 bytes : csso - 5.0.2" (https://github.com/cssnano/cssnano > https://css.github.io/csso/csso.html" : 2278555 bytes ;
 netwell.digital/css-minifier-comparison : "input is 1139 bytes.": "1 cssminifier.com  758 bytes", "1 cssminifier.com  7632 Output rules	869734 Output bytes", "	minifycode.com 	3712 Output rules	503701 Output bytes", No csso, no cssnano.;
 https://cssnano.github.io/cssnano/ : "    325 bytes Minified (gzip, GNU zip)     177 bytes Difference     148 bytes Size Saved     54.46%";
+https://methodfish.com/Articles/minifiers/css-minifiers : Written: Jun-2023: "CSSTidy 				c 				0.01892	55.44%";
 mixed: https://sadevz.com/research/css-js-minification-benchmark : "Results: CSS (csso) CSS minification results Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Component stylesheet (card + buttons)	873	647	226	25.9% Reset + utility classes	336	257	79	23.5% Results: JavaScript, compress + mangle (Terser default) JS minification with mangling enabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module (debounce, formatBytes, Toast class)	1074	602	472	43.9% Form validation script	889	624	265	29.8% Results: JavaScript, compress only (mangling off) JS minification with mangling disabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module	1074	748	326	30.4% Form validation script	889	720	169	19.0%";
 https://github.com/lydell/elm-minification-benchmarks : "If you use SWC with the settings from the Elm Guide, you seem to get about the smallest size in very little time.";
 Google: https://dataverse.harvard.edu/file.xhtml?fileId=14343322&version=1.0&toolType=PREVIEW : README.md : "## Files
@@ -1281,7 +1289,7 @@ Files where every setting succeeded: 3 of 4. Before minification: 95,009 bytes, 
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | fastminify | default | 40,419 | 10,022 | 7,976 | not checked | 0.19 |
 | html-minifier-terser | collapse | 40,397 | 10,017 | 7,996 | not checked | 8.58 |
-| @minify-html/node | default | 36,990 | 9,882 | 8,078 | not checked | 0.76 |
+#1 | @minify-html/node | default | 36,990 | 9,882 | 8,078 | not checked | 0.76 |
 | htmlnano | safe | 40,560 | 10,152 | 8,310 | not checked | 6.87 |
 Files left out of the totals because one setting failed on them:
 | File | Tool | Settings | Raw bytes | Minified bytes | Gzip bytes | Brotli bytes | Median time (ms) or error |
@@ -1359,6 +1367,10 @@ https://github.com/kristian/minify-xml
 https://gitlab.gnome.org/GNOME/libxml2
 "
 Shortener-note:a
+
+Website tech-note:v
+https://methodfish.com/Articles/minifiers/docs/javascript-minifiers : "CSS and HTML were arguably a little easier and needed little effort, but there are some things that need to be considered.";
+Website tech-note:a
 
 Bypass upload GPT:v
 2026.07.25/www.reddit.com/r/ChatGPT/comments/1tqtf7f/simple_way_i_avoided_the_file_upload_limits/ : Uploading the 
