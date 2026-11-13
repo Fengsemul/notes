@@ -1228,19 +1228,136 @@ Token spare-note:v
 2026.11.13/huggingface.co/spaces/microsoft/LLMLingua : "“up to 20x compression with minimal performance loss,”" ], markdify.com/ ;
 www.wearedevelopers.com/magazine/746-6-open-source-tools-to-reduce-your-token-usage : rtk: " 30-minute session using 110,000+ tokens is reduced to around 23,000, a saving of around 80%.", "benchmark showed a 65% average output reduction";
 www.reddit.com/r/ClaudeCode/comments/1sch7w3/i_found_a_few_new_ways_to_reduce_token_usage_by/ : "MCP that uses AST parsing, local embedding search using SQlite and session memory to save tokens by 50x. Its called codedrift - darshil3011/codedrift" ;
-www.reddit.com/r/AI_Agents/comments/1remock/wrote_a_practical_guide_on_reducing_token_usage/ , SymbolPeek MCP
+www.reddit.com/r/AI_Agents/comments/1remock/wrote_a_practical_guide_on_reducing_token_usage/ ; SymbolPeek MCP;
+https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj ;
 Token spare-note:a
 
 Shortener-note:v
 Js: 2026.11.13/github.com/privatenumber/minification-benchmarks/ : https://swc.rs/playground ; 
-https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj ;
-html: github: https://j9t.github.io/minifier-benchmarks/#benchmarks : "HTML Minifier Most effective 	299 KB 	 −10.4% ";
-https://github.com/maltsev/html-minifiers-benchmark : htmlnano : 22.2%;
-https://www.pkgpulse.com/guides/html-minifier-terser-vs-htmlnano-vs-minify-html-html-2026 : htmlnano all checkmarks;
-css: https://goalsmashers.github.io/css-minification-benchmark/ : Total - 3239017 bytes : csso - 5.0.2 : 2278555 bytes ;
-netwell.digital/css-minifier-comparison : "1 cssminifier.com  758", "	minifycode.com 	3 712 	503 701"
+html: github: https://j9t.github.io/minifier-benchmarks/#benchmarks : "HTML Minifier Most effective 	299 KB 	 −10.4% " (https://github.com/j9t/html-minifier : https://j9t.github.io/html-minifier/);
+https://github.com/maltsev/html-minifiers-benchmark : 22.2%, Avg. minify rate 		html-minifier-terser: 21.0% 	html-minifier-next (j9t/html-minifier) : 21.0% 	htmlnano : 22.2% 	minify: 11.4% 	minify-html: 11.4% 	swc-html: 11.9%;
+https://www.pkgpulse.com/guides/html-minifier-terser-vs-htmlnano-vs-minify-html-html-2026 : "html-minifier-terser is the most popular HTML minifier — feature-rich, handles inline CSS/JS, highly configurable fork of html-minifier. htmlnano is the modular HTML minifier — PostCSS-style plugin architecture, integrates with PostHTML, safe defaults, used by Parcel. minify-html is the Rust-based HTML minifier — blazing fast native performance, WASM and Node.js bindings, aggressive minification. In 2026: html-minifier-terser for maximum configurability, htmlnano for PostHTML/Parcel integration, minify-html for maximum speed.", htmlnano all checkmarks;
+css: https://goalsmashers.github.io/css-minification-benchmark/ : "Total - 3239017 bytes : csso - 5.0.2" (https://github.com/cssnano/cssnano > https://css.github.io/csso/csso.html" : 2278555 bytes ;
+netwell.digital/css-minifier-comparison : "1 cssminifier.com  758", "	minifycode.com 	3 712 	503 701", No csso, no cssnano.;
+https://cssnano.github.io/cssnano/ : "    325 bytes Minified (gzip, GNU zip)     177 bytes Difference     148 bytes Size Saved     54.46%";
 mixed: https://sadevz.com/research/css-js-minification-benchmark : "Results: CSS (csso) CSS minification results Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Component stylesheet (card + buttons)	873	647	226	25.9% Reset + utility classes	336	257	79	23.5% Results: JavaScript, compress + mangle (Terser default) JS minification with mangling enabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module (debounce, formatBytes, Toast class)	1074	602	472	43.9% Form validation script	889	624	265	29.8% Results: JavaScript, compress only (mangling off) JS minification with mangling disabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module	1074	748	326	30.4% Form validation script	889	720	169	19.0%";
 https://github.com/lydell/elm-minification-benchmarks : "If you use SWC with the settings from the Elm Guide, you seem to get about the smallest size in very little time.";
+Google: https://dataverse.harvard.edu/file.xhtml?fileId=14343322&version=1.0&toolType=PREVIEW : README.md : "## Files
+| File | What it holds | Rows |
+| --- | --- | ---: |
+| results-2026-10.csv | One row per input file and tool setting | 10,705 |
+| tools-2026-10.csv | One row per tool setting, with the exact options passed to the tool | 27 |
+| corpus-2026-10.csv | One row per input file: source, version or commit, address, SHA-256, size, license | 2,669 |
+| run-2026-10.json | Machine, Node version, start and end time, timing rules | |
+| bench-2026-10.tar.gz | The scripts and pinned dependencies that produced the files | |
+| corpus-2026-10.tar.gz | The 2,669 input files, with the license and notice files of each source | |
+## Totals on this corpus
+Sums over the files of each language where every setting produced an output, so that each row covers the same files. A total says what happened on these files and nothing more: one large file can weigh more than all the others.
+### JavaScript (10 files)
+Files where every setting succeeded: 10 of 10. Before minification: 5,637,983 bytes, 1,142,675 with gzip, 899,755 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | normal | 1,791,240 | 553,972 | 473,648 | 0 | 4,332 |
+| fastminify | aggressive | 1,745,960 | 548,544 | 470,392 | 0 | 6,998 |
+| terser | default | 1,809,323 | 566,618 | 484,012 | 0 | 2,996 |
+| esbuild | minify | 1,821,841 | 581,392 | 499,257 | 0 | 202 |
+| @swc/core | minify | 1,788,075 | 562,698 | 481,088 | 0 | 424 |
+| oxc-minify | default | 1,794,251 | 565,060 | 484,670 | 0 | 106 |
+| uglify-js | default | 1,774,871 | 563,481 | 482,140 | 0 | 5,605 |
+### CSS (6 files)
+Files where every setting succeeded: 6 of 6. Before minification: 1,593,647 bytes, 161,522 with gzip, 106,426 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | normal | 1,356,056 | 149,919 | 97,886 | 0 | 127 |
+| fastminify | aggressive | 1,331,964 | 150,043 | 99,195 | 0 | 237 |
+| csso | default | 1,338,588 | 151,049 | 99,630 | 0 | 187 |
+| lightningcss | minify | 1,334,411 | 148,388 | 96,795 | 0 | 23 |
+| esbuild | minify | 1,361,244 | 150,829 | 98,545 | 0 | 39 |
+| cssnano | default | 1,312,942 | 150,567 | 99,293 | 0 | 424 |
+| clean-css | level1 | 1,357,854 | 150,573 | 98,533 | 0 | 96 |
+### HTML (4 files)
+Files where every setting succeeded: 3 of 4. Before minification: 95,009 bytes, 12,414 with gzip, 9,904 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | default | 40,419 | 10,022 | 7,976 | not checked | 0.19 |
+| html-minifier-terser | collapse | 40,397 | 10,017 | 7,996 | not checked | 8.58 |
+| @minify-html/node | default | 36,990 | 9,882 | 8,078 | not checked | 0.76 |
+| htmlnano | safe | 40,560 | 10,152 | 8,310 | not checked | 6.87 |
+Files left out of the totals because one setting failed on them:
+| File | Tool | Settings | Raw bytes | Minified bytes | Gzip bytes | Brotli bytes | Median time (ms) or error |
+| --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| whatwg-html-review-draft html-review-draft-2026-07.html | fastminify | default | 12,879,245 | 12,515,346 | 1,848,495 | 1,240,067 | 148 |
+| whatwg-html-review-draft html-review-draft-2026-07.html | html-minifier-terser | collapse | 12,879,245 | 13,107,063 | 1,876,414 | 1,249,525 | 1,367 |
+| whatwg-html-review-draft html-review-draft-2026-07.html | @minify-html/node | default | 12,879,245 |  |  |  | the tool crashed the Node process (SIGSEGV) on this file |
+| whatwg-html-review-draft html-review-draft-2026-07.html | htmlnano | safe | 12,879,245 | 12,545,492 | 1,858,579 | 1,245,913 | 823 |
+### JSON (6 files)
+Files where every setting succeeded: 6 of 6. Before minification: 14,199,411 bytes, 1,063,455 with gzip, 502,848 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | default | 7,747,070 | 756,768 | 423,574 | 0 | 116 |
+| jq | compact | 7,747,134 | 757,136 | 423,751 | 0 | 334 |
+### SVG (2,636 files)
+Files where every setting succeeded: 2,636 of 2,636. Before minification: 3,287,826 bytes, 1,426,008 with gzip, 1,245,324 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | safe | 3,223,186 | 1,409,873 | 1,231,373 | 0 | 170 |
+| fastminify | default | 3,203,404 | 1,402,303 | 1,225,083 | 0 | 1,179 |
+| fastminify | aggressive | 2,794,642 | 1,264,085 | 1,094,873 | 0 | 1,839 |
+| svgo | preset-default | 3,203,599 | 1,402,383 | 1,225,174 | 0 | 624 |
+### XML (7 files)
+Files where every setting succeeded: 7 of 7. Before minification: 796,582 bytes, 145,600 with gzip, 119,606 with brotli.
+| Tool | Settings | Minified bytes | Gzip bytes | Brotli bytes | Outputs that do not parse | Sum of median times (ms) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| fastminify | default | 615,165 | 117,143 | 97,256 | 0 | 3.79 |
+| minify-xml | default | 632,025 | 122,198 | 101,806 | 0 | 39 |
+| xmllint | noblanks | 703,848 | 141,684 | 116,890 | 0 | 24 |
+## Columns of results-2026-10.csv
+- `edition`: 2026-10.
+- `language`: js, css, html, json, svg or xml.
+- `source`, `source_version`, `file`: the npm package and version, the GitHub repository and commit, or the web page and its version, and the path of the file in it.
+- `file_sha256`: SHA-256 of the input file.
+- `tool`, `tool_version`, `settings_id`: the tool setting, described in the tools file. FastMinify rows give the commit of the FastMinify source they were built from.
+- `bytes_raw`, `bytes_raw_gzip`, `bytes_raw_brotli`: size of the input file, alone and compressed (gzip level 9, brotli quality 11, Node zlib).
+- `bytes_min`, `bytes_min_gzip`, `bytes_min_brotli`: size of the output, alone and compressed with the same settings.
+- `output_sha256`: SHA-256 of the output, to check a reproduction.
+- `output_valid`: `yes` when the output parses again (acorn for JavaScript, css-tree for CSS, JSON.parse for JSON, xmllint for SVG and XML), `no` when it does not, empty for HTML (no strict parser used).
+- `runs`, `duration_ms_median`, `duration_ms_min`: number of timed runs, then the median and the minimum time of one run in milliseconds. In-process tools are timed as a function call; jq and xmllint are timed as a new process, start included.
+- `error`: the tool's message when it refused the file; the size columns are then empty.
+## Method
+- Input files come from npm tarballs (integrity checked against the registry), from GitHub at a fixed commit and from a dated WHATWG review draft. Only files that are not already minified were chosen.
+- Each tool runs with the options written in the tools file, nothing else. A default means the tool's own default for this version.
+- Timing: 2 warm-up runs then 10 timed runs per file and tool; 1 warm-up and 3 timed runs when one run takes over 5 s; 1 and 1 over 30 s. Median and minimum in milliseconds, process.hrtime.bigint().
+- FastMinify rows run the FastMinify source code at commit e3e3ed8c3a85, built into one file with esbuild (bench/engines/fastminify-engines.mjs). FastMinify times cover the whole site function, including the checks it runs before minifying (a CSS syntax check, a JSON parse).
+- One machine, one run of the whole benchmark, from 2026-10-17T07:51:00.005Z to 2026-10-17T07:59:49.344Z.
+", tools-2026-10.csv : d"homepage
+https://fastminify.com/en/minify-js
+https://fastminify.com/en/minify-js
+https://terser.org/
+https://esbuild.github.io/
+https://swc.rs/
+https://oxc.rs/
+https://github.com/mishoo/UglifyJS
+https://fastminify.com/en/minify-css
+https://fastminify.com/en/minify-css
+https://github.com/css/csso
+https://lightningcss.dev/
+https://esbuild.github.io/
+https://cssnano.github.io/cssnano/
+https://github.com/clean-css/clean-css
+https://fastminify.com/en/minify-html
+https://github.com/terser/html-minifier-terser
+https://github.com/wilsonzlin/minify-html
+https://htmlnano.netlify.app/
+https://fastminify.com/en/minify-json
+https://jqlang.org/
+https://fastminify.com/en/optimize-svg
+https://fastminify.com/en/optimize-svg
+https://fastminify.com/en/optimize-svg
+https://svgo.dev/
+https://fastminify.com/en/minify-xml
+https://github.com/kristian/minify-xml
+https://gitlab.gnome.org/GNOME/libxml2
+"
 Shortener-note:a
 
 Bypass upload GPT:v
