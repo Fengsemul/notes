@@ -1232,11 +1232,15 @@ www.reddit.com/r/AI_Agents/comments/1remock/wrote_a_practical_guide_on_reducing_
 Token spare-note:a
 
 Shortener-note:v
-2026.11.13/github.com/privatenumber/minification-benchmarks/ : https://swc.rs/playground ; 
+Js: 2026.11.13/github.com/privatenumber/minification-benchmarks/ : https://swc.rs/playground ; 
 https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj ;
+html: github: https://j9t.github.io/minifier-benchmarks/#benchmarks : "HTML Minifier Most effective 	299 KB 	 −10.4% ";
+https://github.com/maltsev/html-minifiers-benchmark : htmlnano : 22.2%;
+https://www.pkgpulse.com/guides/html-minifier-terser-vs-htmlnano-vs-minify-html-html-2026 : htmlnano all checkmarks;
+css: https://goalsmashers.github.io/css-minification-benchmark/ : Total - 3239017 bytes : csso - 5.0.2 : 2278555 bytes ;
+netwell.digital/css-minifier-comparison : "1 cssminifier.com  758", "	minifycode.com 	3 712 	503 701"
+mixed: https://sadevz.com/research/css-js-minification-benchmark : "Results: CSS (csso) CSS minification results Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Component stylesheet (card + buttons)	873	647	226	25.9% Reset + utility classes	336	257	79	23.5% Results: JavaScript, compress + mangle (Terser default) JS minification with mangling enabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module (debounce, formatBytes, Toast class)	1074	602	472	43.9% Form validation script	889	624	265	29.8% Results: JavaScript, compress only (mangling off) JS minification with mangling disabled Sample	Original (bytes)	Minified (bytes)	Saved	Saved % Utility module	1074	748	326	30.4% Form validation script	889	720	169	19.0%";
 https://github.com/lydell/elm-minification-benchmarks : "If you use SWC with the settings from the Elm Guide, you seem to get about the smallest size in very little time.";
-https://goalsmashers.github.io/css-minification-benchmark/ : Total - 3239017 bytes : csso - 5.0.2 : 2278555 bytes ;
-github: https://j9t.github.io/minifier-benchmarks/#benchmarks : "HTML Minifier Most effective 	299 KB 	 −10.4% "
 Shortener-note:a
 
 Bypass upload GPT:v
@@ -2834,7 +2838,9 @@ Internet-note:a
 
 Internet info-note:v
 2026.11.13/netwell.digital/css-minifier-comparison > https://tectalic.com/wordpress/market-share/ > 2026.11.13/w3techs.com/technologies/overview/content_management : "32.3% of the websites use none of the content management systems that we monitor.
-WordPress is used by 39.2% of all the websites, that is a content management system market share of 57.9%.", "The following content management systems have a market share of less than 0.1%"
+WordPress is used by 39.2% of all the websites, that is a content management system market share of 57.9%.", "The following content management systems have a market share of less than 0.1%";
+< https://website.informer.com/domains/google.com ranking ; 2026.11.13/w3techs.com claims to aim to be the most reliable source about Internet and crawls unknown websites, but if crawled, it may not be live. ; < 2026.11.13/website.informer.com/domains/albafind.com : "you can reach the owner at 832742b1852bd5cdfa30543478bff3f9-a2571@contact.gandi.net" (More direct email-address-access.), "Creation Date
+1999-07-16T15:44:51Z" goes earlier than earliest web-archive at https://web.archive.org/web/20000619054413/http://www.albafind.com/ .;
 Internet info-note:a
 
 Internet popularity-note:v
