@@ -1630,7 +1630,7 @@ broken 2026.10.09/perfumecenter.com/ ;
 2026.11.02/nic.funet.fi/ : , 2026.11.02/https://www.whois.com/whois/funet.fi : registrar..........: CSC - Tieteen tietotekniikan keskus Oy , 2026.11.02/cyscan.io/scan/22d13f25-da0e-4acb-8a7a-300e84a6fabe : "Subject Alternative Names *.nic.funet.fi*.www.funet.fi ftp.funet.fi www.funet.fi nic.funet.fi*.ftp.funet.fi", (www.funet.fi as csc.fi has GAFAMC-service/s.), "Technology Stack Frameworks Not detected", 2026.11.02/hosting-checker.net/websites/nic.funet.fi : Webserver: Mailserver: "CSC - Tieteen tietotekniikan keskus Oy", Nameservers: CSC - Tieteen tietotekniikan keskus Oy, 2x CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet, SSL Certificate: Certificate Issuer & Root Certificate:  Organization     Hellenic Academic and Research Institutions CA ;
 2026.10.11/files.mpoli.fi : 2026.10.11/hosting-checker.net/websites/files.mpoli.fi : OVH SAS, 2026.10.11/whois.com/whois/mpoli.fi : Registrar: Multim Oy / Shellit.org , 2026.10.11/cyscan.io/scan/ccc76b62-fa32-4f36-8969-ecc4bfed5019 : Technology Stack Frameworks Not detected;
 2026.10.11/https://generaldirectory.biz/index.php?words=test&submit=Search&o=search : uBlock:"globalmediaserver.com, mediamaterials.com, xeroshoes.postaffiliatepro.com", 80% LibreJS: quite buggy at looking, but it works., 2026.10.11/websiteanalyzer.dev/results/uuspqw : Hosting Provider: HOST1, 2026.10.11/hosting-checker.net/websites/generaldirectory.biz : S-NET Sp. z o.o., 2026.10.11/whois.com/whois/generaldirectory.biz : Registrar: Key-Systems GmbH, 2026.10.11/cyscan.io/scan/eed3d3a1-6fc5-4602-8c93-38c6b733a567 : Subject sni-missing-or-domain-unknown.help.section.io, DOM Structure Forms:1 Hidden Inputs:33% Text/Code Ratio:15.0% Fingerprint: 00000000..., "Technology Stack Frameworks Not detected"
-https://generaldirectory.biz/directories,categ-417.htm to be continued.;
+https://generaldirectory.biz/directories,categ-417.htm to be continued., 2026.11.15/w3techs.com/sites/info/generaldirectory.biz : "SEO firendly directory with direct links. Submit your site today!";
 https://uruky.com/docs/search-engine-providers?il=en : "Uruky does not rely on a single search index. You choose an ordered list of web and image search providers in your settings. When you search, Uruky queries providers in that order; if one returns too few results, it tries the next, and so on.", "Uruky does not offer Generative AI/LLM-based features. We also cannot control how partners build their products or what tooling they use internally; our commitment is about Uruky's product surface and which API modes we call.", "If they do not return enough results (only Mojeek, Mwmbl, and Uruky Site Search report an exact total; for others we estimate)", "Uruky Site Search, EUSP, Mojeek, Marginalia, Mwmbl, OURRS, and Linkup (in the "fast" mode Uruky uses) use keyword matching.
 Serper and PriEco appear to use semantic search. "
 uruky.com :2026.10.25/cyscan.io/scan/0415d0b1-120a-4d18-9d4e-80e34078db08 :  "Technology Stack Frameworks Tailwind CSS", "1	img	 tor-browser-stable.svg 	1.5 KB	16ms", 2026.10.25/websiteanalyzer.dev/results/qoan9j , 2026.10.25/hosting-checker.net/websites/uruky.com . Webserver: Hetzner Online GmbH, 2026.10.25/whois.com/whois/uruky.com : Registrar: OVH sas;
@@ -1643,6 +1643,7 @@ from 2026.11.01-02/https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/
 2026.11.01/hosting-checker.net/websites/questfinder.com : The Constant Company, LLC, 2026.11.01/whois.com/whois/questfinder.com : Registrar: GoDaddy.com, LLC, 2026.11.01/cyscan.io/scan/20e79dc2-a233-4cd8-9641-981e3a745aea : "Technology Stack Frameworks Not detected", 2026.11.01/whois.com/whois/domainr.com : Registrar: MarkMonitor Inc.;
 2026.11.01/whois.com/whois/vormweb.de : Name Servers: ns1.host-unlimited.de, ns2.host-unlimited.de, 2026.11.01/hosting-checker.net/websites/vormweb.de : Webserver: Logo of host-unlimited.de  Bieber IT GmbH, 2026.11.01/cyscan.io/scan/23e41bf1-5df5-4fba-a0c5-c0d5e15f77d5 : "Technology Stack Frameworks Not detected", 2026.11.01/who-hosts-this.com/Hosts/30216-Michael-Sebastian-Schinzel-trading-as-IP-Projects-GmbH--Co-KG;
 2026.11.02/pinboard.in : 100% LibreJS-workable, 2026.11.02/https://www.whois.com/whois/pinboard.in : Registrar: Gandi SAS, 2026.11.02/hosting-checker.net/websites/pinboard.in : Webserver : Hurricane Electric LLC, Nameservers: GANDI SAS, https://cyscan.io/scan/75a9f04a-3e56-4883-a0cf-7b8311fb6411 : "Technology Stack Frameworks Not detected", 2026.11.02/https://pinboard.in/recent/ : search by login, 2026.11.02/pinboard.in/tour/ : "There is no third party content of any kind on the site. No tracking, no ads, no Google Analytics, not even outside javascript.",;
+2026.11.15/hackliberty.org : https://forum.hackliberty.org/search.html : 0% LibreJS at searching., 2026.11.15/https://cyscan.io/scan/4288bb9c-184b-4161-aaf0-5ff547fe80c0 : "prometheus.hackliberty.org", "reddit.pizzagate.hackliberty.org", "Technology Stack Frameworks Not detected", 2026.11.15/website.informer.com/domains/hackliberty.org%20:%20%22480.7K%20%20Global%20Rank%22,%201%20star, 2026.11.15/hosting-checker.net/websites/hackliberty.org : Webserver: Individual Network Berlin ("IN-Berlin") e.V., Nameserver: Materialism s.r.l., 2026.11.15/whois.com/whois/hackliberty.org : Registrar: Tucows Domains Inc.
 ]; 
 Search engines/directories who dont use GAFAMC & Wordpress directly:a
 
@@ -1860,7 +1861,8 @@ less mainstream, less government-related, non-Wordpress, non-broken, free, no lo
 GAFAMC-mailserver: ilor.com
 unmentioned from top 18 million hostnames ignoring TLD: affiliateprogramslocator.com, directorycodes.com (AI), smallerbizz.com, buysellin.co.uk,
 too small index: site-search.uruky.com
-careful: https://repology.org/ for being RUS.)
+careful: https://repology.org/ for being RUS.,
+without LibreJS: https://forum.hackliberty.org/search.html
 2026.10.19:
 https://txtlinks.com/
 https://info-listings.com/
@@ -1897,6 +1899,7 @@ site-search.uruky.com
 vormweb.de
 ilor.com
 pinboard.in
+hackliberty.org
 less mainstream, less government-related, non-Wordpress, relatively working, free, no login, non-GoDaddy, non-Alibaba, non-Tencent, non-Huawei, non-Akamai, relatively LibreJS-working, ignoring Mailservers and indirectly-GAFAMC-related search engines:a
 
 personally ejected non-GAFAMC-related search engines:v
