@@ -1535,7 +1535,12 @@ https://gridinsoft.com/online-virus-scanner/url/zairuc-com : "Domain Age 15 days
 https://bizglide.in/directory-submission-sites-list.php-note:a
 
 Virus-scanners:v
-[2026.11.16/https://alternativeto.net/software/virustotal/?p=1 and ?p=2 : https://hybrid-analysis.com ;  https://www.virustotal.com/ ; https://metadefender.com/ : 30 file uploads; 2026.11.16/https://free.drweb.com/for+web+sites/?lng=en ; https://polyswarm.network/  ; https://urlscan.io ; "urlquery.net is like a lie detector test for the internet. We ask those sneaky URLs some tough questions and see if they're telling the truth or pulling a digital prank."]
+2026.11.16/https://gridinsoft.com/online-virus-scanner/url/ ; [2026.11.16/https://alternativeto.net/software/virustotal/?
+p=1 and ?p=2 : https://hybrid-analysis.com ;  https://www.virustotal.com/ ; https://metadefender.com/ : 30 file uploads; 
+2026.11.16/https://free.drweb.com/for+web+sites/?lng=en ; https://polyswarm.network/  ; https://urlscan.io ; "urlquery.net 
+is like a lie detector test for the internet. We ask those sneaky URLs some tough questions and see if they're telling the 
+truth or pulling a digital prank."];
+[1 suspicious detected at webindex.org : 2026.11.16/https://urlquery.net/queue/eb52864c-50a6-427e-bde3-1a0e965bb376 ; https://www.virustotal.com/gui/url/9e20914981a90440abc3ee43286118fda64fabac8acdbd813f48a5709176bc90/detection ; https://hybrid-analysis.com/sample/98dfcf87f4bde5eb733438bc9a64803d11561e3c1d94f468c7862df7ef07fbd2 ; https://metadefender.com/results/file/bzI2MTExNjVhOUNZYkQ4NUhfeDhhZG5QcEc_mdaas/overview with the most : Adaptive Sandbox: 4 Threat Indicators., 2 Indicators of Compromise.]
 Virus-scanners:a
 
 Search engines/directories who dont use GAFAMC & Wordpress directly:v
@@ -1653,8 +1658,10 @@ from 2026.11.01-02/https://raw.githubusercontent.com/Fengsemul/notes/refs/heads/
 2026.11.01/whois.com/whois/vormweb.de : Name Servers: ns1.host-unlimited.de, ns2.host-unlimited.de, 2026.11.01/hosting-checker.net/websites/vormweb.de : Webserver: Logo of host-unlimited.de  Bieber IT GmbH, 2026.11.01/cyscan.io/scan/23e41bf1-5df5-4fba-a0c5-c0d5e15f77d5 : "Technology Stack Frameworks Not detected", 2026.11.01/who-hosts-this.com/Hosts/30216-Michael-Sebastian-Schinzel-trading-as-IP-Projects-GmbH--Co-KG;
 2026.11.02/pinboard.in : 100% LibreJS-workable, 2026.11.02/https://www.whois.com/whois/pinboard.in : Registrar: Gandi SAS, 2026.11.02/hosting-checker.net/websites/pinboard.in : Webserver : Hurricane Electric LLC, Nameservers: GANDI SAS, https://cyscan.io/scan/75a9f04a-3e56-4883-a0cf-7b8311fb6411 : "Technology Stack Frameworks Not detected", 2026.11.02/https://pinboard.in/recent/ : search by login, 2026.11.02/pinboard.in/tour/ : "There is no third party content of any kind on the site. No tracking, no ads, no Google Analytics, not even outside javascript.",;
 2026.11.15/hackliberty.org : https://forum.hackliberty.org/search.html : 0% LibreJS at searching., 2026.11.15/https://cyscan.io/scan/4288bb9c-184b-4161-aaf0-5ff547fe80c0 : "prometheus.hackliberty.org", "reddit.pizzagate.hackliberty.org", "Technology Stack Frameworks Not detected", 2026.11.15/website.informer.com/domains/hackliberty.org%20:%20%22480.7K%20%20Global%20Rank%22,%201%20star, 2026.11.15/hosting-checker.net/websites/hackliberty.org : Webserver: Individual Network Berlin ("IN-Berlin") e.V., Nameserver: Materialism s.r.l., 2026.11.15/whois.com/whois/hackliberty.org : Registrar: Tucows Domains Inc.;
-2026.11.26/webindex.org : 2026.11.16/https://website.informer.com/domains/webindex.org : "12.1K  Global Rank", 4 stars , 2026.11.16/cyscan.io/scan/aa3caccf-e4d3-4dbc-9e60-af7710bb6f8e : "Technology Stack Frameworks Not detected", 2026.11.16/radar.cloudflare.com/domains/domain/webindex.org : "Go Daddy Secure Certificate Authority - G2 GoDaddy.com, Inc.",;
+2026.11.26/webindex.org : 2026.11.16/https://website.informer.com/domains/webindex.org : "12.1K  Global Rank", 4 stars , 2026.11.16/cyscan.io/scan/aa3caccf-e4d3-4dbc-9e60-af7710bb6f8e : "Technology Stack Frameworks Not detected", 2026.11.16/radar.cloudflare.com/domains/domain/webindex.org : "Go Daddy Secure Certificate Authority - G2 GoDaddy.com, Inc.";
 ]; 
+[2026.11.16/https://l-lists.com/en/lists/qukoen.html%20:%20 : 2026.11.16/radar.cloudflare.com/domains/domain/sitedebusca.com : broken.;
+]
 [ 2026.11.15/submissionmonster.com/search-engine-list.php : http://www.faganfinder.com/#utilities : universalis.fr : https://www.universalis.fr/recherche/test/article/1/ 0% LibreJS "The connection was reset", Homepage 1% LibreJS, 2026.11.15/website.informer.com/domains/universalis.fr : 5 stars. " 15.8K  Global Rank 22.8K  Daily Visitors", 2026.11.15/w3techs.com/sites/info/universalis.fr : "Email Server	Microsoft", https://cyscan.io/scan/0c3d71fb-3f00-4ed2-afb5-9f5669bec716 : "Technology Stack Frameworks Vue.jsWix Analytics Matomo CDN Not detected CMS Wix" "fr-apple-touch-icon-57x57.png", https://hosting-checker.net/websites/universalis.fr : Outgoing Mailserver : Amazon.com, Inc., Microsoft Corporation, Nameservers: OVH SAS, 2026.11.15/whois.com/whois/universalis.fr : Registrar: OVH;
 2026.11.15/wikileaks.org : 2026.11.15/cyscan.io/scan/e3f62e8c-965a-4e75-bd64-b8428eaabd81 : "Technology Stack Frameworks Bootstrap", https://hosting-checker.net/websites/wikileaks.org : Webserver , Nameservers: Speedbone Internet & Connectivity GmbH , Scaleway SAS, https://www.whois.com/whois/wikileaks.org : Registrar: Dynadot Inc , https://website.informer.com/domains/wikileaks.org : " 2.6K  Global Rank 22.4K  Daily Visitors", 5 stars, "Owner  Kristinn Hrafnsson (Sunshine Press Productions ehf) Registar  Public Interest Registry ", "status  LEGACY", https://hypestat.com/info/wikileaks.org : Technologies used on WebsiteView more ⯈ UI frameworks Bootstrap Web Servers Nginx Reverse proxies Nginx Caching Varnish ; 
 2026.11.15/gutenberg.org : seemingly 100% LibreJS, 2026.11.15/w3techs.com/sites/info/gutenberg.org : "Web Hosting	Hetzner
@@ -1855,6 +1862,8 @@ Frameworks jQuery Bootstrap Analytics Google Analytics";
 2026.11.15/hypestat.com/info/re3data.org : "Security reCAPTCHA" from Google. ;
 2026.11.15/kvk.bibliothek.kit.edu/ : 2.5% LibreJS at loading at beginning, then 100% LibreJS., Technology Detector : "Character Encoding utf-8", cloudflare and google when https://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&ALL=test&TI=&AU=&CI=&ST=&PY=&SB=&SS=&PU=&hitLimit=&ref=direct&client-js=yes , HypeStat Analyzer: Technologies used on Website: Web Servers: Apache HTTP Server, Operating Systems: Ubuntu", https://website.informer.com/domains/kvk.bibliothek.kit.edu : "87.6K  Global Rank", 3.5 stars, "status: LEGACY", 2026.11.15//cyscan.io/scan/d436b026-3af8-4450-8d3b-82ea467ba700 : "Charset windows-1252", 2026.11.15/hosting-checker.net/websites/kvk.bibliothek.kit.edu : "Karlsruhe Institute of Technology";
 2026.11.16/website.informer.com/domains/cadal.edu.cn : " 336.7K  Global Rank 13.3K  Daily Visitors", 1 star, " Hosting Company  China Education and Research Network", "descr  China Education and Research Network", 2026.11.16/www.who-hosts-this.com/Hosts/2085-China-Education-and-Research-Network-Center, 2026.11.16/hosting-checker.net/websites/cadal.edu.cn : "IPv6 Support     Not Supported", Webserver: "China Education and Research Network Center", 2026.11.16/websiteanalyzer.dev/results/kzrlm2 : "Limited analysis — Cloudflare challenge", "Hosting Provider: CERNET";
+2026.11.16/https://l-lists.com/en/lists/qukoen.html%20:%20 : 
+2026.11.16/hosting-checker.net/websites/laiesken.net : Aruba S.p.A. , 2026.11.16/whois.com/whois/laiesken.net : Registrar: Tucows Domains Inc., 2026.11.16/cyscan.io/scan/81e64e66-5086-45b8-933c-d57faa4423aa : "Technology Stack Frameworks Not detected", "Charset windows-1252";
 incomplete-written black area:a
 
 Mail Servers ignored, less popular LibreJS Search engines/directories who dont use GAFAMC & Wordpress directly-List:v
@@ -3193,6 +3202,10 @@ Chrome to Firefox:a
 Experimental search engine-note:v
 from chrome-extension://oladmjdebphlnjjcnomfhhbfdldiimaf/pages/options/index.html#reddit : 2026.07.04/https://about.opnxng.com/blog/ : Google doesnt work on all instances. Degoog does but i dont know if its google.;
 Experimental search engine-note:a
+
+Useful search engines:v
+2026.11.16/l-lists.com/en/lists/qukoen.html : "316 	NerdyData 		A search engine that searches the source code of webpages rather than the visible webpage text. "
+Useful search engines:a
 
 Small web search engine:v
 2026.08.05/https://bojidar-bg.dev/blog/2025-06-03-small-web-explore/
